@@ -13,39 +13,20 @@ book:
   chapters:
   
     - index.qmd
-    - about-swamp.qmd
-    
-    - part: Culture
-      chapters:
-        - values.qmd
-        - codeofconduct.qmd
-        - expectations.qmd
-        - development.qmd
-    
-    - part: Administrative goodies
-      chapters: 
-        - onboarding.qmd
-        - travel.qmd
-        - training.qmd
-        - tech.qmd
-        - procurement.qmd
-        - offboarding.qmd
-    
-    - lifecycle.qmd
+    - about-oima.qmd
+    - map-guide.qmd
+    - layer-guide.qmd
     - contacts.qmd
     - contribute.qmd
-    - inspiration.qmd
-    - references.qmd
+   
     
   sidebar:
     style: "docked"
-    logo: "images/swamp-iq-logos.png"
+    logo: "images/WaterBoards_logo.png"
     # type: "light"
     # background: "#002151"
     # foreground: "light"
     border: true
-
-bibliography: references.bib
 
 format:
   html:
