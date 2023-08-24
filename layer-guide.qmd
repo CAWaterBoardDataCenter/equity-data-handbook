@@ -1,1 +1,93 @@
 # Layer Guide
+
+\[paragraph introducing what's on the page\]
+
+## Tribal Land Layers
+
+### Layer Name
+
+\[Brief description of what the layer shows\]
+
+\[image of layer\]
+
+\[Source Name with link to source\]
+
+### Layer Name
+
+\[Brief description of what the layer shows\]
+
+\[image of layer\]
+
+\[Source Name with link to source\]
+
+## CA Water Boards Layers
+
+### Layer Name
+
+\[Brief description of what the layer shows\]
+
+\[image of layer\]
+
+\[Source Name with link to source\]
+
+### Layer Name
+
+\[Brief description of what the layer shows\]
+
+\[image of layer\]
+
+\[Source Name with link to source\]
+
+## Environmental Data Layers
+
+### Layer Name
+
+\[Brief description of what the layer shows\]
+
+\[image of layer\]
+
+\[Source Name with link to source\]
+
+### Layer Name
+
+\[Brief description of what the layer shows\]
+
+\[image of layer\]
+
+\[Source Name with link to source\]
+
+## Environmental Justice Layers
+
+### Layer Name
+
+\[Brief description of what the layer shows\]
+
+\[image of layer\]
+
+\[Source Name with link to source\]
+
+### Layer Name
+
+\[Brief description of what the layer shows\]
+
+\[image of layer\]
+
+\[Source Name with link to source\]
+
+## Other State or Local Government Layers
+
+### Layer Name
+
+\[Brief description of what the layer shows\]
+
+\[image of layer\]
+
+\[Source Name with link to source\]
+
+### Layer Name
+
+\[Brief description of what the layer shows\]
+
+\[image of layer\]
+
+\[Source Name with link to source\]
