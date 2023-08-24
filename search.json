@@ -21,6 +21,48 @@
     "text": "1.2 Tribal Water Data Initiatives\nOIMA is committed to advancing equity, inclusion, and belonging in our work, our office, and at the Water Boards. Meaningful engagement and partnership with California Native American Tribes (tribes) is fundamental to this work.\nOIMA has begun to work with Tribal partners on a series of water data initiatives -- including the Tribal Water Data Map and this User Manual -- to build relationships and work together to better understand, streamline, and improve the interactions between Water Board data systems and those of our Tribal government partners.\nVisit our Tribal Water Data Initiatives website for information on other initiatives."
   },
   {
+    "objectID": "map-guide.html",
+    "href": "map-guide.html",
+    "title": "2  Map Guide",
+    "section": "",
+    "text": "[port over everything BYK drafted in the original user guide doc]"
+  },
+  {
+    "objectID": "layer-guide.html#tribal-land-layers",
+    "href": "layer-guide.html#tribal-land-layers",
+    "title": "3  Layer Guide",
+    "section": "3.1 Tribal Land Layers",
+    "text": "3.1 Tribal Land Layers\n\n3.1.1 Layer Name\n[Brief description of what the layer shows]\n[image of layer]\n[Source Name with link to source]\n\n\n3.1.2 Layer Name\n[Brief description of what the layer shows]\n[image of layer]\n[Source Name with link to source]"
+  },
+  {
+    "objectID": "layer-guide.html#ca-water-boards-layers",
+    "href": "layer-guide.html#ca-water-boards-layers",
+    "title": "3  Layer Guide",
+    "section": "3.2 CA Water Boards Layers",
+    "text": "3.2 CA Water Boards Layers\n\n3.2.1 Layer Name\n[Brief description of what the layer shows]\n[image of layer]\n[Source Name with link to source]\n\n\n3.2.2 Layer Name\n[Brief description of what the layer shows]\n[image of layer]\n[Source Name with link to source]"
+  },
+  {
+    "objectID": "layer-guide.html#environmental-data-layers",
+    "href": "layer-guide.html#environmental-data-layers",
+    "title": "3  Layer Guide",
+    "section": "3.3 Environmental Data Layers",
+    "text": "3.3 Environmental Data Layers\n\n3.3.1 Layer Name\n[Brief description of what the layer shows]\n[image of layer]\n[Source Name with link to source]\n\n\n3.3.2 Layer Name\n[Brief description of what the layer shows]\n[image of layer]\n[Source Name with link to source]"
+  },
+  {
+    "objectID": "layer-guide.html#environmental-justice-layers",
+    "href": "layer-guide.html#environmental-justice-layers",
+    "title": "3  Layer Guide",
+    "section": "3.4 Environmental Justice Layers",
+    "text": "3.4 Environmental Justice Layers\n\n3.4.1 Layer Name\n[Brief description of what the layer shows]\n[image of layer]\n[Source Name with link to source]\n\n\n3.4.2 Layer Name\n[Brief description of what the layer shows]\n[image of layer]\n[Source Name with link to source]"
+  },
+  {
+    "objectID": "layer-guide.html#other-state-or-local-government-layers",
+    "href": "layer-guide.html#other-state-or-local-government-layers",
+    "title": "3  Layer Guide",
+    "section": "3.5 Other State or Local Government Layers",
+    "text": "3.5 Other State or Local Government Layers\n\n3.5.1 Layer Name\n[Brief description of what the layer shows]\n[image of layer]\n[Source Name with link to source]\n\n\n3.5.2 Layer Name\n[Brief description of what the layer shows]\n[image of layer]\n[Source Name with link to source]"
+  },
+  {
     "objectID": "resources.html#websites",
     "href": "resources.html#websites",
     "title": "4  Resources",
