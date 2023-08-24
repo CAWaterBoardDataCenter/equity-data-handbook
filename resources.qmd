@@ -1,7 +1,4 @@
----
-title: "Resources"
-bibliography: references.bib
----
+# Resources
 
 Here you will find a curated list of documents, presentations, and other resources related to the implementation and scaling of Openscapes at the Water Boards.
 
