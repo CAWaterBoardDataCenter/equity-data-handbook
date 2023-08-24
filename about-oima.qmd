@@ -10,6 +10,6 @@ The California State Water Resources Control Board's ([State Water Board](https:
 
 OIMA is committed to [advancing equity](https://www.waterboards.ca.gov/racial_equity/resolution-and-actions.html), inclusion, and belonging in our work, our office, and at the Water Boards. Meaningful engagement and partnership with California Native American Tribes (tribes) is fundamental to this work.
 
-OIMA has begun to work with Tribal partners on a series of water data initiatives, including the [Tribal Water Data Map](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c1841907240e1a4d896c8cf2302a8) and this User Manual, to build relationships and work together to better understand, streamline, and improve the interactions between Water Board data systems and those of our Tribal government partners.
+OIMA has begun to work with Tribal partners on a series of water data initiatives \-- including the [Tribal Water Data Map](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c1841907240e1a4d896c8cf2302a8) and this [User Manual](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/) \-- to build relationships and work together to better understand, streamline, and improve the interactions between Water Board data systems and those of our Tribal government partners.
 
-Visit our [Tribal Water Data Initiatives](https://www.waterboards.ca.gov/resources/oima/tribal_water_data_initiatives/) website for more information on other initiatives.
+Visit our [Tribal Water Data Initiatives](https://www.waterboards.ca.gov/resources/oima/tribal_water_data_initiatives/) website for information on other initiatives.
