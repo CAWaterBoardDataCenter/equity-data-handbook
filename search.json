@@ -7,51 +7,44 @@
     "text": "Welcome!\nThis is an online user manual for the California Water Board’s Tribal Water Data Map (map), written by the California State Water Resources Control Board’s (State Water Board) Office of Information Management and Analysis (OIMA).\nThe purpose of the map is to increase awareness of access to the Water Board’s water data initiatives which intersect with Tribal matters and needs. The interactive map includes curated data that have been requested by and useful for California Native American Tribes (tribes).\nThe purpose of this User Manual is to provide guidance and context so it’s easier for all audiences to use the map. Content in this user manual includes curated information that members of the OIMA and our tribal partners have found helpful in using the map.\nThis Quarto book is an open, living, and continuously iterating resource. If you have suggestions for additions or revisions you think should be incorporated into this book, please follow the guidance provided in the Contributing chapter."
   },
   {
-    "objectID": "about-oima.html#overview-swamp",
-    "href": "about-oima.html#overview-swamp",
-    "title": "1  About SWAMP",
-    "section": "1.1 Overview: SWAMP",
-    "text": "1.1 Overview: SWAMP\nSWAMP sits within the Water Board’s Office of Information Management and Analysis (OIMA), which serves as an advocate for data management, a bridge between data collectors and users, as well as, provides transparency of the Water Board’s information management infrastructure.\n\nThe SWAMP mission is to provide resource managers, decision makers, and the public with timely, high-quality data, information and tools needed to evaluate the condition of all surface waters throughout California.\n\nSWAMP accomplishes this through carefully designed, externally reviewed statewide and regional surface water monitoring programs, and by assisting other entities state-wide in the generation of comparable data that can be brought together in integrated assessments that provide answers to current management questions. In addition to providing information and tools, SWAMP’s vision is to help enhance monitoring, assessment and reporting activities throughout the Water Boards.\nStatewide SWAMP Monitoring Programs include:\n\nBioaccumulation Monitoring Program\nBioassessment Program\nFreshwater and Estuarine HABs Program\nToxicology and Contaminants Program\n\n\n\n\n\n\n\nNote\n\n\n\nReminder to add icons and new links when ready"
+    "objectID": "about-oima.html#overview",
+    "href": "about-oima.html#overview",
+    "title": "1  About OIMA",
+    "section": "1.1 Overview",
+    "text": "1.1 Overview\nSWAMP sits within the Water Board’s Office of Information Management and Analysis (OIMA), which serves as an advocate for data management, a bridge between data collectors and users, as well as, provides transparency of the Water Board’s information management infrastructure.\n\nThe SWAMP mission is to provide resource managers, decision makers, and the public with timely, high-quality data, information and tools needed to evaluate the condition of all surface waters throughout California."
   },
   {
-    "objectID": "about-oima.html#overview-swamp-iq",
-    "href": "about-oima.html#overview-swamp-iq",
-    "title": "1  About SWAMP",
-    "section": "1.2 Overview: SWAMP IQ",
-    "text": "1.2 Overview: SWAMP IQ\n\nSWAMP IQ strives to promote question-driven monitoring, and to ensure the highest quality data is used to evaluate the health of California’s water bodies.\n\nSWAMP IQ assists ambient monitoring projects and programs throughout the state by offering resources that support each stage of water quality monitoring, from sample collection to data entry, as well as providing quality assurance review, verification, and data storage."
-  },
-  {
-    "objectID": "about-oima.html#swamp-resources",
-    "href": "about-oima.html#swamp-resources",
-    "title": "1  About SWAMP",
-    "section": "1.3 SWAMP Resources",
-    "text": "1.3 SWAMP Resources\n\n\n\nPurpose\nTitle & Weblink\n\n\n\n\nOverview of SWAMP\nSWAMP Website\n\n\nOverview of SWAMP IQ\nSWAMP IQ Website\n\n\nCurrent SWAMP program priorities and strategies\nSWAMP Strategic Action Plan, 2020-2023\n\n\nDetailed overview of SWAMP monitoring standards and requirements\nSWAMP Quality Assurance Program Plan (QAPP), 2022-2024\n\n\nOverview of OIMA\nOIMA Website\n\n\nStrategic actions to improve the way the Water Boards use data and information about CA water resources\nState Water Resources Control Board Strategic Data Action Plan (SDAP), draft\n\n\nProjects carried out in the SDAP\nState Water Resources Control Board SDAP, project portfolio summaries"
+    "objectID": "about-oima.html#resources",
+    "href": "about-oima.html#resources",
+    "title": "1  About OIMA",
+    "section": "1.2 Resources",
+    "text": "1.2 Resources\n\n\n\nPurpose\nTitle & Weblink\n\n\n\n\nOverview of SWAMP\nSWAMP Website\n\n\nOverview of SWAMP IQ\nSWAMP IQ Website\n\n\nCurrent SWAMP program priorities and strategies\nSWAMP Strategic Action Plan, 2020-2023\n\n\nDetailed overview of SWAMP monitoring standards and requirements\nSWAMP Quality Assurance Program Plan (QAPP), 2022-2024\n\n\nOverview of OIMA\nOIMA Website\n\n\nStrategic actions to improve the way the Water Boards use data and information about CA water resources\nState Water Resources Control Board Strategic Data Action Plan (SDAP), draft\n\n\nProjects carried out in the SDAP\nState Water Resources Control Board SDAP, project portfolio summaries"
   },
   {
     "objectID": "contacts.html#swamp-unit",
     "href": "contacts.html#swamp-unit",
-    "title": "4  Meet the SWAMP Team!",
+    "title": "4  Meet the Team!",
     "section": "4.1 SWAMP Unit",
     "text": "4.1 SWAMP Unit\n\n\n\n\n\n\n\n\nName\nTitle\nProgram Area(s)\n\n\n\n\nJosh Davenport\nStanford Fellow\nTribal Data Initiatives\n\n\nAli Dunn\nSenior Environmental Scientist, Supervisor, Unit Lead\nSWAMP Coordinator of statewide monitoring programs, plans and budgets\n\n\nAnna Holder\nEnvironmental Scientist\nSWAMP Statewide Bioaccumulation Program Coordinator\nData science, data visualization and programming (R [preferred], Python, Unix, SQL, GIS)\nScience communication\nOpenscapes\nTribal Coordinator\nRacial Equity Trainer\n\n\nLeah Brosseau\nCivicSpark Fellow\nTribal Data Initiatives\n\n\nMary Tappel\nEnvironmental Scientist\nWebpage updates\n\n\nMichelle Tang\nEnvironmental Scientist\nData science, data visualization and programming (JavaScript, Python)\n\n\nShuka Rastegarpour\nEnvironmental Scientist\nSWAMP Statewide Bioassessment Program Coordinator\n\n\nSydney Rilum\nCalifornia Sea Grant Fellow\nData science, data visualization (R)\nScience communication"
   },
   {
     "objectID": "contacts.html#swamp-iq",
     "href": "contacts.html#swamp-iq",
-    "title": "4  Meet the SWAMP Team!",
+    "title": "4  Meet the Team!",
     "section": "4.2 SWAMP IQ",
     "text": "4.2 SWAMP IQ\n\n\n\n\n\n\n\n\nName\nTitle\nProgram Area(s)\n\n\n\n\nTessa Fojut\nSenior Environmental Scientist, Supervisor, Unit Lead\nSWAMP Quality Assurance Officer\nDatabase Manager\n\n\nCandace Levesque\nEnvironmental Scientist\nBioassessment (algae) Data Manager\n\n\nCui (Scarlett) Li-Gherman\nScientific Aid\n\n\n\nDelany Broome\nEnvironmental Scientist\nChemistry Data Manager\n\n\nJennifer Salisbury\nEnvironmental Scientist\nTissue Data Manager\nCEDEN Vocabulary Manager\n\n\nKimberly Pham\nEnvironmental Scientist\nChemistry Data Manager\n\n\nLindsey Metz\nEnvironmental Scientist\nMicrobiology Data Manager\nData science, data visualization and programming (R)\n\n\nTony Gill\nEnvironmental Scientist\nToxicity Data Manager\nSPoT Program Coordinator\n\n\nToni Marshall\nEnvironmental Scientist\nBioassessment (benthic macroinvertebrates) Data Manager\n\n\n\nFor more information, visit the SWAMP IQ Wiki"
   },
   {
     "objectID": "contacts.html#oima",
     "href": "contacts.html#oima",
-    "title": "4  Meet the SWAMP Team!",
+    "title": "4  Meet the Team!",
     "section": "4.3 OIMA",
     "text": "4.3 OIMA\n\n\n\n\n\n\n\n\nName\nTitle\nProgram Area(s)\n\n\n\n\nCarly Nilson\nSenior Environmental Scientist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator\n\n\nChad Fearing\nAssociate Governmental Program Analyst\nContracts\n\n\nDevan Burke\nAssociate Governmental Program Analyst\nContracts\nOpenscapes\nRacial equity data projects and communication\n\n\nErick Burres\nSenior Environmental Scientist\nSWAMP Clean Water Team Coordinator\n\n\nMarisa VanDyke\nSenior Environmental Scientist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator"
   },
   {
     "objectID": "contacts.html#former-fellows-interns",
     "href": "contacts.html#former-fellows-interns",
-    "title": "4  Meet the SWAMP Team!",
+    "title": "4  Meet the Team!",
     "section": "4.4 Former Fellows & Interns",
     "text": "4.4 Former Fellows & Interns\n\n*Fellows who have been hired on at the Water Boards\n\n\n\n\n\n\n\n\nName\nTitle\nYear\nPrimary Project Area(s)\n\n\n\n\nBadhia Yunes Katz\nCivicSpark Fellow\n2023\nTribal Data Initiatives\n\n\nLindsey Metz*\nCalifornia Sea Grant Fellow\n2022\n\n\n\nGabriella Moran\nCivicSpark Fellow\n2022\nTribal Data Initiatives\n\n\nBrook Thompson\nStanford Fellow\n2021\nTribal Data Initiatives\n\n\nCorey Clatterbuck*\nCalifornia Sea Grant Fellow\n2021\nHealthy Watersheds\n\n\nRoss Cooper\nCalifornia Sea Grant Fellow\n2020\n\n\n\nMaraid Jimenez\nCivicSpark Fellow\n2020\nTribal Data Initiatives\n\n\nAnna Holder*\nCalifornia Sea Grant Fellow\n2019\n\n\n\nNicole Hack\nCalifornia Sea Grant Fellow\n2018"
   },
