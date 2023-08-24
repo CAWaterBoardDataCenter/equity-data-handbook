@@ -2,9 +2,9 @@ project:
   type: book
 
 book:
-  title: "SWAMP Manual"
-  author: "CA Surface Water Ambient Monitoring Program (SWAMP)"
-  date: "2023-02-03"
+  title: "User Manual for CA Water Board's Tribal Water Data Map"
+  author: "CA Water Board's Office of Information Management and Analysis (OIMA)"
+  date: "2023-08-24"
   search: true
   repo-url: https://github.com/CAWaterBoardDataCenter/swamp-manual
   repo-actions: [edit, issue]
