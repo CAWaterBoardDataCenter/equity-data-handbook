@@ -2,17 +2,25 @@
 
 ## Who can contribute
 
-Currently, only members of the SWAMP Team are able to actively contribute to this manual.
+Currently, only members of the OIMA Team are able to make *edits* to this User Manual and the Map, however we are always looking for feedback!
+
+::: callout-important
+## We want your feedback!
+
+If you have recommendations for improvement related to the Map or this User Manual you can send it to us by:
+
+-   Emailing Anna Holder at: [anna.holder\@waterboards.ca.gov](mailto:anna.holder@waterboards.ca.gov), OR
+
+-   Submitting a [GitHub Issue](https://github.com/CAWaterBoardDataCenter/tribal-water-data-map-manual/issues)
+:::
 
 ## How we contribute
 
-We develop the content for this SWAMP Manual using RStudio, build the book using [Quarto](https://quarto.org/) (via RStudio), and collaborate and publish using GitHub (also via RStudio).
-
-If you are *NOT* a member of the SWAMP Team, but have suggestions for additions or revisions you think should be incorporated into this book, please \[**TBD\].**
+We develop the content for this User Manual using RStudio, build the book using [Quarto](https://quarto.org/) (via RStudio), and collaborate and publish using GitHub (also via RStudio).
 
 ### Setup
 
-To contribute, SWAMP Team members must do the following, and it should only take about 20 minutes to complete:
+To contribute, OIMA Team members must do the following, and it should only take about 20 minutes to complete:
 
 1.  **Install R and RStudio**
 
