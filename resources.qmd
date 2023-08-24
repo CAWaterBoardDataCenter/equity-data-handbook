@@ -1,0 +1,38 @@
+---
+title: "Resources"
+bibliography: references.bib
+---
+
+Here you will find a curated list of documents, presentations, and other resources related to the implementation and scaling of Openscapes at the Water Boards.
+
+All Water Boards authors are **bolded** below.
+
+## Documents
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [California Water Boards Openscapes Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf). Feb 2022. **Greg Gearheart**, **Anna Holder**, **Corey Clatterbuck**, **Devan Burke**, **Tina Ures**.
+
+## Presentations
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [Openscapes Opportunities at the California Water Boards](https://drive.google.com/file/d/1TczxxmHrOX5EdrcCswSpMvRmsTNRWmRa/view?usp=share_link). Mar - Jun 2023. **Anna Holder**, **Corey Clatterbuck**, **Devan Burke**, **Tina Ures**. Internal Roundtable Presentations.
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [Openscapes Opportunities at the California Water Boards](https://drive.google.com/file/d/15pRC4ZwN_9jD_07-MLM5rqh8FMipsW1H/view?usp=share_link). Feb 2023. **Anna Holder**, **Corey Clatterbuck**, **Devan Burke**, **Tina Ures**. Internal Deputy Management Committee (DMC) Presentation.
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Better Science for Future Us: Openscapes stories and approaches for the Year of Open Science](https://2023januaryesipmeeting.sched.com/event/1EwXx). Jan 2023. Julia Lowndes, Erin Robinson, Ileana Fenwick, Adyan Rios, Josh London, **Corey Clatterbuck**, Luis Lopez, Cassandra Nickles. Earth Science Information Partners (ESIP) Meeting.
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Better Science for Future Us: Planning for the Year of Open Science](https://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science). Jan 2022. Julia Lowndes, Erin Robinson, Aaron Friesz, Ileana Fenwick, Amy Steiker, Eli Holmes, **Anna Holder**. Earth Science Information Partners (ESIP) Meeting.
+
+## Blog Posts
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [3 Approaches for the Year of Open Science](https://www.openscapes.org/blog/2023/03/16/esip-winter-2023/). Mar 16, 2023. **Corey Clatterbuck**, Ileana Fenwick, Josh London, Luis Lopez, Cassie Nickles, Adyan Rios, Stefanie Butland, Julie Lowndes, Erin Robinson.
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [Adapting the Champions Program for the California Water Boards](https://www.openscapes.org/blog/2022/12/02/swrcb-2022/). Dec 2, 2022. **Corey Clatterbuck**, **Anna Holder**.
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [3 Takeways for Planning for the Year of Open Science](https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/). Feb 17, 2022. Aaron Friesz, Ileana Fenwick, Eli Holmes, **Anna Holder**, Amy Steiker, Erin Robinson, Julia Lowndes.
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [California Water Board Mentor Perspectives](https://www.openscapes.org/blog/2021/12/07/california-waterboards-mentors/). Dec 7, 2021. **Anna Holder**, **Corey Clatterbuck**.
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [Identifying Common Approaches and Needs for Fisheries Dependent Data](https://www.openscapes.org/blog/2021/11/12/fdd-champions/). Nov 12, 2021. Gavin Fay, Andy Jones, **Anna Holder**, Julia Lowndes.
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [Strengthening Scientific Workflow and Team Collaboration at NOAA Fisheries](https://www.openscapes.org/blog/2021/11/12/noaa-nmfs-champions/). Nov 12, 2021. Eli Holmes, Eric Ward, Hélène Scalliet, **Corey Clatterbuck**, Julia Lowndes.
+
+Visit the Openscapes website to see all [Openscapes Blog Posts](https://www.openscapes.org/blog/)
