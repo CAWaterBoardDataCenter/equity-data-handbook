@@ -8,4 +8,4 @@ The purpose of this User Manual is to provide guidance and context so it's easie
 
 This [Quarto book](https://quarto.org/docs/books) is an open, living, and continuously iterating resource. If you have suggestions for additions or revisions you think should be incorporated into this book, please follow the guidance provided in the [Contributing](https://cawaterboarddatacenter.github.io/swamp-manual/contribute.html) chapter.
 
-![California Water Boards Logo](images/WaterBoards_logo.png){width="5in"}
+![](images/WaterBoards_logo.png){fig-alt="California Water Boards Logo" fig-align="left" width="5in"}
