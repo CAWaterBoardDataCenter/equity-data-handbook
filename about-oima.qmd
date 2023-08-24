@@ -2,19 +2,14 @@
 
 ## Overview
 
-SWAMP sits within the Water Board's Office of Information Management and Analysis (OIMA), which serves as an advocate for data management, a bridge between data collectors and users, as well as, provides transparency of the Water Board's information management infrastructure.
+The California State Water Resources Control Board's ([State Water Board](https://www.waterboards.ca.gov/)) Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)), serves as an advocate for data management, a bridge between data collectors and users, and provides transparency of the Water Board's information management infrastructure.
 
-> The SWAMP mission is to provide resource managers, decision makers, and the public with timely, high-quality data, information and tools needed to evaluate the condition of all surface waters throughout California.
+> OIMA's goal is to collaborate monitoring efforts, accurately analyze data, make our data easily accessible, and create visualizations and reports that make data understandable across all audiences.
 
+## Tribal Water Data Initiatives
 
-## Resources
+OIMA is committed to [advancing equity](https://www.waterboards.ca.gov/racial_equity/resolution-and-actions.html), inclusion, and belonging in our work, our office, and at the Water Boards. Meaningful engagement and partnership with California Native American Tribes (tribes) is fundamental to this work.
 
-| Purpose                                                                                                 | Title & Weblink                                                                                                                                                               |
-|------------------------------------------|------------------------------|
-| Overview of SWAMP                                                                                       | [SWAMP Website](https://www.waterboards.ca.gov/water_issues/programs/swamp/)                                                                                                  |
-| Overview of SWAMP IQ                                                                                    | [SWAMP IQ Website](https://www.waterboards.ca.gov/water_issues/programs/swamp/swamp_iq)                                                                                       |
-| Current SWAMP program priorities and strategies                                                         | [SWAMP Strategic Action Plan, 2020-2023](https://docs.google.com/document/d/1g08L8GUHdEMLCxNS1vppNEXobf4bYOmK/edit?usp=sharing&ouid=118425894617420506258&rtpof=true&sd=true) |
-| Detailed overview of SWAMP monitoring standards and requirements                                        | [SWAMP Quality Assurance Program Plan (QAPP), 2022-2024](https://docs.google.com/document/d/16QmALh0kkREJSKMvVb6fcKkLsWiAsiTAIJKfzpBRoPc/edit#heading=h.q961pnmk2sje)         |
-| Overview of OIMA                                                                                        | [OIMA Website](https://www.waterboards.ca.gov/resources/oima/)                                                                                                                |
-| Strategic actions to improve the way the Water Boards use data and information about CA water resources | State Water Resources Control Board [Strategic Data Action Plan (SDAP), draft](https://www.waterboards.ca.gov/resources/data_databases/docs/sdap_draft.pdf)                   |
-| Projects carried out in the SDAP                                                                        | State Water Resources Control Board [SDAP, project portfolio summaries](https://docs.google.com/document/d/1Kg0tzfRJljwsmFQ2Qyzt_rPW8CrXX3oKWO6myH3ECVo/edit?usp=sharing)     |
+OIMA has begun to work with Tribal partners on a series of water data initiatives, including the [Tribal Water Data Map](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c1841907240e1a4d896c8cf2302a8) and this User Manual, to build relationships and work together to better understand, streamline, and improve the interactions between Water Board data systems and those of our Tribal government partners.
+
+Visit our [Tribal Water Data Initiatives](https://www.waterboards.ca.gov/resources/oima/tribal_water_data_initiatives/) website for more information on other initiatives.
