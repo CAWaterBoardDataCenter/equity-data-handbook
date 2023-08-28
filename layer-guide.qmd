@@ -4,21 +4,21 @@
 
 ## Tribal Land Layers
 
-### Layer Name
+### Indigenous Territories
 
-\[Brief description of what the layer shows\]
+Layer displaying historic Indigenous Territories within California
 
-\[image of layer\]
+![](images/Screenshot 2023-08-28 at 9.42.50 AM.png)
 
-\[Source Name with link to source\]
+https://native-land.ca/
 
-### Layer Name
+### Tribal Census Tract 2021 CA
 
-\[Brief description of what the layer shows\]
+This layer shows Tribal areas identified by the [US Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2021&layergroup=American+Indian+Area+Geography)
 
-\[image of layer\]
+![](images/Screenshot 2023-08-28 at 9.47.37 AM.png)
 
-\[Source Name with link to source\]
+US Census Bureau, [https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2021&layergroup=American+Indian+Area+Geography](US Census)
 
 ## CA Water Boards Layers
 
