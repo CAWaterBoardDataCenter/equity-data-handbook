@@ -1,3 +1,53 @@
+# **Opening the Web Map**
+
+The[ link ](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=f5b1251a504f451b8462d6de2fc18f36)will take you to the main Portal of the map where you will find basic information like:
+
+-   **Map viewing options**; if you have ArcGIS Desktop installed on the computer you are working on, you can opt to open the map directly on the App, otherwise just **click on \"Open Map Viewer Classic\"** to open it.
+
+-   A description of the map that highlights the purpose and goals.
+
+-   Layer dictionary where you can click on each of the Layers and find out more detailed information, including its source.
+
+-   It isn\'t necessary, but if you have an account with ESRI, you can sign in. ![Graphical user interface, text, application, email
+
+    Description automatically generated](https://lh5.googleusercontent.com/10qrRRqm8aThMHUUYWgHzNZiUL0bsX7wis97q4EKVu5c_cqGhZljIbnebg-PQKKEEjJmvXrCwlSZ-2EIZy4LFkVZlb9A_APvrAj_k6pj9BGUsKHPDp7roNdAT8ToEk5l_JZ03bcS3h4gewJcrDeOEA){alt="Graphical user interface, text, application, email
+
+    Description automatically generated"}
+
 # Map Guide
 
-\[port over everything BYK drafted in the original [user guide doc](https://docs.google.com/document/d/1D_g5UxIN9avYZI5Xuy1d9bOIDRC4LFpI/edit?usp=sharing&ouid=117159529109751701858&rtpof=true&sd=true)\]
+-   On the left hand side you will see the legend of the layers, the blue outlines are the Regional Board Boundaries, and the different Indigenous Territories are color coded and defined on that menu.
+
+-   You can click on a map area of California to find out what Regional Board, or Indigenous Territory is there. The information will be shown in a pop-up menu.
+
+-   On this example, the right border of California was clicked and a pop-up showed that the area belongs to Regional 6 of the Regional Boards
+
+\
+![Map
+
+Description automatically generated](https://lh3.googleusercontent.com/nCZ4ESmiNEFQyBQirhbaMFRq7G1Lqd8tBbC3uM7edvgisSoeRu4aO5A6YLUHcWPOxwBS53TQn6tQbonCfMLrPWNafCocswbSui9hVy1T-o7KGf2GgwKllGgLSoX6OgNbON6l6nb_2K20TK8WTUELzQ){alt="Map
+
+Description automatically generated"}
+
+To see more information, and the rest of the layers, **go to the Content Tab** to see the rest of the Layers.
+
+![Graphical user interface, application, Word
+
+Description automatically generated](https://lh6.googleusercontent.com/0pbNhOXRIn5dqRx1QTw_O2G0ysefYd5UwxHjNMK-n8F8hcF_WBpIQF0_BGmrML8Cd6QgB85vEmIcPu42nhQtdHNwwByXCNhrgTuImMUWnu9WoFfhkIgzkRpkeV19-BWeq3fKc4zIuBM29XLFix9WCg){alt="Graphical user interface, application, Word
+
+Description automatically generated"}
+
+# **Displaying/removing View of Layers**
+
+-   On the Contents Pane menu, all the layers of the map will be listed (but not yet displayed)
+
+-   Only Regional Boards Boundaries and Indigenous Territories are displayed, and we can tell by the checked box to the left of the layer name ![Checkbox Checked with solid fill](https://lh6.googleusercontent.com/1oA_8C5-PAfwjey_IXHNpmSKE7EwzrzBiT0iqT0KKGG9gO33CIx0YtwcP67nFMtbXalY7jgmE8NrvU-Rwy8GMNvDQxJVIg0wYLCpZM_1piRAo5ABzmFvjaAPBrgB8mzNhyLXXK9rge9sBLjdKLNAJg){alt="Checkbox Checked with solid fill" width="28"}
+
+    ![](https://lh6.googleusercontent.com/LCa741yviXBryvX1Jg_srJjSP3saQzkX5LEiInnqXJ2VjBFaMAK9wmbU7AlmNGSoKYuXFuYxNbSImkJ4js5keo6IZIRz7XYXhgBLSCUASQTjSUNTTNepuzv93nwBn1EjhCJBzR9qcUnmH5dTca3W_w)
+
+# **Transparency**
+
+To change the transparency of the layers, hover over the layer you\'d like to change the transparency and click on the three dots on below the layer name, on the right ![](https://lh3.googleusercontent.com/GUWpVhbEvAhUle2Cq4pWdMxKWKEh4dQ_O8I7FJ10cXtcEY7zle8G_sjsrxXC58D65TZYC4tb8NYH_XHmdF_6lPiL0EAWxtYNsgUOhw4dLRS10rVBUTA9k_YyW9e_5R95-vgbYOnYhqVs3umpOQF2ew), select Transparency, and slide the button to the desired transparency, the more transparency, the less visible the layer will be.
+
+\
+![](https://lh3.googleusercontent.com/UxpIPRiJveAGU7v3hwjiW67nlD8r6dUr9I2Q_wNYTW9fC1RBo9syAmSiQiYisgMQ4PIcl37q1XaN2bn9b6UHZhJqDkez62ReRXTbkowTpwhdd0u_QcartpN0_8eZ7fLIbph0xpIyRLYlIx7TQi5TqQ)\
