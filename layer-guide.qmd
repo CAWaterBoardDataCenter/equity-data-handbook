@@ -8,7 +8,7 @@
 
 Layer displaying historic Indigenous Territories within California
 
-![](images/Indigenous Territories CA Layer.png)
+![](images/layer_indigenous-territories.png)
 
 https://native-land.ca/
 
@@ -16,7 +16,7 @@ https://native-land.ca/
 
 This layer shows Tribal areas identified by the [US Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2021&layergroup=American+Indian+Area+Geography)
 
-![](images/Tribal Census Tract 2021 CA Layer.png)
+![](images/layer_tribal-census-tract-2021.png)
 
 US Census Bureau, [https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2021&layergroup=American+Indian+Area+Geography](US%20Census)
 

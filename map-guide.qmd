@@ -10,7 +10,7 @@ The [link](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=f5b1251
 
 -   It isn't necessary, but if you have an account with ESRI, you can sign in.
 
-    ![](images/using_the_map.png)
+    ![](images/map-guide_open-map.png)
 
 # Map Guide
 
@@ -26,7 +26,7 @@ Do the following to navigate the map:
 
 -   If you're using a Mac with OS X 10.6 or later, you can use multitouch gestures by dragging two fingers to pan and zoom the map. The default behavior is to pan. To zoom in or out, press Shift while dragging two fingers toward you to zoom in or dragging two fingers away from you to zoom out.
 
-![](images/Example_map_using-01.png)
+![](images/map-guide_navigate-map.png)
 
 -   To collapse the Legend pane by clicking on the arrow on the upper-right corner of the menu ![Play with solid fill](https://lh4.googleusercontent.com/JUFNuicVxqB4Xe4m61EE55yl1fsKHaKgJzwTqhvI50-1u-g4HkhTDDL_F7cmungJIJE8LX1X18GpTaw3XOBvvi8lPUXWis4VV2SFbguNlyFaFGksuOtZSfnRbAbUhVJlbM1m3O4jsbCqw6fh4T2UPQ){alt="Play with solid fill" width="17"}
 
@@ -40,11 +40,11 @@ Do the following to navigate the map:
 
 -   On this example, the right border of California was clicked and a pop-up showed that the area belongs to Regional 6 of the Regional Boards
 
-![](images/Regional_board_boundaries.png)
+![](images/map-guide_navigate-layers.png)
 
 \*To see more information, and the rest of the layers, **go to the Content Tab** to see the rest of the Layers.
 
-![](images/Content_tab.png){width="167"}
+![](images/map-guide_content-tab.png){width="250"}
 
 # **Displaying/removing View of Layers**
 
@@ -52,11 +52,11 @@ Do the following to navigate the map:
 
 -   Only Regional Boards Boundaries and Indigenous Territories are displayed, and we can tell by the checked box to the left of the layer name ![Checkbox Checked with solid fill](https://lh6.googleusercontent.com/1oA_8C5-PAfwjey_IXHNpmSKE7EwzrzBiT0iqT0KKGG9gO33CIx0YtwcP67nFMtbXalY7jgmE8NrvU-Rwy8GMNvDQxJVIg0wYLCpZM_1piRAo5ABzmFvjaAPBrgB8mzNhyLXXK9rge9sBLjdKLNAJg){alt="Checkbox Checked with solid fill" width="28"}
 
-![](images/Navigating_layers-01.png)
+![](images/map-guide_content-pane.png)
 
 # **Transparency**
 
 To change the transparency of the layers, hover over the layer you'd like to change the transparency and click on the three dots on below the layer name, on the right ![](https://lh3.googleusercontent.com/GUWpVhbEvAhUle2Cq4pWdMxKWKEh4dQ_O8I7FJ10cXtcEY7zle8G_sjsrxXC58D65TZYC4tb8NYH_XHmdF_6lPiL0EAWxtYNsgUOhw4dLRS10rVBUTA9k_YyW9e_5R95-vgbYOnYhqVs3umpOQF2ew), select Transparency, and slide the button to the desired transparency, the more transparency, the less visible the layer will be.
 
-![](images/Transparency.png)\
+![](images/map-guide_transparency.png)\
 \
