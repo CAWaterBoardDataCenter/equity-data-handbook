@@ -20,7 +20,7 @@ Do the following to navigate the map:
 
 -   To zoom, use **Zoom in** and **Zoom out**, the mouse and wheel button, or press Shift + Plus Sign (zoom in) and Shift + Minus Sign (zoom out) on the keyboard. To zoom in, you can also press the Shift key while dragging a box on the map.
 
--   To go back to main view, press the house icon ![Home outline](https://lh3.googleusercontent.com/QvG7DSsQ6Esfj9xvjkNnStGMwkrGpni9gBSvQdv7GfB9pQJZQaZT_QSHQZmtG8CA7lolOlUKN8508g3bk95CpIBq6P2whPMWChQcPv6AuVccYSxXKlWewjNNHkOuU9BRhnXzuot2BZ_8WSMOHLG3Zg){alt="Home outline" width="19"}
+-   To go back to main view, press the house icon.
 
 -   To pan, use the mouse or the arrow keys on your keyboard. 
 
