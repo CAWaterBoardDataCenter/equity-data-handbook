@@ -58,5 +58,5 @@ Do the following to navigate the map:
 
 To change the transparency of the layers, hover over the layer you'd like to change the transparency and click on the three dots on below the layer name, on the right ![](https://lh3.googleusercontent.com/GUWpVhbEvAhUle2Cq4pWdMxKWKEh4dQ_O8I7FJ10cXtcEY7zle8G_sjsrxXC58D65TZYC4tb8NYH_XHmdF_6lPiL0EAWxtYNsgUOhw4dLRS10rVBUTA9k_YyW9e_5R95-vgbYOnYhqVs3umpOQF2ew), select Transparency, and slide the button to the desired transparency, the more transparency, the less visible the layer will be.
 
+![](images/Transparency.png)\
 \
-![](https://lh3.googleusercontent.com/UxpIPRiJveAGU7v3hwjiW67nlD8r6dUr9I2Q_wNYTW9fC1RBo9syAmSiQiYisgMQ4PIcl37q1XaN2bn9b6UHZhJqDkez62ReRXTbkowTpwhdd0u_QcartpN0_8eZ7fLIbph0xpIyRLYlIx7TQi5TqQ)\
