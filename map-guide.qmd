@@ -8,13 +8,31 @@ The [link](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=f5b1251
 
 -   Layer dictionary where you can click on each of the Layers and find out more detailed information, including its source.
 
--   It isn't necessary, but if you have an account with ESRI, you can sign in. \![Graphical user interface, text, application, email
+-   It isn't necessary, but if you have an account with ESRI, you can sign in.
 
-    Description automatically generated\](https://lh5.googleusercontent.com/10qrRRqm8aThMHUUYWgHzNZiUL0bsX7wis97q4EKVu5c_cqGhZljIbnebg-PQKKEEjJmvXrCwlSZ-2EIZy4LFkVZlb9A_APvrAj_k6pj9BGUsKHPDp7roNdAT8ToEk5l_JZ03bcS3h4gewJcrDeOEA){alt="Graphical user interface, text, application, email
-
-    Description automatically generated"}
+    ![](images/using_the_map.png)
 
 # Map Guide
+
+After you have clicked on Open Map Viewer Classic, the web map will open with two default layers being displayed: Regional Board Boundaries and Indigenous Territories
+
+Do the following to navigate the map:
+
+-   To zoom, use **Zoom in** and **Zoom out**, the mouse and wheel button, or press Shift + Plus Sign (zoom in) and Shift + Minus Sign (zoom out) on the keyboard. To zoom in, you can also press the Shift key while dragging a box on the map.
+
+-   To go back to main view, press the house icon ![Home outline](https://lh3.googleusercontent.com/QvG7DSsQ6Esfj9xvjkNnStGMwkrGpni9gBSvQdv7GfB9pQJZQaZT_QSHQZmtG8CA7lolOlUKN8508g3bk95CpIBq6P2whPMWChQcPv6AuVccYSxXKlWewjNNHkOuU9BRhnXzuot2BZ_8WSMOHLG3Zg){alt="Home outline" width="19"}
+
+-   To pan, use the mouse or the arrow keys on your keyboard. 
+
+-   If you're using a Mac with OS X 10.6 or later, you can use multitouch gestures by dragging two fingers to pan and zoom the map. The default behavior is to pan. To zoom in or out, press Shift while dragging two fingers toward you to zoom in or dragging two fingers away from you to zoom out.
+
+![](images/Example_map_using-01.png)
+
+-   To collapse the Legend pane by clicking on the arrow on the upper-right corner of the menu ![Play with solid fill](https://lh4.googleusercontent.com/JUFNuicVxqB4Xe4m61EE55yl1fsKHaKgJzwTqhvI50-1u-g4HkhTDDL_F7cmungJIJE8LX1X18GpTaw3XOBvvi8lPUXWis4VV2SFbguNlyFaFGksuOtZSfnRbAbUhVJlbM1m3O4jsbCqw6fh4T2UPQ){alt="Play with solid fill" width="17"}
+
+-   To expand the Legend pane, drag the points on the edge of right edge of the menu.
+
+# **Navigating layers**
 
 -   On the left hand side you will see the legend of the layers, the blue outlines are the Regional Board Boundaries, and the different Indigenous Territories are color coded and defined on that menu.
 
@@ -22,20 +40,11 @@ The [link](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=f5b1251
 
 -   On this example, the right border of California was clicked and a pop-up showed that the area belongs to Regional 6 of the Regional Boards
 
-\
-\![Map
+![](images/Regional_board_boundaries.png)
 
-Description automatically generated\](https://lh3.googleusercontent.com/nCZ4ESmiNEFQyBQirhbaMFRq7G1Lqd8tBbC3uM7edvgisSoeRu4aO5A6YLUHcWPOxwBS53TQn6tQbonCfMLrPWNafCocswbSui9hVy1T-o7KGf2GgwKllGgLSoX6OgNbON6l6nb_2K20TK8WTUELzQ){alt="Map
+\*To see more information, and the rest of the layers, **go to the Content Tab** to see the rest of the Layers.
 
-Description automatically generated"}
-
-To see more information, and the rest of the layers, **go to the Content Tab** to see the rest of the Layers.
-
-\![Graphical user interface, application, Word
-
-Description automatically generated\](https://lh6.googleusercontent.com/0pbNhOXRIn5dqRx1QTw_O2G0ysefYd5UwxHjNMK-n8F8hcF_WBpIQF0_BGmrML8Cd6QgB85vEmIcPu42nhQtdHNwwByXCNhrgTuImMUWnu9WoFfhkIgzkRpkeV19-BWeq3fKc4zIuBM29XLFix9WCg){alt="Graphical user interface, application, Word
-
-Description automatically generated"}
+![](images/Content_tab.png){width="167"}
 
 # **Displaying/removing View of Layers**
 
@@ -43,7 +52,7 @@ Description automatically generated"}
 
 -   Only Regional Boards Boundaries and Indigenous Territories are displayed, and we can tell by the checked box to the left of the layer name ![Checkbox Checked with solid fill](https://lh6.googleusercontent.com/1oA_8C5-PAfwjey_IXHNpmSKE7EwzrzBiT0iqT0KKGG9gO33CIx0YtwcP67nFMtbXalY7jgmE8NrvU-Rwy8GMNvDQxJVIg0wYLCpZM_1piRAo5ABzmFvjaAPBrgB8mzNhyLXXK9rge9sBLjdKLNAJg){alt="Checkbox Checked with solid fill" width="28"}
 
-    ![](https://lh6.googleusercontent.com/LCa741yviXBryvX1Jg_srJjSP3saQzkX5LEiInnqXJ2VjBFaMAK9wmbU7AlmNGSoKYuXFuYxNbSImkJ4js5keo6IZIRz7XYXhgBLSCUASQTjSUNTTNepuzv93nwBn1EjhCJBzR9qcUnmH5dTca3W_w)
+![](images/Navigating_layers-01.png)
 
 # **Transparency**
 
