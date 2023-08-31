@@ -1,4 +1,6 @@
-# **Opening the Web Map**
+# Map Guide
+
+## **Opening the Web Map**
 
 The [link](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=f5b1251a504f451b8462d6de2fc18f36) will take you to the main Portal of the map where you will find basic information like:
 
@@ -12,7 +14,7 @@ The [link](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=f5b1251
 
     ![](images/map-guide_open-map.png)
 
-# Map Guide
+## Navigating the Map
 
 After you have clicked on Open Map Viewer Classic, the web map will open with two default layers being displayed: Regional Board Boundaries and Indigenous Territories
 
@@ -32,7 +34,7 @@ Do the following to navigate the map:
 
 -   To expand the Legend pane, drag the points on the edge of right edge of the menu.
 
-# **Navigating layers**
+## **Navigating Layers**
 
 -   On the left hand side you will see the legend of the layers, the blue outlines are the Regional Board Boundaries, and the different Indigenous Territories are color coded and defined on that menu.
 
@@ -46,7 +48,7 @@ Do the following to navigate the map:
 
 ![](images/map-guide_content-tab.png){width="250"}
 
-# **Displaying/removing View of Layers**
+## **Displaying/removing View of Layers**
 
 -   On the Contents Pane menu, all the layers of the map will be listed (but not yet displayed)
 
@@ -54,7 +56,7 @@ Do the following to navigate the map:
 
 ![](images/map-guide_content-pane.png)
 
-# **Transparency**
+## **Adjusting Layer Transparency**
 
 To change the transparency of the layers, hover over the layer you'd like to change the transparency and click on the three dots on below the layer name, on the right, select Transparency, and slide the button to the desired transparency, the more transparency, the less visible the layer will be.
 
