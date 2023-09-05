@@ -16,23 +16,23 @@ The [link](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=f5b1251
 
 ## Navigating the Map
 
-After you have clicked on Open Map Viewer Classic, the web map will open with two default layers being displayed: Regional Board Boundaries and Indigenous Territories
+After you have clicked on Open Map Viewer Classic, the web map will open with two default layers being displayed: Regional Board Boundaries and Indigenous Territories.
 
 Do the following to navigate the map:
 
 -   To zoom, use **Zoom in** and **Zoom out**, the mouse and wheel button, or press Shift + Plus Sign (zoom in) and Shift + Minus Sign (zoom out) on the keyboard. To zoom in, you can also press the Shift key while dragging a box on the map.
 
--   To go back to main view, press the house icon.
+-   To go back to the main view, press the house icon.
 
 -   To pan, use the mouse or the arrow keys on your keyboard. 
 
--   If you're using a Mac with OS X 10.6 or later, you can use multitouch gestures by dragging two fingers to pan and zoom the map. The default behavior is to pan. To zoom in or out, press Shift while dragging two fingers toward you to zoom in or dragging two fingers away from you to zoom out.
+-   If you're using a Mac with OS X 10.6 or later, you can use multitouch gestures by dragging two fingers to pan and zoom the map. The default behavior is to pan. To zoom in or out, press Shift while dragging two fingers toward you to zoom in or dragging two fingers away from you to zoom out.
 
 ![](images/map-guide_navigate-map.png)
 
--   To collapse the Legend pane by clicking on the arrow on the upper-right corner of the menu.
+-   Collapse the Legend pane by clicking on the arrow on the upper-right corner of the menu.
 
--   To expand the Legend pane, drag the points on the edge of right edge of the menu.
+-   Expand the Legend pane by dragging the points on the edge of right edge of the menu.
 
 ## **Navigating Layers**
 
@@ -40,11 +40,11 @@ Do the following to navigate the map:
 
 -   You can click on a map area of California to find out what Regional Board, or Indigenous Territory is there. The information will be shown in a pop-up menu.
 
--   On this example, the right border of California was clicked and a pop-up showed that the area belongs to Regional 6 of the Regional Boards
+-   On this example, the right border of California was clicked and a pop-up showed that the area belongs to Region 6 of the Regional Boards.
 
 ![](images/map-guide_navigate-layers.png)
 
-\*To see more information, and the rest of the layers, **go to the Content Tab** to see the rest of the Layers.
+\*To see more information, and the rest of the layers, **go to the Content Tab**.
 
 ![](images/map-guide_content-tab.png){width="250"}
 
@@ -58,6 +58,14 @@ Do the following to navigate the map:
 
 ## **Adjusting Layer Transparency**
 
-To change the transparency of the layers, hover over the layer you'd like to change the transparency and click on the three dots on below the layer name, on the right, select Transparency, and slide the button to the desired transparency, the more transparency, the less visible the layer will be.
+To change the transparency of the layers:
+
+-   Hover over the layer you'd like to change the transparency.
+
+-   Click on the three dots on below the layer name, on the right.
+
+-   Select Transparency, and slide the button to the desired transparency.
+
+    The more transparency, the less visible the layer will be.
 
 ![](images/map-guide_transparency.png)
