@@ -32,7 +32,7 @@ The American Indian Reservations / Federally Recognized Tribal Entities dataset 
 
 ![](images/layer-guide_indian-lands-native-entities.png)
 
-Source: [Cal OES](https://calema.maps.arcgis.com/home/item.html?id=0b6c3f61f0c04168b2de56ac321ab76d)
+Source: [California Governor's Office of Emergency Services (Cal OES)](https://calema.maps.arcgis.com/home/item.html?id=0b6c3f61f0c04168b2de56ac321ab76d)
 
 ## CA Water Boards Layers
 
@@ -60,7 +60,7 @@ The Nine Regional Water Quality Control Boards in California The State Water Res
 
 ![](images/layer-guide_regional-board-boundaries.png)
 
-Source: [CA SWRCB](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/0)
+Source: [California State Water Resources Control Board (SWRCB)](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/0)
 
 ## Environmental Data Layers
 
@@ -100,7 +100,7 @@ Note, these are not the final assessments. 
 
 ![](images/layer-guide_intergrater-report-linear.png)
 
-Source: [CA SWRCB](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/5)
+Source: [California State Water Resources Control Board (SWRCB)](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/5)
 
 ### Integrated Report (non-linear) 2020-2022
 
@@ -138,7 +138,7 @@ Note, these are not the final assessments. 
 
 ![](images/layer-guide_integrated-report-non-linear.png)
 
-Source: [CA SWRCB](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/6)
+Source: [California State Water Resources Control Board (SWRCB)](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/6)
 
 ### CalEnviroScreen 4.0
 
@@ -148,7 +148,7 @@ CalEnviroScreen is a screening methodology that can be used to help identify Cal
 
 ![](images/layer-guide_cal-enviro-screen.png)
 
-Source: [OEHHA](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
 
 ## Environmental Justice Layers
 
@@ -160,7 +160,7 @@ This data provides location and attribute information on Facilities regulated un
 
 ![](images/layer-guide_superfund-sites.png)
 
-Source: [EPA](https://gispub.epa.gov/arcgis/rest/services/OEI/FRS_INTERESTS/MapServer/21)
+Source: [U.S. Environmental Protection Agency (EPA)](https://gispub.epa.gov/arcgis/rest/services/OEI/FRS_INTERESTS/MapServer/21)
 
 ### NPL Superfund Site Boundaries
 
@@ -170,7 +170,7 @@ Shared Enterprise Geodata and Services (SEGS) provides an EPA-curated collection
 
 ![](images/layer-guide_npl-superfund-boundaries.png)
 
-Source: [EPA](https://catalog.data.gov/organization/epa-gov)
+Source: [U.S. Environmental Protection Agency (EPA)](https://catalog.data.gov/organization/epa-gov)
 
 ## Other State or Local Government Layers
 
@@ -191,7 +191,7 @@ This service represents the latest released version, and is updated when new ver
 
 ![](images/layer-guide_california-counties.png)
 
-Source: [CALFIRE](https://hub.arcgis.com/datasets/CALFIRE-Forestry::california-counties/about)
+Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://hub.arcgis.com/datasets/CALFIRE-Forestry::california-counties/about)
 
 ### State Park Boundaries
 
@@ -204,4 +204,4 @@ All Materials are made available on an \"as is\" basis, on the express condition
 
 ![](images/layer-guide_stateparks-boundaries.png)
 
-Source: [CA DPR](https://www.parks.ca.gov/?page_id=29682)
+Source: [California Dept. of Pesticides Regulation (DPR)](https://www.parks.ca.gov/?page_id=29682)
