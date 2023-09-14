@@ -1,5 +1,15 @@
 # Map Guide
 
+This guide serves to provide greater detail about functions within the Tribal Water Data Map including how to:
+
+-   Open the map
+
+-   Navigate the map and layers
+
+-   Add and remove layers
+
+-   Alter the transparency of layers
+
 ## **Opening the Web Map**
 
 The [link](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=f5b1251a504f451b8462d6de2fc18f36) will take you to the main Portal of the map where you will find basic information like:

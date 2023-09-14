@@ -166,13 +166,51 @@ Source: [U.S. Environmental Protection Agency (EPA)](https://gispub.epa.gov/arcg
 
 This layer shows entire Superfund Site Boundaries.
 
-Shared Enterprise Geodata and Services (SEGS) provides an EPA-curated collection of recommended geodata assets that are nationally relevant and support the Agency\'s mission to protect human health and the environment. By connecting EPA users with curated datasets and promoting service reuse, SEGS aims to enhance information access, reduce data-storage costs, and improve the consistency and quality of data at the US EPA. This GIS dataset contains polygons depicting U.S. EPA Superfund Site boundaries. Site boundaries are polygons representing the footprint of a whole site, defined for purposes of this effort as the sum of all of the Operable Units and the current understanding of the full extent of contamination. For Federal Facility sites, the total site polygon may be the Facility boundary. As site investigation and remediation progress, OUs may be added, modified or refined, and the total site polygon should be updated accordingly. Superfund features are managed by regional teams of geospatial professionals and remedial program managers (RPMs), and SEGS harvests regional data on a weekly basis to refresh the national dataset and feature services. EPA is interested in your feedback on this item and the SEGS collection. Please share any feedback to the SEGS Administrative Team at SEGServices\@epa.gov.
+Shared Enterprise Geodata and Services (SEGS) provides an EPA-curated collection of recommended geodata assets that are nationally relevant and support the Agency's mission to protect human health and the environment. By connecting EPA users with curated datasets and promoting service reuse, SEGS aims to enhance information access, reduce data-storage costs, and improve the consistency and quality of data at the US EPA. This GIS dataset contains polygons depicting U.S. EPA Superfund Site boundaries. Site boundaries are polygons representing the footprint of a whole site, defined for purposes of this effort as the sum of all of the Operable Units and the current understanding of the full extent of contamination. For Federal Facility sites, the total site polygon may be the Facility boundary. As site investigation and remediation progress, OUs may be added, modified or refined, and the total site polygon should be updated accordingly. Superfund features are managed by regional teams of geospatial professionals and remedial program managers (RPMs), and SEGS harvests regional data on a weekly basis to refresh the national dataset and feature services. EPA is interested in your feedback on this item and the SEGS collection. Please share any feedback to the SEGS Administrative Team at SEGServices\@epa.gov.
 
 ![](images/layer-guide_npl-superfund-boundaries.png)
 
 Source: [U.S. Environmental Protection Agency (EPA)](https://catalog.data.gov/organization/epa-gov)
 
-## Other State or Local Government Layers
+## Other Government Layers
+
+### Non-private Land Holders
+
+This layer shows boundaries for all non-private land holders in California.
+
+Non-private land holders include:
+
+-   Tribal Trust Lands
+
+-   Bureau of Land Management
+
+-   Bureau of Reclamation
+
+-   CA Dept. of Fish and Wildlife
+
+-   CA Dept. of Forestry and Fire Protection
+
+-   CA Dept. of Parks and Recreation
+
+-   US Dept. of Defense
+
+-   Local Government
+
+-   National Park Service
+
+-   Non-Profit Conservancies and Trusts
+
+-   Other Federal Lands
+
+-   Other State Lands
+
+-   US Fish and Wildlife Service
+
+-   USDA Forest Service
+
+![](images/layer-guide_non-private-land-holders.png)
+
+Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Fgispublic.waterboards.ca.gov%2Fportalserver%2Frest%2Fservices%2FHosted%2FNonPrivate_California_Land_Ownership%2FFeatureServer%2F0&source=sd)
 
 ### County Boundaries
 
@@ -199,8 +237,8 @@ This layer shows the State Parks in California.
 
 California State Parks generates eight GIS datasets for public use. 
 
-These datasets and materials (\"Materials\") have been developed by the State of California, Department of Parks and Recreation (\"DPR\") for uses beneficial to DPR and as a public service to enhance open government, transparency and accountability. DPR is also known as California State Parks (\"CSP\").\
-All Materials are made available on an \"as is\" basis, on the express condition that users who view, download, transfer or otherwise access or use the Materials expressly accept these Terms of Use and Disclaimers
+These datasets and materials ("Materials") have been developed by the State of California, Department of Parks and Recreation ("DPR") for uses beneficial to DPR and as a public service to enhance open government, transparency and accountability. DPR is also known as California State Parks ("CSP").\
+All Materials are made available on an "as is" basis, on the express condition that users who view, download, transfer or otherwise access or use the Materials expressly accept these Terms of Use and Disclaimers
 
 ![](images/layer-guide_stateparks-boundaries.png)
 
