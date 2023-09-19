@@ -6,27 +6,18 @@ If you would like to join the Team, please email Anna Holder at: [anna.holder\@w
 
 ## OIMA
 
-+------------------------------------------------------+---------------------------------------------------+
 | Name                                                 | Title                                             |
-+======================================================+===================================================+
+|-------------------------------------|-----------------------------------|
 | [Anna Holder](mailto:anna.holder@waterboards.ca.gov) | Environmental Scientist & OIMA Tribal Coordinator |
-+------------------------------------------------------+---------------------------------------------------+
-| Josh Davenport                                       | Stanford Fellow                                   |
-+------------------------------------------------------+---------------------------------------------------+
 | Leah Brosseau                                        | CivicSpark Fellow                                 |
-+------------------------------------------------------+---------------------------------------------------+
 
 ## Tribal Partners
 
-+---------------------------+------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+
-| Name                      | Title                                    | Affiliation                                                                                                              |
-+===========================+==========================================+==========================================================================================================================+
-| Sarah Ryan                | Environmental Director                   | Big Valley Band of Pomo Indians, Environmental Protection Department ([Big Valley EPA](https://www.bvrancheria.com/epa)) |
-+---------------------------+------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+
-| Meyo Marrufo              | Environmental Director                   | Guidiville Rancheria                                                                                                     |
-+---------------------------+------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+
-| Shasta Gaughen            | Director                                 | Pala Band of Mission Indians, Environmental Department ([PED](http://ped.palatribe.com/))                                |
-+---------------------------+------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+
+| Name           | Title                  | Affiliation                                                                                                              |
+|---------------|---------------|-----------------------------------------|
+| Sarah Ryan     | Environmental Director | Big Valley Band of Pomo Indians, Environmental Protection Department ([Big Valley EPA](https://www.bvrancheria.com/epa)) |
+| Meyo Marrufo   | Environmental Director | Guidiville Rancheria                                                                                                     |
+| Shasta Gaughen | Director               | Pala Band of Mission Indians, Environmental Department ([PED](http://ped.palatribe.com/))                                |
 
 : Tribal partners listed in ascending order by Affiliation
 
@@ -34,8 +25,7 @@ We also regularly receive critical feedback from the California Issues Workgroup
 
 ## Former OIMA Fellows & Interns
 
-+---------------------------+------------------------------------------+----------------+
-| Name                      | Title                                    | Year           |
-+===========================+==========================================+================+
-| Badhia Yunes Katz         | CivicSpark Fellow                        | 2023           |
-+---------------------------+------------------------------------------+----------------+
+| Name              | Title             | Year      |
+|-------------------|-------------------|-----------|
+| Josh Davenport    | Stanford Fellow   | 2023      |
+| Badhia Yunes Katz | CivicSpark Fellow | 2022-2023 |
