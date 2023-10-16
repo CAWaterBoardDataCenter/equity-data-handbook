@@ -7,14 +7,14 @@ If you would like to join the Team, please email Anna Holder at: [anna.holder\@w
 ## OIMA
 
 | Name                                                 | Title                                             |
-|-------------------------------------|-----------------------------------|
+|------------------------------------------------------|---------------------------------------------------|
 | [Anna Holder](mailto:anna.holder@waterboards.ca.gov) | Environmental Scientist & OIMA Tribal Coordinator |
 | Leah Benton                                          | CivicSpark Fellow                                 |
 
 ## Tribal Partners
 
 | Name           | Title                  | Affiliation                                                                                                              |
-|-----------------|-----------------|---------------------------------------|
+|----------------|------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | Sarah Ryan     | Environmental Director | Big Valley Band of Pomo Indians, Environmental Protection Department ([Big Valley EPA](https://www.bvrancheria.com/epa)) |
 | Meyo Marrufo   | Environmental Director | Guidiville Rancheria                                                                                                     |
 | Shasta Gaughen | Director               | Pala Band of Mission Indians, Environmental Department ([PED](http://ped.palatribe.com/))                                |

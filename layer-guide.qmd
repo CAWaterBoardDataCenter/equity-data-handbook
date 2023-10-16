@@ -8,11 +8,15 @@ This guide serves to provide greater detail about each layer included in the Tri
 
 Layer displaying historic Indigenous Territories within California.
 
-Native Land Digital strives to create and foster conversations about the history of colonialism, Indigenous ways of knowing, and settler-Indigenous relations, through educational resources such as our map and Territory Acknowledgement Guide. We strive to go beyond old ways of talking about Indigenous people and to develop a platform where Indigenous communities can represent themselves and their histories on their own terms. In doing so, Native Land Digital creates spaces where non-Indigenous people can be invited and challenged to learn more about the lands they inhabit, the history of those lands, and how to actively be part of a better future going forward together.
-
 ![](images/layer-guide_indigenous-territories.png)
 
 Source: [native-land.ca](https://native-land.ca/)
+
+*Frequency update: As needed*
+
+*Contact: [Native Land Digital](https://native-land.ca/how-to-contribute/adding-maps/)*
+
+Native Land Digital strives to create and foster conversations about the history of colonialism, Indigenous ways of knowing, and settler-Indigenous relations, through educational resources such as our map and Territory Acknowledgement Guide. We strive to go beyond old ways of talking about Indigenous people and to develop a platform where Indigenous communities can represent themselves and their histories on their own terms. In doing so, Native Land Digital creates spaces where non-Indigenous people can be invited and challenged to learn more about the lands they inhabit, the history of those lands, and how to actively be part of a better future going forward together.
 
 ### Tribal Census Tract 2021
 
@@ -22,17 +26,25 @@ Layer showing Tribal areas identified by the U.S. Census Bureau.
 
 Source: [U.S. Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2021&layergroup=American+Indian+Area+Geography)
 
+*Frequency update: Every 10 years*
+
+*Contact: [U.S Census Bureau](https://www.census.gov/about/contact-us.html)*
+
 ### Indian Lands and Native Entities
 
 Layer showing American Indians Reservations/Federally Recognized Tribal Entities.
 
-The American Indians Reservations/Federally Recognized Tribal Entities dataset depicts feature location, selected demographics and other associated data for the 561 Federally Recognized Tribal entities in the contiguous U.S. and Alaska. Categories included are: American Indian Reservations (AIR), Federally Recognized Tribal Entities (FRTE) and Alaska Native Villages (ANV).
-
-The American Indian Reservations / Federally Recognized Tribal Entities dataset was compiled using USGS 7.5' quadrangle maps (1:24,000), Bureau of Census 1995 TIGER data sets (1:100,000), Bureau of Census 2000 TIGER data sets (1:100,000),Bureau of Census 2004 TIGER data sets (1:100,000), BIA Pacific and Alaska Regional Office coverages (1:24,000 ) and the GDSC-developed Land Title Mapper (LTM) (1:24,000).
-
 ![](images/layer-guide_indian-lands-native-entities.png)
 
 Source: [California Governor's Office of Emergency Services (Cal OES)](https://calema.maps.arcgis.com/home/item.html?id=0b6c3f61f0c04168b2de56ac321ab76d)
+
+*Frequency update: As needed*
+
+*Contact:* [Cal OES](https://www.caloes.ca.gov/office-of-the-director/policy-administration/tribal-coordination/)
+
+The American Indians Reservations/Federally Recognized Tribal Entities dataset depicts feature location, selected demographics and other associated data for the 561 Federally Recognized Tribal entities in the contiguous U.S. and Alaska. Categories included are: American Indian Reservations (AIR), Federally Recognized Tribal Entities (FRTE) and Alaska Native Villages (ANV).
+
+The American Indian Reservations / Federally Recognized Tribal Entities dataset was compiled using USGS 7.5' quadrangle maps (1:24,000), Bureau of Census 1995 TIGER data sets (1:100,000), Bureau of Census 2000 TIGER data sets (1:100,000),Bureau of Census 2004 TIGER data sets (1:100,000), BIA Pacific and Alaska Regional Office coverages (1:24,000 ) and the GDSC-developed Land Title Mapper (LTM) (1:24,000).
 
 ## CA Water Boards Layers
 
@@ -40,7 +52,7 @@ Source: [California Governor's Office of Emergency Services (Cal OES)](https://c
 
 Layer showing the Nine Regional Water Quality Control Boards in California.
 
-The Nine Regional Water Quality Control Boards in California The State Water Resources Control Board has jurisdiction throughout California. Created by the State Legislature in 1967, the Board protects water quality by setting statewide policy, coordinating and supporting the Regional Water Board efforts, and reviewing petitions that contest Regional Board actions. There are nine regional water quality control boards that exercise rulemaking and regulatory activities by basins.
+The Nine Regional Water Quality Control Boards in California, The State Water Resources Control Board has jurisdiction throughout California. Created by the State Legislature in 1967, the Board protects water quality by setting statewide policy, coordinating and supporting the Regional Water Board efforts, and reviewing petitions that contest Regional Board actions. There are nine regional water quality control boards that exercise rulemaking and regulatory activities by basins.
 
 **Region 1** \-- North Coast Regional Water Quality Control Board: Del Norte, Glenn, Humboldt, Lake, Marin, Mendocino, Modoc, Siskiyou, Sonoma, and Trinity counties. 
 
@@ -54,7 +66,9 @@ The Nine Regional Water Quality Control Boards in California The State Water Res
 
 **Region 6** \-- Lahontan Regional Water Quality Control Board: Modoc (East), Lassen (East side and Eagle Lake), Sierra, Nevada, Placer, El Dorado, Alpine, Mono, Inyo, Kern (East), San Bernardino, Los Angeles (N/E corner) counties. 
 
-**Region 7** \-- Colorado River Regional Water Quality Control Board: Imperial, San Bernardino, Riverside, San Diego counties. **Region 8** \-- Santa Ana Regional Water Quality Control Board: Orange, Riverside, San Bernardino counties. 
+**Region 7** \-- Colorado River Regional Water Quality Control Board: Imperial, San Bernardino, Riverside, San Diego counties.
+
+**Region 8** \-- Santa Ana Regional Water Quality Control Board: Orange, Riverside, San Bernardino counties. 
 
 **Region 9** \-- San Diego Regional Water Quality Control Board: San Diego, Imperial, Riverside counties. 
 
@@ -98,9 +112,11 @@ Note, these are not the final assessments. 
 
 -   Fact Sheet: Link to the complete waterbody fact sheet with assessment details. 
 
-![](images/layer-guide_intergrater-report-linear.png)
+![](images/layer-guide_integrated-report-linear.png)
 
-Source: [California State Water Resources Control Board (SWRCB)](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/5)
+Source: [California State Water Resources Control Board (SWRCB)](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/5)![](images/layer-guide_superfund-sites.png)
+
+*Frequency update: Every two years*
 
 ### Integrated Report (non-linear) 2020-2022
 
@@ -140,6 +156,8 @@ Note, these are not the final assessments. 
 
 Source: [California State Water Resources Control Board (SWRCB)](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/6)
 
+*Frequency update: Every 2 years*
+
 ### CalEnviroScreen 4.0
 
 This layer shows the CalEnviroScreen 4.0 based on the CL Score percentile (ClscoreP).
@@ -149,6 +167,10 @@ CalEnviroScreen is a screening methodology that can be used to help identify Cal
 ![](images/layer-guide_cal-enviro-screen.png)
 
 Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+
+*Frequency Update: As needed*
+
+*Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)*
 
 ## Environmental Justice Layers
 
@@ -162,6 +184,10 @@ This data provides location and attribute information on Facilities regulated un
 
 Source: [U.S. Environmental Protection Agency (EPA)](https://gispub.epa.gov/arcgis/rest/services/OEI/FRS_INTERESTS/MapServer/21)
 
+*Frequency Update: As needed*
+
+*Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)*
+
 ### NPL Superfund Site Boundaries
 
 This layer shows entire Superfund Site Boundaries.
@@ -171,6 +197,10 @@ Shared Enterprise Geodata and Services (SEGS) provides an EPA-curated collection
 ![](images/layer-guide_npl-superfund-boundaries.png)
 
 Source: [U.S. Environmental Protection Agency (EPA)](https://catalog.data.gov/organization/epa-gov)
+
+*Frequency update: As needed*
+
+Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)
 
 ## Other Government Layers
 
@@ -212,6 +242,8 @@ Non-private land holders include:
 
 Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Fgispublic.waterboards.ca.gov%2Fportalserver%2Frest%2Fservices%2FHosted%2FNonPrivate_California_Land_Ownership%2FFeatureServer%2F0&source=sd)
 
+*Frequency update: As needed*
+
 ### County Boundaries
 
 This layer shows County Boundaries within California.
@@ -240,6 +272,6 @@ California State Parks generates eight GIS datasets for public use. 
 These datasets and materials ("Materials") have been developed by the State of California, Department of Parks and Recreation ("DPR") for uses beneficial to DPR and as a public service to enhance open government, transparency and accountability. DPR is also known as California State Parks ("CSP").\
 All Materials are made available on an "as is" basis, on the express condition that users who view, download, transfer or otherwise access or use the Materials expressly accept these Terms of Use and Disclaimers
 
-![](images/layer-guide_stateparks-boundaries.png)
+![](images/layer-guide_statepark-boundaries-01.png)
 
 Source: [California Dept. of Pesticides Regulation (DPR)](https://www.parks.ca.gov/?page_id=29682)
