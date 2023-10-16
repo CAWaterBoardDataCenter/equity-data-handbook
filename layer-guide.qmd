@@ -14,7 +14,7 @@ Source: [native-land.ca](https://native-land.ca/)
 
 Data Update Frequency: As needed
 
-*Contact: [Native Land Digital](https://native-land.ca/how-to-contribute/adding-maps/)*
+Contact: [Native Land Digital](https://native-land.ca/how-to-contribute/adding-maps/)
 
 Native Land Digital strives to create and foster conversations about the history of colonialism, Indigenous ways of knowing, and settler-Indigenous relations, through educational resources such as our map and Territory Acknowledgement Guide. We strive to go beyond old ways of talking about Indigenous people and to develop a platform where Indigenous communities can represent themselves and their histories on their own terms. In doing so, Native Land Digital creates spaces where non-Indigenous people can be invited and challenged to learn more about the lands they inhabit, the history of those lands, and how to actively be part of a better future going forward together.
 
@@ -28,7 +28,7 @@ Source: [U.S. Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index
 
 Data Update Frequency: Every 10 years
 
-*Contact: [U.S Census Bureau](https://www.census.gov/about/contact-us.html)*
+Contact: [U.S Census Bureau](https://www.census.gov/about/contact-us.html)
 
 ### Indian Lands and Native Entities
 
@@ -40,7 +40,7 @@ Source: [California Governor's Office of Emergency Services (Cal OES)](https://c
 
 Data Update Frequency: As needed
 
-*Contact:* [Cal OES](https://www.caloes.ca.gov/office-of-the-director/policy-administration/tribal-coordination/)
+Contact: [Cal OES](https://www.caloes.ca.gov/office-of-the-director/policy-administration/tribal-coordination/)
 
 The American Indians Reservations/Federally Recognized Tribal Entities dataset depicts feature location, selected demographics and other associated data for the 561 Federally Recognized Tribal entities in the contiguous U.S. and Alaska. Categories included are: American Indian Reservations (AIR), Federally Recognized Tribal Entities (FRTE) and Alaska Native Villages (ANV).
 
@@ -72,6 +72,8 @@ Source: [California State Water Resources Control Board (SWRCB)](https://gispubl
 
 Data Update Frequency: Every two years
 
+Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
+
 ### Integrated Report (non-linear) 2020-2022
 
 This layer shows a spatial representation of the 2020-2022 Integrated Report-non-linear (polygon) waterbodies in California, such as bays, lakes, and reservoirs.
@@ -86,6 +88,8 @@ Source: [California State Water Resources Control Board (SWRCB)](https://gispubl
 
 Data Update Frequency: Every 2 years
 
+Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
+
 ### CalEnviroScreen 4.0
 
 This layer shows the CalEnviroScreen 4.0 based on the CL Score percentile (ClscoreP).
@@ -98,7 +102,7 @@ Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](ht
 
 Data Update Frequency: As needed
 
-*Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)*
+Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
 
 ## Environmental Justice Layers
 
@@ -114,7 +118,7 @@ Source: [U.S. Environmental Protection Agency (EPA)](https://gispub.epa.gov/arcg
 
 Data Update Frequency: As needed
 
-*Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)*
+Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)
 
 ### NPL Superfund Site Boundaries
 
