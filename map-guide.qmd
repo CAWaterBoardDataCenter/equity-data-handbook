@@ -1,14 +1,6 @@
 # Map Guide
 
-This guide serves to provide greater detail about functions within the Tribal Water Data Map including how to:
-
--   Open the map
-
--   Navigate the map and layers
-
--   Add and remove layers
-
--   Alter the transparency of layers
+This guide serves to provide greater detail about functions within the Tribal Water Data Map.
 
 ## **Opening the Web Map**
 
