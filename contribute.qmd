@@ -11,8 +11,6 @@ If you have recommendations for improvement related to the Map or this User Manu
 
 -   Completing the [Tribal Water Data Map Survey](https://bit.ly/TWDM_Ideas), OR
 
-    ![Scan the QR Code to be directed to the Tribal Water Data Map Survey](images/qr-code_twdm_ideas.png){width="200"}
-
 -   Emailing Anna Holder at: [anna.holder\@waterboards.ca.gov](mailto:anna.holder@waterboards.ca.gov), OR
 
 -   Submitting a [GitHub Issue](https://github.com/CAWaterBoardDataCenter/tribal-water-data-map-manual/issues)
