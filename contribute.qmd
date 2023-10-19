@@ -9,8 +9,14 @@ Currently, only members of the OIMA Team are able to make *edits* to this User M
 
 If you have recommendations for improvement related to the Map or this User Manual you can send it to us by:
 
+-   Completing the [Tribal Water Data Map Survey](https://bit.ly/TWDM_Ideas), OR
+
+    ![Scan the QR Code to be directed to the Tribal Water Data Map Survey](images/qr-code_twdm_ideas.png){width="200"}
+
 -   Emailing Anna Holder at: [anna.holder\@waterboards.ca.gov](mailto:anna.holder@waterboards.ca.gov), OR
+
 -   Submitting a [GitHub Issue](https://github.com/CAWaterBoardDataCenter/tribal-water-data-map-manual/issues)
+
     -   Note this requires the individual to have a GitHub Account.
     -   If you would like to create a GitHub Account, complete Step 3 in the [Setup Section](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/contribute.html#setup) below; no other steps need to be completed to submit an Issue.
 :::
