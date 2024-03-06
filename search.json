@@ -4,146 +4,259 @@
     "href": "index.html",
     "title": "User Manual for CA Water Board’s Tribal Water Data Map",
     "section": "",
-    "text": "Welcome!\nThis is an online User Manual for the California Water Board’s Tribal Water Data Map (Map), written by the California State Water Resources Control Board’s (State Water Board) Office of Information Management and Analysis (OIMA).\nThe purpose of the Map is to increase awareness of and access to the Water Board’s water data resources that intersect with Tribal matters and needs. The interactive Map includes curated data layers that have been requested by tribal partners and that may be useful for California Native American Tribes (tribes) doing environmental or water related work.\nThe purpose of this User Manual is to provide guidance and context so it’s easier for all audiences to use the Map. Content in this User Manual includes curated information that the has been requested by tribal partners and/or that the development Team thinks may be helpful to reference when using the map.\nTo view the status of ongoing Map and User Manual development, visit the Project Management Board.\nThis Quarto book is an open, living, and continuously iterating resource. If you have suggestions for additions or revisions you think should be incorporated into this book, please follow the guidance provided in the Contributing chapter."
+    "text": "Welcome!\nThis is an online User Manual for the California Water Board’s Tribal Water Data Map (Map), written by the California State Water Resources Control Board’s (State Water Board) Office of Information Management and Analysis (OIMA).\nThe purpose of the Map is to increase awareness of and access to the Water Board’s water data resources that intersect with Tribal matters and needs. The interactive Map includes curated data layers that have been requested by tribal partners and that may be useful for California Native American Tribes (tribes) doing environmental or water related work.\nThe purpose of this User Manual is to provide guidance and context so it’s easier for all audiences to use the Map. Content in this User Manual includes curated information that the has been requested by tribal partners and/or that the development Team thinks may be helpful to reference when using the map.\nTo view the status of ongoing Map and User Manual development, visit the Project Management Board.\nThis Quarto book is an open, living, and continuously iterating resource. If you have suggestions for additions or revisions you think should be incorporated into this book, please follow the guidance provided in the Contributing chapter.",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "about-oima.html",
+    "href": "about-oima.html",
+    "title": "1  About OIMA",
+    "section": "",
+    "text": "1.1 Overview\nThe California State Water Resources Control Board’s (State Water Board) Office of Information Management and Analysis (OIMA), serves as an advocate for data management, a bridge between data collectors and users, and provides transparency of the Water Board’s information management infrastructure.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About OIMA</span>"
+    ]
   },
   {
     "objectID": "about-oima.html#overview",
     "href": "about-oima.html#overview",
     "title": "1  About OIMA",
-    "section": "1.1 Overview",
-    "text": "1.1 Overview\nThe California State Water Resources Control Board’s (State Water Board) Office of Information Management and Analysis (OIMA), serves as an advocate for data management, a bridge between data collectors and users, and provides transparency of the Water Board’s information management infrastructure.\n\nOIMA’s goal is to collaborate monitoring efforts, accurately analyze data, make our data easily accessible, and create visualizations and reports that make data understandable across all audiences."
+    "section": "",
+    "text": "OIMA’s goal is to collaborate monitoring efforts, accurately analyze data, make our data easily accessible, and create visualizations and reports that make data understandable across all audiences.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About OIMA</span>"
+    ]
   },
   {
     "objectID": "about-oima.html#tribal-water-data-initiatives",
     "href": "about-oima.html#tribal-water-data-initiatives",
     "title": "1  About OIMA",
     "section": "1.2 Tribal Water Data Initiatives",
-    "text": "1.2 Tribal Water Data Initiatives\nOIMA is committed to advancing equity, inclusion, and belonging in our work, our office, and at the Water Boards. Meaningful engagement and partnership with California Native American Tribes (tribes) is fundamental to this work.\nOIMA has begun to work with Tribal partners on a series of water data initiatives -- including the Tribal Water Data Map and this User Manual -- to build relationships and work together to better understand, streamline, and improve the interactions between Water Board data systems and those of our Tribal government partners.\nVisit our Tribal Water Data Initiatives website for information on other initiatives."
+    "text": "1.2 Tribal Water Data Initiatives\nOIMA is committed to advancing equity, inclusion, and belonging in our work, our office, and at the Water Boards. Meaningful engagement and partnership with California Native American Tribes (tribes) is fundamental to this work.\nOIMA has begun to work with Tribal partners on a series of water data initiatives -- including the Tribal Water Data Map and this User Manual -- to build relationships and work together to better understand, streamline, and improve the interactions between Water Board data systems and those of our Tribal government partners.\nVisit our Tribal Water Data Initiatives website for information on other initiatives.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About OIMA</span>"
+    ]
+  },
+  {
+    "objectID": "map-guide.html",
+    "href": "map-guide.html",
+    "title": "2  Map Guide",
+    "section": "",
+    "text": "2.1 Opening the Web Map\nThe link will take you to the main Portal of the map where you will find basic information like:",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Map Guide</span>"
+    ]
   },
   {
     "objectID": "map-guide.html#opening-the-web-map",
     "href": "map-guide.html#opening-the-web-map",
     "title": "2  Map Guide",
-    "section": "2.1 Opening the Web Map",
-    "text": "2.1 Opening the Web Map\nThe link will take you to the main Portal of the map where you will find basic information like:\n\nMap viewing options; if you have ArcGIS Desktop installed on the computer you are working on, you can opt to open the map directly on the App, otherwise just click on “Open Map Viewer Classic” to open it.\nA description of the map that highlights the purpose and goals.\nLayer dictionary where you can click on each of the Layers and find out more detailed information, including its source.\nIt isn’t necessary, but if you have an account with ESRI, you can sign in."
+    "section": "",
+    "text": "Map viewing options; if you have ArcGIS Desktop installed on the computer you are working on, you can opt to open the map directly on the App, otherwise just click on “Open Map Viewer Classic” to open it.\nA description of the map that highlights the purpose and goals.\nLayer dictionary where you can click on each of the Layers and find out more detailed information, including its source.\nIt isn’t necessary, but if you have an account with ESRI, you can sign in.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Map Guide</span>"
+    ]
   },
   {
     "objectID": "map-guide.html#navigating-the-map",
     "href": "map-guide.html#navigating-the-map",
     "title": "2  Map Guide",
     "section": "2.2 Navigating the Map",
-    "text": "2.2 Navigating the Map\nAfter you have clicked on Open Map Viewer Classic, the web map will open with two default layers being displayed: Regional Board Boundaries and Indigenous Territories.\nDo the following to navigate the map:\n\nTo zoom, use Zoom in and Zoom out, the mouse and wheel button, or press Shift + Plus Sign (zoom in) and Shift + Minus Sign (zoom out) on the keyboard. To zoom in, you can also press the Shift key while dragging a box on the map.\nTo go back to the main view, press the house icon.\nTo pan, use the mouse or the arrow keys on your keyboard. \nIf you’re using a Mac with OS X 10.6 or later, you can use multitouch gestures by dragging two fingers to pan and zoom the map. The default behavior is to pan. To zoom in or out, press Shift while dragging two fingers toward you to zoom in or dragging two fingers away from you to zoom out.\n\n\n\nCollapse the Legend pane by clicking on the arrow on the upper-right corner of the menu.\nExpand the Legend pane by dragging the points on the edge of right edge of the menu."
+    "text": "2.2 Navigating the Map\nAfter you have clicked on Open Map Viewer Classic, the web map will open with two default layers being displayed: Regional Board Boundaries and Indigenous Territories.\nDo the following to navigate the map:\n\nTo zoom, use Zoom in and Zoom out, the mouse and wheel button, or press Shift + Plus Sign (zoom in) and Shift + Minus Sign (zoom out) on the keyboard. To zoom in, you can also press the Shift key while dragging a box on the map.\nTo go back to the main view, press the house icon.\nTo pan, use the mouse or the arrow keys on your keyboard. \nIf you’re using a Mac with OS X 10.6 or later, you can use multitouch gestures by dragging two fingers to pan and zoom the map. The default behavior is to pan. To zoom in or out, press Shift while dragging two fingers toward you to zoom in or dragging two fingers away from you to zoom out.\n\n\n\nCollapse the Legend pane by clicking on the arrow on the upper-right corner of the menu.\nExpand the Legend pane by dragging the points on the edge of right edge of the menu.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Map Guide</span>"
+    ]
   },
   {
     "objectID": "map-guide.html#navigating-layers",
     "href": "map-guide.html#navigating-layers",
     "title": "2  Map Guide",
     "section": "2.3 Navigating Layers",
-    "text": "2.3 Navigating Layers\n\nOn the left hand side you will see the legend of the layers, the blue outlines are the Regional Board Boundaries, and the different Indigenous Territories are color coded and defined on that menu.\nYou can click on a map area of California to find out what Regional Board, or Indigenous Territory is there. The information will be shown in a pop-up menu.\nOn this example, the right border of California was clicked and a pop-up showed that the area belongs to Region 6 of the Regional Boards.\n\n\n*To see more information, and the rest of the layers, go to the Content Tab."
+    "text": "2.3 Navigating Layers\n\nOn the left hand side you will see the legend of the layers, the blue outlines are the Regional Board Boundaries, and the different Indigenous Territories are color coded and defined on that menu.\nYou can click on a map area of California to find out what Regional Board, or Indigenous Territory is there. The information will be shown in a pop-up menu.\nOn this example, the right border of California was clicked and a pop-up showed that the area belongs to Region 6 of the Regional Boards.\n\n\n*To see more information, and the rest of the layers, go to the Content Tab.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Map Guide</span>"
+    ]
   },
   {
     "objectID": "map-guide.html#displayingremoving-view-of-layers",
     "href": "map-guide.html#displayingremoving-view-of-layers",
     "title": "2  Map Guide",
     "section": "2.4 Displaying/removing View of Layers",
-    "text": "2.4 Displaying/removing View of Layers\n\nOn the Contents Pane menu, all the layers of the map will be listed (but not yet displayed)\nOnly Regional Boards Boundaries and Indigenous Territories are displayed, and we can tell by the checked box to the left of the layer name."
+    "text": "2.4 Displaying/removing View of Layers\n\nOn the Contents Pane menu, all the layers of the map will be listed (but not yet displayed)\nOnly Regional Boards Boundaries and Indigenous Territories are displayed, and we can tell by the checked box to the left of the layer name.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Map Guide</span>"
+    ]
   },
   {
     "objectID": "map-guide.html#adjusting-layer-transparency",
     "href": "map-guide.html#adjusting-layer-transparency",
     "title": "2  Map Guide",
     "section": "2.5 Adjusting Layer Transparency",
-    "text": "2.5 Adjusting Layer Transparency\nTo change the transparency of the layers:\n\nHover over the layer you’d like to change the transparency.\nClick on the three dots on below the layer name, on the right.\nSelect Transparency, and slide the button to the desired transparency.\nThe more transparency, the less visible the layer will be."
+    "text": "2.5 Adjusting Layer Transparency\nTo change the transparency of the layers:\n\nHover over the layer you’d like to change the transparency.\nClick on the three dots on below the layer name, on the right.\nSelect Transparency, and slide the button to the desired transparency.\nThe more transparency, the less visible the layer will be.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Map Guide</span>"
+    ]
+  },
+  {
+    "objectID": "layer-guide.html",
+    "href": "layer-guide.html",
+    "title": "3  Layer Guide",
+    "section": "",
+    "text": "3.1 Tribal Land Layers",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Layer Guide</span>"
+    ]
   },
   {
     "objectID": "layer-guide.html#tribal-land-layers",
     "href": "layer-guide.html#tribal-land-layers",
     "title": "3  Layer Guide",
-    "section": "3.1 Tribal Land Layers",
-    "text": "3.1 Tribal Land Layers\n\n3.1.1 Indigenous Territories\nLayer displaying historic Indigenous Territories within California.\n\nSource: native-land.ca\nData Update Frequency: As needed\nContact: Native Land Digital\nNative Land Digital strives to create and foster conversations about the history of colonialism, Indigenous ways of knowing, and settler-Indigenous relations, through educational resources such as our map and Territory Acknowledgement Guide. We strive to go beyond old ways of talking about Indigenous people and to develop a platform where Indigenous communities can represent themselves and their histories on their own terms. In doing so, Native Land Digital creates spaces where non-Indigenous people can be invited and challenged to learn more about the lands they inhabit, the history of those lands, and how to actively be part of a better future going forward together.\n\n\n3.1.2 Tribal Census Tract 2021\nLayer showing Tribal areas identified by the U.S. Census Bureau.\n\nSource: U.S. Census Bureau\nData Update Frequency: Every 10 years\nContact: U.S Census Bureau\n\n\n3.1.3 Indian Lands and Native Entities\nLayer showing American Indians Reservations/Federally Recognized Tribal Entities.\n\nSource: California Governor’s Office of Emergency Services (Cal OES)\nData Update Frequency: As needed\nContact: Cal OES\nThe American Indians Reservations/Federally Recognized Tribal Entities dataset depicts feature location, selected demographics and other associated data for the 561 Federally Recognized Tribal entities in the contiguous U.S. and Alaska. Categories included are: American Indian Reservations (AIR), Federally Recognized Tribal Entities (FRTE) and Alaska Native Villages (ANV)."
+    "section": "",
+    "text": "3.1.1 Indigenous Territories\nLayer displaying historic Indigenous Territories within California.\n\nSource: native-land.ca\nData Update Frequency: As needed\nContact: Native Land Digital\nNative Land Digital strives to create and foster conversations about the history of colonialism, Indigenous ways of knowing, and settler-Indigenous relations, through educational resources such as our map and Territory Acknowledgement Guide. We strive to go beyond old ways of talking about Indigenous people and to develop a platform where Indigenous communities can represent themselves and their histories on their own terms. In doing so, Native Land Digital creates spaces where non-Indigenous people can be invited and challenged to learn more about the lands they inhabit, the history of those lands, and how to actively be part of a better future going forward together.\n\n\n3.1.2 Tribal Census Tract 2021\nLayer showing Tribal areas identified by the U.S. Census Bureau.\n\nSource: U.S. Census Bureau\nData Update Frequency: Every 10 years\nContact: U.S Census Bureau\n\n\n3.1.3 Indian Lands and Native Entities\nLayer showing American Indians Reservations/Federally Recognized Tribal Entities.\n\nSource: California Governor’s Office of Emergency Services (Cal OES)\nData Update Frequency: As needed\nContact: Cal OES\nThe American Indians Reservations/Federally Recognized Tribal Entities dataset depicts feature location, selected demographics and other associated data for the 561 Federally Recognized Tribal entities in the contiguous U.S. and Alaska. Categories included are: American Indian Reservations (AIR), Federally Recognized Tribal Entities (FRTE) and Alaska Native Villages (ANV).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Layer Guide</span>"
+    ]
   },
   {
     "objectID": "layer-guide.html#ca-water-boards-layers",
     "href": "layer-guide.html#ca-water-boards-layers",
     "title": "3  Layer Guide",
     "section": "3.2 CA Water Boards Layers",
-    "text": "3.2 CA Water Boards Layers\n\n3.2.1 Regional Water Board Boundaries\nLayer showing the boundaries of the nine Regional Water Quality Control Boards in California.\n\nSource: California State Water Resources Control Board (SWRCB)\nData Update Frequency: As needed"
+    "text": "3.2 CA Water Boards Layers\n\n3.2.1 Regional Water Board Boundaries\nLayer showing the boundaries of the nine Regional Water Quality Control Boards in California.\n\nSource: California State Water Resources Control Board (SWRCB)\nData Update Frequency: As needed",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Layer Guide</span>"
+    ]
   },
   {
     "objectID": "layer-guide.html#environmental-data-layers",
     "href": "layer-guide.html#environmental-data-layers",
     "title": "3  Layer Guide",
     "section": "3.3 Environmental Data Layers",
-    "text": "3.3 Environmental Data Layers\n\n3.3.1 2020-2022 Integrated Report (linear)\nThis layer shows the 2020-2022 Integrated Report for linear waterbodies in California, such as rivers, streams, and beaches.\n\nState Water Resources Control Board Division of Water Quality staff have developed this map to graphically display the waterbodies assessed in the 2020-2022 California Integrated Report. This map contains waterbodies assessed for 305(b) categorization, including those placed on the 303(d) list of impaired waters.\nNote, these are not the final assessments. \nSource: California State Water Resources Control Board (SWRCB)\nData Update Frequency: Every two years\nContact: SWRCB Water Quality Assessment Program\n\n\n3.3.2 Integrated Report (non-linear) 2020-2022\nThis layer shows a spatial representation of the 2020-2022 Integrated Report-non-linear (polygon) waterbodies in California, such as bays, lakes, and reservoirs.\n\nState Water Resources Control Board Division of Water Quality staff have developed this map to graphically display the waterbodies assessed in the 2020-2022 California Integrated Report. This map contains waterbodies assessed for 305(b) categorization, including those placed on the 303(d) list of impaired waters.\nNote, these are not the final assessments. \nSource: California State Water Resources Control Board (SWRCB)\nData Update Frequency: Every 2 years\nContact: SWRCB Water Quality Assessment Program\n\n\n3.3.3 CalEnviroScreen 4.0\nThis layer shows the CalEnviroScreen 4.0 based on the CL Score percentile (ClscoreP).\nCalEnviroScreen is a screening methodology that can be used to help identify California communities that are disproportionately burdened by multiple sources of pollution.\n\nSource: California Office of Environmental Health Hazard Assessment (OEHHA)\nData Update Frequency: As needed\nContact: CalEnviroScreen"
+    "text": "3.3 Environmental Data Layers\n\n3.3.1 2020-2022 Integrated Report (linear)\nThis layer shows the 2020-2022 Integrated Report for linear waterbodies in California, such as rivers, streams, and beaches.\n\nState Water Resources Control Board Division of Water Quality staff have developed this map to graphically display the waterbodies assessed in the 2020-2022 California Integrated Report. This map contains waterbodies assessed for 305(b) categorization, including those placed on the 303(d) list of impaired waters.\nNote, these are not the final assessments. \nSource: California State Water Resources Control Board (SWRCB)\nData Update Frequency: Every two years\nContact: SWRCB Water Quality Assessment Program\n\n\n3.3.2 Integrated Report (non-linear) 2020-2022\nThis layer shows a spatial representation of the 2020-2022 Integrated Report-non-linear (polygon) waterbodies in California, such as bays, lakes, and reservoirs.\n\nState Water Resources Control Board Division of Water Quality staff have developed this map to graphically display the waterbodies assessed in the 2020-2022 California Integrated Report. This map contains waterbodies assessed for 305(b) categorization, including those placed on the 303(d) list of impaired waters.\nNote, these are not the final assessments. \nSource: California State Water Resources Control Board (SWRCB)\nData Update Frequency: Every 2 years\nContact: SWRCB Water Quality Assessment Program\n\n\n3.3.3 CalEnviroScreen 4.0\nThis layer shows the CalEnviroScreen 4.0 based on the CL Score percentile (ClscoreP).\nCalEnviroScreen is a screening methodology that can be used to help identify California communities that are disproportionately burdened by multiple sources of pollution.\n\nSource: California Office of Environmental Health Hazard Assessment (OEHHA)\nData Update Frequency: As needed\nContact: CalEnviroScreen",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Layer Guide</span>"
+    ]
   },
   {
     "objectID": "layer-guide.html#environmental-justice-layers",
     "href": "layer-guide.html#environmental-justice-layers",
     "title": "3  Layer Guide",
     "section": "3.4 Environmental Justice Layers",
-    "text": "3.4 Environmental Justice Layers\n\n3.4.1 Superfund Sites\nThis layer shows Superfund Site locations and data on the inventory of active and archived hazardous waste sites evaluated by the EPA’s Superfund program.\n\nThis data provides location and attribute information on Facilities regulated under the Superfund Enterprise Management System (SEMS). It contains sites that are either proposed to be, or are on, the National Priorities List (NPL) as well as sites that are in the screening and assessment phase for possible inclusion on the NPL.\nSource: U.S. Environmental Protection Agency (EPA)\nData Update Frequency: As needed\nContact: U.S Environmental Protection Agency (EPA)\n\n\n3.4.2 NPL Superfund Site Boundaries\nThis layer shows entire Superfund Site boundaries.\n\nU.S. EPA Superfund Site boundaries are polygons representing the footprint of a whole site, defined for purposes of this effort as the sum of all of the Operable Units and the current understanding of the full extent of contamination.\nSource: U.S. Environmental Protection Agency (EPA)\nData Update Frequency: As needed\nContact: U.S Environmental Protection Agency (EPA)"
+    "text": "3.4 Environmental Justice Layers\n\n3.4.1 Superfund Sites\nThis layer shows Superfund Site locations and data on the inventory of active and archived hazardous waste sites evaluated by the EPA’s Superfund program.\n\nThis data provides location and attribute information on Facilities regulated under the Superfund Enterprise Management System (SEMS). It contains sites that are either proposed to be, or are on, the National Priorities List (NPL) as well as sites that are in the screening and assessment phase for possible inclusion on the NPL.\nSource: U.S. Environmental Protection Agency (EPA)\nData Update Frequency: As needed\nContact: U.S Environmental Protection Agency (EPA)\n\n\n3.4.2 NPL Superfund Site Boundaries\nThis layer shows entire Superfund Site boundaries.\n\nU.S. EPA Superfund Site boundaries are polygons representing the footprint of a whole site, defined for purposes of this effort as the sum of all of the Operable Units and the current understanding of the full extent of contamination.\nSource: U.S. Environmental Protection Agency (EPA)\nData Update Frequency: As needed\nContact: U.S Environmental Protection Agency (EPA)\n\n\n3.4.3 Agricultural Pesticides\nThis indicator represents the reported use of 132 hazardous and volatile pesticides in 2017-2019. Only pesticides used on agricultural commodities are included in the indicator. The data is averaged over the census tract area, and some application may be adjacent to (instead of within) the census tract.\n\nSource: California Office of Environmental Health Hazard Assessment (OEHHA)\nData Update Frequency: As needed\nContact: CalEnviroScreen\n\n\n3.4.4 Disadvantaged Communities\nThis map shows the disadvantaged communities designated by CalEPA for the purpose of SB 535. These areas represent the 25% highest scoring census tracts in CalEnviroScreen 4.0, census tracts previously identified in the top 25% in CalEnviroScreen 3.0, census tracts with high amounts of pollution and low populations, and federally recognized tribal areasas identified by the Census in the 2021 American Indian Areas Related National Geodatabase.\n\nSource: California Office of Environmental Health Hazard Assessment (OEHHA)\nData Update Frequency: As needed\nContact: CalEnviroScreen",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Layer Guide</span>"
+    ]
   },
   {
     "objectID": "layer-guide.html#other-government-layers",
     "href": "layer-guide.html#other-government-layers",
     "title": "3  Layer Guide",
     "section": "3.5 Other Government Layers",
-    "text": "3.5 Other Government Layers\n\n3.5.1 Non-private Land Holders\nThis layer shows boundaries for non-private land holders in California.\n\nSource: California Dept. of Forestry and Fire Protection (CalFIRE)\nData Update Frequency: As needed\n\n\n3.5.2 County Boundaries\nThis layer shows County boundaries within California.\n\nIn this dataset, all bays (plus bay islands and constructed features) are merged into the mainland, and coastal features (such as islands and constructed features) are not included, with the exception of the Channel Islands which ARE included.\nSource: California Dept. of Forestry and Fire Protection (CalFIRE)\nData Update Frequency: As needed\n\n\n3.5.3 State Park Boundaries\nThis layer shows the State Parks in California.\n\nSource: California Dept. of Pesticides Regulation (DPR)\nData Update Frequency: As needed"
+    "text": "3.5 Other Government Layers\n\n3.5.1 Non-private Land Holders\nThis layer shows boundaries for non-private land holders in California.\n\nSource: California Dept. of Forestry and Fire Protection (CalFIRE)\nData Update Frequency: As needed\n\n\n3.5.2 County Boundaries\nThis layer shows County boundaries within California.\n\nIn this dataset, all bays (plus bay islands and constructed features) are merged into the mainland, and coastal features (such as islands and constructed features) are not included, with the exception of the Channel Islands which ARE included.\nSource: California Dept. of Forestry and Fire Protection (CalFIRE)\nData Update Frequency: As needed\n\n\n3.5.3 State Park Boundaries\nThis layer shows the State Parks in California.\n\nSource: California Dept. of Pesticides Regulation (DPR)\nData Update Frequency: As needed",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Layer Guide</span>"
+    ]
   },
   {
-    "objectID": "resources.html#websites",
-    "href": "resources.html#websites",
+    "objectID": "resources.html",
+    "href": "resources.html",
     "title": "4  Resources",
-    "section": "4.1 Websites",
-    "text": "4.1 Websites\nWater Boards’ Tribal Water Data Initiatives"
+    "section": "",
+    "text": "4.1 Websites\nWater Boards’ Tribal Water Data Initiatives",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resources</span>"
+    ]
   },
   {
     "objectID": "resources.html#presentations",
     "href": "resources.html#presentations",
     "title": "4  Resources",
     "section": "4.2 Presentations",
-    "text": "4.2 Presentations\n Using California Water Board’s Tribal Water Data Map to Understand Pollution in your Area. Oct 2023 (Fall Tribal Conference). Anna Holder, Sarah Ryan. Tribal EPA & US EPA Region 9 Annual Conference. Recording\n CA Water Boards’ Tribal Water Data Resources Update. Aug 2023 (Summer Meeting). Badhia Yunes Katz, Anna Holder. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC).\n Introduction to CA Water Boards’ Tribal Water Data Resources. Feb 2023 (Winter Meeting). Badhia Yunes Katz, Anna Holder. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC)."
+    "text": "4.2 Presentations\n Using California Water Board’s Tribal Water Data Map to Understand Pollution in your Area. Oct 2023 (Fall Tribal Conference). Anna Holder, Sarah Ryan. Tribal EPA & US EPA Region 9 Annual Conference. Recording\n CA Water Boards’ Tribal Water Data Resources Update. Aug 2023 (Summer Meeting). Badhia Yunes Katz, Anna Holder. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC).\n Introduction to CA Water Boards’ Tribal Water Data Resources. Feb 2023 (Winter Meeting). Badhia Yunes Katz, Anna Holder. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC).",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resources</span>"
+    ]
   },
   {
     "objectID": "resources.html#other-data-visualization-tools",
     "href": "resources.html#other-data-visualization-tools",
     "title": "4  Resources",
     "section": "4.3 Other Data Visualization Tools",
-    "text": "4.3 Other Data Visualization Tools\nTribal Drinking Water - This tool is intended to compile and display information that can inform and help prioritize outreach related to drinking water issues in tribal areas within California. It is a work in progress, and is not intended to be a comprehensive source of tribal-related water data."
+    "text": "4.3 Other Data Visualization Tools\nTribal Drinking Water - This tool is intended to compile and display information that can inform and help prioritize outreach related to drinking water issues in tribal areas within California. It is a work in progress, and is not intended to be a comprehensive source of tribal-related water data.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "5  Meet the Team!",
+    "section": "",
+    "text": "5.1 OIMA",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Meet the Team!</span>"
+    ]
   },
   {
     "objectID": "contacts.html#oima",
     "href": "contacts.html#oima",
     "title": "5  Meet the Team!",
-    "section": "5.1 OIMA",
-    "text": "5.1 OIMA\n\n\n\nName\nTitle\n\n\n\n\nAnna Holder\nEnvironmental Scientist & OIMA Tribal Coordinator\n\n\nLeah Benton\nCivicSpark Fellow"
+    "section": "",
+    "text": "Name\nTitle\n\n\n\n\nAnna Holder\nEnvironmental Scientist & OIMA Tribal Coordinator\n\n\nLeah Benton\nCivicSpark Fellow",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Meet the Team!</span>"
+    ]
   },
   {
     "objectID": "contacts.html#tribal-partners",
     "href": "contacts.html#tribal-partners",
     "title": "5  Meet the Team!",
     "section": "5.2 Tribal Partners",
-    "text": "5.2 Tribal Partners\n\nTribal partners listed in ascending order by Affiliation\n\n\nName\nTitle\nAffiliation\n\n\n\n\nSarah Ryan\nEnvironmental Director\nBig Valley Band of Pomo Indians, Environmental Protection Department (Big Valley EPA)\n\n\nMeyo Marrufo\nEnvironmental Director\nGuidiville Rancheria\n\n\nShasta Gaughen\nDirector\nPala Band of Mission Indians, Environmental Department (PED)\n\n\n\nWe also regularly receive critical feedback from the California Issues Workgroup of the US EPA Region 9 Regional Tribal Operations Committee (RTOC). See the Resource Chapter of this User Manual for past presentations."
+    "text": "5.2 Tribal Partners\n\nTribal partners listed in ascending order by Affiliation\n\n\nName\nTitle\nAffiliation\n\n\n\n\nSarah Ryan\nEnvironmental Director\nBig Valley Band of Pomo Indians, Environmental Protection Department (Big Valley EPA)\n\n\nMeyo Marrufo\nEnvironmental Director\nGuidiville Rancheria\n\n\nShasta Gaughen\nDirector\nPala Band of Mission Indians, Environmental Department (PED)\n\n\n\nWe also regularly receive critical feedback from the California Issues Workgroup of the US EPA Region 9 Regional Tribal Operations Committee (RTOC). See the Resource Chapter of this User Manual for past presentations.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Meet the Team!</span>"
+    ]
   },
   {
     "objectID": "contacts.html#former-oima-fellows-interns",
     "href": "contacts.html#former-oima-fellows-interns",
     "title": "5  Meet the Team!",
     "section": "5.3 Former OIMA Fellows & Interns",
-    "text": "5.3 Former OIMA Fellows & Interns\n\n\n\nName\nTitle\nYear\n\n\n\n\nJosh Davenport\nStanford Fellow\n2023\n\n\nBadhia Yunes Katz\nCivicSpark Fellow\n2022-2023"
+    "text": "5.3 Former OIMA Fellows & Interns\n\n\n\nName\nTitle\nYear\n\n\n\n\nJosh Davenport\nStanford Fellow\n2023\n\n\nBadhia Yunes Katz\nCivicSpark Fellow\n2022-2023",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Meet the Team!</span>"
+    ]
+  },
+  {
+    "objectID": "contribute.html",
+    "href": "contribute.html",
+    "title": "6  Contributing",
+    "section": "",
+    "text": "6.1 Who can contribute\nCurrently, only members of the OIMA Team are able to make edits to this User Manual and the Map, however we are always looking for feedback!",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Contributing</span>"
+    ]
   },
   {
     "objectID": "contribute.html#who-can-contribute",
     "href": "contribute.html#who-can-contribute",
     "title": "6  Contributing",
-    "section": "6.1 Who can contribute",
-    "text": "6.1 Who can contribute\nCurrently, only members of the OIMA Team are able to make edits to this User Manual and the Map, however we are always looking for feedback!\n\n\n\n\n\n\nWe want your feedback!\n\n\n\nIf you have recommendations for improvement related to the Map or this User Manual you can send it to us by:\n\nCompleting the Tribal Water Data Map Survey, OR\nEmailing Anna Holder at: anna.holder@waterboards.ca.gov, OR\nSubmitting a GitHub Issue\n\nNote this requires the individual to have a GitHub Account.\nIf you would like to create a GitHub Account, complete Step 3 in the Setup Section below; no other steps need to be completed to submit an Issue."
+    "section": "",
+    "text": "We want your feedback!\n\n\n\nIf you have recommendations for improvement related to the Map or this User Manual you can send it to us by:\n\nCompleting the Tribal Water Data Map Survey, OR\nEmailing Anna Holder at: anna.holder@waterboards.ca.gov, OR\nSubmitting a GitHub Issue\n\nNote this requires the individual to have a GitHub Account.\nIf you would like to create a GitHub Account, complete Step 3 in the Setup Section below; no other steps need to be completed to submit an Issue.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Contributing</span>"
+    ]
   },
   {
     "objectID": "contribute.html#how-we-contribute",
     "href": "contribute.html#how-we-contribute",
     "title": "6  Contributing",
     "section": "6.2 How we contribute",
-    "text": "6.2 How we contribute\nWe develop the content for this User Manual using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\n\n6.2.1 Setup\nTo contribute, OIMA Team members must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nCreate your free personal account GitHub account\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together."
+    "text": "6.2 How we contribute\nWe develop the content for this User Manual using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\n\n6.2.1 Setup\nTo contribute, OIMA Team members must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nCreate your free personal account GitHub account\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Contributing</span>"
+    ]
   }
 ]
