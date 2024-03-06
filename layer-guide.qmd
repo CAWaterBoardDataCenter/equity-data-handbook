@@ -134,6 +134,30 @@ Data Update Frequency: As needed
 
 Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)
 
+### Agricultural Pesticides
+
+This indicator represents the reported use of 132 hazardous and volatile pesticides in 2017-2019. Only pesticides used on agricultural commodities are included in the indicator. The data is averaged over the census tract area, and some application may be adjacent to (instead of within) the census tract.
+
+![](images/layer-guide_agricultural-pesticides.png)
+
+Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+
+Data Update Frequency: As needed
+
+Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
+
+### Disadvantaged Communities
+
+This map shows the disadvantaged communities designated by CalEPA for the purpose of SB 535. These areas represent the 25% highest scoring census tracts in CalEnviroScreen 4.0, census tracts previously identified in the top 25% in CalEnviroScreen 3.0, census tracts with high amounts of pollution and low populations, and federally recognized tribal areasas identified by the Census in the 2021 American Indian Areas Related National Geodatabase.
+
+![](images/layer-guide_agricultural-pesticides.png)
+
+Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+
+Data Update Frequency: As needed
+
+Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
+
 ## Other Government Layers
 
 ### Non-private Land Holders
