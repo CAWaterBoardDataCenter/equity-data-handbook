@@ -2,24 +2,50 @@ project:
   type: book
 
 book:
-  title: "User Manual for CA Water Board's Tribal Water Data Map"
+  title: "Equity Data Handbook"
   author: "CA Water Board's Office of Information Management and Analysis (OIMA)"
-  date: "2023-08-24"
+  date: "2024-07-01"
   search: true
-  repo-url: https://github.com/CAWaterBoardDataCenter/tribal-water-data-map-manual
+  repo-url: https://github.com/CAWaterBoardDataCenter/equity-data-handbook
   repo-actions: [edit, issue]
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
   chapters:
   
     - index.qmd
-    - about-oima.qmd
-    - map-guide.qmd
-    - layer-guide.qmd
+    - background.qmd
+    
+    - part: Getting Started
+      chapters:
+        - get-started.qmd
+        - best-practice.qmd
+        - common-language.qmd
+        
+    - part: Data Collection
+      chapters:
+        - plan.qmd
+        - sources.qmd
+        - surveys.qmd
+        - limits.qmd
+        
+    - part: Data Prep & Use
+      chapters:
+        - prep.qmd
+        - analysis.qmd
+        - vis.qmd
+        - demographics.qmd
+        
+    - part: Sharing & Reproducability
+      chapters:
+        - share.qmd
+        - documentation.qmd
+      
+    - part: Use Cases
+      chapters:
+        - uc1.qmd
+        
     - resources.qmd
-    - contacts.qmd
-    - contribute.qmd
-   
+    - inspo.qmd
     
   sidebar:
     style: "docked"

@@ -1,11 +1,5 @@
 # Welcome! {.unnumbered}
 
-This is an online User Manual for the [California Water Board's Tribal Water Data Map](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c1841907240e1a4d896c8cf2302a8) (Map), written by the California State Water Resources Control Board's ([State Water Board](https://www.waterboards.ca.gov/)) Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)).
-
-**The purpose of the** [**Map**](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c1841907240e1a4d896c8cf2302a8) is to increase awareness of and access to the Water Board's water data resources that intersect with Tribal matters and needs. The interactive Map includes curated data layers that have been requested by tribal partners and that may be useful for California Native American Tribes (tribes) doing environmental or water related work.
-
-**The purpose of this User Manual** is to provide guidance and context so it's easier for all audiences to use the Map. Content in this User Manual includes curated information that the has been requested by tribal partners and/or that the development Team thinks may be helpful to reference when using the map.
-
-To view the status of ongoing Map and User Manual development, visit the [Project Management Board](https://github.com/orgs/CAWaterBoardDataCenter/projects/8/views/1).
+\[ Add welcome and intro info \]
 
 This [Quarto book](https://quarto.org/docs/books) is an open, living, and continuously iterating resource. If you have suggestions for additions or revisions you think should be incorporated into this book, please follow the guidance provided in the [Contributing](https://cawaterboarddatacenter.github.io/swamp-manual/contribute.html) chapter.

@@ -1,0 +1,3 @@
+# Data Sharing
+
+add guidance on open/sharing practices & locations - GitHub, Open Data Portals, etc.
