@@ -47,7 +47,7 @@
     "href": "resources.html",
     "title": "16  Resources",
     "section": "",
-    "text": "16.1 Websites\nWater Boards’ Tribal Water Data Initiatives",
+    "text": "16.1 Websites",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Resources</span>"
     ]
@@ -57,17 +57,27 @@
     "href": "resources.html#presentations",
     "title": "16  Resources",
     "section": "16.2 Presentations",
-    "text": "16.2 Presentations\n Using California Water Board’s Tribal Water Data Map to Understand Pollution in your Area. Oct 2023 (Fall Tribal Conference). Anna Holder, Sarah Ryan. Tribal EPA & US EPA Region 9 Annual Conference. Recording\n CA Water Boards’ Tribal Water Data Resources Update. Aug 2023 (Summer Meeting). Badhia Yunes Katz, Anna Holder. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC).\n Introduction to CA Water Boards’ Tribal Water Data Resources. Feb 2023 (Winter Meeting). Badhia Yunes Katz, Anna Holder. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC).",
+    "text": "16.2 Presentations\n Analyzing Water Boards and Demographic Data for Equity. Jun 2024. Hannah Cushman Garland. State Water Board Racial Equity Data Subcommittee Webinar. Recording | Download and Use the Code | View Code",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
-    "objectID": "resources.html#other-data-visualization-tools",
-    "href": "resources.html#other-data-visualization-tools",
+    "objectID": "resources.html#other-equity-data-handbooks-or-toolkits",
+    "href": "resources.html#other-equity-data-handbooks-or-toolkits",
     "title": "16  Resources",
-    "section": "16.3 Other Data Visualization Tools",
-    "text": "16.3 Other Data Visualization Tools\nTribal Drinking Water - This tool is intended to compile and display information that can inform and help prioritize outreach related to drinking water issues in tribal areas within California. It is a work in progress, and is not intended to be a comprehensive source of tribal-related water data.",
+    "section": "16.3 Other Equity & Data Handbooks or Toolkits",
+    "text": "16.3 Other Equity & Data Handbooks or Toolkits\nGARE Racial Equity Toolkit: An Opportunity to Operationalize Equity\nCA Water Boards College of Water Informatics Data Toolkit",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "resources.html#cool-data-visualization-tools",
+    "href": "resources.html#cool-data-visualization-tools",
+    "title": "16  Resources",
+    "section": "16.4 Cool Data Visualization Tools",
+    "text": "16.4 Cool Data Visualization Tools",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Resources</span>"
     ]
