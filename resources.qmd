@@ -12,6 +12,8 @@ All Water Boards authors are **bolded** below.
 
 ## Other Equity & Data Handbooks or Toolkits
 
+[Water Boards Developed Racial Equity Data Tools](https://gispublic.waterboards.ca.gov/portal/apps/experiencebuilder/template/?data_id=dataSource_14-0%3A10&id=b02e68db0fa7452aad0b08d3c65d4a93)
+
 [GARE Racial Equity Toolkit: An Opportunity to Operationalize Equity](https://www.racialequityalliance.org/viewdocument/racial-equity-toolkit-an-opportuni-2)
 
 [CA Water Boards College of Water Informatics Data Toolkit](https://www.waterboards.ca.gov/resources/oima/cowi/data_training.html)
