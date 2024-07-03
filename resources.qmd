@@ -1,21 +1,19 @@
 # Resources
 
-Here you will find a curated list of presentations, webpages and other resources related to the development, implementation and scaling of the Water Board's Tribal Water Data Map.
+Here you will find a curated list of presentations, webpages and other resources related to the development, implementation and scaling of the principles and practices outlined in this Data Equity Handbook.
 
 All Water Boards authors are **bolded** below.
 
 ## Websites
 
-[Water Boards' Tribal Water Data Initiatives](https://www.waterboards.ca.gov/resources/oima/tribal_water_data_initiatives/)
-
 ## Presentations
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [Using California Water Board's Tribal Water Data Map to Understand Pollution in your Area](https://drive.google.com/file/d/11xj_Bj4m9MeaVkGYySrKZOR-KEZCJh9x/view?usp=sharing). Oct 2023 ([Fall Tribal Conference](https://tribalepa.com/2023-conference/)). **Anna Holder**, Sarah Ryan. Tribal EPA & US EPA Region 9 Annual Conference. [Recording](https://youtu.be/5s0AfEzw2_s?si=HAj_03DC3PDUnfHp&t=185)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [Analyzing Water Boards and Demographic Data for Equity](https://cawaterboards.sharepoint.com/:b:/r/sites/WB-OPP-EJRoundtable/Materials/Racial%20Equity%20Data%20Subcommittee/Webinars/Demo%20Webinar%20with%20DataMade%20Coaches_25June24/Hannah%27s%20slides%20on%20racial%20equity%20data%20analysis.pdf?csf=1&web=1&e=eNCc0K). Jun 2024. Hannah Cushman Garland. State Water Board Racial Equity Data Subcommittee Webinar. [Recording](https://cawaterboards.sharepoint.com/:v:/r/sites/WB-OPP-EJRoundtable/Materials/Racial%20Equity%20Data%20Subcommittee/Webinars/Demo%20Webinar%20with%20DataMade%20Coaches_25June24/DataMade%20Webinar%20Recording_25June24.mp4?csf=1&web=1&e=oOuGyf) \| [Download and Use the Code](https://drive.google.com/file/d/1yva-EE0JyQna4c5RN73TJ7F0YUIRTXCI/view?usp=sharing) \| [View Code](https://datamade.github.io/waterboard-coaching/)
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [CA Water Boards' Tribal Water Data Resources Update](https://docs.google.com/presentation/d/1-K_To1xSz9-GATblLJswJyQCUD0pcI1QFzAo591XVNk/edit?usp=sharing). Aug 2023 ([Summer Meeting](https://www.epa.gov/tribal-pacific-sw/region-9-rtoc-meeting-materials-summer-2023)). **Badhia Yunes Katz**, **Anna Holder**. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC).
+## Other Equity & Data Handbooks or Toolkits
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [Introduction to CA Water Boards' Tribal Water Data Resources](https://docs.google.com/presentation/d/1Xtgz76_KohNsLFq_sAtnEgPza8lrJs9CeJX2bvSngow/edit?usp=sharing). Feb 2023 ([Winter Meeting](https://www.epa.gov/tribal-pacific-sw/region-9-rtoc-meeting-winter-2023)). **Badhia Yunes Katz**, **Anna Holder**. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC).
+[GARE Racial Equity Toolkit: An Opportunity to Operationalize Equity](https://www.racialequityalliance.org/viewdocument/racial-equity-toolkit-an-opportuni-2)
 
-## Other Data Visualization Tools
+[CA Water Boards College of Water Informatics Data Toolkit](https://www.waterboards.ca.gov/resources/oima/cowi/data_training.html)
 
-[Tribal Drinking Water](https://cawaterdatadive.shinyapps.io/ca-tribal-data/) - This tool is intended to compile and display information that can inform and help prioritize outreach related to drinking water issues in tribal areas within California. It is a work in progress, and is not intended to be a comprehensive source of tribal-related water data.
+## Cool Data Visualization Tools
