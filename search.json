@@ -21,6 +21,17 @@
     ]
   },
   {
+    "objectID": "demographics.html#point-data",
+    "href": "demographics.html#point-data",
+    "title": "12  Demographics Data",
+    "section": "",
+    "text": "---\ncode-annotations: below\n---\n\n```r\nlibrary(tidyverse)\nlibrary(palmerpenguins)\npenguins |&gt;\n  mutate(\n    bill_ratio = bill_depth_mm / bill_length_mm,\n    bill_area  = bill_depth_mm * bill_length_mm\n  )\n```\n1. Take `penguins`, and then,\n2. add new columns for the bill ratio and bill area.",
+    "crumbs": [
+      "Data Prep & Use",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
+    ]
+  },
+  {
     "objectID": "demographics.html#lines",
     "href": "demographics.html#lines",
     "title": "12  Demographics Data",
