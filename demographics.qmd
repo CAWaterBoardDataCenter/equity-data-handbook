@@ -4,8 +4,8 @@ Adding demographics data to your data project can help increase understanding of
 
 Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline different methods of....
 
-# Point Data
+## Point Data
 
-# Lines
+## Lines
 
-# Polygons
+## Polygons
