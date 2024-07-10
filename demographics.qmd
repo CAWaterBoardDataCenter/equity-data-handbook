@@ -4,9 +4,47 @@ Adding demographics data to your data project can help increase understanding of
 
 Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.
 
+## Before you dive in
+
+Think through what questions you have and what data would be the best to use to answer that questions
+
+data isn't people
+
+be sure to understand limitations / bias of data you use
+
+-   who collected it? what were their original intentions/questions
+
+::: callout-important
+Remember - there's no such thing as "equity data" - how we use, interpret data and act on what we learn makes our use equitable (or not)
+:::
+
+### Key Terms
+
+Demographics
+
+-   
+
+Geographies
+
+-   
+
+Census Data
+
+-   
+
 ## Collecting Data
 
-## Point Data
+### Demographics data sources
+
+-   census data in R & Python
+
+non-census data (e.g. CalEnviroScreen)
+
+### Common tables to use in sources
+
+## Data Prep & Use
+
+### Point Data
 
 ```` r
 ---
@@ -26,9 +64,11 @@ penguins |>                                      # <1>
 2. add new columns for the bill ratio and bill area.
 ````
 
-## Lines
+### Lines
 
 ``` python
 ```
 
-## Polygons
+### Polygons
+
+## Data Interpretation
