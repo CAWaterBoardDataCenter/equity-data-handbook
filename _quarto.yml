@@ -43,6 +43,7 @@ book:
     - part: Use Cases
       chapters:
         - uc1.qmd
+        - uc2_demographics.qmd
         
     - resources.qmd
     - inspo.qmd

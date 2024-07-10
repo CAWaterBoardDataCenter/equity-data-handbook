@@ -4,6 +4,8 @@ Adding demographics data to your data project can help increase understanding of
 
 Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.
 
+## Collecting Data
+
 ## Point Data
 
 ```` r
@@ -25,5 +27,8 @@ penguins |>                                      # <1>
 ````
 
 ## Lines
+
+``` python
+```
 
 ## Polygons
