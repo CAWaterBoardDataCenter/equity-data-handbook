@@ -10,6 +10,17 @@
     ]
   },
   {
+    "objectID": "demographics.html",
+    "href": "demographics.html",
+    "title": "12  Demographics Data",
+    "section": "",
+    "text": "Adding demographics data to your data project can help increase understanding of potential correlations or relationships between your data and demographic and socioeconomic characteristics of locations of interest.\nDepending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline different methods of….\n\n13 Point Data\n\n\n14 Lines\n\n\n15 Polygons",
+    "crumbs": [
+      "Data Prep & Use",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
+    ]
+  },
+  {
     "objectID": "share.html",
     "href": "share.html",
     "title": "13  Data Sharing",
