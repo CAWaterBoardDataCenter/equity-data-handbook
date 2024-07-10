@@ -14,7 +14,7 @@
     "href": "demographics.html",
     "title": "12  Demographics Data",
     "section": "",
-    "text": "12.1 Point Data",
+    "text": "12.1 Collecting Data",
     "crumbs": [
       "Data Prep & Use",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
@@ -24,8 +24,8 @@
     "objectID": "demographics.html#point-data",
     "href": "demographics.html#point-data",
     "title": "12  Demographics Data",
-    "section": "",
-    "text": "---\ncode-annotations: below\n---\n\n```r\nlibrary(tidyverse)\nlibrary(palmerpenguins)\npenguins |&gt;\n  mutate(\n    bill_ratio = bill_depth_mm / bill_length_mm,\n    bill_area  = bill_depth_mm * bill_length_mm\n  )\n```\n1. Take `penguins`, and then,\n2. add new columns for the bill ratio and bill area.",
+    "section": "12.2 Point Data",
+    "text": "12.2 Point Data\n---\ncode-annotations: below\n---\n\n```r\nlibrary(tidyverse)\nlibrary(palmerpenguins)\npenguins |&gt;\n  mutate(\n    bill_ratio = bill_depth_mm / bill_length_mm,\n    bill_area  = bill_depth_mm * bill_length_mm\n  )\n```\n1. Take `penguins`, and then,\n2. add new columns for the bill ratio and bill area.",
     "crumbs": [
       "Data Prep & Use",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
@@ -35,8 +35,8 @@
     "objectID": "demographics.html#lines",
     "href": "demographics.html#lines",
     "title": "12  Demographics Data",
-    "section": "12.2 Lines",
-    "text": "12.2 Lines",
+    "section": "12.3 Lines",
+    "text": "12.3 Lines",
     "crumbs": [
       "Data Prep & Use",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
@@ -46,8 +46,8 @@
     "objectID": "demographics.html#polygons",
     "href": "demographics.html#polygons",
     "title": "12  Demographics Data",
-    "section": "12.3 Polygons",
-    "text": "12.3 Polygons",
+    "section": "12.4 Polygons",
+    "text": "12.4 Polygons",
     "crumbs": [
       "Data Prep & Use",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
@@ -89,51 +89,51 @@
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "16  Resources",
+    "title": "17  Resources",
     "section": "",
-    "text": "16.1 Websites",
+    "text": "17.1 Websites",
     "crumbs": [
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
     "objectID": "resources.html#presentations",
     "href": "resources.html#presentations",
-    "title": "16  Resources",
-    "section": "16.2 Presentations",
-    "text": "16.2 Presentations\n Analyzing Water Boards and Demographic Data for Equity. Jun 2024. Hannah Cushman Garland. State Water Board Racial Equity Data Subcommittee Webinar. Recording | Download and Use the Code | View Code",
+    "title": "17  Resources",
+    "section": "17.2 Presentations",
+    "text": "17.2 Presentations\n Analyzing Water Boards and Demographic Data for Equity. Jun 2024. Hannah Cushman Garland. State Water Board Racial Equity Data Subcommittee Webinar. Recording | Download and Use the Code | View Code",
     "crumbs": [
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
     "objectID": "resources.html#other-equity-data-handbooks-or-toolkits",
     "href": "resources.html#other-equity-data-handbooks-or-toolkits",
-    "title": "16  Resources",
-    "section": "16.3 Other Equity & Data Handbooks or Toolkits",
-    "text": "16.3 Other Equity & Data Handbooks or Toolkits\nWater Boards Developed Racial Equity Data Tools\nGARE Racial Equity Toolkit: An Opportunity to Operationalize Equity\nCA Water Boards College of Water Informatics Data Toolkit",
+    "title": "17  Resources",
+    "section": "17.3 Other Equity & Data Handbooks or Toolkits",
+    "text": "17.3 Other Equity & Data Handbooks or Toolkits\nWater Boards Developed Racial Equity Data Tools\nGARE Racial Equity Toolkit: An Opportunity to Operationalize Equity\nCA Water Boards College of Water Informatics Data Toolkit",
     "crumbs": [
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
     "objectID": "resources.html#cool-data-visualization-tools",
     "href": "resources.html#cool-data-visualization-tools",
-    "title": "16  Resources",
-    "section": "16.4 Cool Data Visualization Tools",
-    "text": "16.4 Cool Data Visualization Tools",
+    "title": "17  Resources",
+    "section": "17.4 Cool Data Visualization Tools",
+    "text": "17.4 Cool Data Visualization Tools",
     "crumbs": [
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
     "objectID": "inspo.html",
     "href": "inspo.html",
-    "title": "17  Inspiration",
+    "title": "18  Inspiration",
     "section": "",
     "text": "The impetus for developing this Data Equity Handbook began in August 2020 when the State Water Resources Control Board (State Water Board) publicly acknowledged that the historical effects of institutional racism must be confronted throughout government, and it directed staff to develop a priority plan of action.\nSince then, the State Water Board, it’s Office of Information Management and Analysis (OIMA) and OIMA’s many internal and external partners have been developing and compiling material, and adding to this Data Equity Handbook as time and bandwidth allow.\nThis Data Equity Handbook is inspired by many sources, including:\n\nWater Boards Racial Equity - Resolution and Related Actions\nGovernment Alliance on Race and Equity (GARE)\nOpenscapes and their Approach Guide\nNOAA Fisheries (NMFS) Open Science Resource Book",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Inspiration</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Inspiration</span>"
     ]
   }
 ]

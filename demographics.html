@@ -329,18 +329,24 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
  <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Use Case 1</span></span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./uc2_demographics.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">uc2_demographics.html</span></span></a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./resources.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Resources</span></span></a>
+ <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Resources</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./inspo.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Inspiration</span></span></a>
+ <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Inspiration</span></span></a>
   </div>
 </li>
     </ul>
@@ -353,9 +359,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#point-data" id="toc-point-data" class="nav-link active" data-scroll-target="#point-data"><span class="header-section-number">12.1</span> Point Data</a></li>
-  <li><a href="#lines" id="toc-lines" class="nav-link" data-scroll-target="#lines"><span class="header-section-number">12.2</span> Lines</a></li>
-  <li><a href="#polygons" id="toc-polygons" class="nav-link" data-scroll-target="#polygons"><span class="header-section-number">12.3</span> Polygons</a></li>
+  <li><a href="#collecting-data" id="toc-collecting-data" class="nav-link active" data-scroll-target="#collecting-data"><span class="header-section-number">12.1</span> Collecting Data</a></li>
+  <li><a href="#point-data" id="toc-point-data" class="nav-link" data-scroll-target="#point-data"><span class="header-section-number">12.2</span> Point Data</a></li>
+  <li><a href="#lines" id="toc-lines" class="nav-link" data-scroll-target="#lines"><span class="header-section-number">12.3</span> Lines</a></li>
+  <li><a href="#polygons" id="toc-polygons" class="nav-link" data-scroll-target="#polygons"><span class="header-section-number">12.4</span> Polygons</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/edit/main/demographics.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -383,8 +390,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <p>Adding demographics data to your data project can help increase understanding of potential correlations or relationships between your data and demographic and socioeconomic characteristics of locations of interest.</p>
 <p>Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.</p>
-<section id="point-data" class="level2" data-number="12.1">
-<h2 data-number="12.1" class="anchored" data-anchor-id="point-data"><span class="header-section-number">12.1</span> Point Data</h2>
+<section id="collecting-data" class="level2" data-number="12.1">
+<h2 data-number="12.1" class="anchored" data-anchor-id="collecting-data"><span class="header-section-number">12.1</span> Collecting Data</h2>
+</section>
+<section id="point-data" class="level2" data-number="12.2">
+<h2 data-number="12.2" class="anchored" data-anchor-id="point-data"><span class="header-section-number">12.2</span> Point Data</h2>
 <div class="sourceCode" id="annotated-cell-1"><pre class="sourceCode r code-annotation-code code-with-copy"><code class="sourceCode r"><span id="annotated-cell-1-1"><a href="#annotated-cell-1-1" aria-hidden="true" tabindex="-1"></a><span class="sc">---</span></span>
 <span id="annotated-cell-1-2"><a href="#annotated-cell-1-2" aria-hidden="true" tabindex="-1"></a>code<span class="sc">-</span>annotations<span class="sc">:</span> below</span>
 <span id="annotated-cell-1-3"><a href="#annotated-cell-1-3" aria-hidden="true" tabindex="-1"></a><span class="sc">---</span></span>
@@ -401,11 +411,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="annotated-cell-1-14"><a href="#annotated-cell-1-14" aria-hidden="true" tabindex="-1"></a><span class="fl">1.</span> Take <span class="st">`</span><span class="at">penguins</span><span class="st">`</span>, and then,</span>
 <span id="annotated-cell-1-15"><a href="#annotated-cell-1-15" aria-hidden="true" tabindex="-1"></a><span class="fl">2.</span> add new columns <span class="cf">for</span> the bill ratio and bill area.</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
-<section id="lines" class="level2" data-number="12.2">
-<h2 data-number="12.2" class="anchored" data-anchor-id="lines"><span class="header-section-number">12.2</span> Lines</h2>
+<section id="lines" class="level2" data-number="12.3">
+<h2 data-number="12.3" class="anchored" data-anchor-id="lines"><span class="header-section-number">12.3</span> Lines</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
-<section id="polygons" class="level2" data-number="12.3">
-<h2 data-number="12.3" class="anchored" data-anchor-id="polygons"><span class="header-section-number">12.3</span> Polygons</h2>
+<section id="polygons" class="level2" data-number="12.4">
+<h2 data-number="12.4" class="anchored" data-anchor-id="polygons"><span class="header-section-number">12.4</span> Polygons</h2>
 
 
 </section>
