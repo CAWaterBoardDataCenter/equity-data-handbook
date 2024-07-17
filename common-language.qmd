@@ -1,1 +1,31 @@
 # Establishing Common Language
+
+When working with racial equity data we suggest establishing a common language and definitions to cultivate a collective understanding of underlying concepts and historical context. Creating and agreeing upon a common language can help foster transparency, challenge assumptions, and center the voices of marginalized communities. Yet the efficiency of these efforts hinges on a shared language that facilitates understanding and collaboration. By grounding discussions in a common language, we can build trust and empower our team and community.\
+
+Establishing a common language and definitions are critical to creating a shared understanding, however we acknowledge that language can be used deliberately to engage and support community anti-racism coalitions and initiatives, or to inflame and divide them. It is important to note that although the language in this resource may be commonly used, it is not the sole definition and some may disagree with the definitions and their use. More specifically, in this resource we intentionally use the acronym BIPoC (Black, Indigenous, people of color) as a term that seeks to recognize the unique experience of Black and Indigenous People within the United States. We recognize that naming is power, and we remain committed to using language that supports pro-Blackness and Native visibility, while dismantling white supremacy. 
+
+\
+
+List of definitions: 
+
+Short list of important definitions (i.e. data definitions and we can address BIPOC here)
+
+[Glossary \| Racial Equity Tools](https://www.racialequitytools.org/glossary) - include glossary of definitions? 
+
+Below are a set of definitions provided by the Water Board Racial Equity Team in the development of the Racial Equity Resolution and Racial Equity Action Plan and are those that we adhere to in this document. (citations can be found [here](https://waterboards.ca.gov/racial_equity/information-and-resources.html#terminology))
+
+-   **Equality** describes circumstances in which each individual or group is given the same or equal treatment, including the same resources, opportunities, and support. However, because different individuals or groups have different histories, needs, and circumstances, they do not have equal positions in society or starting points. Providing the same resources, support, or treatment does not guarantee that everyone will have fair or equal outcomes.
+
+-   **Ethnicity** is a term used to describe subgroups of a population that share characteristics such as language, values, behavioral patterns, history, and ancestral geographical base. Social scientists often use the terms ethnicity and ethnic group to avoid the perception of biological significance associated with race.
+
+-   **Institutional racism** describes the ways in which policies and practices perpetuated by institutions, including governments and private groups, produce different outcomes for different racial groups in a manner that benefits the dominant group. In the United States, institutional racism includes policies that may not mention race but still result in benefiting white people over people of color.
+
+-   **Race** is a social construct used to categorize humans into groups based on combinations of shared physical traits such as skin color, hair texture, nose shape, eye shape, or head shape. Although most scientists agree that such groupings lack biological meaning, racial groups continue to have a strong influence over contemporary social relations. Historically in the United States, race has frequently been used to concentrate power with white people and legitimize dominance over non-white people.
+
+-   **Racial equity** means Race can no longer be used to predict life outcomes and outcomes for all groups are improved. For example, when we hold income constant, there are still large inequities based on race across multiple indicators for success, including the environment, education, jobs, incarceration, health and housing. 
+
+-   **Racism** is any prejudice against someone because of their race when systems of power reinforce those views. 
+
+-   **Structural racism** is the normalization and legitimization of an array of historical, cultural, institutional, and interpersonal dynamics that routinely advantage whites while producing cumulative and chronic adverse outcomes for people of color. Structural racism encompasses the entire system of white domination, diffused, and infused in all aspects of society, including its history, culture, politics, economics, and whole social fabric. Structural racism is more difficult to locate in a particular institution because it involves the reinforcing effects of multiple institutions and cultural norms, past and present, continually reproducing old and producing new forms of racism. Structural racism is the most profound and pervasive form of racism; all other forms of racism emerge from structural racism.
+
+**Systemic racism** can be said to encompass both institutional and structural racism. Glenn Harris, president of Race Forward, defines systemic racism as “the complex interaction of culture, policy and institutions that holds in place the outcomes we see in our lives.”  The legacy of systemic racism can be seen in a variety of outcomes affecting people of color, such as housing insecurity, a ten-fold wealth gap between white and Black or Latinx households, a dramatic overrepresentation of people of color in prison, and disparities in education, health, and exposure to environmental pollution.
