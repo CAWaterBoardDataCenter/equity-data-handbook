@@ -1,3 +1,5 @@
 # Documentation
 
 Add guidance on documentation, reproducibility & transparency, oh my!
+
+This is intended to be a living document and providing documentation is extremely important.
