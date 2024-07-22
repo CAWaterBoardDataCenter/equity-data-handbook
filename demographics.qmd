@@ -13,13 +13,17 @@ code-annotations: below
 ---
 
 ``` r
-x <- 1:10  # <1>
-y <- x^2   # <2>
-z <- x^3   # <2>
+library(tidyverse)
+library(palmerpenguins)
+penguins |>                                      # <1>
+  mutate(                                        # <2>
+    bill_ratio = bill_depth_mm / bill_length_mm, # <2>
+    bill_area  = bill_depth_mm * bill_length_mm  # <2>
+  )                                              # <2>
 ```
 
-1.  Create a vector `x`, and then,
-2.  compute `y` and `z`
+1.  Take `penguins`, and then,
+2.  add new columns for the bill ratio and bill area.
 
 ## Lines
 
