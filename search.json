@@ -57,7 +57,7 @@
     "href": "demographics.html#point-data",
     "title": "12  Demographics Data",
     "section": "12.2 Point Data",
-    "text": "12.2 Point Data\n1x &lt;- 1:10\n2y &lt;- x^2\nz &lt;- x^3\n\n1\n\nCreate a vector x, and then,\n\n2\n\ncompute y and z",
+    "text": "12.2 Point Data\nlibrary(tidyverse)\nlibrary(palmerpenguins)\n1penguins |&gt;\n2  mutate(\n    bill_ratio = bill_depth_mm / bill_length_mm,\n    bill_area  = bill_depth_mm * bill_length_mm\n  )\n\n1\n\nTake penguins, and then,\n\n2\n\nadd new columns for the bill ratio and bill area.",
     "crumbs": [
       "Data Prep & Use",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
