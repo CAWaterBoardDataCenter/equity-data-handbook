@@ -18,6 +18,8 @@ All Water Boards authors are **bolded** below.
 
 [Beyond Compliance Network Advocacy Toolkit](https://beyondcompliance.pubpub.org/pub/c90gqevm/release/2)
 
+[Academic Data Science Alliance Data Science Ethos](https://ethos.academicdatascience.org/)
+
 [CA Water Boards College of Water Informatics Data Toolkit](https://www.waterboards.ca.gov/resources/oima/cowi/data_training.html)
 
 ## Cool Data Visualization Tools
