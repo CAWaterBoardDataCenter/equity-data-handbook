@@ -16,6 +16,8 @@ All Water Boards authors are **bolded** below.
 
 [GARE Racial Equity Toolkit: An Opportunity to Operationalize Equity](https://www.racialequityalliance.org/viewdocument/racial-equity-toolkit-an-opportuni-2)
 
+[Beyond Compliance Network Advocacy Toolkit](https://beyondcompliance.pubpub.org/pub/c90gqevm/release/2)
+
 [CA Water Boards College of Water Informatics Data Toolkit](https://www.waterboards.ca.gov/resources/oima/cowi/data_training.html)
 
 ## Cool Data Visualization Tools
