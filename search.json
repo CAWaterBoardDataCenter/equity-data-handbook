@@ -108,86 +108,108 @@
     ]
   },
   {
+    "objectID": "calenviroscreen.html",
+    "href": "calenviroscreen.html",
+    "title": "13  Working with CalEnviroScreen",
+    "section": "",
+    "text": "13.1 Missing Values for CalEnviroScreen Scores\nUsers conducting an analysis with theCalEnviroScreen (CES) 4.0 dataset should be aware that it contains missing values, both for individual indicators and overall CES scores. These missing values are distinct from zeros, which are also in the CES dataset. For more information about the missing (and zero) values, see the data dictionary (calenviroscreen40resultsdatadictionary_F_2021.pdf) that accompanies the CalEnviroScreen 4.0 results Excel workbook, available for download as a zip filehere.\nIn the CES 4.0 data (for the version available as of April 2023), the shapefile containing CES 4.0 scores (availablehere) encodes these missing values as negative numbers (-999 for most variables, and -1998 for one variable). The Excel workbook containing CES 4.0 scores (availablehere) encodes these missing values as NA. Users should account for these missing values – and their different encodings – as needed when doing any analysis using CES data. Also, note that the CalEnviroScreen 3 shapefile (June 2018 update version) encoded missing values as 0, so users should be aware of this change if/when updating an analysis from CES 3 to CES 4.0 data.",
+    "crumbs": [
+      "Data Prep & Use",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Working with CalEnviroScreen</span>"
+    ]
+  },
+  {
+    "objectID": "calenviroscreen.html#inconsistent-census-tract-boundaries-in-calenviroscreen-4.0-shapefile",
+    "href": "calenviroscreen.html#inconsistent-census-tract-boundaries-in-calenviroscreen-4.0-shapefile",
+    "title": "13  Working with CalEnviroScreen",
+    "section": "13.2 Inconsistent Census Tract Boundaries in CalEnviroScreen 4.0 Shapefile",
+    "text": "13.2 Inconsistent Census Tract Boundaries in CalEnviroScreen 4.0 Shapefile\nIn the CES 4.0 data (for the version available as of April 2023), the shapefile containing CES 4.0 scores (availablehere)  uses a simplified version of the polygons that represent 2010 census tracts. The boundaries of the census tracts defined by these simplified polygons do not always align with the boundaries of neighboring census tracts, resulting in slight gaps or overlaps between some neighboring census tracts. These inconsistencies are not likely to have a significant impact on most uses of the CES data, but they could impact some types of analysis based on CES data. For example, when assessing sites or facilities based on the CES score of the census tract they are located in, sites located near a census tract boundary could be associated with more than one census tract (and more than one CES score) in areas where there are overlapping census tract polygons, or not associated with any census tract (and no CES score) in areas where there are gaps between census tract polygons. This issue may be addressed in a future release of the CES dataset; in the meantime, a possible workaround is to use the official 2010 census tract boundaries from the US Census Bureau for any calculations, then use census tract IDs to tie this information to the associated CES score for each tract.\n\n\n\nRisks and benefits of using CalEnviroScreen data",
+    "crumbs": [
+      "Data Prep & Use",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Working with CalEnviroScreen</span>"
+    ]
+  },
+  {
     "objectID": "share.html",
     "href": "share.html",
-    "title": "13  Data Sharing",
+    "title": "14  Data Sharing",
     "section": "",
     "text": "add guidance on open/sharing practices & locations - GitHub, Open Data Portals, etc.",
     "crumbs": [
       "Sharing & Reproducability",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Data Sharing</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Data Sharing</span>"
     ]
   },
   {
     "objectID": "documentation.html",
     "href": "documentation.html",
-    "title": "14  Documentation",
+    "title": "15  Documentation",
     "section": "",
     "text": "Add guidance on documentation, reproducibility & transparency, oh my!\nThis is intended to be a living document and providing documentation is extremely important.",
     "crumbs": [
       "Sharing & Reproducability",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Documentation</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Documentation</span>"
     ]
   },
   {
     "objectID": "uc1.html",
     "href": "uc1.html",
-    "title": "15  Use Case 1",
+    "title": "16  Use Case 1",
     "section": "",
     "text": "change page title to short description of use case",
     "crumbs": [
       "Use Cases",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Use Case 1</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Use Case 1</span>"
     ]
   },
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "17  Resources",
+    "title": "18  Resources",
     "section": "",
-    "text": "17.1 Websites",
+    "text": "18.1 Websites",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
     "objectID": "resources.html#presentations",
     "href": "resources.html#presentations",
-    "title": "17  Resources",
-    "section": "17.2 Presentations",
-    "text": "17.2 Presentations\n Analyzing Water Boards and Demographic Data for Equity. Jun 2024. Hannah Cushman Garland. State Water Board Racial Equity Data Subcommittee Webinar. Recording | Download and Use the Code | View Code",
+    "title": "18  Resources",
+    "section": "18.2 Presentations",
+    "text": "18.2 Presentations\n Analyzing Water Boards and Demographic Data for Equity. Jun 2024. Hannah Cushman Garland. State Water Board Racial Equity Data Subcommittee Webinar. Recording | Download and Use the Code | View Code",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
     "objectID": "resources.html#other-equity-data-handbooks-toolkits-guides",
     "href": "resources.html#other-equity-data-handbooks-toolkits-guides",
-    "title": "17  Resources",
-    "section": "17.3 Other Equity & Data Handbooks / Toolkits / Guides",
-    "text": "17.3 Other Equity & Data Handbooks / Toolkits / Guides\nWater Boards Developed Racial Equity Data Tools\nGARE Racial Equity Toolkit: An Opportunity to Operationalize Equity\nBeyond Compliance Network Advocacy Toolkit\nAcademic Data Science Alliance Data Science Ethos\nCA Water Boards College of Water Informatics Data Toolkit\n500 Women Scientists Guide for Inclusive Scientific Meetings",
+    "title": "18  Resources",
+    "section": "18.3 Other Equity & Data Handbooks / Toolkits / Guides",
+    "text": "18.3 Other Equity & Data Handbooks / Toolkits / Guides\nWater Boards Developed Racial Equity Data Tools\nGARE Racial Equity Toolkit: An Opportunity to Operationalize Equity\nBeyond Compliance Network Advocacy Toolkit\nAcademic Data Science Alliance Data Science Ethos\nCA Water Boards College of Water Informatics Data Toolkit\n500 Women Scientists Guide for Inclusive Scientific Meetings",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
     "objectID": "resources.html#cool-data-visualization-tools",
     "href": "resources.html#cool-data-visualization-tools",
-    "title": "17  Resources",
-    "section": "17.4 Cool Data Visualization Tools",
-    "text": "17.4 Cool Data Visualization Tools",
+    "title": "18  Resources",
+    "section": "18.4 Cool Data Visualization Tools",
+    "text": "18.4 Cool Data Visualization Tools",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
     "objectID": "inspo.html",
     "href": "inspo.html",
-    "title": "18  Inspiration",
+    "title": "19  Inspiration",
     "section": "",
     "text": "The impetus for developing this Data Equity Handbook began in August 2020 when the State Water Resources Control Board (State Water Board) publicly acknowledged that the historical effects of institutional racism must be confronted throughout government, and it directed staff to develop a priority plan of action.\nSince then, the State Water Board, it’s Office of Information Management and Analysis (OIMA) and OIMA’s many internal and external partners have been developing and compiling material, and adding to this Data Equity Handbook as time and bandwidth allow.\nThis Data Equity Handbook is inspired by many sources, including:\n\nWater Boards Racial Equity - Resolution and Related Actions\nGovernment Alliance on Race and Equity (GARE)\nOpenscapes and their Approach Guide\nNOAA Fisheries (NMFS) Open Science Resource Book",
     "crumbs": [
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Inspiration</span>"
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Inspiration</span>"
     ]
   }
 ]
