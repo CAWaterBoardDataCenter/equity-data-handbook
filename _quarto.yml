@@ -35,6 +35,8 @@ book:
         - vis.qmd
         - demographics.qmd
         - calenviroscreen.qmd
+        - data-into-information.qmd
+        - demographics-data.qmd
         
     - part: Sharing & Reproducability
       chapters:
