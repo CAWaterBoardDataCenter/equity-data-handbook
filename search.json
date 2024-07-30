@@ -79,7 +79,18 @@
     "href": "demographics.html",
     "title": "12  Demographics Data",
     "section": "",
-    "text": "12.1 Collecting Data",
+    "text": "12.1 Demographics Data Needs Context\nIt’s important to remember that you can always benefit from setting context before trying to communicate demographic or specific racial equity answers to questions posed by our Board, a member of the public, or a partner in this work. What your program is about, what does it do, how well does it do these things (aka Performance Report), etc. This may take a few different visualizations to help frame the context of the program mission but will help viewers understand how you are approaching the racial equity data work within the scope of your program.\nOften the go-to resources for making inferences to demographic and socioeconomic characteristics is the National Census dataset and the associated American Community Survey dataset. While we are fortunate to have just updated this dataset in 2020 there are limitations and potential inaccuracies associated with relying solely on census data to enumerate demographic characteristics within a given census tract. This tool from the Department of Finance exists to measure this limitation.",
+    "crumbs": [
+      "Data Prep & Use",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
+    ]
+  },
+  {
+    "objectID": "demographics.html#collecting-data",
+    "href": "demographics.html#collecting-data",
+    "title": "12  Demographics Data",
+    "section": "12.2 Collecting Data",
+    "text": "12.2 Collecting Data",
     "crumbs": [
       "Data Prep & Use",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
@@ -89,8 +100,8 @@
     "objectID": "demographics.html#point-data",
     "href": "demographics.html#point-data",
     "title": "12  Demographics Data",
-    "section": "12.2 Point Data",
-    "text": "12.2 Point Data\nlibrary(tidyverse)\nlibrary(palmerpenguins)\n1penguins |&gt;\n2  mutate(\n    bill_ratio = bill_depth_mm / bill_length_mm,\n    bill_area  = bill_depth_mm * bill_length_mm\n  )\n\n1\n\nTake penguins, and then,\n\n2\n\nadd new columns for the bill ratio and bill area.",
+    "section": "12.3 Point Data",
+    "text": "12.3 Point Data\nlibrary(tidyverse)\nlibrary(palmerpenguins)\n1penguins |&gt;\n2  mutate(\n    bill_ratio = bill_depth_mm / bill_length_mm,\n    bill_area  = bill_depth_mm * bill_length_mm\n  )\n\n1\n\nTake penguins, and then,\n\n2\n\nadd new columns for the bill ratio and bill area.",
     "crumbs": [
       "Data Prep & Use",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
@@ -100,8 +111,8 @@
     "objectID": "demographics.html#lines",
     "href": "demographics.html#lines",
     "title": "12  Demographics Data",
-    "section": "12.3 Lines",
-    "text": "12.3 Lines",
+    "section": "12.4 Lines",
+    "text": "12.4 Lines",
     "crumbs": [
       "Data Prep & Use",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
@@ -111,8 +122,8 @@
     "objectID": "demographics.html#polygons",
     "href": "demographics.html#polygons",
     "title": "12  Demographics Data",
-    "section": "12.4 Polygons",
-    "text": "12.4 Polygons",
+    "section": "12.5 Polygons",
+    "text": "12.5 Polygons",
     "crumbs": [
       "Data Prep & Use",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
