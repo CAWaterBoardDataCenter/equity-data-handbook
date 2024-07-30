@@ -15,24 +15,64 @@ be sure to understand limitations / bias of data you use
 -   who collected it? what were their original intentions/questions
 
 ::: callout-important
-Remember - there's no such thing as "equity data" - how we use, interpret data and act on what we learn makes our use equitable (or not)
+Remember - there's no such thing as "equity data" - how we use data, interpret it, and act on what we learn makes our use equitable (or not).
 :::
 
 ### Key Terms
 
 Demographics
 
--   
+-   Race
+
+-   Ethnicity
 
 Geographies
 
--   
+-   Block
+
+-   Block Group
+
+-   Tract
 
 Census Data
 
--   
+Tidyverse: the R package we'll be using to organize and prepare data for use \[add link to tidyverse documentation\]
+
+We''ll be running through examples below in R -
+
+link to intro to R4WDS training
+
+use R Projects
+
+use the here package (instead of explicitly setting working directory - makes it more shareable and reproducible
+
+Acknowledgements:
+
+This resource is being developed....and adapting code from...insert DataMade resources...
+
+### Download Packages
+
+census API key sign up link: <https://api.census.gov/data/key_signup.html>
 
 ## Collecting Data
+
+CalEnviroScreen vs Census Data - add table that compares difference sources to make it easier for folks to understand which tool is best for the job
+
+-   geographies
+
+-   last data update
+
+-   age categories
+
+-   
+
+pull over content + code from: <https://datamade.github.io/waterboard-coaching/>
+
+Take some time to review the Concept and Labels in the table -
+
+```         
+summary_var = "P2_001N" # Total population
+```
 
 ### Demographics data sources
 
