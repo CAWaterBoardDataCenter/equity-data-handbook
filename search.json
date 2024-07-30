@@ -79,7 +79,29 @@
     "href": "demographics.html",
     "title": "12  Demographics Data",
     "section": "",
-    "text": "12.1 Demographics Data Needs Context\nIt’s important to remember that you can always benefit from setting context before trying to communicate demographic or specific racial equity answers to questions posed by our Board, a member of the public, or a partner in this work. What your program is about, what does it do, how well does it do these things (aka Performance Report), etc. This may take a few different visualizations to help frame the context of the program mission but will help viewers understand how you are approaching the racial equity data work within the scope of your program.\nOften the go-to resources for making inferences to demographic and socioeconomic characteristics is the National Census dataset and the associated American Community Survey dataset. While we are fortunate to have just updated this dataset in 2020 there are limitations and potential inaccuracies associated with relying solely on census data to enumerate demographic characteristics within a given census tract. This tool from the Department of Finance exists to measure this limitation.",
+    "text": "12.1 Demographics Data Needs Context\nIt’s important to remember that you can always benefit from setting context before trying to communicate demographic or specific racial equity answers to questions posed by our Board, a member of the public, or a partner in this work. What your program is about, what does it do, how well does it do these things (aka Performance Report), etc. This may take a few different visualizations to help frame the context of the program mission but will help viewers understand how you are approaching the racial equity data work within the scope of your program.\nOften the go-to resources for making inferences to demographic and socioeconomic characteristics is the National Census dataset and the associated American Community Survey dataset. While we are fortunate to have just updated this dataset in 2020 there are limitations and potential inaccuracies associated with relying solely on census data to enumerate demographic characteristics within a given census tract. This tool from the Department of Finance exists to measure this limitation.\nA detailed example of using R programming to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features is available and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.  https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html",
+    "crumbs": [
+      "Data Prep & Use",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
+    ]
+  },
+  {
+    "objectID": "demographics.html#commonly-used-racial-equity-data-sources",
+    "href": "demographics.html#commonly-used-racial-equity-data-sources",
+    "title": "12  Demographics Data",
+    "section": "12.2 Commonly used Racial Equity Data Sources",
+    "text": "12.2 Commonly used Racial Equity Data Sources\n\nCalEnviroScreen 4.0\nUnited States Census Data\nAmerican Community Survey Data\nInternal Administrative Data (i.e. Human Resources data)\nLocal and Regionally Collected Data",
+    "crumbs": [
+      "Data Prep & Use",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
+    ]
+  },
+  {
+    "objectID": "demographics.html#for-a-growing-list-of-water-boards-developed-racial-equity-data-tools",
+    "href": "demographics.html#for-a-growing-list-of-water-boards-developed-racial-equity-data-tools",
+    "title": "12  Demographics Data",
+    "section": "12.3 For a growing list of Water Boards Developed Racial Equity Data Tools:",
+    "text": "12.3 For a growing list of Water Boards Developed Racial Equity Data Tools:\nCalifornia Water Boards Racial Equity Data Resource Hub\nMore general data literacy resources on our website and in our toolkit.",
     "crumbs": [
       "Data Prep & Use",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
@@ -89,8 +111,8 @@
     "objectID": "demographics.html#collecting-data",
     "href": "demographics.html#collecting-data",
     "title": "12  Demographics Data",
-    "section": "12.2 Collecting Data",
-    "text": "12.2 Collecting Data",
+    "section": "12.4 Collecting Data",
+    "text": "12.4 Collecting Data",
     "crumbs": [
       "Data Prep & Use",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
@@ -100,8 +122,8 @@
     "objectID": "demographics.html#point-data",
     "href": "demographics.html#point-data",
     "title": "12  Demographics Data",
-    "section": "12.3 Point Data",
-    "text": "12.3 Point Data\nlibrary(tidyverse)\nlibrary(palmerpenguins)\n1penguins |&gt;\n2  mutate(\n    bill_ratio = bill_depth_mm / bill_length_mm,\n    bill_area  = bill_depth_mm * bill_length_mm\n  )\n\n1\n\nTake penguins, and then,\n\n2\n\nadd new columns for the bill ratio and bill area.",
+    "section": "12.5 Point Data",
+    "text": "12.5 Point Data\nlibrary(tidyverse)\nlibrary(palmerpenguins)\n1penguins |&gt;\n2  mutate(\n    bill_ratio = bill_depth_mm / bill_length_mm,\n    bill_area  = bill_depth_mm * bill_length_mm\n  )\n\n1\n\nTake penguins, and then,\n\n2\n\nadd new columns for the bill ratio and bill area.",
     "crumbs": [
       "Data Prep & Use",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
@@ -111,8 +133,8 @@
     "objectID": "demographics.html#lines",
     "href": "demographics.html#lines",
     "title": "12  Demographics Data",
-    "section": "12.4 Lines",
-    "text": "12.4 Lines",
+    "section": "12.6 Lines",
+    "text": "12.6 Lines",
     "crumbs": [
       "Data Prep & Use",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
@@ -122,8 +144,8 @@
     "objectID": "demographics.html#polygons",
     "href": "demographics.html#polygons",
     "title": "12  Demographics Data",
-    "section": "12.5 Polygons",
-    "text": "12.5 Polygons",
+    "section": "12.7 Polygons",
+    "text": "12.7 Polygons",
     "crumbs": [
       "Data Prep & Use",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Demographics Data</span>"
