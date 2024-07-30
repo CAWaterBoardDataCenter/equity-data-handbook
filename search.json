@@ -42,6 +42,17 @@
     ]
   },
   {
+    "objectID": "surveys.html",
+    "href": "surveys.html",
+    "title": "7  Surveys",
+    "section": "",
+    "text": "7.1 Picking a Survey Software\nMost Water Board staff will use Microsoft Forms which is available to all staff through the Microsoft 365 suite of applications.  Microsoft Forms has a lot of advantages because of its integration with other Microsoft tools like Excel and PowerBi which allow for the survey results to be analyzed and visualized.  Here is video on how to make that connection between Forms and PowerBi via Sharepoint that allows for consistent updating of results:  https://youtu.be/XBFVDedwLiY?si=O161oYja-FBhG1W7\nOne issue with Microsoft Forms and other free software like Google Forms is that they produce wide data in Excel of Google Sheets.  This type of data is more difficult to transform.",
+    "crumbs": [
+      "Data Collection",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Surveys</span>"
+    ]
+  },
+  {
     "objectID": "demographics.html",
     "href": "demographics.html",
     "title": "12  Demographics Data",
