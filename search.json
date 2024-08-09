@@ -75,6 +75,17 @@
     ]
   },
   {
+    "objectID": "vis.html",
+    "href": "vis.html",
+    "title": "11  Data Visualization",
+    "section": "",
+    "text": "11.1 Data Visualization Tools",
+    "crumbs": [
+      "Data Prep & Use",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Visualization</span>"
+    ]
+  },
+  {
     "objectID": "demographics.html",
     "href": "demographics.html",
     "title": "12  Demographics Data",
@@ -269,21 +280,11 @@
     ]
   },
   {
-    "objectID": "resources.html#data-visualization-tools",
-    "href": "resources.html#data-visualization-tools",
-    "title": "20  Resources",
-    "section": "20.4 Data Visualization Tools",
-    "text": "20.4 Data Visualization Tools",
-    "crumbs": [
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Resources</span>"
-    ]
-  },
-  {
     "objectID": "resources.html#relevant-literature",
     "href": "resources.html#relevant-literature",
     "title": "20  Resources",
-    "section": "20.5 Relevant Literature",
-    "text": "20.5 Relevant Literature\nO’Brien, M., Duerr, R., Taitingfong, R., Martinez, A., Vera, L., Jennings, L.L., Downs, R.R., Antognoli, E., ten Brink, T., Halmai, N.B., David-Chavez, D., Carroll, S.R., Hudson, M. and Buttigieg, P.L. (2024) ‘Earth Science Data Repositories: Implementing the CARE Principles’, Data Science Journal, 23(1), p. 37.",
+    "section": "20.4 Relevant Literature",
+    "text": "20.4 Relevant Literature\nO’Brien, M., Duerr, R., Taitingfong, R., Martinez, A., Vera, L., Jennings, L.L., Downs, R.R., Antognoli, E., ten Brink, T., Halmai, N.B., David-Chavez, D., Carroll, S.R., Hudson, M. and Buttigieg, P.L. (2024) ‘Earth Science Data Repositories: Implementing the CARE Principles’, Data Science Journal, 23(1), p. 37.",
     "crumbs": [
       "<span class='chapter-number'>20</span>  <span class='chapter-title'>Resources</span>"
     ]
@@ -292,8 +293,8 @@
     "objectID": "resources.html#relevant-government-documents",
     "href": "resources.html#relevant-government-documents",
     "title": "20  Resources",
-    "section": "20.6 Relevant Government Documents",
-    "text": "20.6 Relevant Government Documents\nCalifornia Water Boards\n\nRacial Equity Resolution (2021) - English, Español\nRacial Equity Action Plan (2023) - English, Español\nRacial Equity Resolution Annotated References (2021)\n\nCalifornia Office of Data and Innovation\n\nCalifornia Data Strategy Report (2024)\nCalifornia Data Strategy (2020)\n\nThe White House\n\nThe Environmental Justice Science, Data, and Research Plan (2024)\nYear of Open Science Fact Sheet (2023)",
+    "section": "20.5 Relevant Government Documents",
+    "text": "20.5 Relevant Government Documents\nCalifornia Water Boards\n\nRacial Equity Resolution (2021) - English, Español\nRacial Equity Action Plan (2023) - English, Español\nRacial Equity Resolution Annotated References (2021)\n\nCalifornia Office of Data and Innovation\n\nCalifornia Data Strategy Report (2024)\nCalifornia Data Strategy (2020)\n\nThe White House\n\nThe Environmental Justice Science, Data, and Research Plan (2024)\nYear of Open Science Fact Sheet (2023)",
     "crumbs": [
       "<span class='chapter-number'>20</span>  <span class='chapter-title'>Resources</span>"
     ]
