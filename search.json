@@ -259,11 +259,21 @@
     ]
   },
   {
-    "objectID": "resources.html#cool-data-visualization-tools",
-    "href": "resources.html#cool-data-visualization-tools",
+    "objectID": "resources.html#data-visualization-tools",
+    "href": "resources.html#data-visualization-tools",
     "title": "20  Resources",
-    "section": "20.4 Cool Data Visualization Tools",
-    "text": "20.4 Cool Data Visualization Tools",
+    "section": "20.4 Data Visualization Tools",
+    "text": "20.4 Data Visualization Tools",
+    "crumbs": [
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "resources.html#relevant-literature",
+    "href": "resources.html#relevant-literature",
+    "title": "20  Resources",
+    "section": "20.5 Relevant Literature",
+    "text": "20.5 Relevant Literature\nO’Brien, M., Duerr, R., Taitingfong, R., Martinez, A., Vera, L., Jennings, L.L., Downs, R.R., Antognoli, E., ten Brink, T., Halmai, N.B., David-Chavez, D., Carroll, S.R., Hudson, M. and Buttigieg, P.L. (2024) ‘Earth Science Data Repositories: Implementing the CARE Principles’, Data Science Journal, 23(1), p. 37.",
     "crumbs": [
       "<span class='chapter-number'>20</span>  <span class='chapter-title'>Resources</span>"
     ]
