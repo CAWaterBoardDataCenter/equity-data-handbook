@@ -24,4 +24,8 @@ All Water Boards authors are **bolded** below.
 
 [500 Women Scientists Guide for Inclusive Scientific Meetings](https://500womenscientists.org/inclusive-scientific-meetings)
 
-## Cool Data Visualization Tools
+## Data Visualization Tools
+
+## Relevant Literature
+
+O’Brien, M., Duerr, R., Taitingfong, R., Martinez, A., Vera, L., Jennings, L.L., Downs, R.R., Antognoli, E., ten Brink, T., Halmai, N.B., David-Chavez, D., Carroll, S.R., Hudson, M. and Buttigieg, P.L. (2024) ‘[Earth Science Data Repositories: Implementing the CARE Principles](https://doi.org/10.5334/dsj-2024-037.)’, *Data Science Journal*, 23(1), p. 37.
