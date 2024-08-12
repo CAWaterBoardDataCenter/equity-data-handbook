@@ -5,7 +5,7 @@ During its August 18, 2020 meeting, the State Water Resources Control Board (Sta
 The Racial Equity Resolution is one milestone on our ongoing journey to operationalize equity throughout our organization. The next step is to implement the [Racial Equity Action Plan](https://www.waterboards.ca.gov/racial_equity/docs/racial-equity-action-plan-final-en.pdf), which includes specific actions the State Water Board will take to address racial inequities, as well as metrics to measure our progress. With this Action Plan, we envision a sustainable California where race no longer predicts where clean water is available or who has access to it. 
 
 ::: callout-note
-It’s important to note that racial equity and equity in general is an outcome and there is no such thing as a "racial equity data-set".
+It’s important to note that racial equity and equity in general is an outcome and there is no such thing as a "racial equity data-set" or "racial equity data".
 
 Instead we should think of data as a tool to help us achieve the overall outcome of equity - and how we view, use, and act on data and related tools is what will determine whether we operationalize equity or perpetuate injustice.
 :::
