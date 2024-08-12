@@ -416,117 +416,106 @@
     ]
   },
   {
-    "objectID": "demographics-data.html",
-    "href": "demographics-data.html",
-    "title": "15  Demographics Data Needs Context",
-    "section": "",
-    "text": "It’s important to remember that you can always benefit from setting context before trying to communicate demographic or specific racial equity answers to questions posed by our Board, a member of the public, or a partner in this work. What your program is about, what does it do, how well does it do these things (aka Performance Report), etc. This may take a few different visualizations to help frame the context of the program mission but will help viewers understand how you are approaching the racial equity data work within the scope of your program.\n\nOften the go-to resources for making inferences to demographic and socioeconomic characteristics is the National Census dataset and the associated American Community Survey dataset. While we are fortunate to have just updated this dataset in 2020 there are limitations and potential inaccuracies associated with relying solely on census data to enumerate demographic characteristics within a given census tract. A tool from the Department of Finance exists to measure this limitation and is available here https://cacensus.maps.arcgis.com/apps/webappviewer/index.html?id=48be59de0ba94a3dacff1c9116df8b37.\nA detailed example of using R programming to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features is available and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.  https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html.",
-    "crumbs": [
-      "Assure & Analyze",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Demographics Data Needs Context</span>"
-    ]
-  },
-  {
     "objectID": "share.html",
     "href": "share.html",
-    "title": "17  Data Sharing",
+    "title": "16  Data Sharing",
     "section": "",
     "text": "add guidance on open/sharing practices & locations - GitHub, Open Data Portals, etc.",
     "crumbs": [
       "Publish & Share",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Data Sharing</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Data Sharing</span>"
     ]
   },
   {
     "objectID": "documentation.html",
     "href": "documentation.html",
-    "title": "19  Documentation",
+    "title": "18  Documentation",
     "section": "",
     "text": "Add guidance on documentation, reproducibility & transparency, oh my!\nThis is intended to be a living document and providing documentation is extremely important.",
     "crumbs": [
       "Describe",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Documentation</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Documentation</span>"
     ]
   },
   {
     "objectID": "uc1.html",
     "href": "uc1.html",
-    "title": "20  Use Case 1",
+    "title": "19  Use Case 1",
     "section": "",
     "text": "change page title to short description of use case",
     "crumbs": [
       "Use Cases",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Use Case 1</span>"
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Use Case 1</span>"
     ]
   },
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "22  Resources",
+    "title": "21  Resources",
     "section": "",
-    "text": "22.1 Other Equity & Data Handbooks / Toolkits / Guides",
+    "text": "21.1 Other Equity & Data Handbooks / Toolkits / Guides",
     "crumbs": [
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
     "objectID": "resources.html#other-equity-data-handbooks-toolkits-guides",
     "href": "resources.html#other-equity-data-handbooks-toolkits-guides",
-    "title": "22  Resources",
+    "title": "21  Resources",
     "section": "",
     "text": "Water Boards Developed Racial Equity Data Tools\nWater Boards Environmental Justice Roundtable Resource Catalog\nGARE Racial Equity Toolkit: An Opportunity to Operationalize Equity\nBeyond Compliance Network Advocacy Toolkit\nAcademic Data Science Alliance Data Science Ethos\nCA Water Boards College of Water Informatics Data Toolkit\n500 Women Scientists Guide for Inclusive Scientific Meetings",
     "crumbs": [
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
     "objectID": "resources.html#presentations",
     "href": "resources.html#presentations",
-    "title": "22  Resources",
-    "section": "22.2 Presentations",
-    "text": "22.2 Presentations\nAnalyzing Water Boards and Demographic Data for Equity. Jun 2024. Hannah Cushman Garland. State Water Board Racial Equity Data Subcommittee Webinar. Recording | Download and Use the Code | View Code",
+    "title": "21  Resources",
+    "section": "21.2 Presentations",
+    "text": "21.2 Presentations\nAnalyzing Water Boards and Demographic Data for Equity. Jun 2024. Hannah Cushman Garland. State Water Board Racial Equity Data Subcommittee Webinar. Recording | Download and Use the Code | View Code",
     "crumbs": [
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
     "objectID": "resources.html#relevant-government-documents",
     "href": "resources.html#relevant-government-documents",
-    "title": "22  Resources",
-    "section": "22.3 Relevant Government Documents",
-    "text": "22.3 Relevant Government Documents\n\n22.3.1 California Water Boards\n\nRacial Equity Resolution (2021) - English, Español\nRacial Equity Action Plan (2023) - English, Español\nRacial Equity Resolution Annotated References (2021)\n\n\n\n22.3.2 California Office of Data and Innovation\n\nCalifornia Data Strategy Report (2024)\nCalifornia Data Strategy (2020)\n\n\n\n22.3.3 The White House\n\nThe Environmental Justice Science, Data, and Research Plan (2024)\nYear of Open Science Fact Sheet (2023)",
+    "title": "21  Resources",
+    "section": "21.3 Relevant Government Documents",
+    "text": "21.3 Relevant Government Documents\n\n21.3.1 California Water Boards\n\nRacial Equity Resolution (2021) - English, Español\nRacial Equity Action Plan (2023) - English, Español\nRacial Equity Resolution Annotated References (2021)\n\n\n\n21.3.2 California Office of Data and Innovation\n\nCalifornia Data Strategy Report (2024)\nCalifornia Data Strategy (2020)\n\n\n\n21.3.3 The White House\n\nThe Environmental Justice Science, Data, and Research Plan (2024)\nYear of Open Science Fact Sheet (2023)",
     "crumbs": [
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
     "objectID": "resources.html#relevant-literature",
     "href": "resources.html#relevant-literature",
-    "title": "22  Resources",
-    "section": "22.4 Relevant Literature",
-    "text": "22.4 Relevant Literature\nO’Brien, M., Duerr, R., Taitingfong, R., Martinez, A., Vera, L., Jennings, L.L., Downs, R.R., Antognoli, E., ten Brink, T., Halmai, N.B., David-Chavez, D., Carroll, S.R., Hudson, M. and Buttigieg, P.L. (2024) ‘Earth Science Data Repositories: Implementing the CARE Principles’, Data Science Journal, 23(1), p. 37.",
+    "title": "21  Resources",
+    "section": "21.4 Relevant Literature",
+    "text": "21.4 Relevant Literature\nO’Brien, M., Duerr, R., Taitingfong, R., Martinez, A., Vera, L., Jennings, L.L., Downs, R.R., Antognoli, E., ten Brink, T., Halmai, N.B., David-Chavez, D., Carroll, S.R., Hudson, M. and Buttigieg, P.L. (2024) ‘Earth Science Data Repositories: Implementing the CARE Principles’, Data Science Journal, 23(1), p. 37.",
     "crumbs": [
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
     "objectID": "resources.html#websites",
     "href": "resources.html#websites",
-    "title": "22  Resources",
-    "section": "22.5 Websites",
-    "text": "22.5 Websites\n\nRacial Equity at the Water Boards\nOpenscapes at the Water Boards\nCalifornia Office of Data and Innovation\nGovernment Alliance on Race and Equity (GARE)",
+    "title": "21  Resources",
+    "section": "21.5 Websites",
+    "text": "21.5 Websites\n\nRacial Equity at the Water Boards\nOpenscapes at the Water Boards\nCalifornia Office of Data and Innovation\nGovernment Alliance on Race and Equity (GARE)",
     "crumbs": [
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
     "objectID": "inspo.html",
     "href": "inspo.html",
-    "title": "23  Inspiration",
+    "title": "22  Inspiration",
     "section": "",
     "text": "The impetus for developing this Data Equity Handbook began in August 2020 when the State Water Resources Control Board (State Water Board) publicly acknowledged that the historical effects of institutional racism must be confronted throughout government, and it directed staff to develop a priority plan of action.\nSince then, the State Water Board, it’s Office of Information Management and Analysis (OIMA) and OIMA’s many internal and external partners have been developing and compiling material, and adding to this Data Equity Handbook as time and bandwidth allow.\nThis Data Equity Handbook is inspired by many sources, including:\n\nWater Boards Racial Equity - Resolution and Related Actions\nGovernment Alliance on Race and Equity (GARE)\nOpenscapes and their Approach Guide\nNOAA Fisheries (NMFS) Open Science Resource Book",
     "crumbs": [
-      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Inspiration</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Inspiration</span>"
     ]
   }
 ]
