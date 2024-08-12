@@ -1,5 +1,7 @@
 # Welcome! {.unnumbered}
 
-\[ Add welcome and intro info \]
+This Equity Data Handbook is an online resource written by the The State Water Resources Control Board (State Water Board) and the nine Regional Water Quality Control Boards (Regional Water Boards), collectively known as the California Water Boards (Water Boards).
 
-This [Quarto book](https://quarto.org/docs/books) is an open, living, and continuously iterating resource. If you have suggestions for additions or revisions you think should be incorporated into this book, please follow the guidance provided in the [Contributing](https://cawaterboarddatacenter.github.io/swamp-manual/contribute.html) chapter.
+Content in this Handbook includes best practices and guidance for Water Boards staff on incorporating racial equity concepts into thier data-related work. Specifically, this Handbook will provide guidance and resources to help Water Boards staff conduct each phase of the data life cycle through a racial equity lens - from the planning and design of a project to data collection methods, visualization development (e.g., maps, factsheets, etc.) and more!
+
+This [Quarto book](https://quarto.org/docs/books) is an open, living, and continuously iterating resource. If you have suggestions for additions or revisions you think should be incorporated into this book, please email [equitydatahelp\@waterboards.ca.gov](mailto:equitydatahelp@waterboards.ca.gov).
