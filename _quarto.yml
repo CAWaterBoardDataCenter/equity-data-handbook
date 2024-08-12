@@ -21,16 +21,19 @@ book:
         - best-practice.qmd
         - common-language.qmd
         
-    - part: Data Collection
+    - part: Plan & Prepare
       chapters:
         - plan.qmd
+        - prep.qmd
+        
+    - part: Collect & Process
+      chapters:
         - sources.qmd
         - surveys.qmd
         - limits.qmd
-        
-    - part: Data Prep & Use
+
+    - part: Assure & Analyze
       chapters:
-        - prep.qmd
         - analysis.qmd
         - vis.qmd
         - demographics.qmd
@@ -38,11 +41,22 @@ book:
         - data-into-information.qmd
         - demographics-data.qmd
         
-    - part: Sharing & Reproducability
+    - part: Preserve & Store
+      chapters:
+        - store.qmd
+        
+    - part: Publish & Share
       chapters:
         - share.qmd
+
+    - part: Discover & Integrate
+      chapters:
+        - store.qmd
+        
+    - part: Describe
+      chapters:
         - documentation.qmd
-      
+  
     - part: Use Cases
       chapters:
         - uc1.qmd
