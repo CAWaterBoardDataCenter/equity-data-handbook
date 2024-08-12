@@ -20,7 +20,7 @@ To initiate a consultation with the Racial Equity Data Team, please send an emai
 
 ## Review the Equity Data Handbook and complete the Racial Equity Data Project Form
 
-This Equity Data Handbook is a curated compilation of emerging and comprehensive (but not exhaustive) guidance on:  
+This [Equity Data Handbook](https://cawaterboarddatacenter.github.io/equity-data-handbook/) is a curated compilation of emerging and comprehensive (but not exhaustive) guidance on:  
 
 -   How to break down the management questions where racial equity information is being posed against administrative data; and 
 -   How to apply equity best practices during each phase of the data life cycle to begin an iterative process into advancing racial equity. 
