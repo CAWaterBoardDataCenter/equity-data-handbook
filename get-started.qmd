@@ -1,18 +1,33 @@
 # Getting Started
 
-Program staff that are beginning a racial equity based data project should meet with the Racial Equity Data Team to discuss key aspects of the project including who the audience is and what questions or information you are trying to convey using the available racial equity data. This engagement should occur prior to beginning any analysis or data collection. To initiate a consultation with the Racial Equity Data Team, please send an email to [equitydatahelp\@waterboards.ca.gov](mailto:equitydatahelp@waterboards.ca.gov). 
+::: callout-tip
+**Before embarking on your data project using a racial equity lens you should:**
 
-This Best Practices and Guidance handbook is a blend of emerging, comprehensive guidance on:  
+1.  Consult the Racial Equity Data Team by emailing [equitydatahelp\@waterboards.ca.gov](mailto:equitydatahelp@waterboards.ca.gov) to help identify audience and potential questions or information your teams’ analysis may answer and provide guidance.
+
+2.  Review the guidance and best practices described in this [Equity Data Handbook](https://cawaterboarddatacenter.github.io/equity-data-handbook/) and complete the [Racial Equity Data Project Form](https://forms.office.com/g/0HuJqQkiJs)
+
+3.  Review the [GARE Framework: Normalize, Organize, and Operationalize](https://www.racialequityalliance.org/resources/racial-equity-toolkit-opportunity-operationalize-equity/)  
+
+4.  If possible, take the Advancing Racial Equity training series offered by the [Water Boards Training Academy](https://launcher.myapps.microsoft.com/api/signin/82768508-b765-4d4e-bc76-c73262ddb0cf?tenantId=fe186a25-7d49-41e6-9941-05d2281d36c1)
+:::
+
+## Consult the Racial Equity Data Team
+
+Program staff that are beginning data project using a racial equity lens should meet with the Racial Equity Data Team to discuss key aspects of the project including who the audience is and what questions or information you are trying to convey using the available racial equity data. *This engagement should occur prior to beginning any data collection or analysis.*
+
+To initiate a consultation with the Racial Equity Data Team, please send an email to [equitydatahelp\@waterboards.ca.gov](mailto:equitydatahelp@waterboards.ca.gov). 
+
+## Review the Equity Data Handbook and complete the Racial Equity Data Project Form
+
+This Equity Data Handbook is a curated compilation of emerging and comprehensive (but not exhaustive) guidance on:  
 
 -   How to break down the management questions where racial equity information is being posed against administrative data; and 
+-   How to apply equity best practices during each phase of the data life cycle to begin an iterative process into advancing racial equity. 
 
-<!-- -->
+This Handbook is specifically structured to support Water Boards staff on incorporating racial equity concepts into all phases of their data projects. The guidance and best practices provided serves as a strategic guide emphasizing the importance of collection, analysis and utilization of racial equity data.
 
--   How to apply best practices on data use, data visualization and storytelling to begin an iterative process into Advancing Racial Equity. 
-
-This resource is specifically structured to support Water Boards staff on incorporating racial equity concepts into the planning and design of data collection methods and visualizations (e.g., maps, factsheets, etc.) projects. The guidance and best practices provided serves as a strategic guide emphasizing the importance of collection, analysis and utilization of racial equity data.
-
-These users could include: 
+These intended users of this Handbook include, but are not limited to:  
 
 -   Program Staff
 -   Program managers
@@ -21,23 +36,16 @@ These users could include: 
 -   Tribal Governments
 -   The Public 
 
-Furthermore, we strongly suggest staff review the following [framework outlined by the Government Alliance for Racial Equity (GARE)](https://www.racialequityalliance.org/viewdocument/racial-equity-toolkit-an-opportuni-2) to normalize, organize, and operationalize racial equity throughout data integration (see image below). In addition to why it is important to [lead with race](https://www.racialequityalliance.org/about/our-approach/race/):
+After reviewing this Handbook, please complete the [Racial Equity Data Project Form](https://forms.office.com/g/0HuJqQkiJs) so that the Racial Equity Data Team is better equipped for your project consultation.
+
+## Review the GARE Framework
+
+It's songly suggested staff review the [framework outlined by the Government Alliance for Racial Equity (GARE)](https://www.racialequityalliance.org/viewdocument/racial-equity-toolkit-an-opportuni-2) to normalize, organize, and operationalize racial equity throughout data integration (see image below). In addition to why it is important to [lead with race](https://www.racialequityalliance.org/about/our-approach/race/):
 
 > “with the recognition that the creation and perpetuation of racial inequities has been baked into government, and that racial inequities across all indicators for success are deep and pervasive. We also know that other groups of people are still marginalized, including based on gender, sexual orientation, ability and age, to name but a few. Focusing on racial equity provides the opportunity to introduce a framework, tools and resources that can also be applied to other areas of marginalization.It is critical to address all areas of marginalization, and an institutional approach is necessary across the board. As the local and regional government deepens its ability to eliminate racial inequity, it will be better equipped to transform systems and institutions impacting other marginalized groups.”
 
 [![GARE model of change. Source: GARE Communications Guide, May 2018](images/gare-change-model.png)](https://www.racialequityalliance.org/viewdocument/gare-communications-guide-1)
 
-Furthermore, we recommend staff take the Advancing Racial Equity training series offered by the [Water Boards Training Academy](https://launcher.myapps.microsoft.com/api/signin/82768508-b765-4d4e-bc76-c73262ddb0cf?tenantId=fe186a25-7d49-41e6-9941-05d2281d36c1) to foster a consistent baseline knowledge of racial equity work and the importance of applying a racial equity lens to our work.
+## Take the Advancing Racial Equity Training
 
-**In summary, before embarking on your racial equity analysis or data project you should:**
-
-1.  Consult[Racial Equity Data Subcommittee](mailto:equitydatahelp@waterboards.ca.gov) by emailing [equitydatahelp\@waterboards.ca.gov](mailto:equitydatahelp@waterboards.ca.gov) to help identify audience and potential questions or information your teams’ analysis may answer and provide guidance.
-
-2.  Review the [Racial Equity Data Project Guidance](https://docs.google.com/document/d/1w9y9Oh818Lm2-S0GSKW2s1p6lU-2NbLiXQp-3Jq9YBE/edit) and answer the questions found within the Project Scoping section by filling out this form: <https://forms.office.com/g/0HuJqQkiJs> 
-
-3.  Review [GARE Framework: Normalize, Organize, and Operationalize](https://www.racialequityalliance.org/resources/racial-equity-toolkit-opportunity-operationalize-equity/)  
-
-4.  If possible, take the Advancing Racial Equity training series offered by the [Water Boards Training Academy](https://launcher.myapps.microsoft.com/api/signin/82768508-b765-4d4e-bc76-c73262ddb0cf?tenantId=fe186a25-7d49-41e6-9941-05d2281d36c1)
-
-\
-A running list of Water Board specific racial equity resources are available on [Environmental Justice Roundtable SharePoint](https://cawaterboards.sharepoint.com/sites/WB-OPP-EJRoundtable) 
+When possible, staff should take the Advancing Racial Equity training series offered by the [Water Boards Training Academy](https://launcher.myapps.microsoft.com/api/signin/82768508-b765-4d4e-bc76-c73262ddb0cf?tenantId=fe186a25-7d49-41e6-9941-05d2281d36c1) to foster a consistent baseline knowledge of racial equity work and the importance of applying a racial equity lens to our work.
