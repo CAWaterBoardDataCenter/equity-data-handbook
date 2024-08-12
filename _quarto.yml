@@ -39,8 +39,7 @@ book:
         - demographics.qmd
         - calenviroscreen.qmd
         - data-into-information.qmd
-        - demographics-data.qmd
-        
+
     - part: Preserve & Store
       chapters:
         - store.qmd
