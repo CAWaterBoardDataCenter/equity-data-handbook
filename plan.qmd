@@ -1,9 +1,6 @@
 # Planning
 
-When planning for your data project with an equity lens, it's best to conduct a thorough equity assessment, or scoping process. Equity assessments[^plan-1] are systematic examinations of available
-data and expert input on how various groups - especially those facing inequity or disparities -
-are or likely will be affected by a policy, program, or process. They aim to minimize unintended
-adverse outcomes and maximize opportunities and positive outcomes.
+When planning for your data project with an equity lens, it's best to conduct a thorough equity assessment, or scoping process. Equity assessments[^plan-1] are systematic examinations of available data and expert input on how various groups - especially those facing inequity or disparities - are or likely will be affected by a policy, program, or process. They aim to minimize unintended adverse outcomes and maximize opportunities and positive outcomes.
 
 [^plan-1]: The bulk of content on this page has been informed by: [Conducting Intensive Equity Assessments of Existing Programs, Policies, and Processes (hhs.gov)](https://aspe.hhs.gov/sites/default/files/documents/dd148f52c519a5bcc4fde76b4932f53b/Intensive-Equity-Assessment.pdf)
 
@@ -19,7 +16,7 @@ The steps to conducting an equity assessment are described below.
 
 Although these steps are numbered for clarity, teams should synthesize information from all steps rather than completing them in isolation or one at a time.
 
-##  Step 0: Project Scoping
+## Step 0: Project Scoping
 
 **Time frame and level of effort:**
 
@@ -33,7 +30,7 @@ Although these steps are numbered for clarity, teams should synthesize informati
 
 -   Consider how to meaningfully involve experts, including people with lived experience with relevant programs and topics; people in communities affected by the program, policy, or process; staff who work with program participants/beneficiaries; or representatives of other offices. Experts can contribute to the assessment process in several ways, such as suggesting data sources, providing multiple perspectives to inform and enhance the analysis, and developing recommendations for action.
 
-## **Step 1: Describe the selected program, policy, or process, and populations affected by it**
+## Step 1: Describe the selected program, policy, or process, and populations affected by it
 
 Describe the focus of the assessment to provide a foundation for all members of the assessment team and external partners.
 
@@ -59,7 +56,7 @@ Identify and describe populations of interest
 
 -   How might population groups’ identifying characteristics overlap in ways that expose them to relatively greater inequities (known as intersectionality)? What implications does this overlap have for the impacts of the program, policy or process? For example, immigrants who are also LGBTQIA+ might face multiple barriers in accessing a particular program.
 
-## **Step 2. Consider historical, societal, and policy context and drivers of disparities**
+## Step 2. Consider historical, societal, and policy context and drivers of disparities
 
 Describe the context for observed disparities and the program or policy itself.
 
@@ -69,7 +66,7 @@ Describe the context for observed disparities and the program or policy itself.
 
 -   What is known about whether structural, systemic, or institutional racism or structural barriers affect the implementation and outcomes of previous programs or policies? Systemic or institutional racism refers to policies and practices that create or sustain disparate outcomes for persons of different races. An example is redlining, where financial services and other housing-related opportunities were restricted for individuals largely based on their race/ethnicity and originating neighborhoods (see this 2021 Memorandum for the Secretary of Housing and Urban Development regarding [Redressing Our Nation's and the Federal Government's History of Discriminatory Housing Practices and Policies](https://www.federalregister.gov/documents/2021/01/29/2021-02074/redressing-our-nations-and-the-federal-governments-history-of-discriminatory-housing-practices-and))
 
-## **Step 3. Collect expert input, including from affected community members**
+## Step 3. Collect expert input, including from affected community members
 
 Experts can include former or current program participants/beneficiaries, members of communities affected by the program, policy, or process, staff who work with program participants/beneficiaries or affected communities, subject matter experts such as researchers, or staff in other organizations, among others. Sources of expert input on programs, policies, and processes include listening sessions, surveys, interviews, focus groups, and position papers by experts in the field or advocacy groups.
 
@@ -91,7 +88,7 @@ Experts can include former or current program participants/beneficiaries, member
 For more detailed guidance and resources regarding outreach and engagement, see the [Practical Guidance Document](https://cawaterboards.sharepoint.com/OPP/WBCollab/Forms/AllItems.aspx?id=%2FOPP%2FWBCollab%2FOPP%20Resource%20Pages%20Content%2Fa%5FPublic%20Engagement%2FEquitable%20Engagement%20Guidance%2FAdvancing%20Equity%20Guidance%5FOPP%5F02102023%2Epdf&parent=%2FOPP%2FWBCollab%2FOPP%20Resource%20Pages%20Content%2Fa%5FPublic%20Engagement%2FEquitable%20Engagement%20Guidance&p=true&ga=1) developed by the Office of Public Participation.
 :::
 
-## **Step 4. Identify information sources and gaps**
+## Step 4. Identify information sources and gaps
 
 Consider a variety of qualitative and quantitative information sources to support the assessment, including gray and peer-reviewed literature, organization documents and administrative records, surveys, customer inquiry or complaint information, administrative data, program performance data, key informant interviews, and listening sessions or focus groups. Ideally, equity assessments often include both qualitative and quantitative data. Data sources can include, but should not be limited to, expert views.
 
@@ -103,7 +100,7 @@ Consider a variety of qualitative and quantitative information sources to suppor
 
 -   Are there gaps or limitations in the information needed for the assessment? If either qualitative or quantitative data are not available, explain why. If there are gaps, how might the assessment team obtain new or better information, or highlight the need for investments in better data? It is important to describe gaps that might reflect historically overlooked inequities or point to the need for information sources that could be developed in future years.
 
-## **Step 5. Analyze program/policy effects - potential or current - on people and communities**
+## Step 5. Analyze program/policy effects - potential or current - on people and communities
 
 Drawing on all previous steps in the assessment process, analyze the available data and describe equity-related outcomes of the program, policy, or process. Describe findings with as much specificity as possible.
 
@@ -121,7 +118,7 @@ Drawing on all previous steps in the assessment process, analyze the available d
 
 -   In what ways might the findings be limited due to data gaps or analysis constraints? What findings point to the need for further research?
 
-## **Step 6. Plan for action and accountability**
+## Step 6. Plan for action and accountability
 
 Develop a detailed plan to address inequities identified in Step 5 within the scope of your program.
 
