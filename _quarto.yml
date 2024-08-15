@@ -50,7 +50,7 @@ book:
 
     - part: Discover & Integrate
       chapters:
-        - store.qmd
+        - eval.qmd
         
     - part: Describe
       chapters:
