@@ -486,7 +486,7 @@
     "href": "documentation.html",
     "title": "18  Documentation",
     "section": "",
-    "text": "Add guidance on documentation, reproducibility & transparency, oh my!\nThis is intended to be a living document and providing documentation is extremely important.",
+    "text": "Add guidance on documentation, reproducibility & transparency, oh my!\nThis is intended to be a living document and providing documentation is extremely important.\n\n\n\n\n\n\nImportant\n\n\n\nRemember - if your project or process is not well-documented to the point of being largely reproducible - it’s incomplete!",
     "crumbs": [
       "Describe",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Documentation</span>"
