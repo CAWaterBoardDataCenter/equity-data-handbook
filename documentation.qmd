@@ -3,3 +3,7 @@
 Add guidance on documentation, reproducibility & transparency, oh my!
 
 This is intended to be a living document and providing documentation is extremely important.
+
+::: callout-important
+Remember - if your project or process is not well-documented to the point of being largely reproducible - it's incomplete!
+:::
