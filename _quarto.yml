@@ -28,9 +28,9 @@ book:
         
     - part: Collect & Process
       chapters:
-        - sources.qmd
+        - collection.qmd
         - surveys.qmd
-        - limits.qmd
+        - process.qmd
 
     - part: Assure & Analyze
       chapters:
