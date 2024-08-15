@@ -1,4 +1,4 @@
-# Working with CalEnviroScreen
+# CalEnviroScreen
 
 [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen) can be a helpful tool in creating visualizations and performing analysis as it provides a number of index, as well as a "rolled-up" score that combines environmental and demographic data together. However, there can be things to consider, a couple of which are discussed below.
 

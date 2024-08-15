@@ -1,4 +1,6 @@
-# Turning Data into Information is Challenging - Even More so with Racial Equity Data Work
+# Turning Data into Information
+
+Turning Data into Information is Challenging - Even More so with Racial Equity Data Work
 
 Turning data into information in the context of racial equity involved navigating complex ethical considerations. The process requires an understanding of the potential impact on Black, Indigenous, and other People of Color (BIPOC) communities and the responsibility to mitigate perpetuating or reinforcing biases. Upholding ethical standards requires a commitment to maintaining privacy, accessibility, and fostering transparency throughout the data transformation process. Additionally, acknowledging the limitations of the data and being transparent about potential biases is essential for maintaining the integrity of the data and information generated and shared. The transformation of racial equity data into meaningful information requires a thoughtful and intentional approach which we will highlight in the next sections.
 
