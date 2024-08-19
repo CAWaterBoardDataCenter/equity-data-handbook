@@ -321,7 +321,7 @@
     "href": "prep.html#data-product-preservation-storage",
     "title": "6  Data Preparation",
     "section": "6.4 Data & Product Preservation & Storage",
-    "text": "6.4 Data & Product Preservation & Storage",
+    "text": "6.4 Data & Product Preservation & Storage\nIn this section, you will describe how and where you plan on preserving and storing data and products once they are developed.\nSome questions to help guide the development of this section include:\n\nHow and where will you store and secure your data and resultant products (code, results, products, visualizations, applications, etc.)?\nWhat privacy and confidentiality issues must you address?\nWhat are your plans for preserving the data/products after the project is completed?\nWhat procedures will you use to ensure long-term archiving and preservation of your data?\nAt what point will data, code/scripts, and resultant products/applications be archived or deleted?",
     "crumbs": [
       "Plan & Prepare",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Preparation</span>"
