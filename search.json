@@ -273,6 +273,116 @@
     ]
   },
   {
+    "objectID": "prep.html",
+    "href": "prep.html",
+    "title": "6  Data Preparation",
+    "section": "",
+    "text": "6.1 Project Introduction & Context\nHere you want to briefly describe the project and the mechanism(s) driving the data collection and product development. Much of this will likely be worked out during the Planning phase, including:",
+    "crumbs": [
+      "Plan & Prepare",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "prep.html#project-introduction-context",
+    "href": "prep.html#project-introduction-context",
+    "title": "6  Data Preparation",
+    "section": "",
+    "text": "What is the purpose of the selected program, policy, or process, related to this project?\nWhat are the objectives and objectives of the project?\nWho is the intended audience of the project?\nHow do you envision the project’s resulting data and products contribute to the advancement and operationalization of equity for your the program, policy, or process, related to this project?",
+    "crumbs": [
+      "Plan & Prepare",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "prep.html#data-collection-processing",
+    "href": "prep.html#data-collection-processing",
+    "title": "6  Data Preparation",
+    "section": "6.2 Data Collection & Processing",
+    "text": "6.2 Data Collection & Processing\nIn this section, you will identify the data you plan on collecting, how you will collect it, and how you organize, manage, and process said data once it is collected.\n\n6.2.1 Data Collection\nA good plan will include information that is sufficient to understand the nature of the data that is collected, including:\n\nTypes. A good first step is to list the various types of data that you expect to collect or create. This may include text, spreadsheets, software and algorithms, models, images and movies, audio files, and patient records. \nSources. Data may come from direct human observation, laboratory and field instruments, experiments, simulations, surveys, and compilations of data from other studies.\nVolume. Both the total volume of data and the total number of files that are expected to be collected can affect all other data management activities.\nData and file formats. Technology changes and formats that are acceptable today may soon be obsolete. Good choices include those formats that are nonproprietary, based upon open standards, and widely adopted and preferred by the larger data consuming community (e.g., Comma Separated Values [CSV] over Excel [.xls, xlsx]). Data are more accessible for the long term if they are uncompressed, unencrypted, and stored using standard character encodings.\n\nSome questions to help guide the development of this section include:\n\nWhat is the data? How and in what format will the data be collected? Is it numerical data, image data, text sequences, or modeling data?\nHow much data will be generated for this research?\nAre you using data that someone else produced? If so, where is it from?\nFor data that you are collecting from external sources, or generating yourself - to what extent do they abide by FAIR and CARE Principles of scientific data management and stewardship? If FAIR and CARE Principles are not being met - how can we modify our methods and processes data collection and use to better meet them?\n\n\n\n6.2.2 Data Organization\n\n\n6.2.3 Data Management\n\n\n6.2.4 Data Processing",
+    "crumbs": [
+      "Plan & Prepare",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "prep.html#data-analysis-product-development",
+    "href": "prep.html#data-analysis-product-development",
+    "title": "6  Data Preparation",
+    "section": "6.3 Data Analysis & Product Development",
+    "text": "6.3 Data Analysis & Product Development",
+    "crumbs": [
+      "Plan & Prepare",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "prep.html#data-product-preservation-storage",
+    "href": "prep.html#data-product-preservation-storage",
+    "title": "6  Data Preparation",
+    "section": "6.4 Data & Product Preservation & Storage",
+    "text": "6.4 Data & Product Preservation & Storage",
+    "crumbs": [
+      "Plan & Prepare",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "prep.html#data-product-publication-sharing",
+    "href": "prep.html#data-product-publication-sharing",
+    "title": "6  Data Preparation",
+    "section": "6.5 Data & Product Publication & Sharing",
+    "text": "6.5 Data & Product Publication & Sharing",
+    "crumbs": [
+      "Plan & Prepare",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "prep.html#data-product-documentation",
+    "href": "prep.html#data-product-documentation",
+    "title": "6  Data Preparation",
+    "section": "6.6 Data & Product Documentation",
+    "text": "6.6 Data & Product Documentation",
+    "crumbs": [
+      "Plan & Prepare",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "prep.html#data-product-evaluation",
+    "href": "prep.html#data-product-evaluation",
+    "title": "6  Data Preparation",
+    "section": "6.7 Data & Product Evaluation",
+    "text": "6.7 Data & Product Evaluation",
+    "crumbs": [
+      "Plan & Prepare",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "prep.html#other-optional-sections",
+    "href": "prep.html#other-optional-sections",
+    "title": "6  Data Preparation",
+    "section": "6.8 Other Optional Sections",
+    "text": "6.8 Other Optional Sections\n\n6.8.1 Acknowledgements\nIf the Data Management Plan was developed by a group that included external partners, we recommend including an acknowledgements section to acknowledge, express appreciation, and give credit to those efforts.\n\n\n6.8.2 Project Timeline\nIncluding a timeline for project implementation is always recommended, even if specific dates are not yet known. Including a timeline helps keep oursleves accountable and makes it easier for potential partners see when their contributions, feedback, and partnership might be needed so they can plan ahead and be ready for when its their time to engage.\n\n\n6.8.3 Project Roles and Responsibilities\nIf there are multiple people on the team that will be involved with project implementation, it might be a good idea to define who will be responsible for which parts of the project/data life cycle so that everyone is clear on their roles and responsibilities to this project.\n\n\n\n\n\n\nTip\n\n\n\nSpelling out project roles and responsibilities during this phase can help identify gaps and resource needs early!\nThis will enable the project team, management, and/or project partners to understand the limitations and dedicate time and resources to find more team members that can help fill those gaps before the project is underway. Doing this will ultimately prevent the project from being delayed, stalled, or put on hold after time, energy, and resources have already been expended (or even wasted).",
+    "crumbs": [
+      "Plan & Prepare",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "prep.html#appendices",
+    "href": "prep.html#appendices",
+    "title": "6  Data Preparation",
+    "section": "6.9 Appendices",
+    "text": "6.9 Appendices\n\n6.9.1 Data Details\nThe goal of this section is making it easy for readers to see and understand the content of your data sources without having to view data directly. You might include a data schema for the datasets of interest. A data schema shows what the “guts” of your data will look like, including the identification of tables, columns/fields, data types, constraints, and relationships. This could be provided as a single table that includes your column/field names, and data types or something much more complex that better suits the needs of your project. For a simple example, see Appendix 1 of the SWAMP Bioassessment Reporting Module Data Management Plan.\n\n\n6.9.2 Survey Details\nIf your project involves collecting data through a survey, you might use this section to document your intended survey questions and possible responses or response types.\n\n\n6.9.3 Future work\nHere you might describe next steps or project ideas that are outside the scope and timelines of the current project, but that you see as being directly related to or building upon the current project.",
+    "crumbs": [
+      "Plan & Prepare",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Preparation</span>"
+    ]
+  },
+  {
     "objectID": "collection.html",
     "href": "collection.html",
     "title": "7  Data Collection",
