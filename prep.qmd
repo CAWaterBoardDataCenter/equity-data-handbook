@@ -1,1 +1,112 @@
 # Data Preparation
+
+As you're conducting your Equity Assessment in the [Planning phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html), we recommend documenting much of what you're finding alongside your plan for the remaining phases of the data life cycle and making that documentation as open and transparent as possible - ideally through a Data Management Plan.
+
+A Data Management Plan describes what data will be used, how the data will be [collected](https://cawaterboarddatacenter.github.io/equity-data-handbook/collection.html), [processed](https://cawaterboarddatacenter.github.io/equity-data-handbook/process.html), and managed to produce conduct your [analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/analysis.html), [visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/vis.html) or other products, and how those data products will be [stored](https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html), [shared](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html), and maintained over the long-term. In other words, this Data Management Plan describes how the project team intends to address and manage each phase of the data life cycle.
+
+Depending on the complexity of the project - your data management plan can be relatively short, and it can be used as a way to begin to engage with experts and partners that are interested in your project!
+
+::: callout-tip
+Try using the development of your Data Management Plan as a way to build relationships and trust with Tribal and community experts!
+
+Some ideas for how to do this include:
+
+-   You can create a Technical Advisory group composed of Tribal and community experts that helps **co-create** the Data Management Plan with the Project Team.
+
+-   The Project Team develops the Data Management Plan, but solicits feedback on early versions from Tribal and community experts and makes revisions according to their feedback.
+:::
+
+A Data Management Plan should include the following sections:
+
+1.  Project Introduction & Context
+2.  Data Collection & Processing
+3.  Data Analysis & Product Development
+4.  Data & Product Preservation & Storage
+5.  Data & Product Publication & Sharing
+6.  Data & Product Documentation
+7.  Data & Product Evaluation
+8.  Optional sections or appendices: Acknowledgements, Timeline, Project Roles and Responsibilities, Dataset Details, Survey Details, Future work
+
+Since the development the Data Management Plan takes place before data are actually collected, some details, like specific analytical methods, may not be completely worked out. However, the Data Management Plan should include a clear vision and general plan for each section and include as much detail as possible.
+
+## Project Introduction & Context 
+
+Here you want to briefly describe the project and the mechanism(s) driving the data collection and product development. Much of this will likely be worked out during the [Planning phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html), including:
+
+-   What is the purpose of the selected program, policy, or process, related to this project?
+-   What are the objectives and objectives of the project?
+-   Who is the intended audience of the project?
+-   How do you envision the project's resulting data and products contribute to the advancement and operationalization of equity for your the program, policy, or process, related to this project?
+
+## Data Collection & Processing
+
+In this section, you will identify the data you plan on collecting, how you will collect it, and how you organize, manage, and process said data once it is collected.
+
+### Data Collection
+
+A good plan will include information that is sufficient to understand the nature of the data that is collected, including:
+
+-   **Types.** A good first step is to list the various types of data that you expect to collect or create. This may include text, spreadsheets, software and algorithms, models, images and movies, audio files, and patient records. 
+
+-   **Sources.** Data may come from direct human observation, laboratory and field instruments, experiments, simulations, surveys, and compilations of data from other studies.
+
+-   **Volume.** Both the total volume of data and the total number of files that are expected to be collected can affect all other data management activities.
+
+-   **Data and file formats.** Technology changes and formats that are acceptable today may soon be obsolete. Good choices include those formats that are nonproprietary, based upon open standards, and widely adopted and preferred by the larger data consuming community (e.g., Comma Separated Values \[CSV\] over Excel \[.xls, xlsx\]). Data are more accessible for the long term if they are uncompressed, unencrypted, and stored using standard character encodings.
+
+Some questions to help guide the development of this section include:
+
+-   What is the data? How and in what format will the data be collected? Is it numerical data, image data, text sequences, or modeling data?
+-   How much data will be generated for this research?
+-   Are you using data that someone else produced? If so, where is it from?
+-   For data that you are collecting from external sources, or generating yourself - to what extent do they abide by FAIR and CARE Principles of scientific data management and stewardship? If FAIR and CARE Principles are not being met - how can we modify our methods and processes data collection and use to better meet them?
+
+### Data Organization
+
+### Data Management
+
+### Data Processing
+
+## Data Analysis & Product Development
+
+## Data & Product Preservation & Storage
+
+## Data & Product Publication & Sharing
+
+## Data & Product Documentation
+
+## Data & Product Evaluation
+
+## Other Optional Sections
+
+### Acknowledgements
+
+If the Data Management Plan was developed by a group that included external partners, we recommend including an acknowledgements section to acknowledge, express appreciation, and give credit to those efforts.
+
+### Project Timeline
+
+Including a timeline for project implementation is always recommended, even if specific dates are not yet known. Including a timeline helps keep oursleves accountable and makes it easier for potential partners see when their contributions, feedback, and partnership might be needed so they can plan ahead and be ready for when its their time to engage.
+
+### Project Roles and Responsibilities
+
+If there are multiple people on the team that will be involved with project implementation, it might be a good idea to define who will be responsible for which parts of the project/data life cycle so that everyone is clear on their roles and responsibilities to this project.
+
+::: callout-tip
+Spelling out project roles and responsibilities during this phase can help identify gaps and resource needs early!
+
+This will enable the project team, management, and/or project partners to understand the limitations and dedicate time and resources to find more team members that can help fill those gaps before the project is underway. Doing this will ultimately prevent the project from being delayed, stalled, or put on hold after time, energy, and resources have already been expended (or even wasted).
+:::
+
+## Appendices
+
+### Data Details
+
+The goal of this section is making it easy for readers to see and understand the content of your data sources without having to view data directly. You might include a data schema for the datasets of interest. [A data schema](https://www.waterboards.ca.gov/resources/oima/cowi/peoples_data_science_handbook.html#what_are_data) shows what the “guts” of your data will look like, including the identification of tables, columns/fields, data types, constraints, and relationships. This could be provided as a single table that includes your column/field names, and data types or something much more complex that better suits the needs of your project. For a simple example, see [Appendix 1 of the SWAMP Bioassessment Reporting Module Data Management Plan](https://docs.google.com/document/d/1_JNdR-7H7F7in_PqYPiNlQkJFgWgWYvAU1nSbA-d4Sc/edit#heading=h.o98uoyjhkul3).
+
+### Survey Details
+
+If your project involves collecting data through a survey, you might use this section to document your intended survey questions and possible responses or response types.
+
+### Future work
+
+Here you might describe next steps or project ideas that are outside the scope and timelines of the current project, but that you see as being directly related to or building upon the current project.
