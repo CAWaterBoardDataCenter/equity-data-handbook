@@ -109,20 +109,24 @@ In this section, you will describe how you intend on using the data and the gene
 Some questions to help guide the development of this section include:
 
 -   What management questions are you planning on answering or informing with this data and project?
-
     -   If operational decision making is the use please identify whiich performance measures or existing resource allocation planning processes that will be using the data (e.g., assigning inspections to staff, determining priority for compliance assurance work, etc.).
-
     -   Please also identify any business interests that will need to be alerted to the data / products and may have concerns over its quality, etc. For example, invoicing for fees will need to have updated information, etc.
-
 -   What workflow will you use to analyse the data and/or develop the resultant data product?
-
 -   What data analysis or visualization methods or software will you use?
-
 -   What product(s) will be developed (e.g. analyses, visualizations, applications, reports, etc.)
-
 -   What opportunities will Tribal and community partners have to review and provide feedback on the data analysis or product development before it is finalized?
 
 ## Data & Product Preservation & Storage
+
+In this section, you will describe how and where you plan on preserving and storing data and products once they are developed.
+
+Some questions to help guide the development of this section include:
+
+-   How and where will you store and secure your data and resultant products (code, results, products, visualizations, applications, etc.)?
+-   What privacy and confidentiality issues must you address?
+-   What are your plans for preserving the data/products after the project is completed?
+-   What procedures will you use to ensure long-term archiving and preservation of your data?
+-   At what point will data, code/scripts, and resultant products/applications be archived or deleted?
 
 ## Data & Product Publication & Sharing
 
