@@ -397,9 +397,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#data-collection-processing" id="toc-data-collection-processing" class="nav-link" data-scroll-target="#data-collection-processing"><span class="header-section-number">6.2</span> Data Collection &amp; Processing</a>
   <ul class="collapse">
   <li><a href="#data-collection" id="toc-data-collection" class="nav-link" data-scroll-target="#data-collection"><span class="header-section-number">6.2.1</span> Data Collection</a></li>
-  <li><a href="#data-organization" id="toc-data-organization" class="nav-link" data-scroll-target="#data-organization"><span class="header-section-number">6.2.2</span> Data Organization</a></li>
-  <li><a href="#data-management" id="toc-data-management" class="nav-link" data-scroll-target="#data-management"><span class="header-section-number">6.2.3</span> Data Management</a></li>
-  <li><a href="#data-processing" id="toc-data-processing" class="nav-link" data-scroll-target="#data-processing"><span class="header-section-number">6.2.4</span> Data Processing</a></li>
+  <li><a href="#data-organization-management" id="toc-data-organization-management" class="nav-link" data-scroll-target="#data-organization-management"><span class="header-section-number">6.2.2</span> Data Organization &amp; Management</a></li>
+  <li><a href="#data-quality-processing" id="toc-data-quality-processing" class="nav-link" data-scroll-target="#data-quality-processing"><span class="header-section-number">6.2.3</span> Data Quality &amp; Processing</a></li>
   </ul></li>
   <li><a href="#data-analysis-product-development" id="toc-data-analysis-product-development" class="nav-link" data-scroll-target="#data-analysis-product-development"><span class="header-section-number">6.3</span> Data Analysis &amp; Product Development</a></li>
   <li><a href="#data-product-preservation-storage" id="toc-data-product-preservation-storage" class="nav-link" data-scroll-target="#data-product-preservation-storage"><span class="header-section-number">6.4</span> Data &amp; Product Preservation &amp; Storage</a></li>
@@ -418,6 +417,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#survey-details" id="toc-survey-details" class="nav-link" data-scroll-target="#survey-details"><span class="header-section-number">6.9.2</span> Survey Details</a></li>
   <li><a href="#future-work" id="toc-future-work" class="nav-link" data-scroll-target="#future-work"><span class="header-section-number">6.9.3</span> Future work</a></li>
   </ul></li>
+  <li><a href="#additional-resources" id="toc-additional-resources" class="nav-link" data-scroll-target="#additional-resources"><span class="header-section-number">6.10</span> Additional Resources</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/edit/main/prep.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -500,20 +500,62 @@ Tip
 </ul>
 <p>Some questions to help guide the development of this section include:</p>
 <ul>
-<li>What is the data? How and in what format will the data be collected? Is it numerical data, image data, text sequences, or modeling data?</li>
-<li>How much data will be generated for this research?</li>
+<li>What data will we be collecting and/or generating?</li>
+<li>How and in what format will the data be collected? Is it numerical data, image data, text sequences, or modeling data?</li>
+<li>What file formats will be used? Do these formats conform to an open standard and/or are they proprietary?</li>
+<li>How much data will be generated for this project?</li>
 <li>Are you using data that someone else produced? If so, where is it from?</li>
-<li>For data that you are collecting from external sources, or generating yourself - to what extent do they abide by FAIR and CARE Principles of scientific data management and stewardship? If FAIR and CARE Principles are not being met - how can we modify our methods and processes data collection and use to better meet them?</li>
+<li>How long will the data be collected/generated and how often will it change?</li>
+<li>To what extent do the data and methods of collection and use for this project abide by <a href="https://www.go-fair.org/fair-principles/">FAIR Principles</a> of scientific data management and stewardship and <a href="https://www.gida-global.org/care">CARE Principles</a> for Indigenous Data Governance? If FAIR and CARE Principles are not being met - how can we modify our methods and processes data collection and use to better meet them?</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.gida-global.org/care"><img src="images/Be+FAIR+and+CARE.png" class="img-fluid figure-img" alt="Graphic that spells out FAIR &amp; CARE Principles acronyms - specifically &quot;Be FAIR and CARE&quot; with acronym definitions below each letter: FAIR = Findable, Accessible, Interoperable, Reusable and CARE = Collective Benefit, Authority to Control, Responsibility, Ethics."></a></p>
+<figcaption>FAIR Principles (<u>F</u>indable, <u>A</u>ccessible, <u>I</u>nteroperable, <u>R</u>eusable) within the open data movement primarily focus on characteristics of data that will facilitate increased data sharing among entities while ignoring power differentials and historical contexts. CARE Principles (<u>C</u>ollective Benefit, <u>A</u>uthority to Control, <u>R</u>esponsibility, <u>E</u>thics) for Indigenous Data Governance are people and purpose-oriented, reflecting the crucial role of data in advancing Indigenous innovation and self-determination. Image credit: Global Indigenous Data Allianc</figcaption>
+</figure>
+</div>
+</section>
+<section id="data-organization-management" class="level3" data-number="6.2.2">
+<h3 data-number="6.2.2" class="anchored" data-anchor-id="data-organization-management"><span class="header-section-number">6.2.2</span> Data Organization &amp; Management</h3>
+<p>Define how and where the data will be organized and managed.</p>
+<p>For example, your effort may require a small number of data tables and these can be effectively managed with spreadsheet programs like Excel. Larger data volumes and usage constraints may require the use of relational database management systems for linked data tables like ORACLE or mySQL, or a Geographic Information System (GIS) for geospatial data layers like ArcGIS, or computer programming languages like R or Python for large datasets that cannot be contained within standard database or GIS systems.</p>
+<p>This section should contain just enough detail to identify basic data organization needs and plan, not the level of detail needed to build a comprehensive system or information technology project plan.</p>
+<p>Some questions to help guide the development of this section include:</p>
+<ul>
+<li>How and where will your data be organized?</li>
+<li>What tools or software are required to read or view the data?</li>
+<li>What directory and file naming convention will be used?</li>
+<li>What are your local storage and backup procedures?</li>
+<li>Will this data require secure storage?</li>
+<li>Who is responsible for managing the data? Who will ensure that the data management plan is carried out?</li>
+<li>What steps will be taken to protect privacy, security, confidentiality, intellectual property or other rights?</li>
 </ul>
 </section>
-<section id="data-organization" class="level3" data-number="6.2.2">
-<h3 data-number="6.2.2" class="anchored" data-anchor-id="data-organization"><span class="header-section-number">6.2.2</span> Data Organization</h3>
-</section>
-<section id="data-management" class="level3" data-number="6.2.3">
-<h3 data-number="6.2.3" class="anchored" data-anchor-id="data-management"><span class="header-section-number">6.2.3</span> Data Management</h3>
-</section>
-<section id="data-processing" class="level3" data-number="6.2.4">
-<h3 data-number="6.2.4" class="anchored" data-anchor-id="data-processing"><span class="header-section-number">6.2.4</span> Data Processing</h3>
+<section id="data-quality-processing" class="level3" data-number="6.2.3">
+<h3 data-number="6.2.3" class="anchored" data-anchor-id="data-quality-processing"><span class="header-section-number">6.2.3</span> Data Quality &amp; Processing</h3>
+<p>Here you will define the processes you will use to clean and prepare your data once it is collected - also known as tidying data. <a href="https://vita.had.co.nz/papers/tidy-data.pdf">Tidy data</a>&nbsp;are structured such that the data are easy to manipulate, model, and visualize - and getting data to the point of being tidy is often the most time consuming step of any data-intensive work. More detailed data processing/tidying steps are outlined on the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/process.html">Data Processing page</a>.</p>
+<p>Similar to the analysis step - you might not know all of the details of how the data will need to be tidied - what’s important for this section is that you think through the potential methods you will need to use to make disparate datasets interoperable and tidy so that they’re of acceptible quality and easy to use for your analysis and product development steps.</p>
+<p>Some questions to help guide the development of this section include:</p>
+<ul>
+<li>Which datasets (if any) will need to be merged/combined to be made useful for your project? If this needs to be done, how will you plan on doing it?</li>
+<li>What are your data quality objectives/standards?</li>
+<li>How will you assess and establish the quality of the data you use?</li>
+<li>What rubric will you use to decide which data are kept and which are excluded from future steps?</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The Water Boards have a <a href="https://www.waterboards.ca.gov/water_issues/programs/quality_assurance/">quality management system</a> and overarching Quality Assurance Management Plan. Be sure to review this material to consider how your project falls in that that framework, and if more is needed. For example, many programs do NOT have Quality Assurance Program Plans, so this may be a step needed to occur to establish data quality objectives, etc.</p>
+<p>In some cases the Quality Assurance and Data Management plans can be integrated (see this <a href="https://drive.google.com/file/d/14D1VBJU51hrxQya3-rcZcItHHe65gS_s/view">USGS Quality-Assurance and Data-Management Plan</a> as an example)</p>
+</div>
+</div>
 </section>
 </section>
 <section id="data-analysis-product-development" class="level2" data-number="6.3">
@@ -573,9 +615,20 @@ Tip
 <section id="future-work" class="level3" data-number="6.9.3">
 <h3 data-number="6.9.3" class="anchored" data-anchor-id="future-work"><span class="header-section-number">6.9.3</span> Future work</h3>
 <p>Here you might describe next steps or project ideas that are outside the scope and timelines of the current project, but that you see as being directly related to or building upon the current project.</p>
-
-
 </section>
+</section>
+<section id="additional-resources" class="level2" data-number="6.10">
+<h2 data-number="6.10" class="anchored" data-anchor-id="additional-resources"><span class="header-section-number">6.10</span> Additional Resources</h2>
+<ul>
+<li><a href="https://dmptool.org/">DMP Tool</a> (a web-based tool that helps you construct data management plans using templates that address specific funder requirements)&nbsp;</li>
+<li><a href="https://mywaterquality.ca.gov/monitoring_council/healthy_streams/assessment_guidance/data_acquisition.html">CA Healthy Watersheds Partnership Assessment Guidance: Data Acquisition, Monitoring and Management</a></li>
+<li><a href="https://www.usgs.gov/data-management/data-management-plans">USGS - Data Management Plans</a></li>
+<li><a href="https://libraries.mit.edu/data-management/plan/write/">MIT Libraries - Write a Data Management Plan</a> &amp;</li>
+<li><a href="https://datamanagement.hms.harvard.edu/plan-design/data-management-plans">Harvard Medical School - Data Management Plans</a></li>
+<li><a href="https://data.library.arizona.edu/data-management/data-management-plans">University of Arizona - Data Management Plans Overview</a></li>
+</ul>
+
+
 </section>
 
 </main> <!-- /main -->
