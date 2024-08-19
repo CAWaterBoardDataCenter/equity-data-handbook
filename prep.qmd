@@ -24,7 +24,7 @@ A Data Management Plan should include the following sections:
 5.  [Data & Product Publication & Sharing](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html#data-product-publication-sharing)
 6.  [Data & Product Documentation](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html#data-product-documentation)
 7.  [Data & Product Evaluation](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html#data-product-evaluation)
-8.  Other Potential Sections or Appendices: Acknowledgements, Timeline, Project Roles and Responsibilities, Dataset Details, Survey Details, Future work
+8.  [Other Potential Sections](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html#other-potential-sections) or [Potential Appendices](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html#potential-appendices), including: Acknowledgements, Timeline, Project Roles and Responsibilities, Dataset Details, Survey Details, Future work
 
 Since the development the Data Management Plan takes place before data are actually collected, some details, like specific analytical methods, may not be completely worked out. However, the Data Management Plan should include a clear vision and general plan for each section and include as much detail as possible.
 
@@ -120,17 +120,24 @@ If the Data Management Plan was developed by a group that included external part
 
 ### Project Timeline
 
-Including a timeline for project implementation is always recommended, even if specific dates are not yet known. Including a timeline helps keep oursleves accountable and makes it easier for potential partners see when their contributions, feedback, and partnership might be needed so they can plan ahead and be ready for when its their time to engage.
+Including a timeline for project implementation is always recommended (even though it is more of a project management tool than a data management tool) and even if specific dates are not yet known. Including a timeline helps keep oursleves accountable and makes it easier for potential partners see when their contributions, feedback, and partnership might be needed so they can plan ahead and be ready for when its their time to engage.
 
 ### Project Roles and Responsibilities
 
-If there are multiple people on the team that will be involved with project implementation, it might be a good idea to define who will be responsible for which parts of the project/data life cycle so that everyone is clear on their roles and responsibilities to this project.
+If there are multiple people on the team that will be involved with project implementation, it might be a good idea to define who will be responsible for which parts of the project/data life cycle so that everyone is clear on their roles and responsibilities to this project ( even though it is more of a project management tool than a data management tool).
 
 ::: callout-tip
 Spelling out project roles and responsibilities during this phase can help identify gaps and resource needs early!
 
 This will enable the project team, management, and/or project partners to understand the limitations and dedicate time and resources to find more team members that can help fill those gaps before the project is underway. Doing this will ultimately prevent the project from being delayed, stalled, or put on hold after time, energy, and resources have already been expended (or even wasted).
 :::
+
+You might include a Project Roles and Responsibilities table that includes:
+
+-   Data Life Cycle Phase
+-   Role Title (e.g. project manager, data collection coordinator, data manager, data analysis lead, data product developer, project engagement lead, etc.)
+-   Name (Affiliation)
+-   Responsibilities (with a short list of responsibilities associated with that role)
 
 ## Potential Appendices
 
