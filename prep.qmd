@@ -33,7 +33,7 @@ Since the development the Data Management Plan takes place before data are actua
 Here you want to briefly describe the project and the mechanism(s) driving the data collection and product development. Much of this will likely be worked out during the [Planning phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html), including:
 
 -   What is the purpose of the selected program, policy, or process, related to this project?
--   What are the objectives and objectives of the project?
+-   What are the objectives of the project?
 -   Who is the intended audience of the project?
 -   How do you envision the project's resulting data and products contribute to the advancement and operationalization of equity for your the program, policy, or process, related to this project?
 
@@ -103,6 +103,22 @@ In some cases the Quality Assurance and Data Management plans can be integrated 
 :::
 
 ## Data Analysis & Product Development
+
+In this section, you will describe how you intend on using the data and the general plan or intended workflow you envision for your data analysis and/or product development phase. If you know you will use certain formulas, methods, or software for this step, you will identify them here.
+
+Some questions to help guide the development of this section include:
+
+-   What management questions are you planning on answering or informing with this data and project?
+
+    -   If operational decision making is the use please identify whiich performance measures or existing resource allocation planning processes that will be using the data (e.g., assigning inspections to staff, determining priority for compliance assurance work, etc.).
+
+    -   Please also identify any business interests that will need to be alerted to the data / products and may have concerns over its quality, etc. For example, invoicing for fees will need to have updated information, etc.
+
+-   What workflow will you use to analyse the data and/or develop the resultant data product?
+
+-   What data analysis or visualization methods or software will you use?
+
+-   What opportunities will Tribal and community partners have to review and provide feedback on the data analysis or product development before it is finalized?
 
 ## Data & Product Preservation & Storage
 
