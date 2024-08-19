@@ -118,6 +118,8 @@ Some questions to help guide the development of this section include:
 
 -   What data analysis or visualization methods or software will you use?
 
+-   What product(s) will be developed (e.g. analyses, visualizations, applications, reports, etc.)
+
 -   What opportunities will Tribal and community partners have to review and provide feedback on the data analysis or product development before it is finalized?
 
 ## Data & Product Preservation & Storage
