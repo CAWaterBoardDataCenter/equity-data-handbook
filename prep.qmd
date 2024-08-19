@@ -55,16 +55,52 @@ A good plan will include information that is sufficient to understand the nature
 
 Some questions to help guide the development of this section include:
 
--   What is the data? How and in what format will the data be collected? Is it numerical data, image data, text sequences, or modeling data?
--   How much data will be generated for this research?
+-   What data will we be collecting and/or generating?
+-   How and in what format will the data be collected? Is it numerical data, image data, text sequences, or modeling data?
+-   What file formats will be used? Do these formats conform to an open standard and/or are they proprietary?
+-   How much data will be generated for this project?
 -   Are you using data that someone else produced? If so, where is it from?
--   For data that you are collecting from external sources, or generating yourself - to what extent do they abide by FAIR and CARE Principles of scientific data management and stewardship? If FAIR and CARE Principles are not being met - how can we modify our methods and processes data collection and use to better meet them?
+-   How long will the data be collected/generated and how often will it change?
+-   To what extent do the data and methods of collection and use for this project abide by [FAIR Principles](https://www.go-fair.org/fair-principles/) of scientific data management and stewardship and [CARE Principles](https://www.gida-global.org/care) for Indigenous Data Governance? If FAIR and CARE Principles are not being met - how can we modify our methods and processes data collection and use to better meet them?
 
-### Data Organization
+[![FAIR Principles ([F]{.underline}indable, [A]{.underline}ccessible, [I]{.underline}nteroperable, [R]{.underline}eusable) within the open data movement primarily focus on characteristics of data that will facilitate increased data sharing among entities while ignoring power differentials and historical contexts. CARE Principles ([C]{.underline}ollective Benefit, [A]{.underline}uthority to Control, [R]{.underline}esponsibility, [E]{.underline}thics) for Indigenous Data Governance are people and purpose-oriented, reflecting the crucial role of data in advancing Indigenous innovation and self-determination. Image credit: Global Indigenous Data Allianc](images/Be+FAIR+and+CARE.png){fig-alt="Graphic that spells out FAIR & CARE Principles acronyms - specifically \"Be FAIR and CARE\" with acronym definitions below each letter: FAIR = Findable, Accessible, Interoperable, Reusable and CARE = Collective Benefit, Authority to Control, Responsibility, Ethics."}](https://www.gida-global.org/care)
 
-### Data Management
+### Data Organization & Management
 
-### Data Processing
+Define how and where the data will be organized and managed.
+
+For example, your effort may require a small number of data tables and these can be effectively managed with spreadsheet programs like Excel. Larger data volumes and usage constraints may require the use of relational database management systems for linked data tables like ORACLE or mySQL, or a Geographic Information System (GIS) for geospatial data layers like ArcGIS, or computer programming languages like R or Python for large datasets that cannot be contained within standard database or GIS systems.
+
+This section should contain just enough detail to identify basic data organization needs and plan, not the level of detail needed to build a comprehensive system or information technology project plan.
+
+Some questions to help guide the development of this section include:
+
+-   How and where will your data be organized?
+-   What tools or software are required to read or view the data?
+-   What directory and file naming convention will be used?
+-   What are your local storage and backup procedures?
+-   Will this data require secure storage?
+-   Who is responsible for managing the data? Who will ensure that the data management plan is carried out?
+-   What steps will be taken to protect privacy, security, confidentiality, intellectual property or other rights?
+
+### Data Quality & Processing
+
+Here you will define the processes you will use to clean and prepare your data once it is collected - also known as tidying data. [Tidy data](https://vita.had.co.nz/papers/tidy-data.pdf) are structured such that the data are easy to manipulate, model, and visualize - and getting data to the point of being tidy is often the most time consuming step of any data-intensive work. More detailed data processing/tidying steps are outlined on the [Data Processing page](https://cawaterboarddatacenter.github.io/equity-data-handbook/process.html).
+
+Similar to the analysis step - you might not know all of the details of how the data will need to be tidied - what's important for this section is that you think through the potential methods you will need to use to make disparate datasets interoperable and tidy so that they're of acceptible quality and easy to use for your analysis and product development steps.
+
+Some questions to help guide the development of this section include:
+
+-   Which datasets (if any) will need to be merged/combined to be made useful for your project? If this needs to be done, how will you plan on doing it?
+-   What are your data quality objectives/standards?
+-   How will you assess and establish the quality of the data you use?
+-   What rubric will you use to decide which data are kept and which are excluded from future steps?
+
+::: callout-note
+The Water Boards have a [quality management system](https://www.waterboards.ca.gov/water_issues/programs/quality_assurance/) and overarching Quality Assurance Management Plan. Be sure to review this material to consider how your project falls in that that framework, and if more is needed. For example, many programs do NOT have Quality Assurance Program Plans, so this may be a step needed to occur to establish data quality objectives, etc.
+
+In some cases the Quality Assurance and Data Management plans can be integrated (see this [USGS Quality-Assurance and Data-Management Plan](https://drive.google.com/file/d/14D1VBJU51hrxQya3-rcZcItHHe65gS_s/view) as an example)
+:::
 
 ## Data Analysis & Product Development
 
@@ -109,3 +145,12 @@ If your project involves collecting data through a survey, you might use this se
 ### Future work
 
 Here you might describe next steps or project ideas that are outside the scope and timelines of the current project, but that you see as being directly related to or building upon the current project.
+
+## Additional Resources
+
+-   [DMP Tool](https://dmptool.org/) (a web-based tool that helps you construct data management plans using templates that address specific funder requirements) 
+-   [CA Healthy Watersheds Partnership Assessment Guidance: Data Acquisition, Monitoring and Management](https://mywaterquality.ca.gov/monitoring_council/healthy_streams/assessment_guidance/data_acquisition.html)
+-   [USGS - Data Management Plans](https://www.usgs.gov/data-management/data-management-plans)
+-   [MIT Libraries - Write a Data Management Plan](https://libraries.mit.edu/data-management/plan/write/) &
+-   [Harvard Medical School - Data Management Plans](https://datamanagement.hms.harvard.edu/plan-design/data-management-plans)
+-   [University of Arizona - Data Management Plans Overview](https://data.library.arizona.edu/data-management/data-management-plans)
