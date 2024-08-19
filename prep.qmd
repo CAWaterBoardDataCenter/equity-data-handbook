@@ -11,21 +11,20 @@ Try using the development of your Data Management Plan as a way to build relatio
 
 Some ideas for how to do this include:
 
--   You can create a Technical Advisory group composed of Tribal and community experts that helps **co-create** the Data Management Plan with the Project Team.
-
+-   You can create a Technical Advisory group composed of Tribal and community experts that helps co-create the Data Management Plan with the Project Team.
 -   The Project Team develops the Data Management Plan, but solicits feedback on early versions from Tribal and community experts and makes revisions according to their feedback.
 :::
 
 A Data Management Plan should include the following sections:
 
-1.  Project Introduction & Context
-2.  Data Collection & Processing
-3.  Data Analysis & Product Development
-4.  Data & Product Preservation & Storage
-5.  Data & Product Publication & Sharing
-6.  Data & Product Documentation
-7.  Data & Product Evaluation
-8.  Optional sections or appendices: Acknowledgements, Timeline, Project Roles and Responsibilities, Dataset Details, Survey Details, Future work
+1.  [Project Introduction & Context](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html#project-introduction-context)
+2.  [Data Collection & Processing](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html#data-collection-processing)
+3.  [Data Analysis & Product Development](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html#data-analysis-product-development)
+4.  [Data & Product Preservation & Storage](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html#data-product-preservation-storage)
+5.  [Data & Product Publication & Sharing](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html#data-product-publication-sharing)
+6.  [Data & Product Documentation](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html#data-product-documentation)
+7.  [Data & Product Evaluation](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html#data-product-evaluation)
+8.  Other Potential Sections or Appendices: Acknowledgements, Timeline, Project Roles and Responsibilities, Dataset Details, Survey Details, Future work
 
 Since the development the Data Management Plan takes place before data are actually collected, some details, like specific analytical methods, may not be completely worked out. However, the Data Management Plan should include a clear vision and general plan for each section and include as much detail as possible.
 
@@ -77,7 +76,7 @@ Some questions to help guide the development of this section include:
 
 ## Data & Product Evaluation
 
-## Other Optional Sections
+## Other Potential Sections
 
 ### Acknowledgements
 
@@ -97,7 +96,7 @@ Spelling out project roles and responsibilities during this phase can help ident
 This will enable the project team, management, and/or project partners to understand the limitations and dedicate time and resources to find more team members that can help fill those gaps before the project is underway. Doing this will ultimately prevent the project from being delayed, stalled, or put on hold after time, energy, and resources have already been expended (or even wasted).
 :::
 
-## Appendices
+## Potential Appendices
 
 ### Data Details
 
