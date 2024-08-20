@@ -39,7 +39,7 @@ Here you want to briefly describe the project and the mechanism(s) driving the d
 
 ## Data Collection & Processing
 
-In this section, you will identify the data you plan on collecting, how you will collect it, and how you organize, manage, and process said data once it is collected.
+In this section, you will identify the data you plan on collecting, how you will collect it, and how you organize, manage, and process said data once it is collected. More detailed guidance on collection and processing of data and resultant products is outlined on the [Data Collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collection.html), [Surveys](https://cawaterboarddatacenter.github.io/equity-data-handbook/surveys.html), and [Data Processing](https://cawaterboarddatacenter.github.io/equity-data-handbook/process.html) pages.
 
 ### Data Collection
 
@@ -104,7 +104,7 @@ In some cases the Quality Assurance and Data Management plans can be integrated 
 
 ## Data Analysis & Product Development
 
-In this section, you will describe how you intend on using the data and the general plan or intended workflow you envision for your data analysis and/or product development phase. If you know you will use certain formulas, methods, or software for this step, you will identify them here.
+In this section, you will describe how you intend on using the data and the general plan or intended workflow you envision for your data analysis and/or product development phase. If you know you will use certain formulas, methods, or software for this step, you will identify them here. More detailed guidance on data analysis and product development steps are outlined on the [Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/analysis.html) and [Data Visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/vis.html) pages.
 
 Some questions to help guide the development of this section include:
 
@@ -118,7 +118,7 @@ Some questions to help guide the development of this section include:
 
 ## Data & Product Preservation & Storage
 
-In this section, you will describe how and where you plan on preserving and storing data and products once they are developed.
+In this section, you will describe how and where you plan on preserving and storing data and products once they are developed. More detailed guidance on preservation and storage of data and resultant products is outlined on the [Preservation & Storage page](https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html).
 
 Some questions to help guide the development of this section include:
 
@@ -129,6 +129,33 @@ Some questions to help guide the development of this section include:
 -   At what point will data, code/scripts, and resultant products/applications be archived or deleted?
 
 ## Data & Product Publication & Sharing
+
+In this section, you will describe how and where you plan on publishing, shareing and otherwise making accessibly the project's data and products once they are developed. More detailed guidance on publishing and sharing data and resultant products is outlined on the [Data Sharing page](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html).
+
+The Water Boards typically make virtually all of the data we collect available to the public. The exceptions are confidential information (e.g., part of ongoing enforcement actions and/or formal Tribal consultations) and some personally identifiable information (PII). This section should describe any policies that will filter out data from the step of making the data publicly available and, more importantly, how the project plans to provide access to the data.
+
+::: callout-note
+Publishing and sharing Water Boards data and resultant products is critical for collaboration and transparency of our data, products, and workflows. Your project should be in alignment with the Water Board’s Open Data Resolution: “[Adopting Principles of Open Data as a Core Value and Directing Programs and Activities to Implement Strategic Actions to Improve Data Accessibility and Associated Innovation](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2018/rs2018_0032.pdf).” This means:
+
+-   Documenting your process throughout the project so as to make it open, transparent, and reproducible
+-   Utilizing open data and open source software (e.g. Python, R) as much as possible
+-   Making the data you use and code you develop transparent and accessible to the public after the project is complete, as appropriate
+:::
+
+Some questions to help guide the development of this section include:
+
+-   What data and products will be shared, and when?
+-   Where and how will data and products be made open and/or accessible?
+    -   Datasets that are of high value should, at minimum, be published to the [California Open Data Portal](https://data.ca.gov/) in the form of machine readable, well documented, maintained data.
+    -   Geospatial products of high value should, at minimum, be published to the [California State Geoportal](https://gis.data.ca.gov/).
+    -   Code and similar products (scripts, analysis packages) should, at minimum, be published on the [Water Boards GitHub](https://github.com/CAWaterBoardDataCenter) in it's own, well documented, project repository.
+    -   For all other data or products, please indicate how the data/product will be made accessible (e.g., via search forms at SMARTS public reports page, etc.).
+-   Does sharing the data raise privacy, ethical, or confidentiality concerns?  Do you have a plan to protect or anonymize data, if needed?
+-   If you collected data directly from Tribes or communities -
+    -   How will permission be obtained to use and disseminate the data?
+    -   How is informed consent being handled and how is privacy being protected?
+    -   How and when will you communicate what will or will not be shared?
+-   To what extent do the methods of publication and sharing of data, products developed through this project abide by [FAIR Principles](https://www.go-fair.org/fair-principles/) of scientific data management and stewardship and [CARE Principles](https://www.gida-global.org/care) for Indigenous Data Governance? If FAIR and CARE Principles are not being met - how can we modify our methods and processes of publication and sharing to better meet them?
 
 ## Data & Product Documentation
 
