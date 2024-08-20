@@ -174,7 +174,7 @@ Some questions to help guide the development of this section include:
 -   What types of metadata will be produced alongside the data?
 -   What metadata standards will be used? Are you using metadata that is standard to your field?
 -   How will the metadata be managed and stored?
--   What other documentation will be developed for the project and associated products? Where will that be stored? How will it be made accessible and shared?
+-   What other documentation will be developed for the project and associated products (e.g. workflows, standard operating procedures, data or product use or interpretation guidance, etc.)? Where will that be stored? How will it be made accessible and shared?
 
 ## Data & Product Evaluation
 
