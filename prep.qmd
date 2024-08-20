@@ -175,8 +175,21 @@ Some questions to help guide the development of this section include:
 -   What metadata standards will be used? Are you using metadata that is standard to your field?
 -   How will the metadata be managed and stored?
 -   What other documentation will be developed for the project and associated products (e.g. workflows, standard operating procedures, data or product use or interpretation guidance, etc.)? Where will that be stored? How will it be made accessible and shared?
+-   If you collected data or partnered directly from Tribes or communities -
+    -   Does it make sense to have these same partners review and provide feedback on your metadata and documentation materials? Doing so would help ensure that documentation is clear, simple, and accessible to a wide array of audiences.
+    -   When and how will you share the aforementioned documentation with your partners?
 
 ## Data & Product Evaluation
+
+In this section, you will describe how you will evaluate the data, products, and outcomes of the project after it is complete, to assess the extent to which the project has achieved the goals you set for it and advanced and improved equity outcomes. More detailed guidance on describing the project's data and products is outlined on the [Documentation page](https://cawaterboarddatacenter.github.io/equity-data-handbook/documentation.html).
+
+Some questions to help guide the development of this section include:
+
+-   At what point(s) during the project's life cycle will you conduct your evaluation? (You don't need to wait until the project is complete to benefit from this phase!)
+-   What evaluation method(s) will you use?
+-   How can the project design an equitable and inclusive evaluation?
+-   Will the project team share evaluation findings with the experts or other partners involved in the project? If so, with whom will you share it, and how?
+-   Would sharing the project's evaluation findings with the experts or other partners who were NOT directly involved in the project further promote equity through transparency and accountability? If so, with whom will you share it, and how?
 
 ## Other Potential Sections
 
