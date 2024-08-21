@@ -1,12 +1,84 @@
 # Data Collection
 
+::: callout-important
+You should have addressed this during the [Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html) & [Prepare](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html) phase of your process...but just in case you haven't (yet) or you need a refresher - we're restating here:
+
+**Achieving racial equity outcomes means that race can no longer be used to predict life outcomes and outcomes for all groups are improved** ([Glossary](#0))
+
+So, as you begin to collect the data for your project, be sure it includes:
+
+1.  Data that can represent your management question(s) or project objectives.
+
+2.  Data that can tell us something about the extent to which we are achieving equity outcomes. This may be limited to simple demographics data - but it could also be something more! Working with Tribal and community experts to decide what type(s) of data are most applicable to and reflective of their lived experiences as they relate to your management questions and project objectives is a great place to start!
+:::
+
+The data related to your project may come from direct human observation, laboratory and field instruments, experiments, simulations, surveys, and/or compilations of data from other sources. Below we focus on data that can be downloaded from open data sources, and survey guidance.
+
 ## Common Data Sources
+
+Below we have provided a list of common data sources that can tell us something about the extent to which we are achieving equity outcomes.
+
+### Water Boards Data
+
+Port over relevant water boards [data and databases](https://www.waterboards.ca.gov/resources/data_databases/) content?
+
+### Open Data Portals
+
+### Federal Data
+
+### Demographics Data
+
+### Common Multi-Source Data Tools
+
+CalEnviroScreen vs. EnviroFacts vs. EnviroMapper vs. EJ Screen
+
+## Surveys
+
+There may be instances where you need to collect new data using survey(s).
+
+### Survey Design
+
+Creating surveys that yield actionable insights is all about the details - and writing effective survey questions is the first step. You do not have to be an expert to build and distribute an effective online survey, but by checking your survey against tried-and-tested benchmarks, you can help ensure you are collecting the best data possible.  
+
+Tips for Building an Effective Survey:
+
+1.  Make Sure That Every Question Is Necessary.
+
+2.  Keep it Short and Simple.
+
+3.  Ask Direct Questions.
+
+4.  Ask One Question at a Time.
+
+5.  Avoid Leading and Biased Questions.
+
+6.  Speak Your Respondent's Language.
+
+7.  Use Response Scales Whenever Possible.
+
+8.  Avoid Using Grids or Matrices for Responses.
+
+9.  Rephrase Yes/No Questions if Possible
+
+10. Take Your Survey for a Test Drive
+
+A good comprehensive guide for survey design can be found here:  <https://files.eric.ed.gov/fulltext/ED619797.pdf> 
+
+<https://www.qualtrics.com/blog/10-tips-for-building-effective-surveys/>
+
+### **Picking a Survey Software**
+
+Most Water Board staff will use Microsoft Forms which is available to all staff through the Microsoft 365 suite of applications.  Microsoft Forms has a lot of advantages because of its integration with other Microsoft tools like Excel and PowerBi which allow for the survey results to be analyzed and visualized.  Here is video on how to make that connection between Forms and PowerBi via Sharepoint that allows for consistent updating of results:  <https://youtu.be/XBFVDedwLiY?si=O161oYja-FBhG1W7> 
+
+One issue with Microsoft Forms and other free software like Google Forms is that they produce wide data in Excel of Google Sheets.  This type of data is more difficult to transform.
 
 ## Data Limitations
 
+All data have limits in what they can actually tell us, constraints on how they should be used appropriately, and biases related to initial data collection or generation - and it's important to be aware of and account for them during your project.
+
 In most cases, the Water Boards programs were not developed or designed to collect demographic data as a matter of process which means that most will rely on a few key data sources.
 
-![Graphic Comparing Data Benefits and Risks](images/Data_Benefit_vs%20_Risk.png){alt="Data Benefit vs Risk"}
+![Data Benefit vs Risk](images/Data_Benefit_vs%20_Risk.png)
 
 Incorporating a racial equity lens during data analysis includes incorporating individual, community, political, and historical contexts of race to inform analysis, conclusions, and recommendations. Solely relying on statistical outputs will not necessarily lead to insights without careful consideration during the analytic process, such as ensuring data quality is sufficient and determining appropriate statistical power. Disaggregation of data is also a series of tradeoffs. Without disaggregating data by subgroup, analysis can unintentionally gloss over inequity and lead to invisible experiences. On the other hand, when analysts create a subgroup, they may be shifting the focus of analysis to a specific population that is likely already over-surveilled. ([Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/wp-content/uploads/2022/07/AISP-Toolkit_5.27.20.pdf))
 

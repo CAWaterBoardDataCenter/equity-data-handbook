@@ -4,23 +4,27 @@ We strongly encourage staff to read this Handbook in it's entirety. However, for
 
 ## Plan & Prepare
 
-Remember - this phase is all about.... Best practices for this phase include:
+This phase involves conducting an equity assessment ([Planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html)) and developing your data management plan using an equity lens ([Data Preparation](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html)). Best practices for this phase include:
 
--   Use the best available science while relying on current, generally accepted Agency procedures for conducting risk assessment and economic analysis.  
+-   **Not rushing through this phase!** We often want to dive straight into "doing something" and taking the time to plan can feel like a waste of time. If done quickly and without using an equity lens, it will be time wasted. Instead, invest the time needed to do this phase well, rather than fast.
 
--   Use existing frameworks and data from other parts of the regulatory analysis, supplemented as appropriate.  
+-   Using this phase to begin the process of trust and relationship building with Tribes, communities, and other expert partners interested in your project. Maybe it involves some early outreach, putting together an email list, establishing a technical advisory committee, or otherwise *co-creating* your planning documents with the communities that will be most impacted by the project's implementation.
 
--   Be consistent with the basic assumptions underlying other parts of the analysis, such as using the same baseline and option scenarios.
+-   Make the products developed during this phase as open, transparent, and accessible as possible and appropriate. This doesn't necessairly mean that every single thing should be made public - but it does mean seriously considering what can be made open, to whom, and when.
+
+-   Use the best available science while relying on current, generally accepted Agency procedures for conducting risk assessments, economic or other technical analysis. **But also understand that just because something has "always been done this way" does not automatically make it the best science, method, or process available.** Be open to integrating other ways of knowing that might be different from "western science" or our business as usual methods or processes, such as the traditional knowledge landscape, and non-tribal expertise that stems from lived experiences.
 
 ## Collect & Process
 
-Remember - this phase is all about.... Best practices for this phase include:
+This phase involves collecting the data and information you need for your project ([Data Collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collection.html)) and making it tidy so that is ready to be used in your analyses or product development steps ([Data Processing](https://cawaterboarddatacenter.github.io/equity-data-handbook/process.html)). Best practices for this phase include:
 
--   Carefully select and justify the choice of the geographic unit of analysis and discuss any particular challenges or aggregation issues related to the choice of spatial scale.
+-   Use already existing and available frameworks and data, supplementing as appropriate.
 
--   When data allow, characterize the distribution of risks, exposures, or outcomes within each population group, instead of presenting only average effects. 
+-   Carefully select and justify the choice of the geographic unit you will use in your analysis and discuss any particular challenges or potential aggregation issues related to the choice of spatial scale.
 
--   Disaggregate data to reveal important spatial differences (e.g., demographic information for each facility/place) when feasible and appropriate.  
+-   Keep data disaggregated so you are able to reveal important spatial differences during your analysis phase (e.g., demographic information for each facility/place) when feasible and appropriate.
+
+-   Prepare to invest the time required to tidy the data needed for your project. It's commonly understood in the data science field that 80% of data analysis is spent on the process of cleaning and preparing the data ([Dasu and Johnson 2003](https://onlinelibrary.wiley.com/doi/book/10.1002/0471448354)) - expect the same will be true for your project and prepare to invest time and resources accordingly.
 
 ## Assure & Analyze
 
@@ -32,7 +36,11 @@ Remember - this phase is all about.... Best practices for this phase include:
 
 -   Analyze and compare effects in baseline and across policy scenarios to show differences in effects.
 
+-   When data allow, characterize the distribution of risks, exposures, or outcomes within each population group, instead of presenting only average effects.
+
 -   Present summary metrics for relevant population groups of concern as well as the comparison population group. 
+
+-   Be consistent with the basic assumptions underlying other parts of the analysis, such as using the same baseline and option scenarios.
 
 ## Preserve & Store
 
@@ -64,13 +72,4 @@ Remember - this phase is all about.... Best practices for this phase include:
 
 -   When possible, conduct sensitivity analysis for key assumptions or parameters that may affect findings. 
 
-```{=html}
-<!-- -->
-```
 -   Make elements of Environmental Justice (EJ) assessments as straightforward and easy for the public to understand as possible. 
-
--   
-
--   
-
--   

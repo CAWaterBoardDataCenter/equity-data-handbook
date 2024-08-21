@@ -28,7 +28,7 @@ A Data Management Plan should include the following sections:
 
 Since the development the Data Management Plan takes place before data are actually collected, some details, like specific analytical methods, may not be completely worked out. However, the Data Management Plan should include a clear vision and general plan for each section and include as much detail as possible.
 
-## Project Introduction & Context 
+## Project Introduction & Context
 
 Here you want to briefly describe the project and the mechanism(s) driving the data collection and product development. Much of this will likely be worked out during the [Planning phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html), including:
 
@@ -40,6 +40,18 @@ Here you want to briefly describe the project and the mechanism(s) driving the d
 ## Data Collection & Processing
 
 In this section, you will identify the data you plan on collecting, how you will collect it, and how you organize, manage, and process said data once it is collected. More detailed guidance on collection and processing of data and resultant products is outlined on the [Data Collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collection.html), [Surveys](https://cawaterboarddatacenter.github.io/equity-data-handbook/surveys.html), and [Data Processing](https://cawaterboarddatacenter.github.io/equity-data-handbook/process.html) pages.
+
+::: callout-important
+As you make a plan for which data you need to collect and from where - it's a great time to pause and think about what you *actually* need to answer the questions/objectives you have using an equity lens.
+
+As a reminder - **achieving racial equity outcomes means that race can no longer be used to predict life outcomes and outcomes for all groups are improved** ([Glossary](https://cawaterboarddatacenter.github.io/equity-data-handbook/common-language.html#glossary))
+
+So, as you create the list of data you want to collect for your project, it should contain:
+
+1.  Data that can represent your management question(s) or project objectives. See the [Planning page](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html) for more guidance.
+
+2.  Data that can tell us something about the extent to which we are achieving equity outcomes. This may be limited to simple demographics data - but it could also be something more! Working with Tribal and community experts to decide what type(s) of data are most applicable to and reflective of their lived experiences as they relate to your management questions and project objectives is a great place to start! See the [Data Collection page](https://cawaterboarddatacenter.github.io/equity-data-handbook/collection.html) for more guidance.
+:::
 
 ### Data Collection
 
@@ -63,7 +75,7 @@ Some questions to help guide the development of this section include:
 -   How long will the data be collected/generated and how often will it change?
 -   To what extent do the data and methods of collection and use for this project abide by [FAIR Principles](https://www.go-fair.org/fair-principles/) of scientific data management and stewardship and [CARE Principles](https://www.gida-global.org/care) for Indigenous Data Governance? If FAIR and CARE Principles are not being met - how can we modify our methods and processes data collection and use to better meet them?
 
-[![FAIR Principles ([F]{.underline}indable, [A]{.underline}ccessible, [I]{.underline}nteroperable, [R]{.underline}eusable) within the open data movement primarily focus on characteristics of data that will facilitate increased data sharing among entities while ignoring power differentials and historical contexts. CARE Principles ([C]{.underline}ollective Benefit, [A]{.underline}uthority to Control, [R]{.underline}esponsibility, [E]{.underline}thics) for Indigenous Data Governance are people and purpose-oriented, reflecting the crucial role of data in advancing Indigenous innovation and self-determination. Image credit: Global Indigenous Data Allianc](images/Be+FAIR+and+CARE.png){fig-alt="Graphic that spells out FAIR & CARE Principles acronyms - specifically \"Be FAIR and CARE\" with acronym definitions below each letter: FAIR = Findable, Accessible, Interoperable, Reusable and CARE = Collective Benefit, Authority to Control, Responsibility, Ethics."}](https://www.gida-global.org/care)
+[![FAIR Principles (Findable, Accessible, Interoperable, Reusable) within the open data movement primarily focus on characteristics of data that will facilitate increased data sharing among entities while ignoring power differentials and historical contexts. CARE Principles (Collective Benefit, Authority to Control, Responsibility, Ethics) for Indigenous Data Governance are people and purpose-oriented, reflecting the crucial role of data in advancing Indigenous innovation and self-determination. Image credit: Global Indigenous Data Allianc](images/Be+FAIR+and+CARE.png){fig-alt="Graphic that spells out FAIR & CARE Principles acronyms - specifically \"Be FAIR and CARE\" with acronym definitions below each letter: FAIR = Findable, Accessible, Interoperable, Reusable and CARE = Collective Benefit, Authority to Control, Responsibility, Ethics."}](https://www.gida-global.org/care)
 
 ### Data Organization & Management
 
