@@ -29,7 +29,6 @@ book:
     - part: Collect & Process
       chapters:
         - collection.qmd
-        - surveys.qmd
         - process.qmd
 
     - part: Assure & Analyze
