@@ -2,9 +2,9 @@
 
 As you're in the [Planning phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html) of conducting your Equity Assessment, we recommend documenting what you are doing for the remaining phases of the data life cycle and making that documentation as open and transparent as possible. This is best accomplished through the use of a Data Management Plan.
 
-A Data Management Plan describes what data will be used, how the data will be [collected](https://cawaterboarddatacenter.github.io/equity-data-handbook/collection.html), [processed](https://cawaterboarddatacenter.github.io/equity-data-handbook/process.html), and managed to produce conduct your [analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/analysis.html), [visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/vis.html) or other products, and how those data products will be [stored](https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html), [shared](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html), and maintained over the long-term. In other words, this Data Management Plan describes how the project team intends to address and manage each phase of the data life cycle.
+A Data Management Plan describes what data will be used, how the data will be [collected](https://cawaterboarddatacenter.github.io/equity-data-handbook/collection.html), [processed](https://cawaterboarddatacenter.github.io/equity-data-handbook/process.html), and managed to conduct your [analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/analysis.html), [visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/vis.html) or other products, and how those data products will be [stored](https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html), [shared](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html), and maintained over the long-term. In other words, the Data Management Plan describes how the project team intends to address and manage each phase of the data life cycle.
 
-Depending on the complexity of the project - your data management plan can be relatively short, and it can be used as a way to begin to engage with experts and partners that are interested in your project!
+Depending on the complexity of the project, your data management plan can be relatively short, and it can be used as a way to begin to engage with experts and partners that are interested in your project!
 
 ::: callout-tip
 Try using the development of your Data Management Plan as a way to build relationships and trust with Tribal and community experts!
@@ -99,7 +99,7 @@ Some questions to help guide the development of this section include:
 
 Here you will define the processes you will use to clean and prepare your data once it is collected - also known as tidying data. [Tidy data](https://vita.had.co.nz/papers/tidy-data.pdf) are structured such that the data are easy to manipulate, model, and visualize - and getting data to the point of being tidy is often the most time consuming step of any data-intensive work. More detailed data processing/tidying steps are outlined on the [Data Processing page](https://cawaterboarddatacenter.github.io/equity-data-handbook/process.html).
 
-Similar to the analysis step - you might not know all of the details of how the data will need to be tidied - what's important for this section is that you think through the potential methods you will need to use to make disparate datasets interoperable and tidy so that they're of acceptible quality and easy to use for your analysis and product development steps.
+Similar to the analysis step - you might not know all of the details of how the data will need to be tidied - what's important for this section is that you think through the potential methods you will need to use to make disparate datasets interoperable and tidy so that they're of acceptable quality and easy to use for your analysis and product development steps.
 
 Some questions to help guide the development of this section include:
 
@@ -121,7 +121,7 @@ In this section, you will describe how you intend on using the data and the gene
 Some questions to help guide the development of this section include:
 
 -   What management questions are you planning on answering or informing with this data and project?
-    -   If operational decision making is the use please identify whiich performance measures or existing resource allocation planning processes that will be using the data (e.g., assigning inspections to staff, determining priority for compliance assurance work, etc.).
+    -   If operational decision making is the use please identify which performance measures or existing resource allocation planning processes that will be using the data (e.g., assigning inspections to staff, determining priority for compliance assurance work, etc.).
     -   Please also identify any business interests that will need to be alerted to the data / products and may have concerns over its quality, etc. For example, invoicing for fees will need to have updated information, etc.
 -   What workflow will you use to analyse the data and/or develop the resultant data product?
 -   What data analysis or visualization methods or software will you use?
@@ -142,7 +142,7 @@ Some questions to help guide the development of this section include:
 
 ## Data & Product Publication & Sharing
 
-In this section, you will describe how and where you plan on publishing, shareing and otherwise making accessibly the project's data and products once they are developed. More detailed guidance on publishing and sharing data and resultant products is outlined on the [Data Sharing page](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html).
+In this section, you will describe how and where you plan on publishing, sharing and otherwise making accessibly the project's data and products once they are developed. More detailed guidance on publishing and sharing data and resultant products is outlined on the [Data Sharing page](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html).
 
 The Water Boards typically make virtually all of the data we collect available to the public. The exceptions are confidential information (e.g., part of ongoing enforcement actions and/or formal Tribal consultations) and some personally identifiable information (PII). This section should describe any policies that will filter out data from the step of making the data publicly available and, more importantly, how the project plans to provide access to the data.
 
