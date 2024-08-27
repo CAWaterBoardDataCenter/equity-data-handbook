@@ -1,6 +1,6 @@
 # Best Practices
 
-We strongly encourage staff to read this Handbook in it's entirety. However, for those who want to jump to best practices, or who just need a refresher, we have provided them below, with links to pages that have more details, guidance, and resources.
+We strongly encourage staff to read this Handbook in its entirety. However, for those who want to jump to best practices, or who just need a refresher, we have provided them below, with links to pages that have more details, guidance, and resources.
 
 ## Plan & Prepare
 
@@ -10,7 +10,7 @@ This phase involves conducting an equity assessment ([Planning](https://cawaterb
 
 -   Using this phase to begin the process of trust and relationship building with Tribes, communities, and other expert partners interested in your project. Maybe it involves some early outreach, putting together an email list, establishing a technical advisory committee, or otherwise *co-creating* your planning documents with the communities that will be most impacted by the project's implementation.
 
--   Make the products developed during this phase as open, transparent, and accessible as possible and appropriate. This doesn't necessairly mean that every single thing should be made public - but it does mean seriously considering what can be made open, to whom, and when.
+-   Make the products developed during this phase as open, transparent, and accessible as possible and appropriate. This doesn't necessarily mean that every single thing should be made public - but it does mean seriously considering what can be made open, to whom, and when.
 
 -   Use the best available science while relying on current, generally accepted Agency procedures for conducting risk assessments, economic or other technical analysis. **But also understand that just because something has "always been done this way" does not automatically make it the best science, method, or process available.** Be open to integrating other ways of knowing that might be different from "western science" or our business as usual methods or processes, such as the traditional knowledge landscape, and non-tribal expertise that stems from lived experiences.
 
