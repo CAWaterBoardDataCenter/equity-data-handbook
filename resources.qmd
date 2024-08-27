@@ -31,10 +31,25 @@ All Water Boards authors are **bolded** below.
 -   [California Data Strategy Report](https://innovation.ca.gov/reports/data-strategy-report-2024/) (2024)
 -   [California Data Strategy](https://innovation.ca.gov/pdf/CalData_Californias_Data_Strategy_2020.pdf) (2020)
 
-### [The White House]{.underline}
+### [National Level Resources]{.underline}
 
 -   [The Environmental Justice Science, Data, and Research Plan](https://www.whitehouse.gov/wp-content/uploads/2024/07/NSTC-EJ-Research-Plan-July-2024.pdf) (2024)
 -   [Year of Open Science Fact Sheet](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/) (2023)
+-   <https://www.census.gov/programs-surveys/acs/data.html> - The American Community Survey (ACS) releases new data every year through a variety of data tables that you can access with different data tools.
+-   <https://www.census.gov/programs-surveys/acs/library/handbook> - You can use American Community Survey (ACS) data in different ways and for different reasons. Each one of our downloadable PDF handbooks helps a particular group with specific how-to instructions and/or case studies.
+-   US EPA guidance for Assessing Environmental Justice in Regulatory Analysis <https://www.epa.gov/system/files/documents/2023-11/ejtg_revision_110823_508compliant_0.pdf>
+-   Guide from the U.S. Department of Health and Human Services on how to conduct an equity assessment of a policy or program: [In-Depth Equity Assessment Guide \| ASPE (hhs.gov)](https://aspe.hhs.gov/reports/equity-assessment-guide)
+-   [FACT SHEET: Biden-⁠Harris Administration Releases Annual Agency Equity Action Plans to Further Advance Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-releases-annual-agency-equity-action-plans-to-further-advance-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
+-   <https://www.usich.gov/resources/uploads/asset_library/Racial_Equity_Data_Guidebook.pdf> (link broken?) - The U.S. Interagency Council on Homelessness (USICH) is the only federal agency with a sole mission focused on preventing and ending homelessness in America. The council consists of 19 federal agencies that help create and catalyze implementation of the Federal Strategic Plan to Prevent and End Homelessness.
+-   <https://www.whitehouse.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf> - From the White House Equitable Data Working Group
+-   <https://cssp.org/wp-content/uploads/2021/09/Our-Identities-Ourselves-Project-Infographic-FINAL.pdf> - Center for the Study of Social Policy. This is the first phase of a larger project whose goal is to share best practices for collecting data about race, ethnicity, and other demographic information including sexual orientation, gender identity and expression (SOGIE); national origin; language spoken; disability; religion; and tribal affiliation in child welfare agencies nationwide.
+-   [CDC guidance: Principles for Using Public Health Data to Drive Equity A guide to embedding equitable practices throughout the data life cycle](https://www.cdcfoundation.org/data-equity-principles?inline)
+-   [Federal Register :: Initial Proposals For Updating OMB's Race and Ethnicity Statistical Standards](https://www.federalregister.gov/documents/2023/01/27/2023-01635/initial-proposals-for-updating-ombs-race-and-ethnicity-statistical-standards)
+-   Actionable Intelligence for Social Policy (AISP) Centering for Equity Toolkit: <https://aisp.upenn.edu/resource-article/a-toolkit-for-centering-racial-equity-throughout-data-integration/>
+-   Urban Institute's Principles for Advancing Equitable Data Practice: <https://www.urban.org/sites/default/files/publication/102346/principles-for-advancing-equitable-data-practice.pdf>
+-   General Data Management resource hub from the National Institute of Health that includes FAIR principles, metadata practices etc. <https://sharing.nih.gov/data-management-and-sharing-policy/data-management>
+-   Hero Database with Racial Equity Resources collated from the National : <https://hero.epa.gov/hero/index.cfm/project/page/project_id/3611>
+-   <https://nationalequityatlas.org/> The National Equity Atlas is America's most detailed report card on racial and economic equity.
 
 ## Relevant Literature
 
