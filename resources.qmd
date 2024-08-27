@@ -50,6 +50,7 @@ All Water Boards authors are **bolded** below.
 -   General Data Management resource hub from the National Institute of Health that includes FAIR principles, metadata practices etc. <https://sharing.nih.gov/data-management-and-sharing-policy/data-management>
 -   Hero Database with Racial Equity Resources collated from the National : <https://hero.epa.gov/hero/index.cfm/project/page/project_id/3611>
 -   <https://nationalequityatlas.org/> The National Equity Atlas is America's most detailed report card on racial and economic equity.
+-   US EPA has [guidance](https://www.epa.gov/geospatial/guidance-content-item-metadata-arcgis-online) for content metadata in ArcGIS Online.
 
 ## Relevant Literature
 
