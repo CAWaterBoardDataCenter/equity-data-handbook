@@ -574,7 +574,18 @@
     "href": "data-into-information.html",
     "title": "13  Turning Data into Information",
     "section": "",
-    "text": "Turning Data into Information is Challenging - Even More so with Racial Equity Data Work\nTurning data into information in the context of racial equity involved navigating complex ethical considerations. The process requires an understanding of the potential impact on Black, Indigenous, and other People of Color (BIPOC) communities and the responsibility to mitigate perpetuating or reinforcing biases. Upholding ethical standards requires a commitment to maintaining privacy, accessibility, and fostering transparency throughout the data transformation process. Additionally, acknowledging the limitations of the data and being transparent about potential biases is essential for maintaining the integrity of the data and information generated and shared. The transformation of racial equity data into meaningful information requires a thoughtful and intentional approach which we will highlight in the next sections.\nFor example, many programs will rely on demographic and socioeconomic data, like those collected from the U.S. Census and the American Community Survey (ACS). Because the ACS is based on a sample, rather than all housing units and people, ACS estimates have a degree of uncertainty associated with them, called sampling error. In general, the larger the sample, the smaller the level of sampling error. To help users understand the impact of sampling error on data reliability, the Census Bureau provides a “margin of error” for each published ACS estimate. The margin of error, combined with the ACS estimate, gives users a range of values within which the actual “real-world” value is likely to fall.  It is important to acknowledge this uncertainty up front to be transparent with your audience about the data and conclusions you are drawing.  For more information on using ACS data please see the Understanding and Using American Community Survey Data: What All Data Users Need to Know Handbook.  Also for an interactive tool that measures the potential inaccuracies associated with relying on census data to enumerate demographic and socioeconomic characteristics in California please explore: https://cacensus.maps.arcgis.com/apps/webappviewer/index.html?id=48be59de0ba94a3dacff1c9116df8b37.\n\nAnother example of how to tell your data story in a transparent way can be found on the Office of Environmental Health and Hazard Assessment CalEnviroScreen 4.0 Race and Equity Analysis.  https://storymaps.arcgis.com/stories/f555670d30a942e4b46b18293e2795a7",
+    "text": "13.1 Root Cause Analysis\nA root cause analysisis a technique that helps idenify the what caused a problem. Identifying the root cause(s) is the most effective way to prevent future problems and ultimately remedy the exisiting ones. The Water Boards Advancing Racial Equity training course provides some strong content touches on root cause analysis and it’s importance when considering racial inequities which is based on the common framework of asking why at least five times. Some online resources and templates are available below:",
+    "crumbs": [
+      "Assure & Analyze",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Turning Data into Information</span>"
+    ]
+  },
+  {
+    "objectID": "data-into-information.html#root-cause-analysis",
+    "href": "data-into-information.html#root-cause-analysis",
+    "title": "13  Turning Data into Information",
+    "section": "",
+    "text": "https://slidemodel.com/templates/tag/root-cause-analysis/\nhttps://www.pvpc.org/content/root-cause-solutions-exchange\nhttps://www.mchevidence.org/learning/framework/tools.php",
     "crumbs": [
       "Assure & Analyze",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Turning Data into Information</span>"
