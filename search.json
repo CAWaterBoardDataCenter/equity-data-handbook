@@ -24,7 +24,29 @@
     "href": "get-started.html",
     "title": "2  Getting Started",
     "section": "",
-    "text": "2.1 Consult the Racial Equity Data Subcommittee\nProgram staff that are beginning data project using a racial equity lens should meet with the Racial Equity Data Team to discuss key aspects of the project including who the audience is and what questions or information you are trying to convey using the available racial equity data. This engagement should occur prior to beginning any data collection or analysis.\nTo initiate a consultation with the Racial Equity Data Team, please send an email to equitydatahelp@waterboards.ca.gov.",
+    "text": "2.1 Make Water Boards data for which you are a steward open!\nIn accordance with the first principle of the Water Board’s Open Data Resolution (Resolution No. 2018-0032; see below), it is the responsibility of Water Boards data stewards to make our data open and accessible to the public.\nGuidance on open data publishing at the Water Boards is available in the Open Data Handbook.",
+    "crumbs": [
+      "Getting Started",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "get-started.html#make-water-boards-data-for-which-you-are-a-steward-open",
+    "href": "get-started.html#make-water-boards-data-for-which-you-are-a-steward-open",
+    "title": "2  Getting Started",
+    "section": "",
+    "text": "Make Data Accessible (“Open First”): our organization values transparency and strives to make all critical public data available in machine-readable datasets with metadata and data dictionaries.",
+    "crumbs": [
+      "Getting Started",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "get-started.html#consult-the-racial-equity-data-subcommittee",
+    "href": "get-started.html#consult-the-racial-equity-data-subcommittee",
+    "title": "2  Getting Started",
+    "section": "2.2 Consult the Racial Equity Data Subcommittee",
+    "text": "2.2 Consult the Racial Equity Data Subcommittee\nProgram staff that are beginning data project using a racial equity lens should meet with the Racial Equity Data Team to discuss key aspects of the project including who the audience is and what questions or information you are trying to convey using the available racial equity data. This engagement should occur prior to beginning any data collection or analysis.\nTo initiate a consultation with the Racial Equity Data Team, please send an email to equitydatahelp@waterboards.ca.gov.",
     "crumbs": [
       "Getting Started",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Getting Started</span>"
@@ -34,8 +56,8 @@
     "objectID": "get-started.html#review-the-equity-data-handbook-and-complete-the-racial-equity-data-project-form",
     "href": "get-started.html#review-the-equity-data-handbook-and-complete-the-racial-equity-data-project-form",
     "title": "2  Getting Started",
-    "section": "2.2 Review the Equity Data Handbook and complete the Racial Equity Data Project Form",
-    "text": "2.2 Review the Equity Data Handbook and complete the Racial Equity Data Project Form\nThis Equity Data Handbook is a curated compilation of emerging and comprehensive (but not exhaustive) guidance on:  \n\nHow to break down the management questions where racial equity information is being posed against administrative data; and \nHow to apply equity best practices during each phase of the data life cycle to begin an iterative process into advancing racial equity. \n\nThis Handbook is specifically structured to support Water Boards staff on incorporating racial equity concepts into all phases of their data projects. The guidance and best practices provided serves as a strategic guide emphasizing the importance of collection, analysis and utilization of racial equity data.\nThese intended users of this Handbook include, but are not limited to:  \n\nProgram Staff\nProgram managers\nExecutives\nAgency Partners\nTribal Governments\nThe Public \n\nAfter reviewing this Handbook, please complete the Racial Equity Data Project Form so that the Racial Equity Data Subcommittee is better equipped for your project consultation.",
+    "section": "2.3 Review the Equity Data Handbook and complete the Racial Equity Data Project Form",
+    "text": "2.3 Review the Equity Data Handbook and complete the Racial Equity Data Project Form\nThis Equity Data Handbook is a curated compilation of emerging and comprehensive (but not exhaustive) guidance on:  \n\nHow to break down the management questions where racial equity information is being posed against administrative data; and \nHow to apply equity best practices during each phase of the data life cycle to begin an iterative process into advancing racial equity. \n\nThis Handbook is specifically structured to support Water Boards staff on incorporating racial equity concepts into all phases of their data projects. The guidance and best practices provided serves as a strategic guide emphasizing the importance of collection, analysis and utilization of racial equity data.\nThese intended users of this Handbook include, but are not limited to:  \n\nProgram Staff\nProgram managers\nExecutives\nAgency Partners\nTribal Governments\nThe Public \n\nAfter reviewing this Handbook, please complete the Racial Equity Data Project Form so that the Racial Equity Data Subcommittee is better equipped for your project consultation.",
     "crumbs": [
       "Getting Started",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Getting Started</span>"
@@ -45,8 +67,8 @@
     "objectID": "get-started.html#review-the-gare-framework",
     "href": "get-started.html#review-the-gare-framework",
     "title": "2  Getting Started",
-    "section": "2.3 Review the GARE Framework",
-    "text": "2.3 Review the GARE Framework\nIt’s strongly suggested staff review the framework outlined by the Government Alliance for Racial Equity (GARE) to normalize, organize, and operationalize racial equity throughout data integration (see image below).\n\n\n\nGARE model of change. Source: GARE Communications Guide, May 2018\n\n\nIn addition staff should also review why it is important to lead with race:\n\n“with the recognition that the creation and perpetuation of racial inequities has been baked into government, and that racial inequities across all indicators for success are deep and pervasive. We also know that other groups of people are still marginalized, including based on gender, sexual orientation, ability and age, to name but a few. Focusing on racial equity provides the opportunity to introduce a framework, tools and resources that can also be applied to other areas of marginalization. It is critical to address all areas of marginalization, and an institutional approach is necessary across the board. As the local and regional government deepens its ability to eliminate racial inequity, it will be better equipped to transform systems and institutions impacting other marginalized groups.”",
+    "section": "2.4 Review the GARE Framework",
+    "text": "2.4 Review the GARE Framework\nIt’s strongly suggested staff review the framework outlined by the Government Alliance for Racial Equity (GARE) to normalize, organize, and operationalize racial equity throughout data integration (see image below).\n\n\n\nGARE model of change. Source: GARE Communications Guide, May 2018\n\n\nIn addition staff should also review why it is important to lead with race:\n\n“with the recognition that the creation and perpetuation of racial inequities has been baked into government, and that racial inequities across all indicators for success are deep and pervasive. We also know that other groups of people are still marginalized, including based on gender, sexual orientation, ability and age, to name but a few. Focusing on racial equity provides the opportunity to introduce a framework, tools and resources that can also be applied to other areas of marginalization. It is critical to address all areas of marginalization, and an institutional approach is necessary across the board. As the local and regional government deepens its ability to eliminate racial inequity, it will be better equipped to transform systems and institutions impacting other marginalized groups.”",
     "crumbs": [
       "Getting Started",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Getting Started</span>"
@@ -56,8 +78,8 @@
     "objectID": "get-started.html#take-the-advancing-racial-equity-training",
     "href": "get-started.html#take-the-advancing-racial-equity-training",
     "title": "2  Getting Started",
-    "section": "2.4 Take the Advancing Racial Equity Training",
-    "text": "2.4 Take the Advancing Racial Equity Training\nWhen possible, staff should take the Advancing Racial Equity training series offered by the Water Boards Training Academy to foster a consistent baseline knowledge of racial equity work and the importance of applying a racial equity lens to our work.",
+    "section": "2.5 Take the Advancing Racial Equity Training",
+    "text": "2.5 Take the Advancing Racial Equity Training\nWhen possible, staff should take the Advancing Racial Equity training series offered by the Water Boards Training Academy to foster a consistent baseline knowledge of racial equity work and the importance of applying a racial equity lens to our work.",
     "crumbs": [
       "Getting Started",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Getting Started</span>"
