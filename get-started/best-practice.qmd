@@ -2,6 +2,12 @@
 
 We strongly encourage staff to read this Handbook in its entirety. However, for those who want to jump to best practices, or who just need a refresher, we have provided them below, with links to pages that have more details, guidance, and resources.
 
+## Publish Water Boards Data
+
+If you are a steward of Water Boards data - and it is not yet made appropriately open and accessible (including thorough documentation and complete metadata!) - you should complete the guidance on the [Publish Your Data page](https://cawaterboarddatacenter.github.io/equity-data-handbook/publish-data.html) before you begin thinking about planning for your project.
+
+-   **Building a map (or other data visualization/interpretation tool) before making our own data open and accessible is not the right order**. Share the we have first, then build a map or other resource showing what we think is interesting/important using that (and other) data. 
+
 ## Plan & Prepare
 
 This phase involves conducting an equity assessment ([Planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html)) and developing your data management plan using an equity lens ([Data Preparation](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html)). Best practices for this phase include:
