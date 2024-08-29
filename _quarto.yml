@@ -13,7 +13,7 @@ website:
     right: "This Handbook is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; CC-By CA Water Board's Office of Information Management and Analysis (OIMA), 2024"
   
-   sidebar:
+  sidebar:
     logo: "images/WaterBoards_logo.png"
     favicon: images/WaterBoards_logo.png
     pinned: true
