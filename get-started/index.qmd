@@ -11,7 +11,11 @@
 
 4.  Review the [GARE Framework: Normalize, Organize, and Operationalize](https://www.racialequityalliance.org/resources/racial-equity-toolkit-opportunity-operationalize-equity/)  
 
-5.  If possible, take the Advancing Racial Equity training series offered by the [Water Boards Training Academy](https://launcher.myapps.microsoft.com/api/signin/82768508-b765-4d4e-bc76-c73262ddb0cf?tenantId=fe186a25-7d49-41e6-9941-05d2281d36c1)
+*Other Optional but Recommended Tasks*
+
+-   Take the Advancing Racial Equity training series offered by the [Water Boards Training Academy](https://launcher.myapps.microsoft.com/api/signin/82768508-b765-4d4e-bc76-c73262ddb0cf?tenantId=fe186a25-7d49-41e6-9941-05d2281d36c1)
+
+-   Put a team together and join an [Openscapes Champions Cohort at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/)
 :::
 
 ## Make your Water Boards data open and accessible!
@@ -58,6 +62,16 @@ In addition staff should also review why it is important to [lead with race](htt
 
 > “with the recognition that the creation and perpetuation of racial inequities has been baked into government, and that racial inequities across all indicators for success are deep and pervasive. We also know that other groups of people are still marginalized, including based on gender, sexual orientation, ability and age, to name but a few. Focusing on racial equity provides the opportunity to introduce a framework, tools and resources that can also be applied to other areas of marginalization. It is critical to address all areas of marginalization, and an institutional approach is necessary across the board. As the local and regional government deepens its ability to eliminate racial inequity, it will be better equipped to transform systems and institutions impacting other marginalized groups.”
 
-## Take the Advancing Racial Equity Training
+## Other Optional but Recommended Tasks
+
+### Take the Advancing Racial Equity Training
 
 When possible, staff should take the Advancing Racial Equity training series offered by the [Water Boards Training Academy](https://launcher.myapps.microsoft.com/api/signin/82768508-b765-4d4e-bc76-c73262ddb0cf?tenantId=fe186a25-7d49-41e6-9941-05d2281d36c1) to foster a consistent baseline knowledge of racial equity work and the importance of applying a racial equity lens to our work.
+
+### Join an Openscapes Champions Cohort at the Water Boards
+
+[Openscapes](https://www.openscapes.org/) through their [Champions Program](https://www.openscapes.org/champions/), provides a framework for education, integration, and operationalization of open science, equity, communication, and kindness into individual and team collaborations and workflows. Teams that participate in the Champions Program are empowered to evolve and invest in their culture, processes, and workflows so that they can embody the [better science for future us mindset](https://openscapes.github.io/series/mindset.html).
+
+Water Boards teams are able to join Openscapes Champions Cohorts that are created for and led by Water Boards staff.
+
+For more information and to learn how to join an upcoming Openscapes Champions Cohort at the Water Boards, visit the [Openscapes at the Water Boards webpage](https://cawaterboarddatacenter.github.io/swrcb-openscapes/).
