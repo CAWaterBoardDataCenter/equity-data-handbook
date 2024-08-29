@@ -1,83 +1,99 @@
 project:
-  type: book
+  type: website
 
-book:
+website:
+  page-navigation: true
   title: "Equity Data Handbook"
-  author: "CA Water Board's Office of Information Management and Analysis (OIMA)"
-  date: "2024-07-01"
-  search: true
+  site-url: "https://cawaterboarddatacenter.github.io/equity-data-handbook/" 
   repo-url: https://github.com/CAWaterBoardDataCenter/equity-data-handbook
-  repo-actions: [edit, issue]
-  downloads: [pdf, epub]
-  sharing: [twitter, facebook]
-  chapters:
+  repo-actions: [edit, source, issue]
+  favicon: images/WaterBoards_logo.png
+
+  page-footer:
+    right: "This Handbook is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-By CA Water Board's Office of Information Management and Analysis (OIMA), 2024"
   
-    - index.qmd
-    - background.qmd
-    
-    - part: Getting Started
-      chapters:
-        - get-started.qmd
-        - best-practice.qmd
-        - common-language.qmd
-        
-    - part: Plan & Prepare
-      chapters:
-        - plan.qmd
-        - prep.qmd
-        
-    - part: Collect & Process
-      chapters:
-        - collection.qmd
-        - process.qmd
-
-    - part: Assure & Analyze
-      chapters:
-        - analysis.qmd
-        - vis.qmd
-        - demographics.qmd
-        - calenviroscreen.qmd
-        - data-into-information.qmd
-
-    - part: Preserve & Store
-      chapters:
-        - store.qmd
-        
-    - part: Publish & Share
-      chapters:
-        - share.qmd
-
-    - part: Discover & Integrate
-      chapters:
-        - eval.qmd
-        
-    - part: Describe
-      chapters:
-        - documentation.qmd
-  
-    - part: Use Cases
-      chapters:
-        - uc_SWAMP.qmd
-        - uc_demographics.qmd
-        
-    - resources.qmd
-    - inspo.qmd
-    
-  sidebar:
-    style: "docked"
+   sidebar:
     logo: "images/WaterBoards_logo.png"
-    # type: "light"
-    # background: "#002151"
-    # foreground: "light"
-    border: true
+    favicon: images/WaterBoards_logo.png
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://www.waterboards.ca.gov/resources/oima/
+        text: "OIMA"
+      - icon: github
+        href: https://github.com/CAWaterBoardDataCenter/equity-data-handbook
+        text: "Handbook Repo"
+    
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Welcome!
+      - href: background.qmd
+        text: Background
+      - section: get-started/index.qmd
+        text: Getting Started
+        contents:
+          - get-started/best-practice.qmd
+          - get-started/common-language.qmd
+      - href: publish-data.qmd
+        text: Publish Your Data
+      - section: plan-prep/index.qmd
+        text: Plan & Prepare
+        contents:
+          - plan-prep/plan.qmd
+          - plan-prep/prep.qmd
+      - section: collect-process/index.qmd
+        text: Collect & Process
+        contents:
+          - collect-process/collection.qmd
+          - collect-process/process.qmd
+      - section: assure-analyze/index.qmd
+        text: Assure & Analyze
+        contents:
+          - assure-analyze/qaqc.qmd
+          - assure-analyze/analysis.qmd
+          - assure-analyze/vis.qmd
+          - assure-analyze/demographics.qmd
+          - assure-analyze/calenviroscreen.qmd
+          - assure-analyze/data2info.qmd
+      - href: store.qmd
+        text: Preserve & Store
+      - href: share.qmd
+        text: Publish & Share
+      - href: eval.qmd
+        text: Discover & Integrate
+      - href: documentation.qmd
+        text: Describe
+      - section: use-cases/index.qmd
+        text: Use Cases
+        contents:
+          - use-cases/uc_swamp.qmd
+          - use-cases/uc_demographics.qmd
+      - href: resources.qmd
+        text: Resources
+      - href: inspo.qmd
+        text: Inspiration
+
 
 format:
   html:
-    theme: cosmo
-  pdf:
-    documentclass: scrreprt
+    theme:
+      light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+    fontsize: 1em
 
-editor: visual
 
-# comments:
-#   hypothesis: true
+filters:
+  - include-files.lua
+  - quarto
+
+execute:
+  freeze: auto
