@@ -3,14 +3,24 @@
 ::: callout-tip
 **Before embarking on your data project using a racial equity lens you should:**
 
-1.  Consult the Racial Equity Data Subcommittee by emailing [equitydatahelp\@waterboards.ca.gov](mailto:equitydatahelp@waterboards.ca.gov) to help identify audience and potential questions or information your teams’ analysis may answer and provide guidance.
+1.  Make your Water Boards data open and accessible to the public! See the [Open Data Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/open_data_handbook.html) for guidance.
 
-2.  Review the guidance and best practices described in this [Equity Data Handbook](https://cawaterboarddatacenter.github.io/equity-data-handbook/) and complete the [Racial Equity Data Project Form](https://forms.office.com/g/0HuJqQkiJs)
+2.  Consult the Racial Equity Data Subcommittee by emailing [equitydatahelp\@waterboards.ca.gov](mailto:equitydatahelp@waterboards.ca.gov) to help identify audience and potential questions or information your teams’ analysis may answer and provide guidance.
 
-3.  Review the [GARE Framework: Normalize, Organize, and Operationalize](https://www.racialequityalliance.org/resources/racial-equity-toolkit-opportunity-operationalize-equity/)  
+3.  Review the guidance and best practices described in this [Equity Data Handbook](https://cawaterboarddatacenter.github.io/equity-data-handbook/) and complete the [Racial Equity Data Project Form](https://forms.office.com/g/0HuJqQkiJs)
 
-4.  If possible, take the Advancing Racial Equity training series offered by the [Water Boards Training Academy](https://launcher.myapps.microsoft.com/api/signin/82768508-b765-4d4e-bc76-c73262ddb0cf?tenantId=fe186a25-7d49-41e6-9941-05d2281d36c1)
+4.  Review the [GARE Framework: Normalize, Organize, and Operationalize](https://www.racialequityalliance.org/resources/racial-equity-toolkit-opportunity-operationalize-equity/)  
+
+5.  If possible, take the Advancing Racial Equity training series offered by the [Water Boards Training Academy](https://launcher.myapps.microsoft.com/api/signin/82768508-b765-4d4e-bc76-c73262ddb0cf?tenantId=fe186a25-7d49-41e6-9941-05d2281d36c1)
 :::
+
+## Make Water Boards data for which you are a steward open! 
+
+In accordance with the first principle of the Water Board's Open Data Resolution (Resolution No. 2018-0032; see below), it is the responsibility of Water Boards data stewards to make our data open and accessible to the public.
+
+> Make Data Accessible (“Open First”): our organization values transparency and strives to make all critical public data available in machine-readable datasets with metadata and data dictionaries.
+
+Guidance on open data publishing at the Water Boards is available in the [Open Data Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/open_data_handbook.html).
 
 ## Consult the Racial Equity Data Subcommittee
 
