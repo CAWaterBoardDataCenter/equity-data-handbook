@@ -134,6 +134,16 @@
     ]
   },
   {
+    "objectID": "plan-prep/index.html",
+    "href": "plan-prep/index.html",
+    "title": "Plan & Prepare",
+    "section": "",
+    "text": "Plan & Prepare\n\n\n\n\n\n\nImportant\n\n\n\nIf you are a steward of Water Boards data - and it is not yet made appropriately open and accessible (including thorough documentation and complete metadata!) - you should complete the guidance on the Publish Your Data page before you begin thinking about planning for your project.\n\n\nBefore data collection begins, it is paramount that you think through why you want to collect the data you think you need and how you intend to use it once it is collected.\nThis phase of the data life cycle involves conducting an equity assessment (Planning) and developing your data management plan using an equity lens (Data Preparation).\nAlso see a short list of best practices for this phase.",
+    "crumbs": [
+      "Plan & Prepare"
+    ]
+  },
+  {
     "objectID": "collect-process/process.html",
     "href": "collect-process/process.html",
     "title": "Data Processing",
