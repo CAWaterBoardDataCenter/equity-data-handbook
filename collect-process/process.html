@@ -316,7 +316,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#data-processing" id="toc-data-processing" class="nav-link active" data-scroll-target="#data-processing">Data Processing</a></li>
+  <li><a href="#data-processing" id="toc-data-processing" class="nav-link active" data-scroll-target="#data-processing">Data Processing</a>
+  <ul class="collapse">
+  <li><a href="#why-tidy-data" id="toc-why-tidy-data" class="nav-link" data-scroll-target="#why-tidy-data">Why Tidy Data?</a></li>
+  <li><a href="#how-to-tidy-data-with-an-equity-lens" id="toc-how-to-tidy-data-with-an-equity-lens" class="nav-link" data-scroll-target="#how-to-tidy-data-with-an-equity-lens">How to Tidy Data with an Equity Lens</a></li>
+  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/edit/main/collect-process/process.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/blob/main/collect-process/process.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -328,8 +333,69 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="data-processing" class="level1">
 <h1>Data Processing</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>“Raw data, like raw potatoes, usually require cleaning before use.”</p>
+<p>— <a href="https://stat.uchicago.edu/people/profile/ronald-a-thisted/">Ronald A. Thisted</a>, Professor Emeritus - Departments of Statistics and Public Health Sciences, The University of Chicago</p>
+<p>“Happy families are all alike; every unhappy family is unhappy in its own way.”</p>
+<p>— Leo Tolstoy, Russian author known as one of the world’s greatest novelists.</p>
+<p>“Tidy datasets are all alike, but every messy dataset is messy in its own way.”</p>
+<p>— <a href="https://hadley.nz/">Hadley Wickham</a>, Chief Scientist at Posit (formerly RStudio)</p>
+</div>
+</div>
+<p>Good data organization and formatting is the foundation of any data project. Once the data are collected, you will need to process them so they can be used in your analyses or product development steps.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>It’s commonly understood in the data science field that 80% of data analysis is spent on the process of cleaning and preparing the data (<a href="https://onlinelibrary.wiley.com/doi/book/10.1002/0471448354">Dasu and Johnson 2003</a>) - <em>expect the same will be true for your project and prepare to invest time and resources accordingly.</em></strong></p>
+</div>
+</div>
+<p>The Resources section below links to resources that provide detailed technical guidance on how to process data using data science methods. Here, we discuss the why and how we go about this step with an equity lens.</p>
+<p>When we talk about data processing here, we’re referring to the steps required to organize, format, and clean the data so it’s more efficient to use in future steps, and so others can consistently reproduce your steps - - this is commonly referred to as <a href="https://r4ds.hadley.nz/data-tidy">tidying data</a>.</p>
+<section id="why-tidy-data" class="level2">
+<h2 class="anchored" data-anchor-id="why-tidy-data">Why Tidy Data?</h2>
+<p><strong><em>From a data science lens</em></strong> - Investing the time to properly tidy your data upfront makes the analyses or product development steps much more efficient and reproducible. This will cut down the time it takes in the long term to complete your analysis and product development steps (even if they need to evolve/change over time!), enabling you to spend more time on the actual data, science, management, and equity questions you have for your project (aka the good stuff!).</p>
+<p><strong><em>From an equity lens</em></strong> - having consistent and reproducible data makes it easy for others to replicate your work, which can increase transparency of your process and ultimately help build trust with your partners, the communities impacted by the management decisions associated with your project, and the public at large.</p>
+<p>Additionally, working from a foundation of tidy data (and using consistent tools) can make it easier for others to collaborate with and contribute to your data project, which generally results in a better product in the end.</p>
+</section>
+<section id="how-to-tidy-data-with-an-equity-lens" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-tidy-data-with-an-equity-lens">How to Tidy Data with an Equity Lens</h2>
+<p>When you’re processing your data and making it tidy, <strong>think through which data from your sources are applicable to your question(s).</strong> Sometimes we don’t have the technical or logistical capacity to keep ALL of the data we are able to collect - so if you are going to remove data at this step, be sure to document WHY you’re removing it in a way that makes it easy for others to easily understand the reasoning behind the data decisions you’re making. Some reasons might include:</p>
+<ul>
+<li>Data are outside of the geographic scope of the analysis (e.g.&nbsp;we’re focused on a particular region for the project, and we are removing data outside of that region so we can increase loading/analysis speeds)</li>
+<li>Fields/columns from source data are not relevant to our analysis for XYZ reasons.</li>
+</ul>
+<p><strong>Keep your “raw data raw” at this point.</strong> Any aggregation or preliminary analysis of your data should be completed during the analysis phase of the project. Keeping the values and aggregation of the data as they are at this phase increases reproducibility and transparency now and during future steps. Note that this is different from reformatting/restructuring data from wide to long formats, which is a common and very useful part of the data processing/tidying phase.</p>
+<p>You <em>might</em> be tempted to begin your data quality assessments as you’re looking at the data now, but you’ll actually want to hold off on that for now. <strong>You’ll complete your <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/qaqc.html">data quality and assurance steps</a><em>after</em> all of your data have been tidied and you can look at all of your data holistically.</strong></p>
+</section>
+<section id="resources" class="level2">
+<h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<ul>
+<li><p>Julia Lowndes and Allison Horst (2020) <a href="https://www.openscapes.org/blog/2020/10/12/tidy-data/">Tidy Data for reproducibility, efficiency, and collaboration</a>. <a href="https://www.openscapes.org/">Openscapes</a> blog.</p></li>
+<li><p>College of Water Informatics <a href="https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html">Data Management Handbook</a> - <a href="https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html#collect_process">Collect and Process Section</a></p></li>
+<li><p>Hadley Wickham. <a href="https://vita.had.co.nz/papers/tidy-data.pdf">Tidy Data</a>. Journal of Statistical Software</p></li>
+<li><p>Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund. <a href="https://r4ds.hadley.nz/">R for Data Science (2e)</a> - <a href="https://r4ds.hadley.nz/data-tidy">Data Tidying Chapter</a></p></li>
+<li><p>The Py4DS Community. <a href="https://aeturrell.github.io/python4DS/welcome.html#">Python for Data Science</a> - <a href="https://aeturrell.github.io/python4DS/data-tidy.html">Tidy Data Chapter</a></p></li>
+<li><p>Karl W. Broman, and Kara H Woo (2018) <a href="https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989">Data Organization in Spreadsheets</a>. The American Statistician 72 (1). Available open access as a <a href="https://peerj.com/preprints/3183/">PeerJ preprint</a>.</p></li>
+</ul>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
