@@ -1,18 +1,16 @@
 # Data Processing
 
-::: callout-note
-"Raw data, like raw potatoes, usually require cleaning before use."
+> "Raw data, like raw potatoes, usually require cleaning before use."
+>
+> — [Ronald A. Thisted](https://stat.uchicago.edu/people/profile/ronald-a-thisted/), Professor Emeritus - Departments of Statistics and Public Health Sciences, The University of Chicago
 
-— [Ronald A. Thisted](https://stat.uchicago.edu/people/profile/ronald-a-thisted/), Professor Emeritus - Departments of Statistics and Public Health Sciences, The University of Chicago
-
-"Happy families are all alike; every unhappy family is unhappy in its own way.”
-
-— Leo Tolstoy, Russian author known as one of the world’s greatest novelists.
-
-“Tidy datasets are all alike, but every messy dataset is messy in its own way.”
-
-— [Hadley Wickham](https://hadley.nz/), Chief Scientist at Posit (formerly RStudio)
-:::
+> "Happy families are all alike; every unhappy family is unhappy in its own way.”
+>
+> — Leo Tolstoy, Russian author known as one of the world’s greatest novelists.
+>
+> “Tidy datasets are all alike, but every messy dataset is messy in its own way.”
+>
+> — [Hadley Wickham](https://hadley.nz/), Chief Scientist at Posit (formerly RStudio)
 
 Good data organization and formatting is the foundation of any data project. Once the data are collected, you will need to process them so they can be used in your analyses or product development steps.
 
@@ -41,7 +39,7 @@ When you're processing your data and making it tidy, **think through which data 
 
 **Keep your "raw data raw" at this point.** Any aggregation or preliminary analysis of your data should be completed during the analysis phase of the project. Keeping the values and aggregation of the data as they are at this phase increases reproducibility and transparency now and during future steps. Note that this is different from reformatting/restructuring data from wide to long formats, which is a common and very useful part of the data processing/tidying phase.
 
-You *might* be tempted to begin your data quality assessments as you're looking at the data now, but you'll actually want to hold off on that for now. **You'll complete your [data quality and assurance steps](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/qaqc.html)*after* all of your data have been tidied and you can look at all of your data holistically.**
+You *might* be tempted to begin your data quality assessments as you're looking at the data now, but you'll actually want to hold off on that for now. **You'll complete your [data quality and assurance steps](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/qaqc.html)** ***after*** **all of your data have been tidied and you can look at all of your data holistically.**
 
 ## Resources
 
