@@ -1,4 +1,4 @@
-# Evaluation 
+# Evaluation
 
 After a project is complete (or has gone through a complete iteration) - it's important to assess the project and evaluate the extent to which it has achieved the goals you set for it and advanced and improved equity outcomes. There are several ways to achieve this. Below is a list of methods one might consider utilizing for this phase of the data life cycle.
 
@@ -11,6 +11,14 @@ You don't need to wait until the project is complete to benefit from using these
 :::
 
 ## Root Cause Analysis
+
+A root cause analysisis a technique that helps idenify the what caused a problem. Identifying the root cause(s) is the most effective way to prevent future problems and ultimately remedy the exisiting ones. The Water Boards Advancing Racial Equity training course provides some strong content touches on root cause analysis and it's importance when considering racial inequities which is based on the common framework of asking why at least five times. Some online resources and templates are available below:
+
+-   <https://slidemodel.com/templates/tag/root-cause-analysis/>
+
+-   <https://www.pvpc.org/content/root-cause-solutions-exchange>
+
+-   <https://www.mchevidence.org/learning/framework/tools.php>
 
 ## Results-Based Accountability (RBA)
 

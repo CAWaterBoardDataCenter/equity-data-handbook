@@ -8,12 +8,4 @@ For example, many programs will rely on demographic and socioeconomic data, like
 \
 Another example of how to tell your data story in a transparent way can be found on the Office of Environmental Health and Hazard Assessment CalEnviroScreen 4.0 Race and Equity Analysis.  <https://storymaps.arcgis.com/stories/f555670d30a942e4b46b18293e2795a7>
 
-## Root Cause Analysis
-
-A root cause analysisis a technique that helps idenify the what caused a problem. Identifying the root cause(s) is the most effective way to prevent future problems and ultimately remedy the exisiting ones. The Water Boards Advancing Racial Equity training course provides some strong content touches on root cause analysis and it's importance when considering racial inequities which is based on the common framework of asking why at least five times. Some online resources and templates are available below:
-
--   <https://slidemodel.com/templates/tag/root-cause-analysis/>
-
--   <https://www.pvpc.org/content/root-cause-solutions-exchange>
-
--   <https://www.mchevidence.org/learning/framework/tools.php>
+## 
