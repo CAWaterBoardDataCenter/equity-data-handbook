@@ -797,7 +797,7 @@
     "href": "assure-analyze/index.html",
     "title": "Assure & Analyze",
     "section": "",
-    "text": "Assure & Analyze\nBy now, you’ve established your project equity and data management plans (Plan & Prepare) and you’ve finished assembling and tidying the data you plan on using for your project (Collect & Process).\nThis phase of the data life cycle involves conducing your final data quality checks (Quality Assurance) and beginning your analyses or product development steps (Data Analysis, INSERT OTHER PAGE LINKS)\nAlso see a short list of best practices for this phase.",
+    "text": "Assure & Analyze\nBy now, you’ve established your project equity and data management plans (Plan & Prepare) and you’ve finished assembling and tidying the data you plan on using for your project (Collect & Process).\nThis phase of the data life cycle involves conducing your final data quality checks (Quality Assurance) and beginning your analyses or product development steps (Data Analysis, Data Visualization). You might also review specific guidance on how to utilize Demographics or CalEnviroScreen data in your project.\nAlso see a short list of best practices for this phase.",
     "crumbs": [
       "Assure & Analyze"
     ]
