@@ -685,6 +685,16 @@
     ]
   },
   {
+    "objectID": "collect-process/index.html",
+    "href": "collect-process/index.html",
+    "title": "Collect & Process",
+    "section": "",
+    "text": "Collect & Process\nAt this phase, you should have already completed your equity assessment (Planning) and developed your data management plan using an equity lens (Data Preparation). Now you’re ready to begin the data work!\nThis phase of the data life cycle involves gathering the data you identified during the Plan & Prep phase (Data Collection) and getting it ready so it can be used in your analyses or product development steps (Data Processing).\nAlso see a short list of best practices for this phase.",
+    "crumbs": [
+      "Collect & Process"
+    ]
+  },
+  {
     "objectID": "assure-analyze/calenviroscreen.html",
     "href": "assure-analyze/calenviroscreen.html",
     "title": "CalEnviroScreen",
