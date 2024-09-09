@@ -44,13 +44,8 @@ You *might* be tempted to begin your data quality assessments as you're looking 
 ## Resources
 
 -   Julia Lowndes and Allison Horst (2020) [Tidy Data for reproducibility, efficiency, and collaboration](https://www.openscapes.org/blog/2020/10/12/tidy-data/). [Openscapes](https://www.openscapes.org/) blog.
-
 -   College of Water Informatics [Data Management Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html) - [Collect and Process Section](https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html#collect_process)
-
 -   Hadley Wickham. [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf). Journal of Statistical Software
-
 -   Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund. [R for Data Science (2e)](https://r4ds.hadley.nz/) - [Data Tidying Chapter](https://r4ds.hadley.nz/data-tidy)
-
 -   The Py4DS Community. [Python for Data Science](https://aeturrell.github.io/python4DS/welcome.html#) - [Tidy Data Chapter](https://aeturrell.github.io/python4DS/data-tidy.html)
-
 -   Karl W. Broman, and Kara H Woo (2018) [Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989). The American Statistician 72 (1). Available open access as a [PeerJ preprint](https://peerj.com/preprints/3183/).
