@@ -1,1 +1,15 @@
 # Quality Assurance
+
+## Quality Assurance/Quality Control (QA/QC) Grounding
+
+According to the [Water Boards Quality Assurance/Quality Control Website](https://www.waterboards.ca.gov/water_issues/programs/quality_assurance/):
+
+> Quality assurance and quality control are components of a quality system. A quality system is a structured system that describes the policies and procedures for ensuring that work processes, products, or services satisfy the user's specifications and expectations. A quality system is the means by which an organization manages its quality aspects. These aspects are Project Management, Data Generation and Acquisition, and Assessment and Oversight.
+
+**Quality Assurance (QA)** involves an integrated system of management activities that involves planning, implementation, documentation, assessment, reporting, and quality improvement to ensure that a process, item, or service is of the type and quality required for the project needs.
+
+**Quality Control (QC)** involves a system of technical activities that measures the attributes and performance of a process, item, or service against defined standards to verify that they meet the stated requirements established by the customer. QC also involves analytical frequency requirements and control limits.
+
+## QA/QC with an Equity Lens
+
+As conduct QAQC procedured with our tidy data, we want to make sure to think through...
