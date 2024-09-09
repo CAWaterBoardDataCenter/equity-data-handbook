@@ -18,7 +18,7 @@ Good data organization and formatting is the foundation of any data project. Onc
 **It’s commonly understood in the data science field that 80% of data analysis is spent on the process of cleaning and preparing the data ([Dasu and Johnson 2003](https://onlinelibrary.wiley.com/doi/book/10.1002/0471448354)) - *expect the same will be true for your project and prepare to invest time and resources accordingly.***
 :::
 
-The Resources section below links to resources that provide detailed technical guidance on how to process data using data science methods. Here, we discuss the why and how we go about this step with an equity lens.
+The [Resources section below](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html#resources) links to resources that provide detailed technical guidance on how to process data using data science methods. Here, we discuss the why and how we go about this step with an equity lens.
 
 When we talk about data processing here, we're referring to the steps required to organize, format, and clean the data so it's more efficient to use in future steps, and so others can consistently reproduce your steps - - this is commonly referred to as [tidying data](https://r4ds.hadley.nz/data-tidy).
 
