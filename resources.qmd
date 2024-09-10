@@ -13,6 +13,11 @@ All Water Boards authors are **bolded** below.
 -   [Academic Data Science Alliance Data Science Ethos](https://ethos.academicdatascience.org/)
 -   [CA Water Boards College of Water Informatics Data Toolkit](https://www.waterboards.ca.gov/resources/oima/cowi/data_training.html)
 -   [500 Women Scientists Guide for Inclusive Scientific Meetings](https://500womenscientists.org/inclusive-scientific-meetings)
+-   City of Oakland \| [OakDOT Geographic Equity Toolbox (oaklandca.gov)](https://www.oaklandca.gov/resources/oakdot-geographic-equity-toolbox)
+-   City of Portland Racial Equity Toolkit: <https://www.portlandoregon.gov/oehr/71685>
+-   Pierce County (Washington State) utilizes an [Equity Index mapping tool](http://www.piercecountywa.gov/equityindex) to help inform diversity, equity, and inclusion considerations throughout County decision-making.
+-   The City of Seattle utilizes a [Racial and Social Equity Index](https://maps.seattle.gov/RSEIndex) that many departments use for prioritization and evaluation/analysis. A [user guide](#0) is also available.
+-   New York City government's online interactive equity data tool [EquityNYC](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fequity.nyc.gov%2F&data=05%7C01%7Cnicholas.martorano%40waterboards.ca.gov%7C87a614b2e3db4c85368c08dbc55a8595%7Cfe186a257d4941e6994105d2281d36c1%7C0%7C0%7C638320764855634179%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=r%2Br4%2BybTh130ovhG12PjYHQYqVHlz4jSB8gXj3KTnAI%3D&reserved=0), including a [Mapping Equity tool](https://equity.nyc.gov/mapping-equity).
 
 ## Presentations
 
