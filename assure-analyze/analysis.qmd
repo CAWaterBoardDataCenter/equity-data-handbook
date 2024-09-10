@@ -13,5 +13,3 @@ Another example of how to tell your data story in a transparent way can be found
 ## Data Exploration **with an Equity Lens**
 
 ## Data Analysis **with an Equity Lens**
-
-## 
