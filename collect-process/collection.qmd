@@ -14,23 +14,69 @@ So, as you begin to collect the data for your project, be sure it includes:
 
 The data related to your project may come from direct human observation, laboratory and field instruments, experiments, simulations, surveys, and/or compilations of data from other sources. Below we focus on data that can be downloaded from open data sources, and survey guidance.
 
+## Data Limitations
+
+It's important to remember that ALL data have limits in what they can actually tell us, constraints on how they should be used appropriately, and biases related to initial data collection or generation - and it's crucial to be aware of and account for them during your project.
+
+In most cases, the Water Boards programs were not developed or designed to collect the types of data needed to conduct analyses with an equity lens as a matter of process which means that most will rely on a few key data sources.
+
+![Data Benefit vs Risk](images/Data_Benefit_vs%20_Risk.png){alt="Data Benefit vs Risk"}
+
+Incorporating a racial equity lens during data analysis includes incorporating individual, community, political, and historical contexts of race to inform analysis, conclusions, and recommendations. Solely relying on statistical outputs will not necessarily lead to insights without careful consideration during the analytic process, such as ensuring data quality is sufficient and determining appropriate statistical power. Disaggregation of data is also a series of tradeoffs. Without disaggregating data by subgroup, analysis can unintentionally gloss over inequity and lead to invisible experiences. On the other hand, when analysts create a subgroup, they may be shifting the focus of analysis to a specific population that is likely already over-surveilled. ([Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/wp-content/uploads/2022/07/AISP-Toolkit_5.27.20.pdf))
+
+Centering racial equity means paying attention to which data are highlighted and how they are framed, as well as the readability and accessibility of the communication method. This involves strategic consideration of the audience and the mode of dissemination that most effectively conveys the information. There are many ways to communicate information. These include briefs, interactive documents, websites, dashboards, social media content, data walks, posters, briefs, and infographics. Regardless of the form, content geared toward the public should avoid jargon that may be otherwise appropriate for internal program staff or academic audiences, while also using person-centered language and translating materials into languages most applicable to your community context. ([Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/wp-content/uploads/2022/07/AISP-Toolkit_5.27.20.pdf))  
+
+Furthermore, good quality data regarding marginalized communities is often lacking, but it is still important to discuss impacts to BIPOC communities. It may be appropriate in some cases to still present or analyze this data and also present caveats for the data limitations. In other cases, it may be more appropriate to rely only on qualitative discussion based on information derived from background research and feedback from affected communities.
+
 ## Common Data Sources
 
 Below we have provided a list of common data sources that can tell us something about the extent to which we are achieving equity outcomes.
+
+### Open Data Portals
 
 ### Water Boards Data
 
 Port over relevant water boards [data and databases](https://www.waterboards.ca.gov/resources/data_databases/) content?
 
-### Open Data Portals
-
 ### Federal Data
+
+[United States Census Data](https://www.census.gov/data.html)
+
+[American Community Survey Data](https://www.census.gov/programs-surveys/acs/data.html)
+
+Internal Administrative Data (i.e. Human Resources data)
+
+### Local and Regionally Collected Data
 
 ### Demographics Data
 
+The key to an equity analysis is to compare it to a baseline where race and ethnicity were not factors. Adding demographics data to your data project can help increase understanding of potential correlations or relationships between your data and demographic and socioeconomic characteristics of locations of interest.
+
+Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.
+
+#### **Demographics Data Needs Context**
+
+It’s important to remember that you can always benefit from setting context before trying to communicate demographic or specific racial equity answers to questions posed by our Board, a member of the public, or a partner in this work. What your program is about, what does it do, how well does it do these things (aka Performance Report), etc. This may take a few different visualizations to help frame the context of the program mission but will help viewers understand how you are approaching the racial equity data work within the scope of your program. 
+
+Often the go-to resources for making inferences to demographic and socioeconomic characteristics is the National Census dataset and the associated American Community Survey dataset. While we are fortunate to have just updated this dataset in 2020 there are limitations and potential inaccuracies associated with relying solely on census data to enumerate demographic characteristics within a given census tract. This [tool from the Department of Finance exists to measure this limitation](https://cacensus.maps.arcgis.com/apps/webappviewer/index.html?id=48be59de0ba94a3dacff1c9116df8b37).
+
+A detailed example of using R programming to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features is available and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.  <https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html> 
+
+Example - [SAFER Fund Expenditure Plan](https://www.waterboards.ca.gov/water_issues/programs/grants_loans/sustainable_water_solutions/safer.html)
+
+Section VIII.G. Racial Equity and Environmental Justice provides several tables with data that incorporates demographics data. The tables and the text lack clarity and indepth analysis on why the data is telling the story it is. Race and ethnicity of the populations served by the systems likely isn't the only only difference between the systems. Are there other factors that are associated with different populations that could be driving the imbalance in failing systems and funding? Perhaps, the majority-Hispanic population systems are much larger, or older, or have more severe problems. An apples to apples comparison would look at the major factors that determine cost and compare the racial difference between those subgroups. For example, comparing the racial and ethnic differences between systems of medium sized cities with a water treatment plant built within the past 30 years. Making these proportions more explicit and adding a section where Hispanics population systems get more funding, proportionally and list some additional explanatory factors that should be explored.
+
+TIP: It's ok to note data gaps, and in the case of racial equity data, gaps will be the norm. It is a key part of a good analysis to identify data gaps and set a course for filling those gaps.
+
 ### Multi-Source Data Tools
 
+#### California Water Boards Racial Equity Data Resource Hub
+
+The [California Water Boards Racial Equity Data Resource Hub](https://gispublic.waterboards.ca.gov/portal/apps/experiencebuilder/template/?data_id=dataSource_14-0%3A10&id=b02e68db0fa7452aad0b08d3c65d4a93) provides a list of Water Boards Developed Racial Equity Data Tools
+
 #### CalEnviroScreen
+
+[CalEnviroScreen 4.0](https://experience.arcgis.com/experience/6b863505f9454cea802f4be0b4b49d62)
 
 [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen) can be a helpful tool in creating visualizations and performing analysis as it provides a number of index, as well as a "rolled-up" score that combines environmental and demographic data together. However, there can be things to consider, a couple of which are discussed below.
 
@@ -85,17 +131,3 @@ A good comprehensive guide for survey design can be found here:  <https://files
 Most Water Board staff will use Microsoft Forms which is available to all staff through the Microsoft 365 suite of applications.  Microsoft Forms has a lot of advantages because of its integration with other Microsoft tools like Excel and PowerBi which allow for the survey results to be analyzed and visualized.  Here is video on how to make that connection between Forms and PowerBi via Sharepoint that allows for consistent updating of results:  <https://youtu.be/XBFVDedwLiY?si=O161oYja-FBhG1W7> 
 
 One issue with Microsoft Forms and other free software like Google Forms is that they produce wide data in Excel of Google Sheets.  This type of data is more difficult to transform.
-
-## Data Limitations
-
-All data have limits in what they can actually tell us, constraints on how they should be used appropriately, and biases related to initial data collection or generation - and it's important to be aware of and account for them during your project.
-
-In most cases, the Water Boards programs were not developed or designed to collect demographic data as a matter of process which means that most will rely on a few key data sources.
-
-![Data Benefit vs Risk](images/Data_Benefit_vs%20_Risk.png)
-
-Incorporating a racial equity lens during data analysis includes incorporating individual, community, political, and historical contexts of race to inform analysis, conclusions, and recommendations. Solely relying on statistical outputs will not necessarily lead to insights without careful consideration during the analytic process, such as ensuring data quality is sufficient and determining appropriate statistical power. Disaggregation of data is also a series of tradeoffs. Without disaggregating data by subgroup, analysis can unintentionally gloss over inequity and lead to invisible experiences. On the other hand, when analysts create a subgroup, they may be shifting the focus of analysis to a specific population that is likely already over-surveilled. ([Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/wp-content/uploads/2022/07/AISP-Toolkit_5.27.20.pdf))
-
-Centering racial equity means paying attention to which data are highlighted and how they are framed, as well as the readability and accessibility of the communication method. This involves strategic consideration of the audience and the mode of dissemination that most effectively conveys the information. There are many ways to communicate information. These include briefs, interactive documents, websites, dashboards, social media content, data walks, posters, briefs, and infographics. Regardless of the form, content geared toward the public should avoid jargon that may be otherwise appropriate for internal program staff or academic audiences, while also using person-centered language and translating materials into languages most applicable to your community context. ([Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/wp-content/uploads/2022/07/AISP-Toolkit_5.27.20.pdf))  
-
-Furthermore, good quality data regarding marginalized communities is often lacking, but it is still important to discuss impacts to BIPOC communities. It may be appropriate in some cases to still present or analyze this data and also present caveats for the data limitations. In other cases, it may be more appropriate to rely only on qualitative discussion based on information derived from background research and feedback from affected communities.
