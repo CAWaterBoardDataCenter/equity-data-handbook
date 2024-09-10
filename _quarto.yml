@@ -59,7 +59,6 @@ website:
           - assure-analyze/analysis.qmd
           - assure-analyze/vis.qmd
           - assure-analyze/demographics.qmd
-          - assure-analyze/calenviroscreen.qmd
       - href: store.qmd
         text: Preserve & Store
       - href: share.qmd
