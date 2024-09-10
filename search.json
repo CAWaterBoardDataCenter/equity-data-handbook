@@ -430,21 +430,33 @@
     "href": "use-cases/demographics.html",
     "title": "Demographics Data",
     "section": "",
-    "text": "library(tidyverse)\nlibrary(palmerpenguins)\n1penguins |&gt;\n2  mutate(\n    bill_ratio = bill_depth_mm / bill_length_mm,\n    bill_area  = bill_depth_mm * bill_length_mm\n  )\n\n1\n\nTake penguins, and then,\n\n2\n\nadd new columns for the bill ratio and bill area."
+    "text": "library(tidyverse)\nlibrary(palmerpenguins)\n1penguins |&gt;\n2  mutate(\n    bill_ratio = bill_depth_mm / bill_length_mm,\n    bill_area  = bill_depth_mm * bill_length_mm\n  )\n\n1\n\nTake penguins, and then,\n\n2\n\nadd new columns for the bill ratio and bill area.",
+    "crumbs": [
+      "Use Cases",
+      "Demographics Data"
+    ]
   },
   {
     "objectID": "use-cases/demographics.html#point-data",
     "href": "use-cases/demographics.html#point-data",
     "title": "Demographics Data",
     "section": "",
-    "text": "library(tidyverse)\nlibrary(palmerpenguins)\n1penguins |&gt;\n2  mutate(\n    bill_ratio = bill_depth_mm / bill_length_mm,\n    bill_area  = bill_depth_mm * bill_length_mm\n  )\n\n1\n\nTake penguins, and then,\n\n2\n\nadd new columns for the bill ratio and bill area."
+    "text": "library(tidyverse)\nlibrary(palmerpenguins)\n1penguins |&gt;\n2  mutate(\n    bill_ratio = bill_depth_mm / bill_length_mm,\n    bill_area  = bill_depth_mm * bill_length_mm\n  )\n\n1\n\nTake penguins, and then,\n\n2\n\nadd new columns for the bill ratio and bill area.",
+    "crumbs": [
+      "Use Cases",
+      "Demographics Data"
+    ]
   },
   {
     "objectID": "use-cases/swamp.html",
     "href": "use-cases/swamp.html",
     "title": "SWAMP",
     "section": "",
-    "text": "SWAMP\nchange page title to short description of use case"
+    "text": "SWAMP\nchange page title to short description of use case",
+    "crumbs": [
+      "Use Cases",
+      "SWAMP"
+    ]
   },
   {
     "objectID": "inspo.html",
@@ -541,11 +553,7 @@
     "href": "use-cases/uc_demographics.html",
     "title": "Demographics",
     "section": "",
-    "text": "Demographics",
-    "crumbs": [
-      "Use Cases",
-      "Demographics"
-    ]
+    "text": "Demographics"
   },
   {
     "objectID": "use-cases/index.html",
