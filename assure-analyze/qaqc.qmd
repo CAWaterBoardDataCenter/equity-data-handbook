@@ -29,12 +29,10 @@ According to the [Water Boards Quality Assurance/Quality Control Website](https:
 
 -   What additional performance measures would better help us assess the extent to which this data-intensive project is meeting the project's equity objectives?
 
--   Do the standards we're using align with the needs of those facing inequity or disparities - are or likely will be affected by a policy, program, or process? If not, how might we modify the standards to better align with those needs?
+-   Do the standards, thresholds, or limits we're using align with the needs of those facing inequity or disparities - are or likely will be affected by a policy, program, or process? If not, how might we modify the them to better align with those needs?
 
 **From the data science perspective, conducting QA/QC of the data requires** checking values of the dataset against the aforementoned standards to understand the quality of the data.
 
 -   Is the metadata and vocabilary associated with each dataset complete, easy to access, and simple enough to be understood by a variety of audiences?
 
--   Think through the thresholds or limits that decide whether data quality is sufficient to be included in your analysis and product development steps.
-
--   If data is of insufficient quality and needs to be excluded from future steps - be sure to document what measures/standards were used to make such determination and which data were excluded.
+-   If data is of insufficient quality and needs to be excluded from future steps - where and how will documentation summarize what measures/standards were used to make such determination and which data were excluded.
