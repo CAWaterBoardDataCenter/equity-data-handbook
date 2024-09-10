@@ -20,16 +20,44 @@ All Water Boards authors are **bolded** below.
 
 ## Relevant Government Documents
 
-### [California Water Boards]{.underline}
+### [State of California Agency Resources]{.underline}
+
+#### [Governor's Office]{.underline}
+
+-   Governor Executive Order on Racial Equity: <https://www.gov.ca.gov/wp-content/uploads/2022/09/9.13.22-EO-N-16-22-Equity.pdf?emrc=c11513>
+
+-   Equity in the State Revolving Fund use for infrastructure: <https://www.policyinnovation.org/publications/a-fairer-funding-stream>
+
+#### [California Water Boards]{.underline}
 
 -   Racial Equity Resolution (2021) - [English](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2021/rs2021_0050.pdf), [Español](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2021/rs2021_0050_sp.pdf)
 -   Racial Equity Action Plan (2023) - [English](https://www.waterboards.ca.gov/racial_equity/docs/racial-equity-action-plan-final-en.pdf), [Español](https://www.waterboards.ca.gov/racial_equity/docs/racial-equity-action-plan-final-sp.pdf)
 -   [Racial Equity Resolution Annotated References](https://www.waterboards.ca.gov/racial_equity/docs/Racial-Equity-Resolution-Annotated-References-2021.11.pdf) (2021)
 
-### [California Office of Data and Innovation]{.underline}
+#### [California Office of Data and Innovation]{.underline}
 
 -   [California Data Strategy Report](https://innovation.ca.gov/reports/data-strategy-report-2024/) (2024)
 -   [California Data Strategy](https://innovation.ca.gov/pdf/CalData_Californias_Data_Strategy_2020.pdf) (2020)
+
+#### [California Department of Transportation (CALTRANS)]{.underline}
+
+-   Considering CONSIDERING EQUITY IN COMMUNITY IMPACT ANALYSIS FOR PROJECTS <https://dot.ca.gov/-/media/dot-media/programs/environmental-analysis/documents/ser/equity-guidance-a11y.pdf>
+
+#### [Office of Environmental Health and Hazard Assessment (OEHHA)]{.underline}
+
+-   CalEnviroScreen 4.0 and how race and ethnicity is analyzed within that tool and the CES score correlations: <https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40raceanalysisf2021.pdf>
+
+### [Local City and County Resources]{.underline}
+
+-   City of Oakland \| [OakDOT Geographic Equity Toolbox (oaklandca.gov)](https://www.oaklandca.gov/resources/oakdot-geographic-equity-toolbox)
+
+-   City of Portland Racial Equity Toolkit: <https://www.portlandoregon.gov/oehr/71685>
+
+-   Pierce County (Washington State) utilizes an [Equity Index mapping tool](http://www.piercecountywa.gov/equityindex) to help inform diversity, equity, and inclusion considerations throughout County decision-making.
+
+-   The City of Seattle utilizes a [Racial and Social Equity Index](https://maps.seattle.gov/RSEIndex) that many departments use for prioritization and evaluation/analysis. A [user guide](#0) is also available.
+
+-   New York City government's online interactive equity data tool [EquityNYC](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fequity.nyc.gov%2F&data=05%7C01%7Cnicholas.martorano%40waterboards.ca.gov%7C87a614b2e3db4c85368c08dbc55a8595%7Cfe186a257d4941e6994105d2281d36c1%7C0%7C0%7C638320764855634179%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=r%2Br4%2BybTh130ovhG12PjYHQYqVHlz4jSB8gXj3KTnAI%3D&reserved=0), including a [Mapping Equity tool](https://equity.nyc.gov/mapping-equity).
 
 ### [National Level Resources]{.underline}
 
