@@ -12,4 +12,29 @@ According to the [Water Boards Quality Assurance/Quality Control Website](https:
 
 ## QA/QC with an Equity Lens
 
-As conduct QAQC procedured with our tidy data, we want to make sure to think through...
+**Setting up your QA system with an equity lens** requires thinking through the systems that are already in place and assessing the extent to which they are supporting the advancement of equity objectives associated with your project. Consider reviewing the pages associated with the aforementioned QA activities to see if your systems are on track:
+
+-   Planning: [Planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html), [Data Preparation](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html)
+-   Implementation: [Data Collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html), [Data Processing](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html), [Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html), [Data Visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html), [Preservation & Storage](https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html)
+-   Documentation: [Describe (aka Documentation)](https://cawaterboarddatacenter.github.io/equity-data-handbook/documentation.html)
+-   Assessment: [Discover & Integrate (aka Evaluation)](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html)
+-   Reporting: [Data Sharing](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html)
+-   Quality Improvement: If some or all of your QA systems are not in support of your equity objectives, think through what changes you/your team can make to your process NOW to better operationalize equity.
+
+**Setting up your QC system with an equity lens** requires thinking through how we're measuring quality/performance and the standards we're using to assess quality.
+
+-   How do our current performance measures help us assess the extent to which we're meeting project objectives?
+
+-   Do any of our current performance measures make it difficult for us to achieve our equity objectives? If so, how might we modify or eliminate them?
+
+-   What additional performance measures would better help us assess the extent to which this data-intensive project is meeting the project's equity objectives?
+
+-   Do the standards we're using align with the needs of those facing inequity or disparities - are or likely will be affected by a policy, program, or process? If not, how might we modify the standards to better align with those needs?
+
+**From the data science perspective, conducting QA/QC of the data requires** checking values of the dataset against the aforementoned standards to understand the quality of the data.
+
+-   Is the metadata and vocabilary associated with each dataset complete, easy to access, and simple enough to be understood by a variety of audiences?
+
+-   Think through the thresholds or limits that decide whether data quality is sufficient to be included in your analysis and product development steps.
+
+-   If data is of insufficient quality and needs to be excluded from future steps - be sure to document what measures/standards were used to make such determination and which data were excluded.
