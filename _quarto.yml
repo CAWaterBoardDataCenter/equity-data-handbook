@@ -58,7 +58,6 @@ website:
           - assure-analyze/qaqc.qmd
           - assure-analyze/analysis.qmd
           - assure-analyze/vis.qmd
-          - assure-analyze/demographics.qmd
       - href: store.qmd
         text: Preserve & Store
       - href: share.qmd
@@ -70,8 +69,8 @@ website:
       - section: use-cases/index.qmd
         text: Use Cases
         contents:
-          - use-cases/uc_swamp.qmd
-          - use-cases/uc_demographics.qmd
+          - use-cases/swamp.qmd
+          - use-cases/demographics.qmd
       - href: resources.qmd
         text: Resources
       - href: inspo.qmd
