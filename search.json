@@ -483,7 +483,7 @@
     "href": "documentation.html",
     "title": "Documentation",
     "section": "",
-    "text": "Add guidance on documentation, reproducibility & transparency, oh my!\nThis is intended to be a living document and providing documentation is extremely important.\n\n\n\n\n\n\nImportant\n\n\n\nRemember - if your project or process is not well-documented to the point of being largely reproducible - it’s incomplete!\n\n\n\n\nDocumentation is a critical to improving transparency, ensuring when roles or positions change data and information is not lost. Clear documentation also allows us to pick up where we left off, or easily transition data projects from one team to another. Clear documentation in our data workflow can help identify areas of improvement in workflows and paths forward.\n\n\n\nDetailing where data or projects live and whether they’re posted to internal or external websites.\nNaming files deliberately\nData Dictionary\nDocument code through comments",
+    "text": "Add guidance on documentation, reproducibility & transparency, oh my!\nThis is intended to be a living document and providing documentation is extremely important.\n\n\n\n\n\n\nImportant\n\n\n\nRemember - if your project or process is not well-documented to the point of being largely reproducible - it’s incomplete!\n\n\n\n\nDocumentation is a critical to improving transparency, ensuring when roles or positions change data and information is not lost. Clear documentation also allows us to pick up where we left off, or easily transition data projects from one team to another. Clear documentation in our data workflow can help identify areas of improvement in workflows and paths forward. Creating and documenting can also make your project more manageable, and over the long-term, documentation increases transparency and equity.\n\n\n\nDetailing where data or projects live and whether they’re posted to internal or external websites.\nNaming files deliberately\nData Dictionary\nDocument code through comments\n\n\n\n\nSchema.org – Promoting common data structures on the internet\nAccessibility tips using Markdown (Smashing Magazine)\nWritethedocs.org, plus a piece on documenting for beginners\nTemplates for documenting on GitHub (e.g., on a ReadMe)\nGitHub projects best practices\nNOAA NMFS: Open Science Resources\nNOAA Fisheries: Code documentation\nOpenscapes Approach Guide",
     "crumbs": [
       "Describe"
     ]
@@ -493,7 +493,7 @@
     "href": "documentation.html#why-document",
     "title": "Documentation",
     "section": "",
-    "text": "Documentation is a critical to improving transparency, ensuring when roles or positions change data and information is not lost. Clear documentation also allows us to pick up where we left off, or easily transition data projects from one team to another. Clear documentation in our data workflow can help identify areas of improvement in workflows and paths forward.",
+    "text": "Documentation is a critical to improving transparency, ensuring when roles or positions change data and information is not lost. Clear documentation also allows us to pick up where we left off, or easily transition data projects from one team to another. Clear documentation in our data workflow can help identify areas of improvement in workflows and paths forward. Creating and documenting can also make your project more manageable, and over the long-term, documentation increases transparency and equity.",
     "crumbs": [
       "Describe"
     ]
@@ -504,6 +504,16 @@
     "title": "Documentation",
     "section": "",
     "text": "Detailing where data or projects live and whether they’re posted to internal or external websites.\nNaming files deliberately\nData Dictionary\nDocument code through comments",
+    "crumbs": [
+      "Describe"
+    ]
+  },
+  {
+    "objectID": "documentation.html#tools-available-to-support-documentation",
+    "href": "documentation.html#tools-available-to-support-documentation",
+    "title": "Documentation",
+    "section": "",
+    "text": "Schema.org – Promoting common data structures on the internet\nAccessibility tips using Markdown (Smashing Magazine)\nWritethedocs.org, plus a piece on documenting for beginners\nTemplates for documenting on GitHub (e.g., on a ReadMe)\nGitHub projects best practices\nNOAA NMFS: Open Science Resources\nNOAA Fisheries: Code documentation\nOpenscapes Approach Guide",
     "crumbs": [
       "Describe"
     ]
