@@ -119,3 +119,4 @@ O’Brien, M., Duerr, R., Taitingfong, R., Martinez, A., Vera, L., Jennings, L.L
 -   [Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/)
 -   [California Office of Data and Innovation](https://innovation.ca.gov/)
 -   [Government Alliance on Race and Equity](https://www.racialequityalliance.org/home) (GARE)
+-   [California Indian Water Rights Study](https://water.calindian.org/)
