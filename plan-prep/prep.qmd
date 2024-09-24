@@ -108,8 +108,10 @@ Some questions to help guide the development of this section include:
 -   How will you assess and establish the quality of the data you use?
 -   What rubric will you use to decide which data are kept and which are excluded from future steps?
 
-::: callout-note
-The Water Boards have a [quality management system](https://www.waterboards.ca.gov/water_issues/programs/quality_assurance/) and overarching Quality Assurance Management Plan. Be sure to review this material to consider how your project falls in that that framework, and if more is needed. For example, many programs do NOT have Quality Assurance Program Plans, so this may be a step needed to occur to establish data quality objectives, etc.
+::: callout-important
+Be sure to consider how your project aligns with the Water Boards Quality Management System!
+
+The Water Boards have a [quality management system](https://www.waterboards.ca.gov/water_issues/programs/quality_assurance/) and overarching Quality Assurance Management Plan. Be sure to review this material to consider how your project falls in that framework, and if more is needed to ensure your all aspects of your project are of sufficient quality. For example, many programs do NOT have Quality Assurance Program Plans, so this may be a step needed to occur to establish data quality objectives, etc.
 
 In some cases the Quality Assurance and Data Management plans can be integrated (see this [USGS Quality-Assurance and Data-Management Plan](https://drive.google.com/file/d/14D1VBJU51hrxQya3-rcZcItHHe65gS_s/view) as an example)
 :::
@@ -146,8 +148,12 @@ In this section, you will describe how and where you plan on publishing, sharing
 
 The Water Boards typically make virtually all of the data we collect available to the public. The exceptions are confidential information (e.g., part of ongoing enforcement actions and/or formal Tribal consultations) and some personally identifiable information (PII). This section should describe any policies that will filter out data from the step of making the data publicly available and, more importantly, how the project plans to provide access to the data.
 
-::: callout-note
-Publishing and sharing Water Boards data and resultant products is critical for collaboration and transparency of our data, products, and workflows. Your project should be in alignment with the Water Board’s Open Data Resolution: “[Adopting Principles of Open Data as a Core Value and Directing Programs and Activities to Implement Strategic Actions to Improve Data Accessibility and Associated Innovation](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2018/rs2018_0032.pdf).” This means:
+::: callout-important
+Make your project as open and accessible as possible and appropriate!
+
+Publishing and sharing Water Boards data and resultant products is critical for collaboration and transparency of our data, products, and workflows. Your project should be in alignment with the Water Board’s Open Data Resolution: “[Adopting Principles of Open Data as a Core Value and Directing Programs and Activities to Implement Strategic Actions to Improve Data Accessibility and Associated Innovation](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2018/rs2018_0032.pdf).”
+
+This means:
 
 -   Documenting your process throughout the project so as to make it open, transparent, and reproducible
 -   Utilizing open data and open source software (e.g. Python, R) as much as possible
@@ -176,7 +182,7 @@ In this section, you will describe how and where every aspect of the project wil
 Metadata - the details about what, where, when, why, and how the data were collected, processed, and interpreted - provide the information that enables data and files to be discovered, used, and properly cited. Metadata and other project documentation include descriptions of how data and files are named, physically structured, and stored as well as details about the experiments, analytical/visualization methods, project context, and names long-term data/product/project managers/stewards.
 
 ::: callout-important
-**It is generally the case that the utility and longevity of data and products relate directly to how complete and comprehensive the metadata and documentation are.**
+# **The utility and longevity of data and products relate directly to how complete and comprehensive the metadata and documentation are.**
 
 The amount of effort devoted to creating comprehensive metadata and documentation may vary substantially based on the complexity, types, and volume of data/products developed throughout the life of a project - but it's safe to assume (and plan for) a substantial amount of time and energy will be required to develop adequate metadata and documentation.
 :::
