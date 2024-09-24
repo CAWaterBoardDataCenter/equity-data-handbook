@@ -4,7 +4,17 @@ By now, you've completed all of your planning and prep and are ready to get to t
 
 **The whole point of data analysis is to turn data into useful information, knowledge, and wisdom that we can use to make decisions. Doing so is challenging, and even more so with equity data work.**
 
-![Illustrations of two perspectives on Data-Information-Knowledge-Wisdom (DIKW) In practice. Graphic adapted from Flood et al. (2016) and Datacamp (2023).](images/dikw_adapted.png)
+![Illustrations of two perspectives on Data-Information-Knowledge-Wisdom (DIKW) In practice. Graphic adapted from Flood et al. (2016) and DataCamp (2023).](images/dikw_adapted.png)
+
+As the graphic above illustrates, the transition and transformation from data to wisdom requires adding context, meaning, insight to the original data, while gaining experience and understanding as we progress. In the above graphic we define data, information, knowledge, and wisdom as:
+
+-   **Data**: individual measurements, facts, figures, and signals, without context.
+
+-   **Information**: organized, structured, and contextualized data that can be used to identify concepts of "who", "what", "where", and "when".
+
+-   **Knowledge**: the result of analyzing, synthesizing, and interpreting information to identify patterns, trends, and relationships, which can be used to understand the "how" and "why" of what we're observing.
+
+-   **Wisdom**: the ability to integrate what we understand from the data with other context, reflection, and underlying knowledge of the broader question or topic at hand with the express purpose of making data and equity-informed decisions and to take effective and impactful action.
 
 ## Data Analysis with an Equity Lens
 
@@ -44,3 +54,7 @@ Beware of common data fallacies as you're interpreting your results and making c
 -    Office of Environmental Health and Hazard Assessment [CalEnviroScreen 4.0 Race and Equity Analysis](https://storymaps.arcgis.com/stories/f555670d30a942e4b46b18293e2795a7)
 
 -   College of Water Informatics [Machine Learning Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/machine_learning_handbook.html)
+
+-   Flood M. D., Lemieux V. L., Varga M., and Wong B. L. W. (2016) '[The application of visual analytics to financial stability monitoring](https://doi.org/10.1016/j.jfs.2016.01.006)', Journal of Financial Stability, 27
+
+-   DataCamp (2023) [The Data-Information-Knowledge-Wisdom Pyramid](https://www.datacamp.com/cheat-sheet/the-data-information-knowledge-wisdom-pyramid)
