@@ -117,6 +117,10 @@ All Water Boards authors are **bolded** below.
 
 -   New York City government's online interactive equity data tool [EquityNYC](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fequity.nyc.gov%2F&data=05%7C01%7Cnicholas.martorano%40waterboards.ca.gov%7C87a614b2e3db4c85368c08dbc55a8595%7Cfe186a257d4941e6994105d2281d36c1%7C0%7C0%7C638320764855634179%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=r%2Br4%2BybTh130ovhG12PjYHQYqVHlz4jSB8gXj3KTnAI%3D&reserved=0), including a [Mapping Equity tool](https://equity.nyc.gov/mapping-equity).
 
+### [Other State Level Resources]{.underline}
+
+-   MN DOT Governance and Best Practices: A tailored document like this would be useful to encourage contributors to follow the same guidelines and understand which groups or tags need to be added for the data to be ingested properly. - [MnDOT Governance and Best Practices and User Requirements (1).docx](https://github.com/user-attachments/files/16605638/MnDOT.Governance.and.Best.Practices.and.User.Requirements.1.docx)
+
 ### [National Level Resources]{.underline}
 
 -   [The Environmental Justice Science, Data, and Research Plan](https://www.whitehouse.gov/wp-content/uploads/2024/07/NSTC-EJ-Research-Plan-July-2024.pdf) (2024)
