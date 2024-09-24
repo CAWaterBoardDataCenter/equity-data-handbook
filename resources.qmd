@@ -36,11 +36,19 @@ All Water Boards authors are **bolded** below.
 
 -   Racial Equity Workforce Planning (CalEPA) - [Practices to Advance Racial Equity in Workforce Plannin (ca.gov)](https://calepa.ca.gov/wp-content/uploads/sites/6/2021/11/Practices-to-Advance-Racial-Equity-in-Workforce-Planning.sw_.jh_.pdf?emrc=175a3b)
 
--   <https://learn.arcgis.com/en/projects/create-a-social-equity-index-to-improve-public-health/>
-
 -   Caltrans Beta Equity Index Map: <https://caltrans.maps.arcgis.com/apps/webappviewer/index.html?id=8ff3d27cdc1a4e8da0ae09c6b076a253>
 
 -   **Water Boards Division of Drinking Water SAFER Outreach Tool: <https://gispublic.waterboards.ca.gov/portal/apps/webappviewer/index.html?id=70d27423735e45d6b037b7fbaea9a6a6>**
+
+## GIS Resources
+
+-   <https://learn.arcgis.com/en/projects/create-a-social-equity-index-to-improve-public-health/>
+
+-   [Extend_the_Reach_of_Your_GIS (1).pdf](https://github.com/user-attachments/files/16605635/Extend_the_Reach_of_Your_GIS.1.pdf)
+
+-   Additional [best practices from Esri](https://doc.arcgis.com/en/hub/content/prepare-your-content.htm#:~:text=Tags%E2%80%94These%20help%20users%20discover,facilitate%20their%20discovery%20and%20use.) on improving the quality of content within a Hub site.
+
+-   Also worth noting that ArcGIS Online comes some general [categories](https://doc.arcgis.com/en/arcgis-online/reference/content-categories.htm) that are derived from ISO and INSPIRE. Those could be good starting points, but my hunch is that you’re going to want to add additional categories to better support filtering and finding the right datasets.
 
 ## Data Ethics and Data Sovereignty Resources
 
