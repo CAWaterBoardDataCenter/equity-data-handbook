@@ -109,7 +109,7 @@ Some questions to help guide the development of this section include:
 -   What rubric will you use to decide which data are kept and which are excluded from future steps?
 
 ::: callout-important
-Be sure to consider how your project aligns with the Water Boards Quality Management System!
+# Consider how your project aligns with the Water Boards Quality Management System!
 
 The Water Boards have a [quality management system](https://www.waterboards.ca.gov/water_issues/programs/quality_assurance/) and overarching Quality Assurance Management Plan. Be sure to review this material to consider how your project falls in that framework, and if more is needed to ensure your all aspects of your project are of sufficient quality. For example, many programs do NOT have Quality Assurance Program Plans, so this may be a step needed to occur to establish data quality objectives, etc.
 
@@ -149,7 +149,7 @@ In this section, you will describe how and where you plan on publishing, sharing
 The Water Boards typically make virtually all of the data we collect available to the public. The exceptions are confidential information (e.g., part of ongoing enforcement actions and/or formal Tribal consultations) and some personally identifiable information (PII). This section should describe any policies that will filter out data from the step of making the data publicly available and, more importantly, how the project plans to provide access to the data.
 
 ::: callout-important
-Make your project as open and accessible as possible and appropriate!
+# Make your project as open and accessible as possible and appropriate! 
 
 Publishing and sharing Water Boards data and resultant products is critical for collaboration and transparency of our data, products, and workflows. Your project should be in alignment with the Water Board’s Open Data Resolution: “[Adopting Principles of Open Data as a Core Value and Directing Programs and Activities to Implement Strategic Actions to Improve Data Accessibility and Associated Innovation](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2018/rs2018_0032.pdf).”
 
