@@ -4,7 +4,7 @@ By now, you've completed all of your planning and prep and are ready to get to t
 
 **The whole point of data analysis is to turn data into useful information, knowledge, and wisdom that we can use to make decisions. Doing so is challenging, and even more so with equity data work.**
 
-\< insert DIKW graphic \>
+![Illustrations of two perspectives on Data-Information-Knowledge-Wisdom (DIKW) In practice. Graphic adapted from Flood et al. (2016) and Datacamp (2023).](images/dikw_adapted.png)
 
 ## Data Analysis with an Equity Lens
 
@@ -16,7 +16,11 @@ See the first three bullets in the [Resources section below](https://cawaterboar
 
 ## Data Analysis Method Considerations
 
-**Select the appropriate analysis method for your project questions/objectives**. There are five main data analysis method types, and each has a different process, purpose, and interpretation:
+There are five main data analysis method types, and each has a different process, purpose, and interpretation (see table below). As you embark on your analysis, it's important to:
+
+-   understand which method(s) you can use given your data
+-   understand the limitations of your data and those method(s)
+-   select the method(s) that are most appropriate for your project questions/objectives
 
 | Analysis Method        | Purpose                                                                                                            | Limitation                                                                                                                                                                                                                                                                                                                                                                                                 |
 |------------------|--------------------|-----------------------------------|
