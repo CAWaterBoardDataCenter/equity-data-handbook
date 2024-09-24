@@ -1,8 +1,8 @@
 # Data Analysis
 
-## Turning Data into Information
+By now, you've completed all of your planning and prep and are ready to get to the analysis part of the project. Congratulations!
 
-Turning Data into Information is Challenging - Even More so with Racial Equity Data Work
+The whole point of data analysis is to turn data into useful information, knowledge, and wisdom that we can use to make decisions. Doing so is challenging, and even more so with equity data work.
 
 Turning data into information in the context of racial equity involved navigating complex ethical considerations. The process requires an understanding of the potential impact on Black, Indigenous, and other People of Color (BIPOC) communities and the responsibility to mitigate perpetuating or reinforcing biases. Upholding ethical standards requires a commitment to maintaining privacy, accessibility, and fostering transparency throughout the data transformation process. Additionally, acknowledging the limitations of the data and being transparent about potential biases is essential for maintaining the integrity of the data and information generated and shared. The transformation of racial equity data into meaningful information requires a thoughtful and intentional approach which we will highlight in the next sections.
 
@@ -10,6 +10,21 @@ For example, many programs will rely on demographic and socioeconomic data, like
 \
 Another example of how to tell your data story in a transparent way can be found on the Office of Environmental Health and Hazard Assessment CalEnviroScreen 4.0 Race and Equity Analysis.  <https://storymaps.arcgis.com/stories/f555670d30a942e4b46b18293e2795a7>
 
-## Data Exploration **with an Equity Lens**
-
 ## Data Analysis **with an Equity Lens**
+
+**Select the appropriate analysis method for your project questions/objectives**. There are five main data analysis method types, and each has a different process, purpose, and interpretation:
+
+| Analysis Method        | Purpose                                                                                                            | Limitation                                                                                                                                                                                                                                                                                                                                                                                                 |
+|------------------|--------------------|-----------------------------------|
+| Descriptive Analytics  | Summarize and describe data in clear and simple way                                                                | Descriptive analyses cannot tell us anything about *why* we're seeing the results, patterns, or trends that are identified.                                                                                                                                                                                                                                                                                |
+| Inferential Analytics  | Make (infer) conclusions or generalizations about populations based on sample data                                 | Conclusions can only be made on samples / data that are analysed, and the appropriate use and interpretation of the statistical method used depends on whether the data meets the assumptions of the method. If method assumptions are not met - results and conclusions are meaningless.                                                                                                                  |
+| Diagnostic Analytics   | Tell us something about the "why" behind the results, patterns, or trends that are identified                      | Depending on the data you have and the analysis you are able to use, your results may not be able to identify *the* root cause in the context of the lived experiences of the communities the data you're using are meant to represent.                                                                                                                                                                    |
+| Predictive Analytics   | Help identify what might be likely to happen in the future given the previous trends or patterns found in the data | Your ability to predict what may happen is highly dependent on (and limited by) the quantity, quality, and representativeness of the data that you use. If there are gaps in that data you feed your analytical methods, there will be similar gaps in your results.                                                                                                                                       |
+| Prescriptive Analytics | Recommend actions or decisions.                                                                                    | The potential analytical methods are complex and require a large amount of quality and relevant data and computing power to be implemented appropriately. One should also consider the implications of the potential actions and decisions being considered using an equity lens. Striking the balance between data-driven insights and equity considerations is essential for advancing equity outcomes.  |
+| Causal Analytics       | Understand the cause and effect relationships between variables of interest.                                       | All causal analytical tools require strong assumptions and can never fully capture all of the context of the relationships in questions (i.e. extraneous variables that cannot be measured or assessed). If these methods are used, be sure to ground-truth the results with the communities the data you're using are meant to represent.                                                                 |
+
+**Beware of common data fallacies as you're interpreting your results and making conclusions**:
+
+# Resources
+
+-   College of Water Informatics [Machine Learning Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/machine_learning_handbook.html)
