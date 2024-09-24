@@ -36,11 +36,25 @@ All Water Boards authors are **bolded** below.
 
 -   Racial Equity Workforce Planning (CalEPA) - [Practices to Advance Racial Equity in Workforce Planning (ca.gov)](https://calepa.ca.gov/wp-content/uploads/sites/6/2021/11/Practices-to-Advance-Racial-Equity-in-Workforce-Planning.sw_.jh_.pdf?emrc=175a3b)
 
+<<<<<<< HEAD
 -   [Create a social equity index to improve public health using ArcGIS](https://learn.arcgis.com/en/projects/create-a-social-equity-index-to-improve-public-health/)
 
 -   [Caltrans Beta Equity Index Map](https://caltrans.maps.arcgis.com/apps/webappviewer/index.html?id=8ff3d27cdc1a4e8da0ae09c6b076a253)
+=======
+-   Caltrans Beta Equity Index Map: <https://caltrans.maps.arcgis.com/apps/webappviewer/index.html?id=8ff3d27cdc1a4e8da0ae09c6b076a253>
+>>>>>>> 3c340a8e853ef66859c80f5ff2a98b35a9acccfc
 
 -   [**Water Boards Division of Drinking Water SAFER Outreach Tool**](https://gispublic.waterboards.ca.gov/portal/apps/webappviewer/index.html?id=70d27423735e45d6b037b7fbaea9a6a6)
+
+## GIS Resources
+
+-   <https://learn.arcgis.com/en/projects/create-a-social-equity-index-to-improve-public-health/>
+
+-   [Extend_the_Reach_of_Your_GIS (1).pdf](https://github.com/user-attachments/files/16605635/Extend_the_Reach_of_Your_GIS.1.pdf)
+
+-   Additional [best practices from Esri](https://doc.arcgis.com/en/hub/content/prepare-your-content.htm#:~:text=Tags%E2%80%94These%20help%20users%20discover,facilitate%20their%20discovery%20and%20use.) on improving the quality of content within a Hub site.
+
+-   Also worth noting that ArcGIS Online comes some general [categories](https://doc.arcgis.com/en/arcgis-online/reference/content-categories.htm) that are derived from ISO and INSPIRE. Those could be good starting points, but my hunch is that you’re going to want to add additional categories to better support filtering and finding the right datasets.
 
 ## Data Ethics and Data Sovereignty Resources
 
@@ -108,6 +122,10 @@ All Water Boards authors are **bolded** below.
 -   The City of Seattle utilizes a [Racial and Social Equity Index](https://maps.seattle.gov/RSEIndex) that many departments use for prioritization and evaluation/analysis. A [user guide](#0) is also available.
 
 -   New York City government's online interactive equity data tool [EquityNYC](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fequity.nyc.gov%2F&data=05%7C01%7Cnicholas.martorano%40waterboards.ca.gov%7C87a614b2e3db4c85368c08dbc55a8595%7Cfe186a257d4941e6994105d2281d36c1%7C0%7C0%7C638320764855634179%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=r%2Br4%2BybTh130ovhG12PjYHQYqVHlz4jSB8gXj3KTnAI%3D&reserved=0), including a [Mapping Equity tool](https://equity.nyc.gov/mapping-equity).
+
+### [Other State Level Resources]{.underline}
+
+-   MN DOT Governance and Best Practices: A tailored document like this would be useful to encourage contributors to follow the same guidelines and understand which groups or tags need to be added for the data to be ingested properly. - [MnDOT Governance and Best Practices and User Requirements (1).docx](https://github.com/user-attachments/files/16605638/MnDOT.Governance.and.Best.Practices.and.User.Requirements.1.docx)
 
 ### [National Level Resources]{.underline}
 
