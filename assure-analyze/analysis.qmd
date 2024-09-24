@@ -3,7 +3,7 @@
 By now, you've completed all of your planning and prep and are ready to get to the analysis part of the project. Congratulations!
 
 ::: callout-note
-# The whole point of data analysis is to turn data into useful information, knowledge, and wisdom that we can use to make decisions and take action. 
+# The whole point of data analysis is to turn data into information, knowledge, and wisdom that we can use to make decisions and take action. 
 
 Ideally, the data-informed decisions we make and the corresponding actions we take will help us advance and operationalize equity. Using data to inform decisions can be challenging, and is even more so when applying the equity lens to our data work.
 :::
