@@ -42,6 +42,28 @@ All Water Boards authors are **bolded** below.
 
 -   **Water Boards Division of Drinking Water SAFER Outreach Tool: <https://gispublic.waterboards.ca.gov/portal/apps/webappviewer/index.html?id=70d27423735e45d6b037b7fbaea9a6a6>**
 
+## Data Ethics and Data Sovereignty Resources
+
+-   GovOps medium article on Data Ethics (<https://medium.com/caldata/practical-data-ethics-summary-of-what-were-learning-24d0e9d89cd0>)
+
+-   Federal data ethics framework (<https://resources.data.gov/assets/documents/fds-data-ethics-framework.pdf>)
+
+-   [Operationalizing the CARE and FAIR Principles for Indigenous data futures](https://www.nature.com/articles/s41597-021-00892-0)
+
+-   The Data Ethics Canvas is designed to help identify potential ethical issues associated with a data project or activity. It promotes understanding and debate around the foundation, intention and potential impact of any piece of work, and helps identify the steps needed to act ethically: <https://directory.civictech.guide/listing/the-odis-data-ethics-canvas>
+
+-   Ethics Framework (CalData): <https://medium.com/caldata/practical-data-ethics-summary-of-what-were-learning-24d0e9d89cd0> ; Framework at a Glance: <https://drive.google.com/file/d/14Hl6i2w3CImqrzLLYuB27PFD6DNdzdHX/view>
+
+-   FAIR data principles for community centered data formats: <https://www.nature.com/articles/s41597-022-01606-w> Research practices documents related to using data for equity - working with communities to find data to use in equity work, and how to best collect and use demographic (ethnic and racial equity, sexual orientation, and gender identity data, specifically).
+
+-   Article - Mapping for Whom? Communities of Color and the Citizen Science Gap: <https://acme-journal.org/index.php/acme/article/view/2178/1654>
+
+-   Global Indigenous Digital Alliance guidance on using CARE principles for Indigenous data governance: <https://www.gida-global.org/care>
+
+-   At the most basic level, taking an equity lens in Data Wise involves having a team ask itself probing questions at each step of the improvement process. This document provides a look at how to use a data wise techniques with a racial equity lens. <https://www.ascd.org/el/articles/looking-at-data-through-an-equity-lens>
+
+-   "collecting/using demographic data" - <https://www.urban.org/sites/default/files/publication/103830/five-ethical-risks-to-consider-before-filling-missing-race-and-ethnicity-data-workshop-findings_0.pdf>
+
 ## Presentations
 
 [Analyzing Water Boards and Demographic Data for Equity](https://cawaterboards.sharepoint.com/:b:/r/sites/WB-OPP-EJRoundtable/Materials/Racial%20Equity%20Data%20Subcommittee/Webinars/Demo%20Webinar%20with%20DataMade%20Coaches_25June24/Hannah%27s%20slides%20on%20racial%20equity%20data%20analysis.pdf?csf=1&web=1&e=eNCc0K). Jun 2024. Hannah Cushman Garland. State Water Board Racial Equity Data Subcommittee Webinar. [Recording](https://cawaterboards.sharepoint.com/:v:/r/sites/WB-OPP-EJRoundtable/Materials/Racial%20Equity%20Data%20Subcommittee/Webinars/Demo%20Webinar%20with%20DataMade%20Coaches_25June24/DataMade%20Webinar%20Recording_25June24.mp4?csf=1&web=1&e=oOuGyf) \| [Download and Use the Code](https://drive.google.com/file/d/1yva-EE0JyQna4c5RN73TJ7F0YUIRTXCI/view?usp=sharing) \| [View Code](https://datamade.github.io/waterboard-coaching/)
