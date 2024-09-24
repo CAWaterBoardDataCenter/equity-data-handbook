@@ -42,5 +42,4 @@ According to the [Water Boards Quality Assurance/Quality Control Website](https:
 -   [Water Boards QAQC Webpage](https://www.waterboards.ca.gov/water_issues/programs/quality_assurance/)
 -   [SWAMP Bioaccumulation Monitoring Program Training Series](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring/training.html)
     -   Data Quality and Data Management - [Slides 67-80](https://drive.google.com/file/d/1ler3HO5B6M4_ywfuR00A621J6yLH2tGi/view) \| [Recording Part 3](https://www.youtube.com/watch?v=ZG_KPsQM55c&t=6920s)
-
     -   Quality Assurance & Quality Control - [Slides 5 - 38](https://drive.google.com/file/d/18HdaNwB0in1Z4L42B6Pvc-XWNq98RnLf/view?usp=sharing) \| [Recording Part 1](https://www.youtube.com/watch?v=W3nOeLxlDQc&t=220s)
