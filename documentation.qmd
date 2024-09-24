@@ -11,16 +11,22 @@ Remember - if your project or process is not well-documented to the point of bei
 ## Why Document?
 
 Documentation is a critical to improving transparency, ensuring when roles or positions change data and information is not lost. Clear documentation also allows us to pick up where we left off, or easily transition data projects from one team to another. Clear documentation in our data workflow can help identify areas of improvement in workflows and paths forward. Creating and documenting can also make your project more manageable, and over the long-term, documentation increases transparency and equity.
+Documentation is a critical to improving transparency, ensuring when roles or positions change data and information is not lost. Detailed documentation of data sources, analysis methods, and code is also critical to equity because it helps ensure that data is meaningful, accessible, and actionable for communities. Without proper documentation, it can be difficult for others to validate or build on existing analyses. Clear documentation also allows us to pick up where we left off, or easily transition data projects from one team to another. Documentation in our data workflow can also help identify areas of improvement in workflows and paths forward. Projects are more manageable, with clear documentation and over the long-term, documentation can increase transparency and equity.
 
 ## What do we Document?
+## What can we Document?
 
 Detailing where data or projects live and whether they’re posted to internal or external websites.
+-   Detailing where data or projects live and whether they’re posted to internal or external websites.
 
 Naming files deliberately
+-   Naming files deliberately
 
 Data Dictionary
+-   Creating and maintaining a [Data Dictionary](https://www.fgdc.gov/metadata/csdgm-standard)
 
 Document code through comments
+-   Document code through comments and [#tidydata](https://vita.had.co.nz/papers/tidy-data.pdf)
 
 ## Tools Available to Support Documentation:
 
