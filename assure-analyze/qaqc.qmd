@@ -10,6 +10,12 @@ According to the [Water Boards Quality Assurance/Quality Control Website](https:
 
 **Quality Control (QC)** involves a system of technical activities that measures the attributes and performance of a process, item, or service against defined standards to verify that they meet the stated requirements established by the customer. QC also involves analytical frequency requirements and control limits.
 
+::: callout-important
+# Be sure to set up your quality system early!
+
+Impactful and effective quality assurance requires setting up systems and thinking about quality long before the data analysis phase - be sure to start thinking about project and data quality early and take the time to get effective systems in place. See the sections below for more guidance and resources on how to do so with equity in mind.
+:::
+
 ## QA/QC with an Equity Lens
 
 **Setting up your QA system with an equity lens** requires thinking through the systems that are already in place and assessing the extent to which they are supporting the advancement of equity objectives associated with your project. Consider reviewing the pages associated with the aforementioned QA activities to see if your systems are on track:
