@@ -1,6 +1,8 @@
 # Plan & Prepare
 
 ::: callout-important
+# Don't forget to publish your data! 
+
 If you are a steward of Water Boards data - and it is not yet made appropriately open and accessible (including thorough documentation and complete metadata!) - you should complete the guidance on the [Publish Your Data page](https://cawaterboarddatacenter.github.io/equity-data-handbook/publish-data.html) before you begin thinking about planning for your project.
 :::
 
