@@ -31,11 +31,11 @@ According to the [Water Boards Quality Assurance/Quality Control Website](https:
 
 -   Do the standards, thresholds, or limits we're using align with the needs of those facing inequity or disparities - are or likely will be affected by a policy, program, or process? If not, how might we modify the them to better align with those needs?
 
-**From the data science perspective, conducting QA/QC of the data requires** checking values of the dataset against the aforementoned standards to understand the quality of the data.
+**From the data science perspective, conducting QA/QC of the data requires** checking values of the dataset against the aforementioned standards to understand the quality of the data.
 
--   Is the metadata and vocabilary associated with each dataset complete, easy to access, and simple enough to be understood by a variety of audiences?
+-   Is the metadata and vocabulary associated with each dataset complete, easy to access, and simple enough to be understood by a variety of audiences?
 
--   If data is of insufficient quality and needs to be excluded from future steps - where and how will documentation summarize what measures/standards were used to make such determination and which data were excluded.
+-   If data is of insufficient quality and needs to be excluded from future steps - where and how will documentation summarize what measures/standards were used to make such determination and which data were excluded?
 
 ## **Resources**
 
@@ -43,4 +43,4 @@ According to the [Water Boards Quality Assurance/Quality Control Website](https:
 -   [SWAMP Bioaccumulation Monitoring Program Training Series](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring/training.html)
     -   Data Quality and Data Management - [Slides 67-80](https://drive.google.com/file/d/1ler3HO5B6M4_ywfuR00A621J6yLH2tGi/view) \| [Recording Part 3](https://www.youtube.com/watch?v=ZG_KPsQM55c&t=6920s)
 
-    -   Quality Assurance & Quality Control - Slides \| Recording
+    -   Quality Assurance & Quality Control - [Slides 5 - 38](https://drive.google.com/file/d/18HdaNwB0in1Z4L42B6Pvc-XWNq98RnLf/view?usp=sharing) \| [Recording Part 1](https://www.youtube.com/watch?v=W3nOeLxlDQc&t=220s)
