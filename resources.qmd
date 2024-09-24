@@ -30,39 +30,39 @@ All Water Boards authors are **bolded** below.
 
 -   New York City government's online interactive equity data tool [EquityNYC](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fequity.nyc.gov%2F&data=05%7C01%7Cnicholas.martorano%40waterboards.ca.gov%7C87a614b2e3db4c85368c08dbc55a8595%7Cfe186a257d4941e6994105d2281d36c1%7C0%7C0%7C638320764855634179%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=r%2Br4%2BybTh130ovhG12PjYHQYqVHlz4jSB8gXj3KTnAI%3D&reserved=0), including a [Mapping Equity tool](https://equity.nyc.gov/mapping-equity).
 
--   **The Water Boards Office of Research Planning and Performance Water Conservation and Urban Water folks tool: <https://www.waterboards.ca.gov/water_issues/programs/conservation_portal/water-use-explorer/>**
+-   [**The Water Boards Office of Research Planning and Performance Water Conservation and Urban Water folks tool**](%3Chttps://www.waterboards.ca.gov/water_issues/programs/conservation_portal/water-use-explorer/)
 
--   **The Water Boards Office of Research Planning and Performance Vulnerable Communities Platform: <https://vcp-beta-1-1-gov-opr.hub.arcgis.com/>**
+-   [**The Water Boards Office of Research Planning and Performance Vulnerable Communities Platform**](https://vcp-beta-1-1-gov-opr.hub.arcgis.com/)
 
--   Racial Equity Workforce Planning (CalEPA) - [Practices to Advance Racial Equity in Workforce Plannin (ca.gov)](https://calepa.ca.gov/wp-content/uploads/sites/6/2021/11/Practices-to-Advance-Racial-Equity-in-Workforce-Planning.sw_.jh_.pdf?emrc=175a3b)
+-   Racial Equity Workforce Planning (CalEPA) - [Practices to Advance Racial Equity in Workforce Planning (ca.gov)](https://calepa.ca.gov/wp-content/uploads/sites/6/2021/11/Practices-to-Advance-Racial-Equity-in-Workforce-Planning.sw_.jh_.pdf?emrc=175a3b)
 
--   <https://learn.arcgis.com/en/projects/create-a-social-equity-index-to-improve-public-health/>
+-   [Create a social equity index to improve public health using ArcGIS](https://learn.arcgis.com/en/projects/create-a-social-equity-index-to-improve-public-health/)
 
--   Caltrans Beta Equity Index Map: <https://caltrans.maps.arcgis.com/apps/webappviewer/index.html?id=8ff3d27cdc1a4e8da0ae09c6b076a253>
+-   [Caltrans Beta Equity Index Map](https://caltrans.maps.arcgis.com/apps/webappviewer/index.html?id=8ff3d27cdc1a4e8da0ae09c6b076a253)
 
--   **Water Boards Division of Drinking Water SAFER Outreach Tool: <https://gispublic.waterboards.ca.gov/portal/apps/webappviewer/index.html?id=70d27423735e45d6b037b7fbaea9a6a6>**
+-   [**Water Boards Division of Drinking Water SAFER Outreach Tool**](https://gispublic.waterboards.ca.gov/portal/apps/webappviewer/index.html?id=70d27423735e45d6b037b7fbaea9a6a6)
 
 ## Data Ethics and Data Sovereignty Resources
 
--   GovOps medium article on Data Ethics (<https://medium.com/caldata/practical-data-ethics-summary-of-what-were-learning-24d0e9d89cd0>)
+-   [GovOps medium article on Data Ethics](https://medium.com/caldata/practical-data-ethics-summary-of-what-were-learning-24d0e9d89cd0)
 
--   Federal data ethics framework (<https://resources.data.gov/assets/documents/fds-data-ethics-framework.pdf>)
+-   [Federal data ethics framework](https://resources.data.gov/assets/documents/fds-data-ethics-framework.pdf)
 
 -   [Operationalizing the CARE and FAIR Principles for Indigenous data futures](https://www.nature.com/articles/s41597-021-00892-0)
 
--   The Data Ethics Canvas is designed to help identify potential ethical issues associated with a data project or activity. It promotes understanding and debate around the foundation, intention and potential impact of any piece of work, and helps identify the steps needed to act ethically: <https://directory.civictech.guide/listing/the-odis-data-ethics-canvas>
+-   The [Data Ethics Canvas](https://directory.civictech.guide/listing/the-odis-data-ethics-canvas) is designed to help identify potential ethical issues associated with a data project or activity. It promotes understanding and debate around the foundation, intention and potential impact of any piece of work, and helps identify the steps needed to act ethically
 
--   Ethics Framework (CalData): <https://medium.com/caldata/practical-data-ethics-summary-of-what-were-learning-24d0e9d89cd0> ; Framework at a Glance: <https://drive.google.com/file/d/14Hl6i2w3CImqrzLLYuB27PFD6DNdzdHX/view>
+-   [Ethics Framework (CalData)](https://medium.com/caldata/practical-data-ethics-summary-of-what-were-learning-24d0e9d89cd0); [Framework at a Glance](https://drive.google.com/file/d/14Hl6i2w3CImqrzLLYuB27PFD6DNdzdHX/view)
 
--   FAIR data principles for community centered data formats: <https://www.nature.com/articles/s41597-022-01606-w> Research practices documents related to using data for equity - working with communities to find data to use in equity work, and how to best collect and use demographic (ethnic and racial equity, sexual orientation, and gender identity data, specifically).
+-   [FAIR data principles for community centered data formats](https://www.nature.com/articles/s41597-022-01606-w). Research practices documents related to using data for equity - working with communities to find data to use in equity work, and how to best collect and use demographic (ethnic and racial equity, sexual orientation, and gender identity data, specifically).
 
--   Article - Mapping for Whom? Communities of Color and the Citizen Science Gap: <https://acme-journal.org/index.php/acme/article/view/2178/1654>
+-   [Article - Mapping for Whom? Communities of Color and the Citizen Science Gap](https://acme-journal.org/index.php/acme/article/view/2178/1654)
 
--   Global Indigenous Digital Alliance guidance on using CARE principles for Indigenous data governance: <https://www.gida-global.org/care>
+-   [Global Indigenous Digital Alliance guidance on using CARE principles for Indigenous data governance](https://www.gida-global.org/care)
 
--   At the most basic level, taking an equity lens in Data Wise involves having a team ask itself probing questions at each step of the improvement process. This document provides a look at how to use a data wise techniques with a racial equity lens. <https://www.ascd.org/el/articles/looking-at-data-through-an-equity-lens>
+-   At the most basic level, taking an equity lens in Data Wise involves having a team ask itself probing questions at each step of the improvement process. [This document](https://www.ascd.org/el/articles/looking-at-data-through-an-equity-lens) provides a look at how to use a data wise techniques with a racial equity lens. 
 
--   "collecting/using demographic data" - <https://www.urban.org/sites/default/files/publication/103830/five-ethical-risks-to-consider-before-filling-missing-race-and-ethnicity-data-workshop-findings_0.pdf>
+-   [Collecting/using demographic data](https://www.urban.org/sites/default/files/publication/103830/five-ethical-risks-to-consider-before-filling-missing-race-and-ethnicity-data-workshop-findings_0.pdf)
 
 ## Presentations
 
