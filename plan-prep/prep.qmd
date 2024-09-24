@@ -181,10 +181,10 @@ In this section, you will describe how and where every aspect of the project wil
 
 Metadata - the details about what, where, when, why, and how the data were collected, processed, and interpreted - provide the information that enables data and files to be discovered, used, and properly cited. Metadata and other project documentation include descriptions of how data and files are named, physically structured, and stored as well as details about the experiments, analytical/visualization methods, project context, and names long-term data/product/project managers/stewards.
 
-::: callout-important
+::: callout-note
 # **The utility and longevity of data and products relate directly to how complete and comprehensive the metadata and documentation are.**
 
-The amount of effort devoted to creating comprehensive metadata and documentation may vary substantially based on the complexity, types, and volume of data/products developed throughout the life of a project - but it's safe to assume (and plan for) a substantial amount of time and energy will be required to develop adequate metadata and documentation.
+The amount of effort devoted to creating comprehensive metadata and documentation may vary substantially based on the complexity, types, and volume of data/products developed throughout the life of a project - **but it's safe to assume (and plan for) a substantial amount of time and energy will be required to develop adequate metadata and documentation.**
 :::
 
 Some questions to help guide the development of this section include:
