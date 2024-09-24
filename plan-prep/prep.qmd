@@ -42,7 +42,7 @@ Here you want to briefly describe the project and the mechanism(s) driving the d
 In this section, you will identify the data you plan on collecting, how you will collect it, and how you organize, manage, and process said data once it is collected. More detailed guidance on collection and processing of data and resultant products is outlined on the [Data Collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collection.html), [Surveys](https://cawaterboarddatacenter.github.io/equity-data-handbook/surveys.html), and [Data Processing](https://cawaterboarddatacenter.github.io/equity-data-handbook/process.html) pages.
 
 ::: callout-important
-As you make a plan for which data you need to collect and from where - it's a great time to pause and think about what you *actually* need to answer the questions/objectives you have using an equity lens.
+# Be sure to pause and think about what you *actually* need to answer the questions/objectives you have using an equity lens.
 
 As a reminder - **achieving racial equity outcomes means that race can no longer be used to predict life outcomes and outcomes for all groups are improved** ([Glossary](https://cawaterboarddatacenter.github.io/equity-data-handbook/common-language.html#glossary))
 
