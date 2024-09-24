@@ -2,15 +2,19 @@
 
 By now, you've completed all of your planning and prep and are ready to get to the analysis part of the project. Congratulations!
 
-The whole point of data analysis is to turn data into useful information, knowledge, and wisdom that we can use to make decisions. Doing so is challenging, and even more so with equity data work.
+**The whole point of data analysis is to turn data into useful information, knowledge, and wisdom that we can use to make decisions. Doing so is challenging, and even more so with equity data work.**
+
+\< insert DIKW graphic \>
+
+## Data Analysis with an Equity Lens
 
 Turning data into information in the context of racial equity involved navigating complex ethical considerations. The process requires an understanding of the potential impact on Black, Indigenous, and other People of Color (BIPOC) communities and the responsibility to mitigate perpetuating or reinforcing biases. Upholding ethical standards requires a commitment to maintaining privacy, accessibility, and fostering transparency throughout the data transformation process. Additionally, acknowledging the limitations of the data and being transparent about potential biases is essential for maintaining the integrity of the data and information generated and shared. The transformation of racial equity data into meaningful information requires a thoughtful and intentional approach which we will highlight in the next sections.
 
-For example, many programs will rely on demographic and socioeconomic data, like those collected from the [U.S. Census](https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-main.html) and the [American Community Survey](https://www.census.gov/programs-surveys/acs) (ACS). Because the ACS is based on a sample, rather than all housing units and people, ACS estimates have a degree of uncertainty associated with them, called sampling error. In general, the larger the sample, the smaller the level of sampling error. To help users understand the impact of sampling error on data reliability, the Census Bureau provides a “margin of error” for each published ACS estimate. The margin of error, combined with the ACS estimate, gives users a range of values within which the actual “real-world” value is likely to fall.  It is important to acknowledge this uncertainty up front to be transparent with your audience about the data and conclusions you are drawing.  For more information on using [ACS data please see the Understanding and Using American Community Survey Data: What All Data Users Need to Know Handbook.](https://www.census.gov/programs-surveys/acs/library/handbooks/general.html)  Also for an interactive tool that measures the potential inaccuracies associated with relying on census data to enumerate demographic and socioeconomic characteristics in California please explore: <https://cacensus.maps.arcgis.com/apps/webappviewer/index.html?id=48be59de0ba94a3dacff1c9116df8b37>.\
-\
-Another example of how to tell your data story in a transparent way can be found on the Office of Environmental Health and Hazard Assessment CalEnviroScreen 4.0 Race and Equity Analysis.  <https://storymaps.arcgis.com/stories/f555670d30a942e4b46b18293e2795a7>
+For example, many programs will rely on demographic and socioeconomic data, like those collected from the [U.S. Census](https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-main.html) and the [American Community Survey](https://www.census.gov/programs-surveys/acs) (ACS). Because the ACS is based on a sample, rather than all housing units and people, ACS estimates have a degree of uncertainty associated with them, called sampling error. In general, the larger the sample, the smaller the level of sampling error. To help users understand the impact of sampling error on data reliability, the Census Bureau provides a “margin of error” for each published ACS estimate. The margin of error, combined with the ACS estimate, gives users a range of values within which the actual “real-world” value is likely to fall. It is important to acknowledge this uncertainty up front to be transparent with your audience about the data and conclusions you are drawing. 
 
-## Data Analysis **with an Equity Lens**
+See the first three bullets in the [Resources section below](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html#resources) for examples of how others have done this work.
+
+## Data Analysis Method Considerations
 
 **Select the appropriate analysis method for your project questions/objectives**. There are five main data analysis method types, and each has a different process, purpose, and interpretation:
 
@@ -23,8 +27,16 @@ Another example of how to tell your data story in a transparent way can be found
 | Prescriptive Analytics | Recommend actions or decisions.                                                                                    | The potential analytical methods are complex and require a large amount of quality and relevant data and computing power to be implemented appropriately. One should also consider the implications of the potential actions and decisions being considered using an equity lens. Striking the balance between data-driven insights and equity considerations is essential for advancing equity outcomes.  |
 | Causal Analytics       | Understand the cause and effect relationships between variables of interest.                                       | All causal analytical tools require strong assumptions and can never fully capture all of the context of the relationships in questions (i.e. extraneous variables that cannot be measured or assessed). If these methods are used, be sure to ground-truth the results with the communities the data you're using are meant to represent.                                                                 |
 
-**Beware of common data fallacies as you're interpreting your results and making conclusions**:
+# **Beware of common data fallacies**
+
+Beware of common data fallacies as you're interpreting your results and making conclusions:
 
 # Resources
+
+-   [Using American Community Survey (ACS) Data: What All Data Users Need to Know Handbook](https://www.census.gov/programs-surveys/acs/library/handbooks/general.html)
+
+-   Calif. Dept. of Finance Demographic Research Unit's [California Hard-to-Count Index Interactive Map](https://cacensus.maps.arcgis.com/apps/webappviewer/index.html?id=48be59de0ba94a3dacff1c9116df8b37), which measures the potential inaccuracies associated with relying on census data to enumerate demographic and socioeconomic characteristics in California
+
+-    Office of Environmental Health and Hazard Assessment [CalEnviroScreen 4.0 Race and Equity Analysis](https://storymaps.arcgis.com/stories/f555670d30a942e4b46b18293e2795a7)
 
 -   College of Water Informatics [Machine Learning Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/machine_learning_handbook.html)
