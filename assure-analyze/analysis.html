@@ -300,10 +300,9 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#data-analysis" id="toc-data-analysis" class="nav-link active" data-scroll-target="#data-analysis">Data Analysis</a>
   <ul class="collapse">
-  <li><a href="#turning-data-into-information" id="toc-turning-data-into-information" class="nav-link" data-scroll-target="#turning-data-into-information">Turning Data into Information</a></li>
-  <li><a href="#data-exploration-with-an-equity-lens" id="toc-data-exploration-with-an-equity-lens" class="nav-link" data-scroll-target="#data-exploration-with-an-equity-lens">Data Exploration <strong>with an Equity Lens</strong></a></li>
   <li><a href="#data-analysis-with-an-equity-lens" id="toc-data-analysis-with-an-equity-lens" class="nav-link" data-scroll-target="#data-analysis-with-an-equity-lens">Data Analysis <strong>with an Equity Lens</strong></a></li>
   </ul></li>
+  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/edit/main/assure-analyze/analysis.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/blob/main/assure-analyze/analysis.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -315,22 +314,71 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="data-analysis" class="level1">
 <h1>Data Analysis</h1>
-<section id="turning-data-into-information" class="level2">
-<h2 class="anchored" data-anchor-id="turning-data-into-information">Turning Data into Information</h2>
-<p>Turning Data into Information is Challenging - Even More so with Racial Equity Data Work</p>
+<p>By now, you’ve completed all of your planning and prep and are ready to get to the analysis part of the project. Congratulations!</p>
+<p>The whole point of data analysis is to turn data into useful information, knowledge, and wisdom that we can use to make decisions. Doing so is challenging, and even more so with equity data work.</p>
 <p>Turning data into information in the context of racial equity involved navigating complex ethical considerations. The process requires an understanding of the potential impact on Black, Indigenous, and other People of Color (BIPOC) communities and the responsibility to mitigate perpetuating or reinforcing biases. Upholding ethical standards requires a commitment to maintaining privacy, accessibility, and fostering transparency throughout the data transformation process. Additionally, acknowledging the limitations of the data and being transparent about potential biases is essential for maintaining the integrity of the data and information generated and shared. The transformation of racial equity data into meaningful information requires a thoughtful and intentional approach which we will highlight in the next sections.</p>
 <p>For example, many programs will rely on demographic and socioeconomic data, like those collected from the <a href="https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-main.html">U.S. Census</a> and the <a href="https://www.census.gov/programs-surveys/acs">American Community Survey</a> (ACS). Because the ACS is based on a sample, rather than all housing units and people, ACS estimates have a degree of uncertainty associated with them, called sampling error. In general, the larger the sample, the smaller the level of sampling error. To help users understand the impact of sampling error on data reliability, the Census Bureau provides a “margin of error” for each published ACS estimate. The margin of error, combined with the ACS estimate, gives users a range of values within which the actual “real-world” value is likely to fall.&nbsp; It is important to acknowledge this uncertainty up front to be transparent with your audience about the data and conclusions you are drawing.&nbsp; For more information on using <a href="https://www.census.gov/programs-surveys/acs/library/handbooks/general.html">ACS data please see the Understanding and Using American Community Survey Data: What All Data Users Need to Know Handbook.</a>&nbsp; Also for an interactive tool that measures the potential inaccuracies associated with relying on census data to enumerate demographic and socioeconomic characteristics in California please explore: <a href="https://cacensus.maps.arcgis.com/apps/webappviewer/index.html?id=48be59de0ba94a3dacff1c9116df8b37" class="uri">https://cacensus.maps.arcgis.com/apps/webappviewer/index.html?id=48be59de0ba94a3dacff1c9116df8b37</a>.<br>
 <br>
 Another example of how to tell your data story in a transparent way can be found on the Office of Environmental Health and Hazard Assessment CalEnviroScreen 4.0 Race and Equity Analysis.&nbsp; <a href="https://storymaps.arcgis.com/stories/f555670d30a942e4b46b18293e2795a7" class="uri">https://storymaps.arcgis.com/stories/f555670d30a942e4b46b18293e2795a7</a></p>
-</section>
-<section id="data-exploration-with-an-equity-lens" class="level2">
-<h2 class="anchored" data-anchor-id="data-exploration-with-an-equity-lens">Data Exploration <strong>with an Equity Lens</strong></h2>
-</section>
 <section id="data-analysis-with-an-equity-lens" class="level2">
 <h2 class="anchored" data-anchor-id="data-analysis-with-an-equity-lens">Data Analysis <strong>with an Equity Lens</strong></h2>
-
-
+<p><strong>Select the appropriate analysis method for your project questions/objectives</strong>. There are five main data analysis method types, and each has a different process, purpose, and interpretation:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 24%">
+<col style="width: 27%">
+<col style="width: 47%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Analysis Method</th>
+<th>Purpose</th>
+<th>Limitation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Descriptive Analytics</td>
+<td>Summarize and describe data in clear and simple way</td>
+<td>Descriptive analyses cannot tell us anything about <em>why</em> we’re seeing the results, patterns, or trends that are identified.</td>
+</tr>
+<tr class="even">
+<td>Inferential Analytics</td>
+<td>Make (infer) conclusions or generalizations about populations based on sample data</td>
+<td>Conclusions can only be made on samples / data that are analysed, and the appropriate use and interpretation of the statistical method used depends on whether the data meets the assumptions of the method. If method assumptions are not met - results and conclusions are meaningless.</td>
+</tr>
+<tr class="odd">
+<td>Diagnostic Analytics</td>
+<td>Tell us something about the “why” behind the results, patterns, or trends that are identified</td>
+<td>Depending on the data you have and the analysis you are able to use, your results may not be able to identify <em>the</em> root cause in the context of the lived experiences of the communities the data you’re using are meant to represent.</td>
+</tr>
+<tr class="even">
+<td>Predictive Analytics</td>
+<td>Help identify what might be likely to happen in the future given the previous trends or patterns found in the data</td>
+<td>Your ability to predict what may happen is highly dependent on (and limited by) the quantity, quality, and representativeness of the data that you use. If there are gaps in that data you feed your analytical methods, there will be similar gaps in your results.</td>
+</tr>
+<tr class="odd">
+<td>Prescriptive Analytics</td>
+<td>Recommend actions or decisions.</td>
+<td>The potential analytical methods are complex and require a large amount of quality and relevant data and computing power to be implemented appropriately. One should also consider the implications of the potential actions and decisions being considered using an equity lens. Striking the balance between data-driven insights and equity considerations is essential for advancing equity outcomes.</td>
+</tr>
+<tr class="even">
+<td>Causal Analytics</td>
+<td>Understand the cause and effect relationships between variables of interest.</td>
+<td>All causal analytical tools require strong assumptions and can never fully capture all of the context of the relationships in questions (i.e.&nbsp;extraneous variables that cannot be measured or assessed). If these methods are used, be sure to ground-truth the results with the communities the data you’re using are meant to represent.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Beware of common data fallacies as you’re interpreting your results and making conclusions</strong>:</p>
 </section>
+</section>
+<section id="resources" class="level1">
+<h1>Resources</h1>
+<ul>
+<li>College of Water Informatics <a href="https://www.waterboards.ca.gov/resources/oima/cowi/machine_learning_handbook.html">Machine Learning Handbook</a></li>
+</ul>
+
+
 </section>
 
 </main> <!-- /main -->
