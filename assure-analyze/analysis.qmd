@@ -5,7 +5,7 @@ By now, you've completed all of your planning and prep and are ready to get to t
 ::: callout-note
 # The whole point of data analysis is to turn data into information, knowledge, and wisdom that we can use to make decisions and take action. 
 
-Ideally, the data-informed decisions we make and the corresponding actions we take will help us advance and operationalize equity. Using data to inform decisions can be challenging, and is even more so when applying the equity lens to our data work.
+Ideally, the data-informed decisions we make and the corresponding actions we take will help us advance and operationalize equity. Using data to inform decisions can be challenging, and is even more so when applying an equity lens to our data work.
 :::
 
 ![Illustrations of two perspectives on Data-Information-Knowledge-Wisdom (DIKW) In practice. Graphic adapted from Flood et al. (2016) and DataCamp (2023).](images/dikw_adapted.png)
