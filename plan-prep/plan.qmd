@@ -6,13 +6,13 @@ When planning for your data project with an equity lens, it's best to conduct a 
 
 The steps to conducting an equity assessment are described below.
 
--   [Step 0: Project Scoping](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html#step-0-project-scoping)
--   [Step 1: Describe the selected program, policy, or process, and populations affected by it](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html#step-1-describe-the-selected-program-policy-or-process-and-populations-affected-by-it)
--   [Step 2. Consider historical, societal, and policy context and drivers of disparities](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html#step-2.-consider-historical-societal-and-policy-context-and-drivers-of-disparities)
--   [Step 3. Collect expert input, including from affected community members](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html#step-3.-collect-expert-input-including-from-affected-community-members)
--   [Step 4. Identify information sources and gaps](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html#step-4.-identify-information-sources-and-gaps)
--   [Step 5. Analyze program/policy effects - potential or current - on people and communities](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html#step-5.-analyze-programpolicy-effects---potential-or-current---on-people-and-communities)
--   [Step 6. Plan for action and accountability](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html#step-6.-plan-for-action-and-accountability)
+-   [Step 0: Project Scoping](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html#step-0-project-scoping)
+-   [Step 1: Describe the selected program, policy, or process, and populations affected by it](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html#step-1-describe-the-selected-program-policy-or-process-and-populations-affected-by-it)
+-   [Step 2. Consider historical, societal, and policy context and drivers of disparities](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html#step-2.-consider-historical-societal-and-policy-context-and-drivers-of-disparities)
+-   [Step 3. Collect expert input, including from affected community members](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html#step-3.-collect-expert-input-including-from-affected-community-members)
+-   [Step 4. Identify information sources and gaps](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html#step-4.-identify-information-sources-and-gaps)
+-   [Step 5. Analyze program/policy effects - potential or current - on people and communities](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html#step-5.-analyze-programpolicy-effects---potential-or-current---on-people-and-communities)
+-   [Step 6. Plan for action and accountability](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html#step-6.-plan-for-action-and-accountability)
 
 Although these steps are numbered for clarity, teams should synthesize information from all steps rather than completing them in isolation or one at a time.
 

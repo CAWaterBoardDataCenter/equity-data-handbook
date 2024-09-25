@@ -1,9 +1,9 @@
 # Data Collection
 
 ::: callout-important
-You should have addressed this during the [Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan.html) & [Prepare](https://cawaterboarddatacenter.github.io/equity-data-handbook/prep.html) phase of your process...but just in case you haven't (yet) or you need a refresher - we're restating here:
+You should have addressed this during the [Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) & [Prepare](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) phase of your process...but just in case you haven't (yet) or you need a refresher - we're restating here:
 
-**Achieving racial equity outcomes means that race can no longer be used to predict life outcomes and outcomes for all groups are improved** ([Glossary](#0))
+**Achieving racial equity outcomes means that race can no longer be used to predict life outcomes and outcomes for all groups are improved** ([Glossary](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/common-language.html#glossary))
 
 So, as you begin to collect the data for your project, be sure it includes:
 
