@@ -1,5 +1,89 @@
 # Data Visualization
 
-## Data Visualization Tools
+Effective data visualizations - the ones that stick with us, can help us understand complex issues, and those that encourage us to change our behaviors and actions to be more equitable, inclusive, and kind - they are more that points on a map. Great data visualizations are communication tools that are user-centered and tell a compelling story that connects with the audience.
 
-[CalIndian's California Public Domain Allotment (PDA) Water Rights Map](https://aquaoso.maps.arcgis.com/apps/webappviewer/index.html?id=a16deac30dec495185fc35771f3584ab)
+When thinking of the Data-Information-Knowledge-Wisdom graphic at the top of the [Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html) page - data visualizations are one tool we can use to add context and meaning to data to create information and knowledge. Ideally, the insights gleaned from our visualizations can then be used to make data and equity-informed decisions and to take effective and impactful action.
+
+## Data Visualization with an Equity Lens
+
+When it comes to creating data visualizations with an equity lens, it boils down to making decisions that consider equity and inclusion in the way results are shown/communicated and that promote accessibility of the data, information, and tool as a whole. As you develop your data visualization or equivalent application - be sure to keep the below considerations in mind and make data, communication, and design choices that support the advancement of equity, inclusion, and justice.
+
+### General **Data Visualization Considerations**
+
+#### **Take a user-centered design approach**
+
+Consider who the audience will be for the product you're developing and make decisions that will prioritize their needs so they are able to easily and efficiently use, engage, interact, and experience the product.
+
+[![Graphic illustrating three key components of the user-centered design process: Research, Empathy, and Iteration. Image from Justinmind (2020)](images/user-centered-design.png)](https://www.justinmind.com/blog/user-centered-design/)
+
+***Research*** - Let's use an equity lens here. Instead of "researching" your users and audience, try getting to know them by prioritizing relationship building and engagement. Ideally, by the time you're at the data visualization phase, you have already identified key partners and have been working or engaging with them during other phases of the project. See the [Planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) section on [collecting expert input](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html#step-3.-collect-expert-input-including-from-affected-community-members) for more guidance on outreach and engagement.
+
+***Empathy*** - According to Dr. Brené Brown: [empathy is about feeling *WITH people, and requires four qualities*](https://bouldercrest.org/resources/brene-brown-what-is-empathy/):
+
+-   Perspective Taking, or putting yourself in someone else’s shoes
+-   Staying out of judgement and listening
+-   Recognizing emotion in another person that you have maybe felt before
+-   Communicating that you can recognize that emotion
+
+Integrating empathy into our data-intensive work requires us to consider how our audience and/or the communities whose data are being used will percieve or be impacted by our work. It means ensuring we're developing the product and thinking about the data as more than mere points on a map or visualization, but as representing real humans, environments, or conditions that should be contextualized and considered with care. Some [questions to consider include](https://datajournalism.com/read/longreads/data-visualisations-with-empathy):
+
+-   Who is vulnerable in this context and how would they want to be counted?
+-   What information would they need to improve their lives?
+-   Who is undercounted or possibly missing entirely?
+-   Who was counted? Who did the counting? Why were they asking these people?
+-   Who benefits or is harmed if you forget the dots are people?
+
+***Iteration*** - The key here is knowing and planning for an iterative process from the beginning of your process. Add that feedback, implementation, and testing loop into your plan and allocate appropriate time to each piece to occur. When working with partners or communities using an iterative approach, be sure to consider:
+
+-   When it is appropriate to ask for feedback, and when it might be burdensome
+-   Different ways feedback might be gathered. We might think sending an email with a poll or survey linked is the easiest, but our partner might find it easier to talk through questions over the phone with you. Knowing which method(s) to use comes with time and relationship. When in doubt - ask for what people prefer and do your best to accommodate those requests.
+-   How much time is adequate for folks to be able to review what you send them and provide their feedback. When in doubt - plan for a longer feedback period than you think might be needed and confirm timelines with your partners (and adjust them if you can when your partners indicate more time is needed)
+
+#### Consider who is missing from your data
+
+It's not uncommon for project teams to have gaps in data, even after all of your work and investment into the [planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html), [data preparation](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) and [collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html) steps of the project. Often, this limitation of the data is out of your control - especially when you are using data from external sources. When this happens, it's important to acknowledge, document, communicate those gaps and who is not adequately represented in your data product in a way that is accessible.
+
+Similarly, we should also think about how groups are lumped in the "other" category of our analysis or visualization. Sometimes it's necessary to combine groups into a single "other" category (e.g. to generalize small groups to protect confidentiality or to achieve adequate sample size for your analysis). Again, the important thing is to be transparent about why you're making those decisions and documenting those decisions accordingly. The Urban Institute's [Do No Harm Data Visualizaation Recommendations](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) include considering alternatives to using the term "other" as a catch-all category, including:
+
+-   Another (e.g. Another race or Another group)
+-   Additional groups
+-   All other self-descriptions
+-   People identifying as other or multiple races
+-   Identity not listed
+-   Identity not listed in the survey or dataset
+
+#### Use plain and accessible language
+
+Plain language is writing designed to ensure the audience can understand what you're trying to communicate as easily, quickly, and comprehensively as possible. This means:
+
+-   Avoiding convoluted or verbose language
+-   Avoiding the use of jargon and acronyms
+-   Making critical information easy to see and understand
+-   Using a conversational rather than legal or bureaucratic tone
+
+For more guidance on plain language, see:
+
+-   [Center for Plain Language](https://centerforplainlanguage.org/learning-training/five-steps-plain-language/)
+-   [PlainLanguage.gov](https://www.plainlanguage.gov/)
+-   Water Boards Staff may also [request plain language review from the Office of Public Participation](https://cawaterboards.sharepoint.com/OPP/Resources/SitePages/Home.aspx), although that service is more geared towards the review of fact sheets, brochures, and FAQs rather than data visualizations or other data products.
+-   Healthy Watershed Partnership [Guidance on Communicating Results](https://mywaterquality.ca.gov/monitoring_council/healthy_watersheds/assessment_guidance/communicate_results.html)
+
+Making language accessible to your audience may also require the translation of products (or product components) into the languages used by your audience. The [Water Board's Linguistic Isolation Tool](https://app.powerbigov.us/view?r=eyJrIjoiMjc0YjQ2ZWQtZWU2OS00N2NjLTllODgtY2VhOTk3NDBkMjM2IiwidCI6ImZlMTg2YTI1LTdkNDktNDFlNi05OTQxLTA1ZDIyODFkMzZjMSJ9&pageName=ReportSection) can be used to help understand the different languages that are used by communities across the state.
+
+Water Boards Staff may also [request translation services from the Office of Public Participation](https://cawaterboards.sharepoint.com/OPP/Resources/SitePages/Language%20Services.aspx?csf=1&amp;web=1&amp;e=arv47O), although that service is more geared towards the translation of documents, rather than data visualizations or other data products.
+
+### **Data Visualization Method Considerations**
+
+## Resources
+
+-   Justinmind Blog (2020) [User-centered design: a beginner’s guide](https://www.justinmind.com/blog/user-centered-design/)
+-   UNC Health’s Equity and Inclusion Analytics Workgroup - [An Analyst's Guide to Advancing Equity in Data Visualization](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf)
+-   [Urban Institute](https://www.urban.org/) Resources
+    -   [Data Visualization Style Guide](https://urbaninstitute.github.io/graphics-styleguide/)
+
+    -   [Do No Harm Guide: Applying Equity Awareness in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization)
+-   We All Count - [Reverse Engineering Data Viz for Equity](https://weallcount.com/2020/07/30/reverse-engineering-data-viz-for-equity/)
+
+### Data Visualization Tools
+
+-   [CalIndian's California Public Domain Allotment (PDA) Water Rights Map](https://aquaoso.maps.arcgis.com/apps/webappviewer/index.html?id=a16deac30dec495185fc35771f3584ab)
