@@ -86,9 +86,15 @@ Water Boards Staff may also [request translation services from the Office of Pub
 
 ### Data Visualization Method Considerations
 
+#### **Alt Text**
+
 #### **Color**
 
 #### **Figure & Chart Types**
+
+-   selecting the appropriate chart
+
+-   captions
 
 #### **Fonts & Typography**
 
@@ -105,6 +111,12 @@ Water Boards Staff may also [request translation services from the Office of Pub
 #### **Shapes & Icons**
 
 #### **Tables**
+
+-   tidy
+
+-   don't use highlights as information
+
+-   captions
 
 #### **Tooltips, Comments, or Footnotes**
 
