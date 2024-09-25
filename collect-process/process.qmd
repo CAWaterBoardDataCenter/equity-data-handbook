@@ -32,7 +32,7 @@ When we talk about data processing here, we're referring to the steps required t
 
 Additionally, working from a foundation of tidy data (and using consistent tools) can make it easier for others to collaborate with and contribute to your data project, which generally results in a better product in the end.
 
-## How to Process Data with an Equity Lens
+## Processing Data with an Equity Lens
 
 **Keep your "raw data raw":** It's important to keep (and backup) a version of your data that is untouched by your process (i.e. raw). We also recommend backing up a version of your data that is tidied and cleaned (i.e. what you will use for analysis). Not only does doing so protect you if your working version of the data are lost for some reason (e.g., computer crash, freak system failure) - but it also helps with reproducibility and transparency of your process.
 
