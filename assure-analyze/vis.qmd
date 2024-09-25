@@ -52,9 +52,9 @@ Similarly, we should also think about how groups are lumped in the "other" categ
 -   Identity not listed
 -   Identity not listed in the survey or dataset
 
-#### **Use plain and accessible language**
+#### **Use plain, accessible, and inclusive language**
 
-Plain language is writing designed to ensure the audience can understand what you're trying to communicate as easily, quickly, and comprehensively as possible. This means:
+***Plain Language*** - Plain language is writing designed to ensure the audience can understand what you're trying to communicate as easily, quickly, and comprehensively as possible. This means:
 
 -   Avoiding convoluted or verbose language
 -   Avoiding the use of jargon and acronyms
@@ -68,11 +68,45 @@ For more guidance on plain language, see:
 -   Water Boards Staff may also [request plain language review from the Office of Public Participation](https://cawaterboards.sharepoint.com/OPP/Resources/SitePages/Home.aspx), although that service is more geared towards the review of fact sheets, brochures, and FAQs rather than data visualizations or other data products.
 -   Healthy Watershed Partnership [Guidance on Communicating Results](https://mywaterquality.ca.gov/monitoring_council/healthy_watersheds/assessment_guidance/communicate_results.html)
 
-Making language accessible to your audience may also require the translation of products (or product components) into the languages used by your audience. The [Water Board's Linguistic Isolation Tool](https://app.powerbigov.us/view?r=eyJrIjoiMjc0YjQ2ZWQtZWU2OS00N2NjLTllODgtY2VhOTk3NDBkMjM2IiwidCI6ImZlMTg2YTI1LTdkNDktNDFlNi05OTQxLTA1ZDIyODFkMzZjMSJ9&pageName=ReportSection) can be used to help understand the different languages that are used by communities across the state.
+***Accessible Language*** - Making language accessible to your audience may also require the translation of products (or product components) into the languages used by your audience. The [Water Board's Linguistic Isolation Tool](https://app.powerbigov.us/view?r=eyJrIjoiMjc0YjQ2ZWQtZWU2OS00N2NjLTllODgtY2VhOTk3NDBkMjM2IiwidCI6ImZlMTg2YTI1LTdkNDktNDFlNi05OTQxLTA1ZDIyODFkMzZjMSJ9&pageName=ReportSection) can be used to help understand the different languages that are used by communities across the state.
 
 Water Boards Staff may also [request translation services from the Office of Public Participation](https://cawaterboards.sharepoint.com/OPP/Resources/SitePages/Language%20Services.aspx?csf=1&amp;web=1&amp;e=arv47O), although that service is more geared towards the translation of documents, rather than data visualizations or other data products.
 
+***Inclusive Language*** - Words matter. It's important to be mindful of the language and terms we use in general (see [Non-Inclusive Terms to Avoid](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/common-language.html#non-inclusive-terms-to-avoid) for some examples). The language we use in our products can be a way for us to show respect, empathy, and care for the communities connected to or impacted by the data. The [UNC Health’s Equity and Inclusion Analytics Workgroup](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf) recommends we ask ourselves the following questions when we need to decide on language to use in our data products:
+
+-   **Do the words seek to fix, blame, shame, or change communities that are most marginalized, OR do they seek to address the oppressive systems that impact these communities?**
+
+-   **Are the words racialized?** Do the terms have a racist or colonialist implication? An example is the phrase “at risk.” Close your eyes and say the phrase “at risk.” Does a picture of a certain group or community come to mind? If so, stop and pick another word.
+
+-   **Is the language people-centered?** Or do the phrases objectify communities? Distinguish between calling communities a name and describing what they are experiencing. For example: “people with disabilities,” “a person with asthma,” or “communities of color.”
+
+-   **How am I framing the words?** What is the context and culture we are creating and perpetuating by using the words? Are the words positioning the communities we serve to live in their personal and collective power while addressing systemic oppression?
+
+-   **Do the words dehumanize the communities we serve?** Words that take away agency, self-determination, and personal power and do not recognize communities’ inherent strengths and assets should be avoided.
+
 ### Data Visualization Method Considerations
+
+#### **Color**
+
+#### **Figure & Chart Types**
+
+#### **Fonts & Typography**
+
+-   Font types and size should follow accessibility compliance goals for the organization
+
+-   Spacing -
+
+#### **Labels**
+
+#### **Layout**
+
+#### **Maps**
+
+#### **Shapes & Icons**
+
+#### **Tables**
+
+#### **Tooltips, Comments, or Footnotes**
 
 ## Resources
 
