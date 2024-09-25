@@ -8,7 +8,7 @@ When thinking of the Data-Information-Knowledge-Wisdom graphic at the top of the
 
 When it comes to creating data visualizations with an equity lens, it boils down to making decisions that consider equity and inclusion in the way results are shown/communicated and that promote accessibility of the data, information, and tool as a whole. As you develop your data visualization or equivalent application - be sure to keep the below considerations in mind and make data, communication, and design choices that support the advancement of equity, inclusion, and justice.
 
-### General **Data Visualization Considerations**
+### General Data Visualization Considerations
 
 #### **Take a user-centered design approach**
 
@@ -39,7 +39,7 @@ Integrating empathy into our data-intensive work requires us to consider how our
 -   Different ways feedback might be gathered. We might think sending an email with a poll or survey linked is the easiest, but our partner might find it easier to talk through questions over the phone with you. Knowing which method(s) to use comes with time and relationship. When in doubt - ask for what people prefer and do your best to accommodate those requests.
 -   How much time is adequate for folks to be able to review what you send them and provide their feedback. When in doubt - plan for a longer feedback period than you think might be needed and confirm timelines with your partners (and adjust them if you can when your partners indicate more time is needed)
 
-#### Consider who is missing from your data
+#### **Consider who is missing from your data**
 
 It's not uncommon for project teams to have gaps in data, even after all of your work and investment into the [planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html), [data preparation](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) and [collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html) steps of the project. Often, this limitation of the data is out of your control - especially when you are using data from external sources. When this happens, it's important to acknowledge, document, communicate those gaps and who is not adequately represented in your data product in a way that is accessible.
 
@@ -52,7 +52,7 @@ Similarly, we should also think about how groups are lumped in the "other" categ
 -   Identity not listed
 -   Identity not listed in the survey or dataset
 
-#### Use plain and accessible language
+#### **Use plain and accessible language**
 
 Plain language is writing designed to ensure the audience can understand what you're trying to communicate as easily, quickly, and comprehensively as possible. This means:
 
@@ -72,7 +72,7 @@ Making language accessible to your audience may also require the translation of 
 
 Water Boards Staff may also [request translation services from the Office of Public Participation](https://cawaterboards.sharepoint.com/OPP/Resources/SitePages/Language%20Services.aspx?csf=1&amp;web=1&amp;e=arv47O), although that service is more geared towards the translation of documents, rather than data visualizations or other data products.
 
-### **Data Visualization Method Considerations**
+### Data Visualization Method Considerations
 
 ## Resources
 
