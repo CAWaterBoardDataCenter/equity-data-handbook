@@ -6,9 +6,9 @@ All Water Boards authors are **bolded** below.
 
 ## Other Equity & Data Handbooks / Toolkits / Guides
 
--   [**Water Boards Developed Racial Equity Data Tools**](https://gispublic.waterboards.ca.gov/portal/apps/experiencebuilder/template/?data_id=dataSource_14-0%3A10&id=b02e68db0fa7452aad0b08d3c65d4a93)
+-   [Water Boards Developed Racial Equity Data Tools](https://gispublic.waterboards.ca.gov/portal/apps/experiencebuilder/template/?data_id=dataSource_14-0%3A10&id=b02e68db0fa7452aad0b08d3c65d4a93)
 
--   [**Water Boards Environmental Justice Roundtable Resource Catalog**](https://cawaterboards.sharepoint.com/:w:/r/sites/WB-OPP-EJRoundtable/Materials/Resources/EJRT_Resources%20Catalogue.docx?d=wbf0bd2eff6e943f0ad5c9972554eb1f4&csf=1&web=1&e=b39KxT)
+-   [Water Boards Environmental Justice Roundtable Resource Catalog](https://cawaterboards.sharepoint.com/:w:/r/sites/WB-OPP-EJRoundtable/Materials/Resources/EJRT_Resources%20Catalogue.docx?d=wbf0bd2eff6e943f0ad5c9972554eb1f4&csf=1&web=1&e=b39KxT)
 
 -   [GARE Racial Equity Toolkit: An Opportunity to Operationalize Equity](https://www.racialequityalliance.org/viewdocument/racial-equity-toolkit-an-opportuni-2)
 
@@ -145,9 +145,15 @@ All Water Boards authors are **bolded** below.
 -   US EPA has [guidance](https://www.epa.gov/geospatial/guidance-content-item-metadata-arcgis-online) for content metadata in ArcGIS Online.
 -   [Initial Proposals for Revising the Federal Race and Ethnicity Standards \| OMB \| The White House](https://www.whitehouse.gov/omb/briefing-room/2023/01/26/initial-proposals-for-revising-the-federal-race-and-ethnicity-standards/)
 
-## Relevant Literature
+## Literature
 
 O’Brien, M., Duerr, R., Taitingfong, R., Martinez, A., Vera, L., Jennings, L.L., Downs, R.R., Antognoli, E., ten Brink, T., Halmai, N.B., David-Chavez, D., Carroll, S.R., Hudson, M. and Buttigieg, P.L. (2024) ‘[Earth Science Data Repositories: Implementing the CARE Principles](https://doi.org/10.5334/dsj-2024-037.)’, *Data Science Journal*, 23(1), p. 37.
+
+## Books
+
+D'Ignazio C., Klein L. F. (2020) [*Data Feminism*](https://direct.mit.edu/books/book/4660/Data-Feminism)*.* The MIT Press
+
+Leonardi P., Neeley T. (2022) [*The Digital Mindset: What It Really Takes to Thrive in the Age of Data, Algorithms, and AI*](https://store.hbr.org/product/the-digital-mindset-what-it-really-takes-to-thrive-in-the-age-of-data-algorithms-and-ai/10413?sku=10413E-KND-ENG). Harvard Business Review Press
 
 ## Websites
 
