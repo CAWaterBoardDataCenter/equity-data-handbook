@@ -300,7 +300,15 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#data-visualization" id="toc-data-visualization" class="nav-link active" data-scroll-target="#data-visualization">Data Visualization</a>
   <ul class="collapse">
+  <li><a href="#data-visualization-with-an-equity-lens" id="toc-data-visualization-with-an-equity-lens" class="nav-link" data-scroll-target="#data-visualization-with-an-equity-lens">Data Visualization with an Equity Lens</a>
+  <ul class="collapse">
+  <li><a href="#general-data-visualization-considerations" id="toc-general-data-visualization-considerations" class="nav-link" data-scroll-target="#general-data-visualization-considerations">General <strong>Data Visualization Considerations</strong></a></li>
+  <li><a href="#data-visualization-method-considerations" id="toc-data-visualization-method-considerations" class="nav-link" data-scroll-target="#data-visualization-method-considerations"><strong>Data Visualization Method Considerations</strong></a></li>
+  </ul></li>
+  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a>
+  <ul class="collapse">
   <li><a href="#data-visualization-tools" id="toc-data-visualization-tools" class="nav-link" data-scroll-target="#data-visualization-tools">Data Visualization Tools</a></li>
+  </ul></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/edit/main/assure-analyze/vis.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/blob/main/assure-analyze/vis.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
@@ -313,11 +321,102 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="data-visualization" class="level1">
 <h1>Data Visualization</h1>
-<section id="data-visualization-tools" class="level2">
-<h2 class="anchored" data-anchor-id="data-visualization-tools">Data Visualization Tools</h2>
-<p><a href="https://aquaoso.maps.arcgis.com/apps/webappviewer/index.html?id=a16deac30dec495185fc35771f3584ab">CalIndian’s California Public Domain Allotment (PDA) Water Rights Map</a></p>
+<p>Effective data visualizations - the ones that stick with us, can help us understand complex issues, and those that encourage us to change our behaviors and actions to be more equitable, inclusive, and kind - they are more that points on a map. Great data visualizations are communication tools that are user-centered and tell a compelling story that connects with the audience.</p>
+<p>When thinking of the Data-Information-Knowledge-Wisdom graphic at the top of the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html">Data Analysis</a> page - data visualizations are one tool we can use to add context and meaning to data to create information and knowledge. Ideally, the insights gleaned from our visualizations can then be used to make data and equity-informed decisions and to take effective and impactful action.</p>
+<section id="data-visualization-with-an-equity-lens" class="level2">
+<h2 class="anchored" data-anchor-id="data-visualization-with-an-equity-lens">Data Visualization with an Equity Lens</h2>
+<p>When it comes to creating data visualizations with an equity lens, it boils down to making decisions that consider equity and inclusion in the way results are shown/communicated and that promote accessibility of the data, information, and tool as a whole. As you develop your data visualization or equivalent application - be sure to keep the below considerations in mind and make data, communication, and design choices that support the advancement of equity, inclusion, and justice.</p>
+<section id="general-data-visualization-considerations" class="level3">
+<h3 class="anchored" data-anchor-id="general-data-visualization-considerations">General <strong>Data Visualization Considerations</strong></h3>
+<section id="take-a-user-centered-design-approach" class="level4">
+<h4 class="anchored" data-anchor-id="take-a-user-centered-design-approach"><strong>Take a user-centered design approach</strong></h4>
+<p>Consider who the audience will be for the product you’re developing and make decisions that will prioritize their needs so they are able to easily and efficiently use, engage, interact, and experience the product.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.justinmind.com/blog/user-centered-design/"><img src="images/user-centered-design.png" class="img-fluid figure-img" alt="Graphic illustrating three key components of the user-centered design process: Research, Empathy, and Iteration. Image from Justinmind (2020)"></a></p>
+<figcaption>Graphic illustrating three key components of the user-centered design process: Research, Empathy, and Iteration. Image from Justinmind (2020)</figcaption>
+</figure>
+</div>
+<p><strong><em>Research</em></strong> - Let’s use an equity lens here. Instead of “researching” your users and audience, try getting to know them by prioritizing relationship building and engagement. Ideally, by the time you’re at the data visualization phase, you have already identified key partners and have been working or engaging with them during other phases of the project. See the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html">Planning</a>&nbsp;section on&nbsp;<a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html#step-3.-collect-expert-input-including-from-affected-community-members">collecting expert input</a>&nbsp;for more guidance on outreach and engagement.</p>
+<p><strong><em>Empathy</em></strong> - According to Dr.&nbsp;Brené Brown: <a href="https://bouldercrest.org/resources/brene-brown-what-is-empathy/">empathy is about feeling <em>WITH people, and requires four qualities</em></a>:</p>
+<ul>
+<li>Perspective Taking, or putting yourself in someone else’s shoes</li>
+<li>Staying out of judgement and listening</li>
+<li>Recognizing emotion in another person that you have maybe felt before</li>
+<li>Communicating that you can recognize that emotion</li>
+</ul>
+<p>Integrating empathy into our data-intensive work requires us to consider how our audience and/or the communities whose data are being used will percieve or be impacted by our work. It means ensuring we’re developing the product and thinking about the data as more than mere points on a map or visualization, but as representing real humans, environments, or conditions that should be contextualized and considered with care. Some <a href="https://datajournalism.com/read/longreads/data-visualisations-with-empathy">questions to consider include</a>:</p>
+<ul>
+<li>Who is vulnerable in this context and how would they want to be counted?</li>
+<li>What information would they need to improve their lives?</li>
+<li>Who is undercounted or possibly missing entirely?</li>
+<li>Who was counted? Who did the counting? Why were they asking these people?</li>
+<li>Who benefits or is harmed if you forget the dots are people?</li>
+</ul>
+<p><strong><em>Iteration</em></strong> - The key here is knowing and planning for an iterative process from the beginning of your process. Add that feedback, implementation, and testing loop into your plan and allocate appropriate time to each piece to occur. When working with partners or communities using an iterative approach, be sure to consider:</p>
+<ul>
+<li>When it is appropriate to ask for feedback, and when it might be burdensome</li>
+<li>Different ways feedback might be gathered. We might think sending an email with a poll or survey linked is the easiest, but our partner might find it easier to talk through questions over the phone with you. Knowing which method(s) to use comes with time and relationship. When in doubt - ask for what people prefer and do your best to accommodate those requests.</li>
+<li>How much time is adequate for folks to be able to review what you send them and provide their feedback. When in doubt - plan for a longer feedback period than you think might be needed and confirm timelines with your partners (and adjust them if you can when your partners indicate more time is needed)</li>
+</ul>
+</section>
+<section id="consider-who-is-missing-from-your-data" class="level4">
+<h4 class="anchored" data-anchor-id="consider-who-is-missing-from-your-data">Consider who is missing from your data</h4>
+<p>It’s not uncommon for project teams to have gaps in data, even after all of your work and investment into the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html">planning</a>, <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html">data preparation</a> and <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html">collection</a> steps of the project. Often, this limitation of the data is out of your control - especially when you are using data from external sources. When this happens, it’s important to acknowledge, document, communicate those gaps and who is not adequately represented in your data product in a way that is accessible.</p>
+<p>Similarly, we should also think about how groups are lumped in the “other” category of our analysis or visualization. Sometimes it’s necessary to combine groups into a single “other” category (e.g.&nbsp;to generalize small groups to protect confidentiality or to achieve adequate sample size for your analysis). Again, the important thing is to be transparent about why you’re making those decisions and documenting those decisions accordingly. The Urban Institute’s <a href="https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf">Do No Harm Data Visualizaation Recommendations</a> include considering alternatives to using the term “other” as a catch-all category, including:</p>
+<ul>
+<li>Another (e.g.&nbsp;Another race or Another group)</li>
+<li>Additional groups</li>
+<li>All other self-descriptions</li>
+<li>People identifying as other or multiple races</li>
+<li>Identity not listed</li>
+<li>Identity not listed in the survey or dataset</li>
+</ul>
+</section>
+<section id="use-plain-and-accessible-language" class="level4">
+<h4 class="anchored" data-anchor-id="use-plain-and-accessible-language">Use plain and accessible language</h4>
+<p>Plain language is writing designed to ensure the audience can understand what you’re trying to communicate as easily, quickly, and comprehensively as possible. This means:</p>
+<ul>
+<li>Avoiding convoluted or verbose language</li>
+<li>Avoiding the use of jargon and acronyms</li>
+<li>Making critical information easy to see and understand</li>
+<li>Using a conversational rather than legal or bureaucratic tone</li>
+</ul>
+<p>For more guidance on plain language, see:</p>
+<ul>
+<li><a href="https://centerforplainlanguage.org/learning-training/five-steps-plain-language/">Center for Plain Language</a></li>
+<li><a href="https://www.plainlanguage.gov/">PlainLanguage.gov</a></li>
+<li>Water Boards Staff may also <a href="https://cawaterboards.sharepoint.com/OPP/Resources/SitePages/Home.aspx">request plain language review from the Office of Public Participation</a>, although that service is more geared towards the review of fact sheets, brochures, and FAQs rather than data visualizations or other data products.</li>
+<li>Healthy Watershed Partnership <a href="https://mywaterquality.ca.gov/monitoring_council/healthy_watersheds/assessment_guidance/communicate_results.html">Guidance on Communicating Results</a></li>
+</ul>
+<p>Making language accessible to your audience may also require the translation of products (or product components) into the languages used by your audience. The <a href="https://app.powerbigov.us/view?r=eyJrIjoiMjc0YjQ2ZWQtZWU2OS00N2NjLTllODgtY2VhOTk3NDBkMjM2IiwidCI6ImZlMTg2YTI1LTdkNDktNDFlNi05OTQxLTA1ZDIyODFkMzZjMSJ9&amp;pageName=ReportSection">Water Board’s Linguistic Isolation Tool</a> can be used to help understand the different languages that are used by communities across the state.</p>
+<p>Water Boards Staff may also <a href="https://cawaterboards.sharepoint.com/OPP/Resources/SitePages/Language%20Services.aspx?csf=1&amp;web=1&amp;e=arv47O">request translation services from the Office of Public Participation</a>, although that service is more geared towards the translation of documents, rather than data visualizations or other data products.</p>
+</section>
+</section>
+<section id="data-visualization-method-considerations" class="level3">
+<h3 class="anchored" data-anchor-id="data-visualization-method-considerations"><strong>Data Visualization Method Considerations</strong></h3>
+</section>
+</section>
+<section id="resources" class="level2">
+<h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<ul>
+<li>Justinmind Blog (2020) <a href="https://www.justinmind.com/blog/user-centered-design/">User-centered design: a beginner’s guide</a></li>
+<li>UNC Health’s Equity and Inclusion Analytics Workgroup - <a href="https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf">An Analyst’s Guide to Advancing Equity in Data Visualization</a></li>
+<li><a href="https://www.urban.org/">Urban Institute</a> Resources
+<ul>
+<li><p><a href="https://urbaninstitute.github.io/graphics-styleguide/">Data Visualization Style Guide</a></p></li>
+<li><p><a href="https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization">Do No Harm Guide: Applying Equity Awareness in Data Visualization</a></p></li>
+</ul></li>
+<li>We All Count - <a href="https://weallcount.com/2020/07/30/reverse-engineering-data-viz-for-equity/">Reverse Engineering Data Viz for Equity</a></li>
+</ul>
+<section id="data-visualization-tools" class="level3">
+<h3 class="anchored" data-anchor-id="data-visualization-tools">Data Visualization Tools</h3>
+<ul>
+<li><a href="https://aquaoso.maps.arcgis.com/apps/webappviewer/index.html?id=a16deac30dec495185fc35771f3584ab">CalIndian’s California Public Domain Allotment (PDA) Water Rights Map</a></li>
+</ul>
 
 
+</section>
 </section>
 </section>
 
