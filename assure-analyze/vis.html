@@ -468,21 +468,39 @@ ul.task-list li input[type="checkbox"] {
 </ul></li>
 </ul></li>
 <li><p>Do not use color or shading alone to convey data or information. Instead pair color with patterns, textures, or shapes to convey data or information.</p></li>
+<li><p>Avoid using too many colors/shapes/patterns at the same time. Our brains can really only hold (or effectively understand) three to five complex concepts at once. If you need to use six or more colors to represent the data - it might feel cluttered or overwhelming to the viewers. Consider consolidating categories or breaking up the chart into multiple smaller charts as described above.</p></li>
 <li><p>A 3:1 contrast ratio is required for figures if a person must perceive a graphic in order to understand the content (e.g., colored lines in graphs, points on maps). However, text that is embedded in a graphic must meet a contrast ratio of 4.5:1 unless the text is incidental or there is no way of presenting the graphic with sufficient contrast without undermining the meaning. Use the <a href="https://www.tpgi.com/color-contrast-checker/">Colour Contrast Analyser</a> (CCA) or equivalent software to determine if the figure meets the ratio requirements.</p></li>
 </ul>
 <p>Tools to help with color selection may already be integrated into your data visualization tools - if not, some other resources include:</p>
 <ul>
 <li><a href="https://colorbrewer2.org/#type=sequential&amp;scheme=BuGn&amp;n=3">Color Brewer</a>&nbsp;– tool to help create accessible color schemes for maps</li>
-<li><a href="https://colororacle.org/">Color Oracle</a>&nbsp;– color blindness simulator</li>
+<li>Non-exhaustive list of color vision difference simulators – <a href="https://colororacle.org/">Color Oracle</a>, <a href="https://www.color-blindness.com/coblis-color-blindness-simulator/">Coblis</a></li>
 <li>Non-exhaustive list of color palette packages for R – <a href="http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf">Base R Color Palette Guide</a>, <a href="https://rdrr.io/cran/RColorBrewer/man/ColorBrewer.html">RColorBrewer</a>, <a href="https://jakubnowosad.com/rcartocolor/">rcartocolor</a>, <a href="https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html">viridis</a></li>
+<li><a href="https://paletton.com">Paletton</a> – tool to help explore colors and palettes</li>
 <li><a href="https://webaim.org/resources/contrastchecker/">WebAIM</a>&nbsp;– color contract checker</li>
 </ul>
 </section>
 <section id="figure-chart-types" class="level4">
 <h4 class="anchored" data-anchor-id="figure-chart-types"><strong>Figure &amp; Chart Types</strong></h4>
+<p>As data practitioners, you decide how your audience will be able to view the data through your visualization or data product. While we might <em>think</em> that data are objective (spoiler - they’re not), how they are presented impacts how they are interpreted, preceived, and ultimately valued and acted upon. How we present the data impacts which stories we tell (or don’t tell) using that data.</p>
+<p>The graphic below, from <a href="https://direct.mit.edu/books/book/4660/Data-Feminism"><em>Data Feminism</em></a> illustrates how the same data can tell different stories depending on their presentation. The graphic on the left tells a story of how the unemployment has fallen substantially since it’s recent peak and might be interpreted as “good news”. The graphic on the right tells a story of how the unemployment rate has been consistently above 8% for a long time period and might be interpreted as “bad news”.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/graphic-ex-data-femenism.png" class="img-fluid figure-img"></p>
+<figcaption>Two figures presenting the same data in different ways. Graphic from Data Feminism</figcaption>
+</figure>
+</div>
+<p>When selecting figure or chart types for your visualization or data product, consider:</p>
 <ul>
-<li><p>selecting the appropriate chart</p></li>
-<li><p>captions</p></li>
+<li><p>How does the chart you use frame or present the data? What is the context and culture we are creating and perpetuating by presenting the data in that way? Are the charts we’re using positioning the communities we serve to live in their personal and collective power while addressing systemic oppression?</p></li>
+<li><p>Is the chart used appropriate for the data you want to display? Think about your variables (string/categorical and numeric), the volume of data, and the question you are attempting to answer (or the story you’re trying to tell) through the visualization or data product.</p></li>
+<li><p>Will the chart type be easily interpreted by the audience? Sometimes data practitioners might be inclined to use a complex chart so we can display more data at once (or just because we think it’s cool!). In moments like these, remember the words of Leonardo da Vinci — “Simplicity is the ultimate sophistication.” Think about what will be the most easy to understand and impactful for your audience.</p></li>
+<li><p>How can I use the textual components of the chart (i.e., title, axis and other labels, legend, notes, caption, tooltips) to communicate simply and with clarity? More is not always more here. If context is provided elsewhere in the visualization or data product, maybe the title, caption, or tooltips are redundant. If there is only one data category that can be described by the title or caption, maybe a legend is not necessary. Think about what is essential and what can be removed or omitted to improve your clarity and communication.</p></li>
+<li><p>How can other chart components (i.e.&nbsp;gridlines, axis lines/ticks, scales, spacing) be used to communicate simply and with clarity? If you have a lot of data on the chart - do gridlines help make sense of things, or cause confusion and clutter? Are there enough empty or negative spaces in the chart so that viewers are given the “visual breathing room” needed to easily absorb the messages you’re hoping the data conveys?</p></li>
+</ul>
+<p>Tools to help with chart selection include:</p>
+<ul>
+<li><a href="https://coolinfographics.com/dataviz-guides">Cool Infographics Data Visualization Guides</a> – collection of data visualization chart choosers, reference guides, cheat sheets, websites and infographics about data visualization design best practices.</li>
 </ul>
 </section>
 <section id="fonts-typography" class="level4">
@@ -511,9 +529,6 @@ ul.task-list li input[type="checkbox"] {
 <li><p>don’t use highlights as information</p></li>
 <li><p>captions</p></li>
 </ul>
-</section>
-<section id="tooltips-comments-or-footnotes" class="level4">
-<h4 class="anchored" data-anchor-id="tooltips-comments-or-footnotes"><strong>Tooltips, Comments, or Footnotes</strong></h4>
 </section>
 </section>
 </section>
