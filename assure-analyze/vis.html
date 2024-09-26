@@ -433,14 +433,50 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="data-visualization-design-considerations" class="level3">
 <h3 class="anchored" data-anchor-id="data-visualization-design-considerations">Data Visualization Design Considerations</h3>
-<section id="alt-text" class="level4">
-<h4 class="anchored" data-anchor-id="alt-text"><strong>Alt Text</strong></h4>
+<p>This section walks through the different design decisions data practitioners must think through when developing a data visualization or similar data product, and provides recommendations on how to approach the work through a lens of accessibility, equity, and inclusion.</p>
+<p>As one would expect, some figures, maps and visualizations may be too complex to meet all accessibility requirements. However, data practitioners should do their best to meet recommendations described below and follow best practices to make data products as accessible and inclusive as possible.</p>
+<section id="alternative-text-alt-text" class="level4">
+<h4 class="anchored" data-anchor-id="alternative-text-alt-text"><strong>Alternative Text (Alt Text)</strong></h4>
+<p>Alt Text is descriptive text, usually associated with images or figures, that conveys the meaning and context of the item. When creating alt text, remember:</p>
 <ul>
-<li></li>
+<li>It should complement but not replicate the caption</li>
+<li>Use language to describe what the audience should take away from looking at the item</li>
+<li>If there is text in the item, that text should be spelled out in the alt text.</li>
 </ul>
+<p>Test to see if your alt text is effective by asking a colleague or project partner to listen to you (or a screen reader - see below) read the text aloud to them BEFORE they look at the item. Then, have them look at the item and ask if there are other details about the item that stand out to them as contributing to the meaning behind the item. If there is, add it in!</p>
+<p>Screen readers are computer software that read the text aloud and include programs like NVDA, JAWS, Acrobat, Word. <a href="https://www.nvaccess.org/download/">NVDA</a> is free to download and is the Water Boards standard.</p>
 </section>
 <section id="color" class="level4">
 <h4 class="anchored" data-anchor-id="color"><strong>Color</strong></h4>
+<p>Color can be a powerful communicator that should be selected purposefully. If we aren’t intentional with the colors we choose we may be unintentionally perpetuating stereotypes, creating hierarchies, or using color palettes that are not accessible to those with color vision differences.</p>
+<p>When selecting colors for your visualization or data product, consider the recommendations from the <a href="https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf">UNC Health’s Equity and Inclusion Analytics Workgroup</a> and the <a href="https://urbaninstitute.github.io/graphics-styleguide/">Urban Institute Data Visualization Style Guide</a>:</p>
+<ul>
+<li><p>Select the color palettes according to the message you’re trying to convey:</p>
+<ul>
+<li><p><strong>Categorical palettes</strong> are best when you want to distinguish discrete chunks of data that do not have an inherent ordering. It’s best to use a palette that has bold, contrasting, non-gradient colors.</p></li>
+<li><p><strong>Sequential palettes</strong> are best when data range from relatively low or uninteresting values to relatively high or interesting values. It’s best to use a palette that has a relatively subtle shift in hue accompanied by a large shift in brightness and saturation.</p></li>
+</ul></li>
+<li><p>Avoid reinforcing stereotypes (e.g.&nbsp;using pink to represent female populations, and blue to represent male populations, using colors associated with skin tones or racial stereotypes).</p></li>
+<li><p>When thinking about demographic data:</p>
+<ul>
+<li><p>Not using color to differentiate between demographic groups helps avoid unintentionally creating a hierarchy between groups and reinforcing stereotypes, and instead enables color to instead be used to highlight group differences and assist with interpreting the data.</p></li>
+<li><p>If color is determined to be necessary to differentiate between groups, the palette should be chosen carefully. Avoid using incremental color palettes (e.g., light to dark) to represent different demographic groups. Bold and contrasting, non-gradient color palettes are a best practice when displaying demographic data and incorporating color.</p></li>
+<li><p>Consider plotting data disaggregated by race or ethnicity in their own separate charts, instead of plotting all disaggregated groups together in a single chart.</p>
+<ul>
+<li><p>Plotting all groups on the same chart encourages comparison using a “<a href="https://urban-institute.medium.com/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff">deficit-based perspective</a>” that focuses attention on what low-performing / worse off groups are lacking when compared with the high performing / better off groups.</p></li>
+<li><p>Plotting a set of small multiples faceted by each racial and ethnic group can better encourage viewers to think about the specific needs and challenges facing each group.</p></li>
+</ul></li>
+</ul></li>
+<li><p>Do not use color or shading alone to convey data or information. Instead pair color with patterns, textures, or shapes to convey data or information.</p></li>
+<li><p>A 3:1 contrast ratio is required for figures if a person must perceive a graphic in order to understand the content (e.g., colored lines in graphs, points on maps). However, text that is embedded in a graphic must meet a contrast ratio of 4.5:1 unless the text is incidental or there is no way of presenting the graphic with sufficient contrast without undermining the meaning. Use the <a href="https://www.tpgi.com/color-contrast-checker/">Colour Contrast Analyser</a> (CCA) or equivalent software to determine if the figure meets the ratio requirements.</p></li>
+</ul>
+<p>Tools to help with color selection may already be integrated into your data visualization tools - if not, some other resources include:</p>
+<ul>
+<li><a href="https://colorbrewer2.org/#type=sequential&amp;scheme=BuGn&amp;n=3">Color Brewer</a>&nbsp;– tool to help create accessible color schemes for maps</li>
+<li><a href="https://colororacle.org/">Color Oracle</a>&nbsp;– color blindness simulator</li>
+<li>Non-exhaustive list of color palette packages for R – <a href="http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf">Base R Color Palette Guide</a>, <a href="https://rdrr.io/cran/RColorBrewer/man/ColorBrewer.html">RColorBrewer</a>, <a href="https://jakubnowosad.com/rcartocolor/">rcartocolor</a>, <a href="https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html">viridis</a></li>
+<li><a href="https://webaim.org/resources/contrastchecker/">WebAIM</a>&nbsp;– color contract checker</li>
+</ul>
 </section>
 <section id="figure-chart-types" class="level4">
 <h4 class="anchored" data-anchor-id="figure-chart-types"><strong>Figure &amp; Chart Types</strong></h4>
