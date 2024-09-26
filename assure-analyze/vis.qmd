@@ -160,20 +160,41 @@ When selecting colors for your visualization or data product, consider the recom
 
 -   Do not use color or shading alone to convey data or information. Instead pair color with patterns, textures, or shapes to convey data or information.
 
+-   Avoid using too many colors/shapes/patterns at the same time. Our brains can really only hold (or effectively understand) three to five complex concepts at once. If you need to use six or more colors to represent the data - it might feel cluttered or overwhelming to the viewers. Consider consolidating categories or breaking up the chart into multiple smaller charts as described above.
+
 -   A 3:1 contrast ratio is required for figures if a person must perceive a graphic in order to understand the content (e.g., colored lines in graphs, points on maps). However, text that is embedded in a graphic must meet a contrast ratio of 4.5:1 unless the text is incidental or there is no way of presenting the graphic with sufficient contrast without undermining the meaning. Use the [Colour Contrast Analyser](https://www.tpgi.com/color-contrast-checker/) (CCA) or equivalent software to determine if the figure meets the ratio requirements.
 
 Tools to help with color selection may already be integrated into your data visualization tools - if not, some other resources include:
 
 -   [Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) – tool to help create accessible color schemes for maps
--   [Color Oracle](https://colororacle.org/) – color blindness simulator
+-   Non-exhaustive list of color vision difference simulators – [Color Oracle](https://colororacle.org/), [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 -   Non-exhaustive list of color palette packages for R – [Base R Color Palette Guide](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf), [RColorBrewer](https://rdrr.io/cran/RColorBrewer/man/ColorBrewer.html), [rcartocolor](https://jakubnowosad.com/rcartocolor/), [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
+-   [Paletton](https://paletton.com) – tool to help explore colors and palettes
 -   [WebAIM](https://webaim.org/resources/contrastchecker/) – color contract checker
 
 #### **Figure & Chart Types**
 
--   selecting the appropriate chart
+As data practitioners, you decide how your audience will be able to view the data through your visualization or data product. While we might *think* that data are objective (spoiler - they're not), how they are presented impacts how they are interpreted, preceived, and ultimately valued and acted upon. How we present the data impacts which stories we tell (or don't tell) using that data.
 
--   captions
+The graphic below, from [*Data Feminism*](https://direct.mit.edu/books/book/4660/Data-Feminism) illustrates how the same data can tell different stories depending on their presentation. The graphic on the left tells a story of how the unemployment has fallen substantially since it's recent peak and might be interpreted as "good news". The graphic on the right tells a story of how the unemployment rate has been consistently above 8% for a long time period and might be interpreted as "bad news".
+
+![Two figures presenting the same data in different ways. Graphic from Data Feminism](images/graphic-ex-data-femenism.png)
+
+When selecting figure or chart types for your visualization or data product, consider:
+
+-   How does the chart you use frame or present the data? What is the context and culture we are creating and perpetuating by presenting the data in that way? Are the charts we're using positioning the communities we serve to live in their personal and collective power while addressing systemic oppression?
+
+-   Is the chart used appropriate for the data you want to display? Think about your variables (string/categorical and numeric), the volume of data, and the question you are attempting to answer (or the story you're trying to tell) through the visualization or data product.
+
+-   Will the chart type be easily interpreted by the audience? Sometimes data practitioners might be inclined to use a complex chart so we can display more data at once (or just because we think it's cool!). In moments like these, remember the words of Leonardo da Vinci — “Simplicity is the ultimate sophistication.” Think about what will be the most easy to understand and impactful for your audience.
+
+-   How can I use the textual components of the chart (i.e., title, axis and other labels, legend, notes, caption, tooltips) to communicate simply and with clarity? More is not always more here. If context is provided elsewhere in the visualization or data product, maybe the title, caption, or tooltips are redundant. If there is only one data category that can be described by the title or caption, maybe a legend is not necessary. Think about what is essential and what can be removed or omitted to improve your clarity and communication.
+
+-   How can other chart components (i.e. gridlines, axis lines/ticks, scales, spacing) be used to communicate simply and with clarity? If you have a lot of data on the chart - do gridlines help make sense of things, or cause confusion and clutter? Are there enough empty or negative spaces in the chart so that viewers are given the "visual breathing room" needed to easily absorb the messages you're hoping the data conveys?
+
+Tools to help with chart selection include:
+
+-   [Cool Infographics Data Visualization Guides](https://coolinfographics.com/dataviz-guides) – collection of data visualization chart choosers, reference guides, cheat sheets, websites and infographics about data visualization design best practices.
 
 #### **Fonts & Typography**
 
@@ -196,8 +217,6 @@ Tools to help with color selection may already be integrated into your data visu
 -   don't use highlights as information
 
 -   captions
-
-#### **Tooltips, Comments, or Footnotes**
 
 ## Resources
 
