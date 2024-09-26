@@ -39,14 +39,32 @@ Integrating empathy into our data-intensive work requires us to consider how our
 -   Different ways feedback might be gathered. We might think sending an email with a poll or survey linked is the easiest, but our partner might find it easier to talk through questions over the phone with you. Knowing which method(s) to use comes with time and relationship. When in doubt - ask for what people prefer and do your best to accommodate those requests.
 -   How much time is adequate for folks to be able to review what you send them and provide their feedback. When in doubt - plan for a longer feedback period than you think might be needed and confirm timelines with your partners (and adjust them if you can when your partners indicate more time is needed)
 
-#### **Consider who is missing from your data**
+#### **Consider who is missing from the data**
 
 It's not uncommon for project teams to have gaps in data, even after all of your work and investment into the [planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html), [data preparation](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) and [collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html) steps of the project. Often, this limitation of the data is out of your control - especially when you are using data from external sources. When this happens, it's important to acknowledge, document, communicate those gaps and who is not adequately represented in your data product in a way that is accessible.
 
-Similarly, we should also think about how groups are lumped in the "other" category of our analysis or visualization. Sometimes it's necessary to combine groups into a single "other" category (e.g. to generalize small groups to protect confidentiality or to achieve adequate sample size for your analysis). Again, the important thing is to be transparent about why you're making those decisions and documenting those decisions accordingly. The Urban Institute's [Do No Harm Data Visualizaation Recommendations](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) include considering alternatives to using the term "other" as a catch-all category, including:
+#### **Consider how you group the data**
+
+How we aggregate or disaggregate the data can impact which groups are "seen" and well represented (or not) in our visualizations. This can also influence who is centered, valued, or prioritized in the narrative of the visualization, and who is excluded.
+
+Carefully consider how groups are lumped or split - by aggregating many groups in the visualization beyond what might be statistically necessary (and not acknowledging who is being grouped together and why), we can unintentionally misrepresent said groups, minimize inequities and perpetuate invisible and erased experiences of those communities. The [UNC Health’s Equity and Inclusion Analytics Workgroup](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf) recommends we ask ourselves the following questions when we're thinking about how we will aggregate the data (or not):
+
+-   **Is important data/nuance lost by combining categories?** Ensure there is not a meaningful difference in equity outcomes between groups that would be lost if combined.
+
+-   **Does the inclusion of uncombined data negatively impact the interpretation of the data visualization?** Having too many groups can make visualizations cluttered and hard to interpret. Additionally, disaggregation leads to smaller group sizes, making comparisons to larger groups more difficult and making statistical significance more challenging. For that reason, it can sometimes be best to combine groups.
+
+-   **Does sharing uncombined data compromise confidential information (e.g., Personal Identifiable Information) or information considered private by the community from which it comes (e.g., locations of sacred tribal practices)?** This will depend on the audience you are sharing the visualization with (e.g. internal vs public) and what information it contains.
+
+If you ultimately decide to aggregate / combine groups, be sure to:
+
+1.  **Be transparent** about why you're making those decisions (including the trade offs you considered) and documenting those decisions accordingly.
+
+2.  **Acknowledge who is now not included** in the data or visualization and explain what groups have been combined and why. Use comments, tooltips, or footnotes that can be easily accessed within the visualization to make it easier for users to find this information.
+
+3.  **Think carefully about how groups are lumped in the "other" category** of our analysis or visualization. Sometimes it's necessary to combine groups into a single "other" category (e.g. to generalize small groups to protect confidentiality or to achieve adequate sample size for your analysis). The Urban Institute's [Do No Harm Data Visualizaation Recommendations](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) include considering alternatives to using the term "other" as a catch-all category, including:
 
 -   Another (e.g. Another race or Another group)
--   Additional groups
+-   Additional (e.g. Additional races or Additional languages)
 -   All other self-descriptions
 -   People identifying as other or multiple races
 -   Identity not listed
@@ -84,17 +102,23 @@ Water Boards Staff may also [request translation services from the Office of Pub
 
 -   **Do the words dehumanize the communities we serve?** Words that take away agency, self-determination, and personal power and do not recognize communities’ inherent strengths and assets should be avoided.
 
-#### **Tell a story with the data \<\< LEFT OFF HERE**
+#### **Tell a story with the data** 
 
 > "While data may seem cut and dry, people are not"
 >
 > \- [P. Kim Bui](https://datajournalism.com/contributors/pkimbui), Director of audience innovation at the Arizona Republic and author of [Designing data visualisations with empathy](https://datajournalism.com/read/longreads/data-visualisations-with-empathy)
 
-Plopping points on a map or throwing together an interactive chart is insufficient. Take the time to tell a story with the visualization or product you're developing.
+[Humans are hardwired for story](https://medium.com/the-protagonist/the-science-behind-storytelling-51169758b22c). Plopping points on a map or throwing together an interactive chart without adding context is not only insufficient, its ineffective!
 
-### Data Visualization Method Considerations
+Take the time to tell a story with the visualization or product you're developing. Walk the audience through the the messages you want to convey, and back it up with the data. If you're unsure what the story of your data is, or how to communicate it effectively, try collecting your thoughts using a [COMPASS Message Box](https://www.compassscicomm.org/the-message-box-workbook):
+
+[![The COMPASS Message Box is a tool to help scientists sort and distill their (often technical or complex) knowledge in a way that will resonate with their chosen audience. Users complete the sections in any order and can then use the distilled information to communicate their science more effectively.](images/compass-box.png){fig-alt="The COMPASS Message Box with six sections and associated brainstorm questions: Audience (Who is impacted by this? Who can change this? Who cares about this?), Issue (Broadly, what are you working on? What keywords would you search to find your topic online?), Problems? (What specific dimension of the issue are you addressing?), So What? (What does your audience value? How does this impact them or something they care about?), Solutions? (What can be done to address the problem? Or what are you doing to address it?) and Benefits? (Who does this help and how? What improves in the short-term? Long-term?)"}](https://www.compassscicomm.org/wp-content/uploads/2020/05/The-Message-Box-Workbook.pdf)
+
+### Data Visualization Design Considerations
 
 #### **Alt Text**
+
+-   
 
 #### **Color**
 
@@ -131,12 +155,12 @@ Plopping points on a map or throwing together an interactive chart is insufficie
 ## Resources
 
 -   Justinmind Blog (2020) [User-centered design: a beginner’s guide](https://www.justinmind.com/blog/user-centered-design/)
--   UNC Health’s Equity and Inclusion Analytics Workgroup - [An Analyst's Guide to Advancing Equity in Data Visualization](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf)
 -   [Urban Institute](https://www.urban.org/) Resources
     -   [Data Visualization Style Guide](https://urbaninstitute.github.io/graphics-styleguide/)
 
     -   [Do No Harm Guide: Applying Equity Awareness in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization)
 -   We All Count - [Reverse Engineering Data Viz for Equity](https://weallcount.com/2020/07/30/reverse-engineering-data-viz-for-equity/)
+-   TEDx Talk (2014) [Hardwired for story](https://www.youtube.com/watch?v=BrtTyEmDLKQ)
 
 ### Data Visualization Tools
 
