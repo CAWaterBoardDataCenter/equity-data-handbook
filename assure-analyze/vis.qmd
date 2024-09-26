@@ -84,6 +84,14 @@ Water Boards Staff may also [request translation services from the Office of Pub
 
 -   **Do the words dehumanize the communities we serve?** Words that take away agency, self-determination, and personal power and do not recognize communities’ inherent strengths and assets should be avoided.
 
+#### **Tell a story with the data \<\< LEFT OFF HERE**
+
+> "While data may seem cut and dry, people are not"
+>
+> \- [P. Kim Bui](https://datajournalism.com/contributors/pkimbui), Director of audience innovation at the Arizona Republic and author of [Designing data visualisations with empathy](https://datajournalism.com/read/longreads/data-visualisations-with-empathy)
+
+Plopping points on a map or throwing together an interactive chart is insufficient. Take the time to tell a story with the visualization or product you're developing.
+
 ### Data Visualization Method Considerations
 
 #### **Alt Text**
