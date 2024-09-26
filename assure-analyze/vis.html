@@ -303,7 +303,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#data-visualization-with-an-equity-lens" id="toc-data-visualization-with-an-equity-lens" class="nav-link" data-scroll-target="#data-visualization-with-an-equity-lens">Data Visualization with an Equity Lens</a>
   <ul class="collapse">
   <li><a href="#general-data-visualization-considerations" id="toc-general-data-visualization-considerations" class="nav-link" data-scroll-target="#general-data-visualization-considerations">General Data Visualization Considerations</a></li>
-  <li><a href="#data-visualization-method-considerations" id="toc-data-visualization-method-considerations" class="nav-link" data-scroll-target="#data-visualization-method-considerations">Data Visualization Method Considerations</a></li>
+  <li><a href="#data-visualization-design-considerations" id="toc-data-visualization-design-considerations" class="nav-link" data-scroll-target="#data-visualization-design-considerations">Data Visualization Design Considerations</a></li>
   </ul></li>
   <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a>
   <ul class="collapse">
@@ -360,13 +360,28 @@ ul.task-list li input[type="checkbox"] {
 <li>How much time is adequate for folks to be able to review what you send them and provide their feedback. When in doubt - plan for a longer feedback period than you think might be needed and confirm timelines with your partners (and adjust them if you can when your partners indicate more time is needed)</li>
 </ul>
 </section>
-<section id="consider-who-is-missing-from-your-data" class="level4">
-<h4 class="anchored" data-anchor-id="consider-who-is-missing-from-your-data"><strong>Consider who is missing from your data</strong></h4>
+<section id="consider-who-is-missing-from-the-data" class="level4">
+<h4 class="anchored" data-anchor-id="consider-who-is-missing-from-the-data"><strong>Consider who is missing from the data</strong></h4>
 <p>It’s not uncommon for project teams to have gaps in data, even after all of your work and investment into the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html">planning</a>, <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html">data preparation</a> and <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html">collection</a> steps of the project. Often, this limitation of the data is out of your control - especially when you are using data from external sources. When this happens, it’s important to acknowledge, document, communicate those gaps and who is not adequately represented in your data product in a way that is accessible.</p>
-<p>Similarly, we should also think about how groups are lumped in the “other” category of our analysis or visualization. Sometimes it’s necessary to combine groups into a single “other” category (e.g.&nbsp;to generalize small groups to protect confidentiality or to achieve adequate sample size for your analysis). Again, the important thing is to be transparent about why you’re making those decisions and documenting those decisions accordingly. The Urban Institute’s <a href="https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf">Do No Harm Data Visualizaation Recommendations</a> include considering alternatives to using the term “other” as a catch-all category, including:</p>
+</section>
+<section id="consider-how-you-group-the-data" class="level4">
+<h4 class="anchored" data-anchor-id="consider-how-you-group-the-data"><strong>Consider how you group the data</strong></h4>
+<p>How we aggregate or disaggregate the data can impact which groups are “seen” and well represented (or not) in our visualizations. This can also influence who is centered, valued, or prioritized in the narrative of the visualization, and who is excluded.</p>
+<p>Carefully consider how groups are lumped or split - by aggregating many groups in the visualization beyond what might be statistically necessary (and not acknowledging who is being grouped together and why), we can unintentionally misrepresent said groups, minimize inequities and perpetuate invisible and erased experiences of those communities. The <a href="https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf">UNC Health’s Equity and Inclusion Analytics Workgroup</a> recommends we ask ourselves the following questions when we’re thinking about how we will aggregate the data (or not):</p>
+<ul>
+<li><p><strong>Is important data/nuance lost by combining categories?</strong> Ensure there is not a meaningful difference in equity outcomes between groups that would be lost if combined.</p></li>
+<li><p><strong>Does the inclusion of uncombined data negatively impact the interpretation of the data visualization?</strong> Having too many groups can make visualizations cluttered and hard to interpret. Additionally, disaggregation leads to smaller group sizes, making comparisons to larger groups more difficult and making statistical significance more challenging. For that reason, it can sometimes be best to combine groups.</p></li>
+<li><p><strong>Does sharing uncombined data compromise confidential information (e.g., Personal Identifiable Information) or information considered private by the community from which it comes (e.g., locations of sacred tribal practices)?</strong> This will depend on the audience you are sharing the visualization with (e.g.&nbsp;internal vs public) and what information it contains.</p></li>
+</ul>
+<p>If you ultimately decide to aggregate / combine groups, be sure to:</p>
+<ol type="1">
+<li><p><strong>Be transparent</strong> about why you’re making those decisions (including the trade offs you considered) and documenting those decisions accordingly.</p></li>
+<li><p><strong>Acknowledge who is now not included</strong> in the data or visualization and explain what groups have been combined and why. Use comments, tooltips, or footnotes that can be easily accessed within the visualization to make it easier for users to find this information.</p></li>
+<li><p><strong>Think carefully about how groups are lumped in the “other” category</strong> of our analysis or visualization. Sometimes it’s necessary to combine groups into a single “other” category (e.g.&nbsp;to generalize small groups to protect confidentiality or to achieve adequate sample size for your analysis). The Urban Institute’s <a href="https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf">Do No Harm Data Visualizaation Recommendations</a> include considering alternatives to using the term “other” as a catch-all category, including:</p></li>
+</ol>
 <ul>
 <li>Another (e.g.&nbsp;Another race or Another group)</li>
-<li>Additional groups</li>
+<li>Additional (e.g.&nbsp;Additional races or Additional languages)</li>
 <li>All other self-descriptions</li>
 <li>People identifying as other or multiple races</li>
 <li>Identity not listed</li>
@@ -400,19 +415,29 @@ ul.task-list li input[type="checkbox"] {
 <li><p><strong>Do the words dehumanize the communities we serve?</strong> Words that take away agency, self-determination, and personal power and do not recognize communities’ inherent strengths and assets should be avoided.</p></li>
 </ul>
 </section>
-<section id="tell-a-story-with-the-data-left-off-here" class="level4">
-<h4 class="anchored" data-anchor-id="tell-a-story-with-the-data-left-off-here"><strong>Tell a story with the data &lt;&lt; LEFT OFF HERE</strong></h4>
+<section id="tell-a-story-with-the-data" class="level4">
+<h4 class="anchored" data-anchor-id="tell-a-story-with-the-data"><strong>Tell a story with the data</strong></h4>
 <blockquote class="blockquote">
 <p>“While data may seem cut and dry, people are not”</p>
 <p>- <a href="https://datajournalism.com/contributors/pkimbui">P. Kim Bui</a>, Director of audience innovation at the Arizona Republic and author of <a href="https://datajournalism.com/read/longreads/data-visualisations-with-empathy">Designing data visualisations with empathy</a></p>
 </blockquote>
-<p>Plopping points on a map or throwing together an interactive chart is insufficient. Take the time to tell a story with the visualization or product you’re developing.</p>
+<p><a href="https://medium.com/the-protagonist/the-science-behind-storytelling-51169758b22c">Humans are hardwired for story</a>. Plopping points on a map or throwing together an interactive chart without adding context is not only insufficient, its ineffective!</p>
+<p>Take the time to tell a story with the visualization or product you’re developing. Walk the audience through the the messages you want to convey, and back it up with the data. If you’re unsure what the story of your data is, or how to communicate it effectively, try collecting your thoughts using a <a href="https://www.compassscicomm.org/the-message-box-workbook">COMPASS Message Box</a>:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.compassscicomm.org/wp-content/uploads/2020/05/The-Message-Box-Workbook.pdf"><img src="images/compass-box.png" class="img-fluid figure-img" alt="The COMPASS Message Box with six sections and associated brainstorm questions: Audience (Who is impacted by this? Who can change this? Who cares about this?), Issue (Broadly, what are you working on? What keywords would you search to find your topic online?), Problems? (What specific dimension of the issue are you addressing?), So What? (What does your audience value? How does this impact them or something they care about?), Solutions? (What can be done to address the problem? Or what are you doing to address it?) and Benefits? (Who does this help and how? What improves in the short-term? Long-term?)"></a></p>
+<figcaption>The COMPASS Message Box is a tool to help scientists sort and distill their (often technical or complex) knowledge in a way that will resonate with their chosen audience. Users complete the sections in any order and can then use the distilled information to communicate their science more effectively.</figcaption>
+</figure>
+</div>
 </section>
 </section>
-<section id="data-visualization-method-considerations" class="level3">
-<h3 class="anchored" data-anchor-id="data-visualization-method-considerations">Data Visualization Method Considerations</h3>
+<section id="data-visualization-design-considerations" class="level3">
+<h3 class="anchored" data-anchor-id="data-visualization-design-considerations">Data Visualization Design Considerations</h3>
 <section id="alt-text" class="level4">
 <h4 class="anchored" data-anchor-id="alt-text"><strong>Alt Text</strong></h4>
+<ul>
+<li></li>
+</ul>
 </section>
 <section id="color" class="level4">
 <h4 class="anchored" data-anchor-id="color"><strong>Color</strong></h4>
@@ -460,13 +485,13 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="resources">Resources</h2>
 <ul>
 <li>Justinmind Blog (2020) <a href="https://www.justinmind.com/blog/user-centered-design/">User-centered design: a beginner’s guide</a></li>
-<li>UNC Health’s Equity and Inclusion Analytics Workgroup - <a href="https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf">An Analyst’s Guide to Advancing Equity in Data Visualization</a></li>
 <li><a href="https://www.urban.org/">Urban Institute</a> Resources
 <ul>
 <li><p><a href="https://urbaninstitute.github.io/graphics-styleguide/">Data Visualization Style Guide</a></p></li>
 <li><p><a href="https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization">Do No Harm Guide: Applying Equity Awareness in Data Visualization</a></p></li>
 </ul></li>
 <li>We All Count - <a href="https://weallcount.com/2020/07/30/reverse-engineering-data-viz-for-equity/">Reverse Engineering Data Viz for Equity</a></li>
+<li>TEDx Talk (2014) <a href="https://www.youtube.com/watch?v=BrtTyEmDLKQ">Hardwired for story</a></li>
 </ul>
 <section id="data-visualization-tools" class="level3">
 <h3 class="anchored" data-anchor-id="data-visualization-tools">Data Visualization Tools</h3>
