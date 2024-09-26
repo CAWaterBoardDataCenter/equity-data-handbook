@@ -198,9 +198,31 @@ Tools to help with chart selection include:
 
 #### **Fonts & Typography**
 
--   Font types and size should follow accessibility compliance goals for the organization
+The fonts and typography we use determine how easy (or not) it is for the audience to efficiently read and comprehend whatever it is you're trying to communicate. Typography (the art and technique of arranging type to make written language legible, readable and appealing when displayed) within a chart and visualization us a way to establish a hierarchy among elements within the visualization or data product and guides the reader through the visual product.
 
--   Spacing -
+When selecting fonts and typography for your visualization or data product, consider:
+
+-   **Are the fonts you're using accessible?** The Water Boards recommends that all fonts (including in tables and figures) must be sans serif (e.g. Arial, Calibri, Helvetica), 12 point or larger. Serif fonts (e.g. Times New Roman) and fonts sized 11 points or lower (even in captions, tables, figures, etc.) should be avoided.
+
+-   **How many different font & size combinations are being used at once?** Similar to the principles outlined in the color section above, using too many different types of fonts and sizes can make the visualization or data product feel cluttered or overwhelming to the viewers. Consider consolidating your use of fonts by giving different types of information with the same level of importance the same font and size.
+
+-   **Does the text have enough space around it?** Some users may have cognitive disabilities or visual impairments that results in them having trouble reading lines of text when they're too closely spaced. By prioritizing [types of cognitive accessibility](https://accessiblyapp.com/blog/cognitive-accessibility/) through thoughtful spacing, you contribute to a more inclusive visualization or data product.
+
+    -   For paragraphs, give the reader at least 1.15 pt spacing *within* paragraphs and at least 6 pt spacing after (or between) each paragraph.
+    -   For lists - if the list contains only a few words on each line, 1.15 pt spacing may be sufficient. If each item in the list has multiple lines of text, treat it as you would a paragraph and use 1.15 pt spacing *within* each list and at least 3 pt spacing after (or between) each item in the list.
+    -   For items within a chart - make sure the default spacing is sufficient. If items feel cramped, see if you can add spacing among items or reduce the amount of text needed for that particular item (e.g. shorten the title so it's only a few words on a single line rather that a full sentence)
+    -   Specific recommendations the [World Wide Web Consortium](https://www.w3.org/) Web Content Accessibility Guidelines (WCAG) 2.1 on [Text Spacing](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html) include:
+        -   Line height (line spacing) to at least 1.5 times the font size;
+
+        -   Spacing following paragraphs to at least 2 times the font size;
+
+        -   Letter spacing (tracking) to at least 0.12 times the font size;
+
+        -   Word spacing to at least 0.16 times the font size.
+
+Tools to help with fonts & typography include:
+
+-   [Urban Institute](https://www.urban.org/) [Data Visualization Style Guide](https://urbaninstitute.github.io/graphics-styleguide/) - [Chart Typography Section](https://urbaninstitute.github.io/graphics-styleguide/)
 
 #### **Labels**
 
