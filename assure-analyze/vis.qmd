@@ -116,11 +116,58 @@ Take the time to tell a story with the visualization or product you're developin
 
 ### Data Visualization Design Considerations
 
-#### **Alt Text**
+This section walks through the different design decisions data practitioners must think through when developing a data visualization or similar data product, and provides recommendations on how to approach the work through a lens of accessibility, equity, and inclusion.
 
--   
+As one would expect, some figures, maps and visualizations may be too complex to meet all accessibility requirements. However, data practitioners should do their best to meet recommendations described below and follow best practices to make data products as accessible and inclusive as possible.
+
+#### **Alternative Text (Alt Text)**
+
+Alt Text is descriptive text, usually associated with images or figures, that conveys the meaning and context of the item. When creating alt text, remember:
+
+-   It should complement but not replicate the caption
+-   Use language to describe what the audience should take away from looking at the item
+-   If there is text in the item, that text should be spelled out in the alt text.
+
+Test to see if your alt text is effective by asking a colleague or project partner to listen to you (or a screen reader - see below) read the text aloud to them BEFORE they look at the item. Then, have them look at the item and ask if there are other details about the item that stand out to them as contributing to the meaning behind the item. If there is, add it in!
+
+Screen readers are computer software that read the text aloud and include programs like NVDA, JAWS, Acrobat, Word. [NVDA](https://www.nvaccess.org/download/) is free to download and is the Water Boards standard.
 
 #### **Color**
+
+Color can be a powerful communicator that should be selected purposefully. If we aren't intentional with the colors we choose we may be unintentionally perpetuating stereotypes, creating hierarchies, or using color palettes that are not accessible to those with color vision differences.
+
+When selecting colors for your visualization or data product, consider the recommendations from the [UNC Health’s Equity and Inclusion Analytics Workgroup](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf) and the [Urban Institute Data Visualization Style Guide](https://urbaninstitute.github.io/graphics-styleguide/):
+
+-   Select the color palettes according to the message you're trying to convey:
+
+    -   **Categorical palettes** are best when you want to distinguish discrete chunks of data that do not have an inherent ordering. It’s best to use a palette that has bold, contrasting, non-gradient colors.
+
+    -   **Sequential palettes** are best when data range from relatively low or uninteresting values to relatively high or interesting values. It’s best to use a palette that has a relatively subtle shift in hue accompanied by a large shift in brightness and saturation.
+
+-   Avoid reinforcing stereotypes (e.g. using pink to represent female populations, and blue to represent male populations, using colors associated with skin tones or racial stereotypes).
+
+-   When thinking about demographic data:
+
+    -   Not using color to differentiate between demographic groups helps avoid unintentionally creating a hierarchy between groups and reinforcing stereotypes, and instead enables color to instead be used to highlight group differences and assist with interpreting the data.
+
+    -   If color is determined to be necessary to differentiate between groups, the palette should be chosen carefully. Avoid using incremental color palettes (e.g., light to dark) to represent different demographic groups. Bold and contrasting, non-gradient color palettes are a best practice when displaying demographic data and incorporating color.
+
+    -   Consider plotting data disaggregated by race or ethnicity in their own separate charts, instead of plotting all disaggregated groups together in a single chart.
+
+        -   Plotting all groups on the same chart encourages comparison using a “[deficit-based perspective](https://urban-institute.medium.com/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff)” that focuses attention on what low-performing / worse off groups are lacking when compared with the high performing / better off groups.
+
+        -   Plotting a set of small multiples faceted by each racial and ethnic group can better encourage viewers to think about the specific needs and challenges facing each group.
+
+-   Do not use color or shading alone to convey data or information. Instead pair color with patterns, textures, or shapes to convey data or information.
+
+-   A 3:1 contrast ratio is required for figures if a person must perceive a graphic in order to understand the content (e.g., colored lines in graphs, points on maps). However, text that is embedded in a graphic must meet a contrast ratio of 4.5:1 unless the text is incidental or there is no way of presenting the graphic with sufficient contrast without undermining the meaning. Use the [Colour Contrast Analyser](https://www.tpgi.com/color-contrast-checker/) (CCA) or equivalent software to determine if the figure meets the ratio requirements.
+
+Tools to help with color selection may already be integrated into your data visualization tools - if not, some other resources include:
+
+-   [Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) – tool to help create accessible color schemes for maps
+-   [Color Oracle](https://colororacle.org/) – color blindness simulator
+-   Non-exhaustive list of color palette packages for R – [Base R Color Palette Guide](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf), [RColorBrewer](https://rdrr.io/cran/RColorBrewer/man/ColorBrewer.html), [rcartocolor](https://jakubnowosad.com/rcartocolor/), [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
+-   [WebAIM](https://webaim.org/resources/contrastchecker/) – color contract checker
 
 #### **Figure & Chart Types**
 
