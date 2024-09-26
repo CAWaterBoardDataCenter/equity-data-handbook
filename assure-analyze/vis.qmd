@@ -209,15 +209,16 @@ When selecting fonts and typography for your visualization or data product, cons
 -   **Does the text have enough space around it?** Some users may have cognitive disabilities or visual impairments that results in them having trouble reading lines of text when they're too closely spaced. By prioritizing [types of cognitive accessibility](https://accessiblyapp.com/blog/cognitive-accessibility/) through thoughtful spacing, you contribute to a more inclusive visualization or data product.
 
     -   For paragraphs, give the reader at least 1.15 pt spacing *within* paragraphs and at least 6 pt spacing after (or between) each paragraph.
+
     -   For lists - if the list contains only a few words on each line, 1.15 pt spacing may be sufficient. If each item in the list has multiple lines of text, treat it as you would a paragraph and use 1.15 pt spacing *within* each list and at least 3 pt spacing after (or between) each item in the list.
+
     -   For items within a chart - make sure the default spacing is sufficient. If items feel cramped, see if you can add spacing among items or reduce the amount of text needed for that particular item (e.g. shorten the title so it's only a few words on a single line rather that a full sentence)
+
     -   Specific recommendations the [World Wide Web Consortium](https://www.w3.org/) Web Content Accessibility Guidelines (WCAG) 2.1 on [Text Spacing](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html) include:
+
         -   Line height (line spacing) to at least 1.5 times the font size;
-
         -   Spacing following paragraphs to at least 2 times the font size;
-
         -   Letter spacing (tracking) to at least 0.12 times the font size;
-
         -   Word spacing to at least 0.16 times the font size.
 
 Tools to help with fonts & typography include:
