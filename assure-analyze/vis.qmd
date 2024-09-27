@@ -10,7 +10,7 @@ When thinking of the Data-Information-Knowledge-Wisdom graphic at the top of the
 
 When it comes to creating data visualizations with an equity lens, it boils down to making decisions that consider equity and inclusion in the way results are shown/communicated and that promote accessibility of the data, information, and tool as a whole. As you develop your data visualization or equivalent application - be sure to keep the below considerations in mind and make data, communication, and design choices that support the advancement of equity, inclusion, and justice.
 
-### **Take a user-centered design approach**
+### Take a user-centered design approach
 
 Consider who the audience will be for the product you're developing and make decisions that will prioritize their needs so they are able to easily and efficiently use, engage, interact, and experience the product.
 
@@ -39,11 +39,11 @@ Integrating empathy into our data-intensive work requires us to consider how our
 -   Different ways feedback might be gathered. We might think sending an email with a poll or survey linked is the easiest, but our partner might find it easier to talk through questions over the phone with you. Knowing which method(s) to use comes with time and relationship. When in doubt - ask for what people prefer and do your best to accommodate those requests.
 -   How much time is adequate for folks to be able to review what you send them and provide their feedback. When in doubt - plan for a longer feedback period than you think might be needed and confirm timelines with your partners (and adjust them if you can when your partners indicate more time is needed)
 
-### **Consider who is missing from the data**
+### Consider who is missing from the data
 
 It's not uncommon for project teams to have gaps in data, even after all of your work and investment into the [planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html), [data preparation](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) and [collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html) steps of the project. Often, this limitation of the data is out of your control - especially when you are using data from external sources. When this happens, it's important to acknowledge, document, communicate those gaps and who is not adequately represented in your data product in a way that is accessible.
 
-### **Consider how you group the data**
+### Consider how you group the data
 
 How we aggregate or disaggregate the data can impact which groups are "seen" and well represented (or not) in our visualizations. This can also influence who is centered, valued, or prioritized in the narrative of the visualization, and who is excluded.
 
@@ -79,7 +79,7 @@ If you ultimately decide to aggregate / combine groups, be sure to:
 
     -   Identity not listed in the survey or dataset
 
-### **Use plain, accessible, and inclusive language**
+### Use plain, accessible, and inclusive language
 
 ***Plain Language*** - Plain language is writing designed to ensure the audience can understand what you're trying to communicate as easily, quickly, and comprehensively as possible. This means:
 
@@ -111,7 +111,7 @@ Water Boards Staff may also [request translation services from the Office of Pub
 
 -   **Do the words dehumanize the communities we serve?** Words that take away agency, self-determination, and personal power and do not recognize communities’ inherent strengths and assets should be avoided.
 
-### **Tell a story with the data** 
+### Tell a story with the data 
 
 > "While data may seem cut and dry, people are not"
 >
@@ -129,7 +129,7 @@ This section walks through the different design decisions data practitioners mus
 
 Data visualization design is composed of a series of compromises: Complexity vs Clarity. Depth vs. Speed. Pretty vs. Practical. The best visualizations maximize all of these, but usually, you have to pick some things over others. When designing a data visualization or similar data communication product, data practitioners should make decisions with their audience and equity in mind, do their best to follow the recommendations and best practices below to make the final data product as accessible and inclusive as possible.
 
-### **Alternative Text (Alt Text)**
+### Alternative Text (Alt Text)
 
 Alt Text is descriptive text, usually associated with images or figures, that conveys the meaning and context of the item. When creating alt text, remember:
 
@@ -141,7 +141,7 @@ Test to see if your alt text is effective by asking a colleague or project partn
 
 Screen readers are computer software that read the text aloud and include programs like NVDA, JAWS, Acrobat, Word. [NVDA](https://www.nvaccess.org/download/) is free to download and is the Water Boards standard.
 
-### **Color**
+### Color
 
 Color can be a powerful communicator that should be selected purposefully. If we aren't intentional with the colors we choose we may be unintentionally perpetuating stereotypes, creating hierarchies, or using color palettes that are not accessible to those with color vision differences.
 
@@ -181,7 +181,7 @@ Tools to help with color selection may already be integrated into your data visu
 -   [Paletton](https://paletton.com) – tool to help explore colors and palettes
 -   [WebAIM](https://webaim.org/resources/contrastchecker/) – color contract checker
 
-### **Figure & Chart Types**
+### Figure & Chart Types
 
 As data practitioners, you decide how your audience will be able to view the data through your visualization or data product. While we might *think* that data are objective (spoiler - they're not), how they are presented impacts how they are interpreted, preceived, and ultimately valued and acted upon. How we present the data impacts which stories we tell (or don't tell) using that data.
 
@@ -205,7 +205,7 @@ Tools to help with chart selection include:
 
 -   [Cool Infographics Data Visualization Guides](https://coolinfographics.com/dataviz-guides) – collection of data visualization chart choosers, reference guides, cheat sheets, websites and infographics about data visualization design best practices.
 
-### **Fonts & Typography**
+### Fonts & Typography
 
 The fonts and typography we use determine how easy (or not) it is for the audience to efficiently read and comprehend whatever it is you're trying to communicate. Typography (the art and technique of arranging type to make written language legible, readable and appealing when displayed) within a chart and visualization us a way to establish a hierarchy among elements within the visualization or data product and guides the reader through the visual product.
 
@@ -234,7 +234,7 @@ Tools to help with fonts & typography include:
 
 -   [Urban Institute](https://www.urban.org/) [Data Visualization Style Guide](https://urbaninstitute.github.io/graphics-styleguide/) - [Chart Typography Section](https://urbaninstitute.github.io/graphics-styleguide/)
 
-### **Labels**
+### Labels
 
 The labels we use in our data products highlight or center the extent to which we reduce people and their experiences to components of our visualization or position and frame those same communities to live in their personal and collective power while addressing systemic oppression. Being mindful of the labels we use in our data products can help us connect and build trust with the communities that the data represents.
 
@@ -252,7 +252,7 @@ When selecting the labels for your visualization or data product:
 
 -   Be mindful of how labels are ordered. Ordering items as they appear in the data may reflect and reinforce historical biases. The [Urban Institute](https://www.urban.org/) [Do No Harm Guide](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) recommends considering alternative sorting parameters such as study focus, specific story or argument, quantitative relationship (i.e., magnitude of the results), alphabetical, or sample size (weighted or unweighted).
 
-### **Layout & Ordering**
+### Layout & Ordering
 
 How we layout the different components of our visualizations and data products - like color and typography - guides the reader through the their experience with said product. The order in which we present things establishes a hierarchy among elements that can indicate what we deem as important, significant or most valuable within product.
 
@@ -286,11 +286,11 @@ When ordering different components of your visualization or data product, consid
 
     -   **Is there a quantitative relationship that can guide how the groups are ordered?** Can they be sorted alphabetically or by population size, sample size (weighted or unweighted), or magnitude or effect of the results?
 
-### **Maps**
+### Maps
 
-### **Shapes & Icons**
+### Shapes & Icons
 
-### **Tables**
+### Tables
 
 -   tidy
 
