@@ -286,9 +286,37 @@ When ordering different components of your visualization or data product, consid
 
     -   **Is there a quantitative relationship that can guide how the groups are ordered?** Can they be sorted alphabetically or by population size, sample size (weighted or unweighted), or magnitude or effect of the results?
 
-### Maps
+### Maps \<\< LEFT OFF HERE
+
+<https://urbaninstitute.github.io/graphics-styleguide/> (Maps Section)
+
+<https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf> (Mapping Section, pg 24)
+
+<https://drive.google.com/file/d/139gF37wVtcfOSiFkqK-INSwK7d3lfjuM/view> (Informational Resources, pg 12)
+
+Review [Resources](https://cawaterboarddatacenter.github.io/equity-data-handbook/resources.html) page - pull over any links that might be more impactful listed here or below - e.g. [GIS Resources](https://cawaterboarddatacenter.github.io/equity-data-handbook/resources.html#gis-resources)
 
 ### Shapes & Icons
+
+<https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization>
+
+-   **Carefully consider colors, icons, and shapes.** In many visualizations, colors can be associated with stereotypes (e.g., pink for women, blue for men) that can reinforce biased perceptions in readers. Similarly, images or icons can reinforce stereotypes (e.g., a woman as a nurse but a man as a doctor). In visualizations, images and colors can help readers connect with the data, but researchers should be mindful of their capacity to exacerbate stereotypes.
+
+<https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf>
+
+-   Recognize how readers might be better able to connect with the data by using small shapes or icons,
+    but use them carefully.
+
+-   Avoid stereotypical, discriminatory, and racist imagery.
+
+-   Use images that show people as empowered and dignified, and avoid images that depict people as
+    helpless victims.
+
+<https://urban-institute.medium.com/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff>
+
+**Using icons and shapes with a racial equity awareness.** We want to be careful and thoughtful when using icons in any data visualization. When showing groups of people, we should consider a mix of genders, races, and ethnicities. We don’t often use icons at Urban, but when we do, we should consider to whom we are presenting our results and how our icons might be perceived. We need to be conscious of how certain icons may not correspond to the content, such as an icon of a baby in a chart about child mortality.
+
+Mis- or underrepresentation of certain groups in imagery and iconography also fails to take a racial or gender equity awareness perspective toward our data visualization work. A 2018 study by the Pew Research Center found that “men are overrepresented in online image search results across a majority of jobs examined” and that “women appear lower than men in such search results for many jobs.” This disparity continues to this day; the image on the left shows Google search results for the phrase “nurse icon,” and the image on the right shows results for the phrase “boss icon.” Notice how nearly all the images on the top are similar to images we might imagine as feminine and the images on the bottom we might traditionally consider masculine.
 
 ### Tables
 
@@ -308,6 +336,7 @@ When ordering different components of your visualization or data product, consid
 -   We All Count - [Reverse Engineering Data Viz for Equity](https://weallcount.com/2020/07/30/reverse-engineering-data-viz-for-equity/)
 -   TEDx Talk (2014) [Hardwired for story](https://www.youtube.com/watch?v=BrtTyEmDLKQ)
 
-### Data Visualization Tools
+### Data Visualization Examples
 
 -   [CalIndian's California Public Domain Allotment (PDA) Water Rights Map](https://aquaoso.maps.arcgis.com/apps/webappviewer/index.html?id=a16deac30dec495185fc35771f3584ab)
+-   <https://labs.waterdata.usgs.gov/visualizations/vulnerability-indicators/index.html#/en>
