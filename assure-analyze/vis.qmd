@@ -2,6 +2,8 @@
 
 Effective data visualizations - the ones that stick with us, can help us understand complex issues, and those that encourage us to change our behaviors and actions to be more equitable, inclusive, and kind - they are more that points on a map. Great data visualizations are communication tools that are user-centered and tell a compelling story that connects with the audience.
 
+[![Venn diagram of the components of data communication that make a product work for a particular audience: Content, Medium and Access. Graphic from We All Count](images/audience-content-medium-access.png){fig-alt="Venn diagram with three overlapping circles: Content, Medium, and Access. Content is what you include in your communication and how you choose to say it. Medium is what form your communication takes, like the difference between a paper, and animated video, and a searchable database. Access is how easily and how completely your audience can engage with and understand your information. The content and medium work together to increase clarity and offer better depth. The medium of distribution supports the ideal accessibility for the information for each audience, including feedback and engagement. The content is created considering accessibility, including comprehension and cultural appropriateness. When all of the components intersect (i.e. the middle of the venn diagram), the product works for the intended audience."}](https://blog.providence.org/center-for-outcomes-research-education/6-steps-toward-more-equitable-data-visualization)
+
 When thinking of the Data-Information-Knowledge-Wisdom graphic at the top of the [Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html) page - data visualizations are one tool we can use to add context and meaning to data to create information and knowledge. Ideally, the insights gleaned from our visualizations can then be used to make data and equity-informed decisions and to take effective and impactful action.
 
 ## Data Visualization with an Equity Lens
@@ -118,7 +120,7 @@ Take the time to tell a story with the visualization or product you're developin
 
 This section walks through the different design decisions data practitioners must think through when developing a data visualization or similar data product, and provides recommendations on how to approach the work through a lens of accessibility, equity, and inclusion.
 
-As one would expect, some figures, maps and visualizations may be too complex to meet all accessibility requirements. However, data practitioners should do their best to meet recommendations described below and follow best practices to make data products as accessible and inclusive as possible.
+Data visualization design is composed of a series of compromises: Complexity vs Clarity. Depth vs. Speed. Pretty vs. Practical. The best visualizations maximize all of these, but usually, you have to pick some things over others. When designing a data visualization or similar data communication product, data practitioners should make decisions with their audience and equity in mind, do their best to follow the recommendations and best practices below to make the final data product as accessible and inclusive as possible.
 
 #### **Alternative Text (Alt Text)**
 
@@ -208,7 +210,7 @@ When selecting fonts and typography for your visualization or data product, cons
 
 -   **Does the text have enough space around it?** Some users may have cognitive disabilities or visual impairments that results in them having trouble reading lines of text when they're too closely spaced. By prioritizing [types of cognitive accessibility](https://accessiblyapp.com/blog/cognitive-accessibility/) through thoughtful spacing, you contribute to a more inclusive visualization or data product.
 
-    -   For paragraphs, give the reader at least 1.15 pt spacing *within* paragraphs and at least 6 pt spacing after (or between) each paragraph.
+    -   For paragraphs - give the reader at least 1.15 pt spacing *within* paragraphs and at least 6 pt spacing after (or between) each paragraph.
 
     -   For lists - if the list contains only a few words on each line, 1.15 pt spacing may be sufficient. If each item in the list has multiple lines of text, treat it as you would a paragraph and use 1.15 pt spacing *within* each list and at least 3 pt spacing after (or between) each item in the list.
 
@@ -226,6 +228,22 @@ Tools to help with fonts & typography include:
 -   [Urban Institute](https://www.urban.org/) [Data Visualization Style Guide](https://urbaninstitute.github.io/graphics-styleguide/) - [Chart Typography Section](https://urbaninstitute.github.io/graphics-styleguide/)
 
 #### **Labels**
+
+The labels we use in our data products highlight or center the extent to which we reduce people and their experiences to components of our visualization or position and frame those same communities to live in their personal and collective power while addressing systemic oppression. Being mindful of the labels we use in our data products can help us connect and build trust with the communities that the data represents.
+
+When selecting the labels for your visualization or data product:
+
+-   Use clear and concise labels.
+
+-   Use full labels such as “Black people” rather than “Black.”
+
+-   Avoid using labels that reinforce stereotypes or inequitable or unjust norms.
+
+-   When describing people from certain demographics, use descriptors that reflect the preferences of the communities it represents as much as you can.
+
+    -   Remember that language continues to evolve. Certain labels that may have been acceptable years ago may no longer be, and we should adjust our labeling accordingly. The [UNC Health’s Equity and Inclusion Analytics Workgroup](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf) notes that, for consistency and clarity, the data descriptors should match the categories used during data collection. However, if the data source you’re using has outdated language, updated language should be used in the label, and the outdated language can be noted in tooltips or footnotes of your visualization.
+
+-   Be mindful of how labels are ordered. Ordering items as they appear in the data may reflect and reinforce historical biases. The [Urban Institute](https://www.urban.org/) [Do No Harm Guide](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) recommends considering alternative sorting parameters such as study focus, specific story or argument, quantitative relationship (i.e., magnitude of the results), alphabetical, or sample size (weighted or unweighted).
 
 #### **Layout**
 
