@@ -69,12 +69,17 @@ If you ultimately decide to aggregate / combine groups, be sure to:
 
 4.  **Think carefully about how groups are lumped in the "other" category** of our analysis or visualization. Sometimes it's necessary to combine groups into a single "other" category (e.g. to generalize small groups to protect confidentiality or to achieve adequate sample size for your analysis). The Urban Institute's [Do No Harm Data Visualizaation Recommendations](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) include considering alternatives to using the term "other" as a catch-all category, including:
 
--   Another \_\_\_\_\_\_ (e.g. Another race or Another group)
--   Additional \_\_\_\_\_\_ (e.g. Additional races or Additional languages)
--   All other self-descriptions
--   People identifying as other or multiple races
--   Identity not listed
--   Identity not listed in the survey or dataset
+    -   Another \_\_\_\_\_\_ (e.g. Another race or Another group)
+
+    -   Additional \_\_\_\_\_\_ (e.g. Additional races or Additional languages)
+
+    -   All other self-descriptions
+
+    -   People identifying as other or multiple races
+
+    -   Identity not listed
+
+    -   Identity not listed in the survey or dataset
 
 #### **Use plain, accessible, and inclusive language**
 
