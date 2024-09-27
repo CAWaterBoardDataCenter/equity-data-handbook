@@ -59,11 +59,15 @@ Carefully consider how groups are lumped or split - by aggregating many groups i
 
 If you ultimately decide to aggregate / combine groups, be sure to:
 
-1.  **Be transparent** about why you're making those decisions (including the trade offs you considered) and documenting those decisions accordingly.
+1.  **Avoid creating a dichotomy of races.** Don’t use “White” vs. “non-White” or “people of
+    color.” Rather, disaggregate the “non-White” group to show the diversity amongst
+    communities.
 
-2.  **Acknowledge who is now not included** in the data or visualization and explain what groups have been combined and why. Use comments, tooltips, or footnotes that can be easily accessed within the visualization to make it easier for users to find this information.
+2.  **Be transparent** about why you're making those decisions (including the trade offs you considered) and documenting those decisions accordingly.
 
-3.  **Think carefully about how groups are lumped in the "other" category** of our analysis or visualization. Sometimes it's necessary to combine groups into a single "other" category (e.g. to generalize small groups to protect confidentiality or to achieve adequate sample size for your analysis). The Urban Institute's [Do No Harm Data Visualizaation Recommendations](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) include considering alternatives to using the term "other" as a catch-all category, including:
+3.  **Acknowledge who is now not included** in the data or visualization and explain what groups have been combined and why. Use comments, tooltips, or footnotes that can be easily accessed within the visualization to make it easier for users to find this information.
+
+4.  **Think carefully about how groups are lumped in the "other" category** of our analysis or visualization. Sometimes it's necessary to combine groups into a single "other" category (e.g. to generalize small groups to protect confidentiality or to achieve adequate sample size for your analysis). The Urban Institute's [Do No Harm Data Visualizaation Recommendations](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) include considering alternatives to using the term "other" as a catch-all category, including:
 
 -   Another \_\_\_\_\_\_ (e.g. Another race or Another group)
 -   Additional \_\_\_\_\_\_ (e.g. Additional races or Additional languages)
