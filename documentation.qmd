@@ -1,6 +1,6 @@
 # Documentation
 
-Add guidance on documentation, reproducibility & transparency, oh my!
+Add guidance on reproducibility, transparency & accessibility, oh my!
 
 This is intended to be a living document and providing documentation is extremely important.
 
@@ -14,7 +14,7 @@ Documentation is a critical to improving transparency, ensuring when roles or po
 
 ![](images/The_Handover.png){width="412"}
 
-## Documenting with and Equity Lens
+## Documenting with an Equity Lens
 
 **Reproducibility:** Reproducibility is a vital aspect of documentation that plays a key role in promoting data equity. When research is documented in a way that allows others to replicate findings, it ensures that not folks can access and validate the data as part of their understanding and workflow. Ultimately, effective documentation that emphasizes reproducibility fosters trust and collaboration, paving the way for a more equitable data landscape.
 
