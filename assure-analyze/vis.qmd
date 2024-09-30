@@ -296,25 +296,36 @@ When thinking about and building your map, consider:
 
 -   **Is the map projection you're using appropriate?**
 
-    -   US maps for print publication, or use in reports should use the Albers Equal Area projection.
-
     -   Simple interactive county- or state-level maps also use the Albers projection.
+
+    -   US maps for print publication, or use in reports should use the Albers Equal Area projection.
 
     -   [Zoomable tile-based interactive maps](http://apps.urban.org/features/ncdb/immigrants-reshaping-residential-segregation/index.html#) use the Mercator projection.
 
-        Note that how a map is projected can influence the story being told, especially as you scale up. A great example of how map projections can impact our perception is summarized in the below clip from *The West Wing.* This [Forbes article](https://www.forbes.com/sites/chuckswoboda/2020/07/14/what-this-3-minute-scene-from-the-west-wing-about-maps-can-teach-you-about-leadership/) summarizes the scene well - The White House Press Secretary C.J. Gregg (Allison Janney) grants an audience to a group of socially minded cartographers on a noble mission: to convince the President to officially adopt a new global map that is more respectful of Third World countries. The group explains why conventional world maps are wrong and, worse, how this leads to misguided social perspectives that extend far beyond geography.
+        Note that how a map is projected can influence the story being told, who is centered, and who is valued by the viewed, especially as you scale up. A great example of how map projections can impact our perception is summarized in the below clip from *The West Wing.* This [Forbes article](https://www.forbes.com/sites/chuckswoboda/2020/07/14/what-this-3-minute-scene-from-the-west-wing-about-maps-can-teach-you-about-leadership/) summarizes the scene well: The White House Press Secretary C.J. Gregg (Allison Janney) grants an audience to a group of socially minded cartographers on a noble mission: to convince the President to officially adopt a new global map that is more respectful of Third World countries. The group explains why conventional world maps are wrong and, worse, how this leads to misguided social perspectives that extend far beyond geography.
 
         {{< video https://www.youtube.com/watch?v=vVX-PrBRtTY >}}
 
--   
+-   **Is the geography you're using to visualize the data appropriate?** The [considerations we outlined above about grouping data](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html#consider-how-you-group-the-data) also apply here, with an added geographic context, since the geography you use in your map (e.g., zip codes, census tracts, counties, watersheds, regions, etc.) will impact how the audience interacts with the map or visualization. The [UNC Health’s Equity and Inclusion Analytics Workgroup](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf) notes that, zip codes may be convenient and readily available, but they
+    represent expedient routes for postal delivery, not “natural” communities. This
+    can cause analysis that disguises disparities, such as the [example in Flint made by Sadler (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8301226/).
 
-<https://urbaninstitute.github.io/graphics-styleguide/> (Maps Section)
+-   **Is the color on the map effective?** Maps tend to have more colors involved by nature (i.e. because of the inclusion of base maps, etc.). Take special care to adopt the [considerations about color outlined above](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html#color) to ensure the map, data, and story you're trying to tell are as accessible as possible.
 
-<https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf> (Mapping Section, pg 24)
+Tools to help with map development include:
 
-<https://drive.google.com/file/d/139gF37wVtcfOSiFkqK-INSwK7d3lfjuM/view> (Informational Resources, pg 12)
-
-Review [Resources](https://cawaterboarddatacenter.github.io/equity-data-handbook/resources.html) page - pull over any links that might be more impactful listed here or below - e.g. [GIS Resources](https://cawaterboarddatacenter.github.io/equity-data-handbook/resources.html#gis-resources)
+-   [State of Minnesota Map Accessibility Page](https://mn.gov/mnit/about-mnit/accessibility/maps/) – provides information on best practices for accessibility in static maps, web maps and applications.
+-   Non-exhaustive list of ESRI resources:
+    -   [Accessible Web Mapping Apps](https://www.youtube.com/watch?v=miTPT68kjto) – recording from the 2020 ESRI Developer Summit
+    -   [ESRI ArcGIS Accessibility Showcase (requires ESRI login)](https://arcgis-accessibility-showcase-science.hub.arcgis.com/)
+    -   [ESRI GitHub Accessibility Repository](https://esri-es.github.io/awesome-arcgis/arcgis/accessibility/) – information on making AGOL/Portal maps accessible
+    -   [Web Accessibility Best Practices](https://jimmieego.github.io/Web-Accessibility-Best-Practices/#/) – slides from 2019 ESRI GeoDev Webinar
+    -   [Improve accessibility of your Story Map by adding alternative text](https://www.esri.com/arcgis-blog/products/story-maps/sharing-collaboration/improve-accessibility-of-your-story-map-journal-by-adding-alternative-text/) – ESRI blog post
+    -   [ArcGIS Web AppBuilder accessibility support documentation](https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/accessibility-support.htm)
+    -   [ArcGIS Social Equity Analysis tool documentation](https://learn.arcgis.com/en/projects/create-a-social-equity-index-to-improve-public-health/)
+    -   [ArcGIS Online Tips & Best Practices to Extend the Reach of your GIS](file:///C:/Users/aholder/Downloads/Extend_the_Reach_of_Your_GIS.1%20(1).pdf)
+    -   [ArcGIS Hub guidance on improving the display of your content on a site and in search results](https://doc.arcgis.com/en/hub/content/prepare-your-content.htm)
+    -   [ArcGIS, ISO and INSPIRE Content Category recommendations](https://doc.arcgis.com/en/arcgis-online/reference/content-categories.htm)
 
 ### Shapes & Icons
 
