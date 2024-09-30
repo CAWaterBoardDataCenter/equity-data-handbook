@@ -286,7 +286,27 @@ When ordering different components of your visualization or data product, consid
 
     -   **Is there a quantitative relationship that can guide how the groups are ordered?** Can they be sorted alphabetically or by population size, sample size (weighted or unweighted), or magnitude or effect of the results?
 
-### Maps \<\< LEFT OFF HERE
+### Maps 
+
+Maps can be powerful and intuitive ways to give place to the data you're using in your visualization. However, just like all other visualizations, a map with points, lines, or polygons and zero context is not helpful and can actually be counter productive.
+
+When thinking about and building your map, consider:
+
+-   **Is showing your geographic data on a map the best way to get your message across?** [The Urban Institute](https://urbaninstitute.github.io/graphics-styleguide/) notes that at times, there may be more efficient forms of storytelling (other than maps) that can get your point across more clearly. Specifically, if your data shows a very clear geographic trend or if the absolute location of a place or event matters, maps might be the best approach, [but sometimes the reflexive impulse to map the data can make you forget that showing the data in another form might answer other—and sometimes more important—questions.](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/) Consider using other graphic types when the interesting patterns are not geographic patterns, or when the geographic data is more effective for analysis than for presentation for your audience (i.e., a simple bar chart, column chart, scatterplot or table).
+
+-   **Is the map projection you're using appropriate?**
+
+    -   US maps for print publication, or use in reports should use the Albers Equal Area projection.
+
+    -   Simple interactive county- or state-level maps also use the Albers projection.
+
+    -   [Zoomable tile-based interactive maps](http://apps.urban.org/features/ncdb/immigrants-reshaping-residential-segregation/index.html#) use the Mercator projection.
+
+        Note that how a map is projected can influence the story being told, especially as you scale up. A great example of how map projections can impact our perception is summarized in the below clip from *The West Wing.* This [Forbes article](https://www.forbes.com/sites/chuckswoboda/2020/07/14/what-this-3-minute-scene-from-the-west-wing-about-maps-can-teach-you-about-leadership/) summarizes the scene well - The White House Press Secretary C.J. Gregg (Allison Janney) grants an audience to a group of socially minded cartographers on a noble mission: to convince the President to officially adopt a new global map that is more respectful of Third World countries. The group explains why conventional world maps are wrong and, worse, how this leads to misguided social perspectives that extend far beyond geography.
+
+        {{< video https://www.youtube.com/watch?v=vVX-PrBRtTY >}}
+
+-   
 
 <https://urbaninstitute.github.io/graphics-styleguide/> (Maps Section)
 
