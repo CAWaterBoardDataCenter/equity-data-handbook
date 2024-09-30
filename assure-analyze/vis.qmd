@@ -171,7 +171,7 @@ When selecting colors for your visualization or data product, consider the recom
 
 -   **Avoid using too many colors, shapes, and/or patterns at the same time.** Our brains can really only hold (or effectively understand) three to five complex concepts at once. If you need to use six or more colors to represent the data - it might feel cluttered or overwhelming to the viewers. Consider consolidating categories or breaking up the chart into multiple smaller charts as described above.
 
--   A 3:1 contrast ratio is required for figures if a person must perceive a graphic in order to understand the content (e.g., colored lines in graphs, points on maps). However, text that is embedded in a graphic must meet a contrast ratio of 4.5:1 unless the text is incidental or there is no way of presenting the graphic with sufficient contrast without undermining the meaning. Use the [Colour Contrast Analyser](https://www.tpgi.com/color-contrast-checker/) (CCA) or equivalent software to determine if the figure meets the ratio requirements.
+-   **A 3:1 contrast ratio is required for figures if a person must perceive a graphic in order to understand the content** (e.g., colored lines in graphs, points on maps). However, **text that is embedded in a graphic must meet a contrast ratio of 4.5:1** unless the text is incidental or there is no way of presenting the graphic with sufficient contrast without undermining the meaning. Use the [Colour Contrast Analyser](https://www.tpgi.com/color-contrast-checker/) (CCA) or equivalent software to determine if the figure meets the ratio requirements.
 
 Tools to help with color selection may already be integrated into your data visualization tools - if not, some other resources include:
 
