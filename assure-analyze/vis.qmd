@@ -329,23 +329,27 @@ Tools to help with map development include:
 
 ### Shapes & Icons
 
-<https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization>
+Similar to color, the shapes and icons we use in our our data visualizations or other data products can help the audience connect with the data, but we need to be thoughtful about what shapes and icons we use, how we use them, and how they may be perceived to avoid unintentionally perpetuating stereotypes or creating hierarchies.
 
--   **Carefully consider colors, icons, and shapes.** In many visualizations, colors can be associated with stereotypes (e.g., pink for women, blue for men) that can reinforce biased perceptions in readers. Similarly, images or icons can reinforce stereotypes (e.g., a woman as a nurse but a man as a doctor). In visualizations, images and colors can help readers connect with the data, but researchers should be mindful of their capacity to exacerbate stereotypes.
+When selecting shapes and icons for your visualization or data product, consider the recommendations from the [UNC Health’s Equity and Inclusion Analytics Workgroup](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf) and the [Urban Institute Do No Harm Guide](https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization):
 
-<https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf>
+-   **Avoid reinforcing stereotypes** (e.g., a woman as a nurse but a man as a doctor). Mis- or underrepresentation of certain groups in imagery and iconography fails to take a racial or gender equity awareness perspective toward our data visualization work and can reinforce and perpetuate stereotypes. A [2018 study by the Pew Research Center](https://www.pewresearch.org/social-trends/2018/12/17/gender-and-jobs-in-online-image-searches/) found that:
 
--   Recognize how readers might be better able to connect with the data by using small shapes or icons, but use them carefully.
+    > Image results for common job searches overrepresent men relative to women - an estimated 60% of the individuals that appeared in the image results were men (40% were women).
+    >
+    > For more than half the tested job categories, images appearing in searches underrepresent women relative to their actual participation in those jobs
+    >
+    > Images containing women appear further down the page in search results for many jobs.
 
--   Avoid stereotypical, discriminatory, and racist imagery.
+-   **Avoid discriminatory and racist imagery.**
 
--   Use images that show people as empowered and dignified, and avoid images that depict people as helpless victims.
+-   **Use images that show people as empowered and dignified, and avoid images that depict people as helpless victims**.
 
-<https://urban-institute.medium.com/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff>
+-   **When showing groups of people, we should consider a mix of genders, races, ethnicities, and abilities.**
 
-**Using icons and shapes with a racial equity awareness.** We want to be careful and thoughtful when using icons in any data visualization. When showing groups of people, we should consider a mix of genders, races, and ethnicities. We don’t often use icons at Urban, but when we do, we should consider to whom we are presenting our results and how our icons might be perceived. We need to be conscious of how certain icons may not correspond to the content, such as an icon of a baby in a chart about child mortality.
+Tools to help with icon selection include:
 
-Mis- or underrepresentation of certain groups in imagery and iconography also fails to take a racial or gender equity awareness perspective toward our data visualization work. A 2018 study by the Pew Research Center found that “men are overrepresented in online image search results across a majority of jobs examined” and that “women appear lower than men in such search results for many jobs.” This disparity continues to this day; the image on the left shows Google search results for the phrase “nurse icon,” and the image on the right shows results for the phrase “boss icon.” Notice how nearly all the images on the top are similar to images we might imagine as feminine and the images on the bottom we might traditionally consider masculine.
+-   [Tips for designing icons that depict gender](https://blog.thenounproject.com/visible-women-gender-in-iconography/) from Noun Project’s lead content curator Erika Kim
 
 ### Tables
 
