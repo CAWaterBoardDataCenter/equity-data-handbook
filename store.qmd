@@ -6,9 +6,7 @@ This phase of the data life cycle involves determining or confirming the retenti
 
 Also see a [short list of best practices for this phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/best-practice.html#preserve-store).
 
-::: callout-tip
-Review this content and make your preservation and storage plan during the [Planning Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) of your project! Doing so will make it easier for all team members to prepare their project components accordingly and will save you time when implementing this phase of the project.
-:::
+Review this content and make your preservation and storage plan during the [Plan & Prepare Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/) of your project! Depending on your project needs, you may even integrate your responses to questions below into your [project's data management plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html). Doing so will make it easier for all team members to prepare their project components accordingly and will save you time when implementing this phase of the project.
 
 ## Why Preserve & Store Data Products? 
 
@@ -22,7 +20,7 @@ All of this can make it easier for current partners and communities to *want* to
 
 ## Project Preservation & Storage with an Equity Lens
 
-As you embark on this phase of the data life cycle you will want to apply the [Five Ws & H Framework](https://chisellabs.com/glossary/what-is-5-ws-and-h-framework/) to your data preservation and storage project. [![Graphic displaying the 5 W and 1 H Framework. Image from Chisel (2023)](images/5W-1H-framework.png)](https://chisellabs.com/glossary/what-is-5-ws-and-h-framework/)
+As you embark on this phase of the data life cycle you will want to apply the [5 Ws and H Framework](https://chisellabs.com/glossary/what-is-5-ws-and-h-framework/) to your data preservation and storage project. [![Graphic displaying the 5 W and 1 H Framework. Image from Chisel (2023)](images/5W-1H-framework.png)](https://chisellabs.com/glossary/what-is-5-ws-and-h-framework/)
 
 ### Who 
 
