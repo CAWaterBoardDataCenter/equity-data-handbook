@@ -10,13 +10,13 @@ Also see a [short list of best practices for this phase](https://cawaterboarddat
 Review this content and make your preservation and storage plan during the [Plan & Prepare Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/) of your project! Depending on your project needs, you may even integrate your responses to questions below into your [project's data management plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html). Doing so will make it easier for all team members to prepare their project components accordingly and will save you time when implementing this phase of the project.
 :::
 
-## Why Preserve & Store Data Products? 
+## Why Preserve & Store Data Products?
 
 As you wrap up your data project, you will want to think through whether and how project components should be archived and preserved for short-, medium-, and/or long-term viability, utility, and accessibility.
 
-***From a data science lens*** - Investing the time to properly preserve and archive project components makes it easier for future project team members (including yourself!) to reference or reuse components in the future. This will reduce the amount of time future teams need to spend recreating or reinventing proverbial wheels you already invested time in developing, thus increasing future efficiency and reproducibility and decreasing frustration and workload for all.
+***From a data science lens*** - Investing the time to properly preserve and archive project components ensures they will be available for future project team members (including yourself!) to reference or reuse components in the future. This will reduce the amount of time future teams need to spend recreating or building upon project components, thus increasing future efficiency and decreasing frustration and workload for all.
 
-***From an equity lens*** - Investing the time to properly preserve and archive project components makes it easier for current and future project partners and communities to reference or reuse components of the project now and into the future. In addition to the benefits listed above, this can also increase transparency and trust between project developers, partners, and the communities impacted by the project.
+***From an equity lens*** - Investing the time to properly preserve and archive project components makes it easier for current and future project partners and communities to reference or reuse components of the project now and into the future. In addition to the benefits listed above, preserving and storing project components appropriately can also increase trust between project developers, partners, and the communities impacted by the project.
 
 All of this can make it easier for current partners and communities to *want* to invest their time and energy into participation and engagement in current and future work, which will slowly but surely increase your network of collaborators, contributors, and partners.
 
@@ -24,7 +24,7 @@ All of this can make it easier for current partners and communities to *want* to
 
 As you embark on this phase of the data life cycle you will want to apply the [5 Ws and H Framework](https://chisellabs.com/glossary/what-is-5-ws-and-h-framework/) to your data preservation and storage project. [![Graphic displaying the 5 W and 1 H Framework. Image from Chisel (2023)](images/5W-1H-framework.png)](https://chisellabs.com/glossary/what-is-5-ws-and-h-framework/)
 
-### Who 
+### Who
 
 -   **Who will be responsible for preparing components of the data project for preservation and storage?**
 
