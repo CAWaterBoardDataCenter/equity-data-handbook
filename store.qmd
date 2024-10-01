@@ -6,7 +6,9 @@ This phase of the data life cycle involves determining or confirming the retenti
 
 Also see a [short list of best practices for this phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/best-practice.html#preserve-store).
 
+::: callout-tip
 Review this content and make your preservation and storage plan during the [Plan & Prepare Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/) of your project! Depending on your project needs, you may even integrate your responses to questions below into your [project's data management plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html). Doing so will make it easier for all team members to prepare their project components accordingly and will save you time when implementing this phase of the project.
+:::
 
 ## Why Preserve & Store Data Products? 
 
