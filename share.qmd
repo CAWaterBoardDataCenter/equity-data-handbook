@@ -1,4 +1,4 @@
-# Data Sharing
+# Publication & Sharing
 
 By now, you’ve completed some or all of your product development steps ([Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html), [Data Visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html)) and are ready to publish and share product components. Congratulations!
 
@@ -46,7 +46,7 @@ Use this time to:
 
 ### Make data and products open and accessible to the public
 
-In addition to all of the reasons outlined in the above **Why Publish & Share Data Products?** section, the [Urban Institute's Principles for Advancing Equitable Data Practice](https://www.urban.org/sites/default/files/publication/102346/principles-for-advancing-equitable-data-practice_0.pdf) notes that sharing data can reduce the burden of duplicate data collection on communities. Specifically:
+In addition to all of the reasons outlined in the above [Why Publish & Share Data Products?](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html#why-publish-share-data-products)section, the [Urban Institute's Principles for Advancing Equitable Data Practice](https://www.urban.org/sites/default/files/publication/102346/principles-for-advancing-equitable-data-practice_0.pdf) notes that sharing data can reduce the burden of duplicate data collection on communities. Specifically:
 
 > Some people and communities are consistently the targets of data collection and study, sometimes from organizations seeking the same information for similar purposes. Siloed data place an additional—and potentially unnecessary—burden on community members. Sharing nonconfidential data, when it is unlikely that it could lead to harm or add risks, may reduce the burden that individuals and communities experience from data collection
 
@@ -63,9 +63,57 @@ As you publish your project's data and products, be sure to:
 -   **Ensure all documentation associated with the project is written in [plain, accessible, and inclusive language](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html#use-plain-accessible-and-inclusive-language)**, as appropriate, including: metadata, ReadMe files, code comments, and anything else pertaining to the project components listed.
 
 ::: callout-important
-# Open does not always mean public
+# Remember - Open does not *always* mean public
 
 The Water Board’s Open Data Resolution urges us to make our data and products open and accessible to the public, as appropriate. Equally important is ensuring that the confidential components of our work are secured and protected appropriately. See the [Data Preparation](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) and [Preservation & Storage](https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html) pages for more detailed guidance.
 :::
 
 ### Make data and products useful for communities and partners
+
+In addition to all of the considerations outlined in the above [Make data and products open and accessible to the public](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html#make-data-and-products-open-and-accessible-to-the-public) section, it's also important to take time to make project, data, products, information and knowledge accessible to and useful for the communities and partners that contributed to or could be impacted by the project. The [Urban Institute's Principles for Advancing Equitable Data Practice](https://www.urban.org/sites/default/files/publication/102346/principles-for-advancing-equitable-data-practice_0.pdf) notes that:
+
+> Analysts have the power to disrupt the dynamic of people’s having no ownership of and deriving no utility from what their data have produced. Ensuring that the results are communicated in a way that community members can use and understand is an important step toward equity.
+
+As you implement other components of this phase, be sure to:
+
+-   **Connect with those you have reached out to in previous phases of the project and walk through the data and products you plan to publish and share.** Ideally, this will be wrapped into the [conversations you have with these folks BEFORE publication](Communicate with communities and partners BEFORE publication) to streamline conversations and reduce the burden of providing feedback.
+
+-   **Discuss whether the *existing* results and products are communicated in ways that resonate with and are useful to the community.** If they are generous and able to tell you how to improve your communication, be sure to integrate that into existing products! See the [Data Visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html) for guidance on how to effectively communicate with data.
+
+-   **Discuss whether additional products or resources might be helpful to improve communication and usefulness of the data and products for the community.** It will be important to be clear about your capacity and limitations going into this conversation so you can manage expectations and only commit to actions you can realistically take. Some products that might be considered for development include:
+
+    -   A project fact sheet (aka one pager) that describes the project, available resources, and what it means for the community
+
+    -   A webpage update (or development of a new page) that makes it easy for communities to find the information and resources they need about the project and products
+
+    -   A step by step guide, workshop, training, or video that walks people through how to use what has been developed and interpret the results or findings appropriately
+
+    -   Customized code or program that communities can use to pull data from databases and process it for their own data analysis and visualization needs
+
+    -   A media and/or press kit, that would include resources for communities and partners to use to share information about the project and products, including:
+
+        -   language for press releases or social media posts, including:
+
+            -   project background, goals
+
+            -   key results, facts, or statistics
+
+            -   case studies
+
+            -   available resources, products, or services
+
+            -   contact details (name/email addresses, social media handles)
+
+            -   relevant hashtags
+
+        -   figures or images that are ready to be shared broadly, including the image titles, captions, and alt text that should accompany the use of each image
+
+        -   instructions on how to embed products into community-managed web-pages
+
+        -   branding guidelines
+
+            ::: callout-tip
+            As you develop your media kit, be sure to work with your Water Boards Communications team to ensure all content is consistent with other Water Boards communications*.*
+            :::
+
+    -   Anything else communities and partners say they need to effectively use the data and products, you've invested time, energy, and resources to develop!
