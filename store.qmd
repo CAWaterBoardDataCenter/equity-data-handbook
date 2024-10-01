@@ -34,6 +34,8 @@ As you embark on this phase of the data life cycle you will want to apply the [5
 
     -   It may be helpful to refer to your Region, Division, Office, or Program's data or file governance and retention policy (aka [Records Retention Schedule](https://www.sos.ca.gov/archives/records-management-and-appraisal/records-management-handbook/chapter-6)) to make these decisions, if such a policy exists. If it doesn't you might consider creating one for your project.
 
+    -   The [Water Board DIT Web Document Remediation Guidance](https://waternet.waterboards.ca.gov/dit/websupport/accessibility/docs/guides/remediation_guidance_spreadsheet_v1_3.pdf) (requires VPN) may also be a useful reference for this step.
+
 ### When
 
 -   **When will project components be preserved and stored?** Depending on the project and needs, it may be appropriate to preserve and store some components of the project sooner than others.
