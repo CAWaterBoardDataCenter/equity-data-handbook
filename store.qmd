@@ -72,6 +72,6 @@ As you embark on this phase of the data life cycle you will want to apply the [5
 
     -   Make sure the name "plays well" with default ordering (e.g. add a date at the beginning of the file name)
 
-        [![Graphic with a Public Service Announcement regarding how we write dates as numbers. Graphic from Bryan (2015) Naming Things slides](images/dates-psa_jenny-bryan.png)](https://speakerdeck.com/jennybc/how-to-name-files?slide=21)
+        [![Graphic with a Public Service Announcement regarding how we write dates as numbers. Graphic from Bryan (2015) Naming Things slides](images/dates-psa_jenny-bryan.png){width="734"}](https://speakerdeck.com/jennybc/how-to-name-files?slide=21)
 
     -   For more guidance and resources on on naming things, visit [Jenny Bryan's How to Name Files GitHub Repositiry](https://github.com/jennybc/how-to-name-files?tab=readme-ov-file#how-to-name-files)
