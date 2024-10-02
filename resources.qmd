@@ -44,6 +44,12 @@ All Water Boards authors are **bolded** below.
 
 -   [We All Count - Data Equity Framework](https://weallcount.com/the-data-process/)
 
+-   Urban Institute Resources
+
+    -   <https://www.urban.org/sites/default/files/publication/102346/principles-for-advancing-equitable-data-practice_0.pdf>
+
+    -   <https://www.urban.org/elevate-data-equity>
+
 ## Data Ethics and Data Sovereignty Resources
 
 -   [GovOps medium article on Data Ethics](https://medium.com/caldata/practical-data-ethics-summary-of-what-were-learning-24d0e9d89cd0)
