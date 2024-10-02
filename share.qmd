@@ -10,7 +10,7 @@ Also see a [short list of best practices for this phase](https://cawaterboarddat
 Just like the [Preservation & Storage phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html), this content should be reviewed during the [Plan & Prepare Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/) of your project! Depending on your project needs, you may even integrate your responses to questions below into your [project’s data management plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html). Doing so will make it easier for all team members to prepare their project components accordingly and will save you time when implementing this phase of the project.
 :::
 
-## **Why Publish & Share Data Products?**
+## Why Publish & Share Data Products?
 
 The Water Boards typically make virtually all of the data we collect available to the public, with the exception of confidential information that should remain private and secure. As such, the openness and accessibility of your project's data and resultant products should be in alignment with the Water Board’s Open Data Resolution: “[Adopting Principles of Open Data as a Core Value and Directing Programs and Activities to Implement Strategic Actions to Improve Data Accessibility and Associated Innovation](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2018/rs2018_0032.pdf).” This means:
 
@@ -24,7 +24,7 @@ The Water Boards typically make virtually all of the data we collect available t
 
 ***From an equity lens*** - In addition to the benefits listed above, making data and products open and accessible (as appropriate) can contribute to trust building and future opportunities for collaboration between the project team, partners, and communities, enable communities and partners to use the data for their interests and needs, and empower all to take data-informed actions that ultimately advance and operationalize equity in the institutions, communities, and systems in which we all live, work, and play.
 
-## **Project Publication & Sharing with an Equity Lens**
+## Project Publication & Sharing with an Equity Lens
 
 When getting ready to publish and share components or products of your data project, it's important to be thoughtful of how you do so. Similar to the creation of [data visualizations](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html) - plopping content or products on a webpage or data portal without context or care can (at best) be unhelpful and (at worst) actually perpetuate or reinforce inequity and injustice.
 
@@ -78,11 +78,11 @@ As you implement other components of this phase, be sure to:
 
 -   **Connect with those you have reached out to in previous phases of the project and walk through the data and products you plan to publish and share.** Ideally, this will be wrapped into the [conversations you have with these folks BEFORE publication](Communicate with communities and partners BEFORE publication) to streamline conversations and reduce the burden of providing feedback.
 
--   **Discuss whether the *existing* results and products are communicated in ways that resonate with and are useful to the community.** If they are generous and able to tell you how to improve your communication, be sure to integrate that into existing products! See the [Data Visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html) for guidance on how to effectively communicate with data.
+-   **Discuss whether the [*existing*]{.underline} results and products are communicated in ways that resonate with and are useful to the community.** If they are generous and able to tell you how to improve your communication, be sure to integrate that into existing products! See the [Data Visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html) for guidance on how to effectively communicate with data.
 
--   **Discuss whether additional products or resources might be helpful to improve communication and usefulness of the data and products for the community.** It will be important to be clear about your capacity and limitations going into this conversation so you can manage expectations and only commit to actions you can realistically take. Some products that might be considered for development include:
+-   **Discuss whether [*additional*]{.underline} products or resources should be developed to improve communication and usefulness of the data and products for the community.** It will be important to be clear about your capacity and limitations going into this conversation so you can manage expectations and only commit to actions you can realistically take. Depending on what products you do decide to develop, it might be helpful to co-create them with your community partners so that messaging and functionality is as useful and impactful as possible. Some products that might be considered for development include:
 
-    -   A project fact sheet (aka one pager) that describes the project, available resources, and what it means for the community
+    -   A project fact sheet or brochure that describes the project, available resources, and what it means for the community
 
     -   A webpage update (or development of a new page) that makes it easy for communities to find the information and resources they need about the project and products
 
