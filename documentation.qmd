@@ -1,45 +1,62 @@
 # Documentation
 
-Add guidance on reproducibility, transparency & accessibility, oh my!
-
-This is intended to be a living document and providing documentation is extremely important.
+> Documentation is a love letter that you write to your future self.
+>
+> — [Damian Conway](http://damian.conway.org/), computer scientist, a public speaker, and the author of several books.
 
 ::: callout-important
-Remember - if your project or process is not well-documented to the point of being largely reproducible - it's incomplete!
+Remember: if your project or process is not well-documented to the point of being largely reproducible - it's incomplete!
 :::
 
 ## Why Document?
 
-Documentation is a critical to improving transparency, ensuring when roles or positions change data and information is not lost. Detailed documentation of data sources, analysis methods, and code is also critical to equity because it helps ensure that data is meaningful, accessible, and actionable for communities. Without proper documentation, it can be difficult for others to validate or build on existing analyses. Clear documentation also allows us to pick up where we left off, or easily transition data projects from one team to another. Documentation in our data workflow can also help identify areas of improvement in workflows and paths forward. Projects are more manageable, with clear documentation and over the long-term, documentation can increase transparency and equity.
+Documentation is a critical to improving transparency, clarity, and consistency of products and process. When done well, documentation can significantly reduce the amount of time wasted by team members, partners, the public (and ourselves!) who are looking for answers, institutional knowledge, or process and eliminate unnecessary duplication of work.
 
-![](images/The_Handover.png){width="412"}
+![Comic illustrating one team member passing along a project to another team member without proper documentation...confusion, frustration, and lots of wasted time ensues. Original source of the comic is unknown.](images/The_Handover.png){fig-alt="\"The Handover\" comic with four panels. Panel 1 shows two people in front of a computer monitor. One person says \"This is my code\" to the other person. Panel 2 shows the first person adding \"It's your problem now\". Panel 3 shows the first person saying \"I'm out\" as they walk away. Panel 4 shows the second person looking blankly at the computer monitor." width="412"}
 
-## Documenting with an Equity Lens
+Detailed documentation of every aspect of a project and all phases of the data and project life cycle - from planning, to data sources, analysis methods, code, workflows, and even why decisions were made - is critical because it helps ensure that data, results, and products are meaningful, accessible, and actionable for our teams, partners, communities, and the public. Documentation in our data-intensive workflows can also help identify areas of improvement in how we work with ourselves and others, and make it easier to identify solutions and other paths forward. Moreover, clear documentation also allows us to pick up where we left off, or easily transition projects from one person or team to another when roles or positions change thus preventing the loss of incredibly valuable institutional knowledge that only comes with time and experience. Without proper documentation, it can be difficult for others to have confidence in, ground truth/validate, or build on existing work.
 
-**Reproducibility:** Reproducibility is a vital aspect of documentation that plays a key role in promoting data equity. When research is documented in a way that allows others to replicate findings, it ensures that not folks can access and validate the data as part of their understanding and workflow. Ultimately, effective documentation that emphasizes reproducibility fosters trust and collaboration, paving the way for a more equitable data landscape.
+Individuals and teams that invest the time to create clear and complete documentation tend to find projects to be a bit more manageable because they have resources to guide them; over the long-term, that investment into documentation can also increase the reproducibility, transparency, and accessibility of their work. All of this, in turn, can make it easier to collaborate with internal and external partners, help build relationships and trust with partners and communities impacted by the project thus helping to operationalize equity into our projects, products, and process.
+
+## Documenting with an Equity Lens \<\< LEFT OFF HERE
+
+We can have very selfish reasons for documentation, as we described above since there are abundantly clear benefits to ourselves, our teams and our partners. As you embark on your documentation journey, be sure to also keep in mind the below considerations and remember to document with an equity lens.
+
+**Reproducibility:** Reproducibility is a vital aspect of documentation that plays a key role in advancing and operationalizing equity into our data-intensive work. When our work is documented in a way that allows others to replicate findings, it ensures that folks can access and validate the data as part of their understanding and workflow. Ultimately, effective documentation that emphasizes reproducibility fosters trust and collaboration, paving the way for a more equitable data landscape.
 
 **Transparency:** Transparency in documentation is particularly vital for building trust with communities that have historically experienced a lack of openness or consideration in the past. By prioritizing transparent documentation, researchers can clearly communicate their methodologies, data sources, and findings, allowing communities to understand how decisions are made and how data impacts them or others. This openness not only empowers communities to engage meaningfully with research but also helps to rebuild trust, ensuring that their voices are respected and included in future studies. Ultimately, transparency is essential for fostering collaborative relationships and promoting equity in data-driven initiatives.
 
 **Accessibility**: When research is presented in ways that center accessibility—such as offering offline materials, using multiple languages, or documenting in [plain language](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html#use-plain-accessible-and-inclusive-language)—it empowers individuals to participate and engage. This effort not only increases access to vital information but also demonstrates a genuine commitment to inclusivity and respect for diverse experiences. By prioritizing accessibility, documentation can help bridge gaps in communication and understanding, ultimately fostering trust and collaboration with communities that have historically been sidelined.
 
-## Tools Available to Support Documentation:
+## What to Document
 
+tips provided in other sections of this handbook...but also...
+
+process (to help with onboarding, setting expectations)
+
+data-intensive workflows
+
+metadata, data dictionaries
+
+code (comments within the code; ReadMe, etc.)
+
+reasoning behind decisions
+
+## Resources
+
+### Tools Available to Support Documentation:
+
+-   Openscapes at the Water Boards - Pathway
 -   [Schema.org](https://schema.org/) -- Promoting common data structures on the internet
-
 -   [Accessibility tips using Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/) (Smashing Magazine)
-
 -   Writethedocs.org, plus a piece on [documenting for beginners](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
-
 -   [Templates](https://github.com/kylelobo/The-Documentation-Compendium#templates-) for documenting on GitHub (e.g., on a ReadMe)
-
 -   Creating and maintaining a [Data Dictionary](https://www.fgdc.gov/metadata/csdgm-standard)
-
 -   Document code through comments and [#tidydata](https://vita.had.co.nz/papers/tidy-data.pdf)
-
 -   GitHub projects [best practices](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/best-practices-for-projects)
 
+### Examples of Documentation
+
 -   [NOAA NMFS: Open Science Resources](https://nmfs-opensci.github.io/ResourceBook/)
-
 -   [NOAA Fisheries: Code documentation](https://noaa-fisheries-integrated-toolbox.github.io/resources/best-practices/code-documentation/)
-
 -   [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/)

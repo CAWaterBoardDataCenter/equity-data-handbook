@@ -44,15 +44,11 @@ All Water Boards authors are **bolded** below.
 
 -   [We All Count - Data Equity Framework](https://weallcount.com/the-data-process/)
 
-## GIS Resources
+-   Urban Institute Resources
 
--   <https://learn.arcgis.com/en/projects/create-a-social-equity-index-to-improve-public-health/>
+    -   <https://www.urban.org/sites/default/files/publication/102346/principles-for-advancing-equitable-data-practice_0.pdf>
 
--   [Extend_the_Reach_of_Your_GIS (1).pdf](https://github.com/user-attachments/files/16605635/Extend_the_Reach_of_Your_GIS.1.pdf)
-
--   Additional [best practices from Esri](https://doc.arcgis.com/en/hub/content/prepare-your-content.htm#:~:text=Tags%E2%80%94These%20help%20users%20discover,facilitate%20their%20discovery%20and%20use.) on improving the quality of content within a Hub site.
-
--   Also worth noting that ArcGIS Online comes some general [categories](https://doc.arcgis.com/en/arcgis-online/reference/content-categories.htm) that are derived from ISO and INSPIRE. Those could be good starting points, but my hunch is that you’re going to want to add additional categories to better support filtering and finding the right datasets.
+    -   <https://www.urban.org/elevate-data-equity>
 
 ## Data Ethics and Data Sovereignty Resources
 
