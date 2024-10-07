@@ -6,11 +6,11 @@ Effective data visualizations - the ones that stick with us, can help us underst
 
 When thinking of the Data-Information-Knowledge-Wisdom graphic at the top of the [Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html) page: data visualizations are tools we can use to add context and meaning to data to create information and knowledge. Ideally, the insights gleaned from our visualizations can then be used to make data and equity-informed decisions and to take effective and impactful action.
 
-## **General Data Visualization Considerations**
+## General Data Visualization Considerations
 
 When it comes to creating data visualizations with an equity lens, it boils down to making decisions that consider equity and inclusion in the way results are shown and communicated, and that promote accessibility of the data, information, and tool as a whole. As you develop your data visualization or equivalent application - be sure to keep the below considerations in mind and make data, communication, and design choices that support the advancement of equity, inclusion, and justice.
 
-### **Take a user-centered design approach**
+### Take a user-centered design approach
 
 Consider who the audience will be for the product you're developing and make decisions that will prioritize their needs so they are able to easily and efficiently use, engage and interact with the product.
 
@@ -39,7 +39,7 @@ Integrating empathy into our data-intensive work requires us to consider how our
 -   **What are the different ways feedback might be gathered?** We might think sending an email with a poll or survey linked is the easiest, but our partner might find it easier to talk through questions over the phone with you. Knowing which method(s) to use comes with time and relationship. When in doubt - ask for what people prefer and do your best to accommodate those needs.
 -   **How much time is adequate for folks to be able to review what you send them and provide their feedback?** When in doubt - plan for a longer feedback period than you think might be needed and confirm timelines with your partners (and adjust them if you can when your partners indicate more or less time is needed)
 
-### **Consider who is missing from the data**
+### Consider who is missing from the data
 
 It's not uncommon for project teams to have gaps in data, even after all of your diligent work and investment into the [planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html), [data preparation](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) and [collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html) steps of the project. This limitation of the data may be out of your control - especially when you are using data from external sources. When this happens, it's important to acknowledge, document, and accessibly communicate those gaps and who is not adequately represented in your data product.
 
