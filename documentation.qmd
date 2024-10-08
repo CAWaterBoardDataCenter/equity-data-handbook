@@ -20,7 +20,7 @@ Individuals and teams that invest the time to create clear and complete document
 
 [![Illustration of core benefits of documentation, which require the documentation to be reproducible, transparent, and accessible. Illustration adapted from LaneFour](images/documentation_benefits.png)](https://lanefour.com/salesforce-admin/the-importance-of-documentation/)
 
-## Documenting with an Equity Lens 
+## Documenting with an Equity Lens
 
 There are abundantly clear benefits to ourselves, our teams and our partners when we invest in comprehensive and clear documentation. As you embark on your documentation journey, be sure to also consider what documentation would be helpful for others outside of your normal or core project team, and keep in mind the below considerations and remember to document with an equity lens.
 
@@ -30,9 +30,9 @@ There are abundantly clear benefits to ourselves, our teams and our partners whe
 
 **Accessibility**: When our is projects, products, and process are presented in ways that center accessibility— such as offering offline materials, using multiple languages, or documenting in [plain language](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html#use-plain-accessible-and-inclusive-language) — it lowers barriers and makes it easier for individuals to participate and engage. Prioritizing accessibility in our documentation not only increases access to vital information but also demonstrates a genuine commitment to inclusivity and respect for diverse experiences.
 
-**Collaboration**: **If** documentation exists ***and*** that documentation is comprehensive, reproducible, transparent, and accessible then our projects, products, and process can help us rebuild trust, repair old relationships or start new ones and ultimately make it easier for communities to *want* to engage, collaborate and meaningfully contribute to — or better yet, co-create with — us. Prioritizing documentation and creating it with an equity lens, can help us bridge gaps in communication and understanding, ultimately fostering trust, collaboration, and relationships with communities that have had the experience of being excluded or otherwise overlooked in our projects, products, and process.
+**Collaboration**: **If** documentation exists ***and*** that documentation is comprehensive, reproducible, transparent, and accessible then our projects, products, and process can help us rebuild trust, repair old relationships or start new ones and ultimately make it easier for communities to *want* to engage, collaborate and meaningfully contribute to our processes, or better yet, co-create products and resources with us. Prioritizing documentation and creating it with an equity lens, can help us bridge gaps in communication and understanding, ultimately fostering trust, collaboration, and relationships with communities that have had the experience of being excluded or otherwise overlooked in our projects, products, and process.
 
-Comprehensive documentation using an equity lens, we be yet another tool we can use to operationalize equity and advance more equitable outcomes in our work.
+Comprehensive documentation using an equity lens can be yet another tool we can use to operationalize equity and advance more equitable outcomes in our work.
 
 ## What to Document \<\< LEFT OFF HERE
 
