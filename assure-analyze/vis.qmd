@@ -313,9 +313,7 @@ When thinking about and building your map, consider:
 Tools to help with map development include:
 
 -   [State of Minnesota Map Accessibility Page](https://mn.gov/mnit/about-mnit/accessibility/maps/) – provides information on best practices for accessibility in static maps, web maps and applications.
-
 -   Non-exhaustive list of ESRI resources:
-
     -   [Accessible Web Mapping Apps](https://www.youtube.com/watch?v=miTPT68kjto) – recording from the 2020 ESRI Developer Summit
 
     -   [ESRI ArcGIS Accessibility Showcase (requires ESRI login)](https://arcgis-accessibility-showcase-science.hub.arcgis.com/)
@@ -345,9 +343,7 @@ When selecting shapes and icons for your visualization or data product, consider
 -   **Avoid reinforcing stereotypes** (e.g., a woman as a nurse but a man as a doctor). Mis- or underrepresentation of certain groups in imagery and iconography fails to take a racial or gender equity awareness perspective toward our data visualization work and can reinforce and perpetuate stereotypes. A [2018 study by the Pew Research Center](https://www.pewresearch.org/social-trends/2018/12/17/gender-and-jobs-in-online-image-searches/) found that:
 
     -   Image results for common job searches overrepresent men relative to women - an estimated 60% of the individuals that appeared in the image results were men (40% were women).
-
     -   For more than half the tested job categories, images appearing in searches underrepresent women relative to their actual participation in those jobs
-
     -   Images containing women appear further down the page in search results for many jobs.
 
 -   **Avoid discriminatory and racist imagery.**
