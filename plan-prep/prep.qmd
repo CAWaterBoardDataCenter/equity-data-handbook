@@ -144,7 +144,7 @@ Some questions to help guide the development of this section include:
 
 ## Data & Product Publication & Sharing
 
-In this section, you will describe how and where you plan on publishing, sharing and otherwise making accessibly the project's data and products once they are developed. More detailed guidance on publishing and sharing data and resultant products is outlined on the [Data Sharing page](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html).
+In this section, you will describe how and where you plan on publishing, sharing and otherwise making accessible the project's data and products once they are developed. More detailed guidance on publishing and sharing data and resultant products is outlined on the [Data Sharing page](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html).
 
 The Water Boards typically make virtually all of the data we collect available to the public. The exceptions are confidential information (e.g., part of ongoing enforcement actions and/or formal Tribal consultations) and some personally identifiable information (PII). This section should describe any policies that will filter out data from the step of making the data publicly available and, more importantly, how the project plans to provide access to the data.
 
@@ -166,7 +166,7 @@ Some questions to help guide the development of this section include:
 -   Where and how will data and products be made open and/or accessible?
     -   Datasets that are of high value should, at minimum, be published to the [California Open Data Portal](https://data.ca.gov/) in the form of machine readable, well documented, maintained data.
     -   Geospatial products of high value should, at minimum, be published to the [California State Geoportal](https://gis.data.ca.gov/).
-    -   Code and similar products (scripts, analysis packages) should, at minimum, be published on the [Water Boards GitHub](https://github.com/CAWaterBoardDataCenter) in it's own, well documented, project repository.
+    -   Code and similar products (scripts, analysis packages) should, at minimum, be published on the [Water Boards GitHub](https://github.com/CAWaterBoardDataCenter) in its own, well documented, project repository.
     -   For all other data or products, please indicate how the data/product will be made accessible (e.g., via search forms at SMARTS public reports page, etc.).
 -   Does sharing the data raise privacy, ethical, or confidentiality concerns?  Do you have a plan to protect or anonymize data, if needed?
 -   If you collected data directly from Tribes or communities -
@@ -255,6 +255,6 @@ Here you might describe next steps or project ideas that are outside the scope a
 -   [DMP Tool](https://dmptool.org/) (a web-based tool that helps you construct data management plans using templates that address specific funder requirements) 
 -   [CA Healthy Watersheds Partnership Assessment Guidance: Data Acquisition, Monitoring and Management](https://mywaterquality.ca.gov/monitoring_council/healthy_streams/assessment_guidance/data_acquisition.html)
 -   [USGS - Data Management Plans](https://www.usgs.gov/data-management/data-management-plans)
--   [MIT Libraries - Write a Data Management Plan](https://libraries.mit.edu/data-management/plan/write/) &
+-   [MIT Libraries - Write a Data Management Plan](https://libraries.mit.edu/data-management/plan/write/)
 -   [Harvard Medical School - Data Management Plans](https://datamanagement.hms.harvard.edu/plan-design/data-management-plans)
 -   [University of Arizona - Data Management Plans Overview](https://data.library.arizona.edu/data-management/data-management-plans)
