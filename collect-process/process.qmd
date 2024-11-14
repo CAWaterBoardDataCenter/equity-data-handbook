@@ -34,7 +34,7 @@ Additionally, working from a foundation of tidy data (and using consistent tools
 
 ## Processing Data with an Equity Lens
 
-**Keep your "raw data raw":** It's important to keep (and backup) a version of your data that is untouched by your process (i.e. raw). We also recommend backing up a version of your data that is tidied and cleaned (i.e. what you will use for analysis). Not only does doing so protect you if your working version of the data are lost for some reason (e.g., computer crash, freak system failure) - but it also helps with reproducibility and transparency of your process.
+**Keep your "raw data raw":** It's important to keep (and back up) a version of your data that is untouched by your process (i.e. raw). We also recommend backing up a version of your data that is tidied and cleaned (i.e. what you will use for analysis). Not only does doing so protect you if your working version of the data are lost for some reason (e.g., computer crash, freak system failure) - but it also helps with reproducibility and transparency of your process.
 
 **Remove duplicate or irrelevant data**: When you're processing your data and making it tidy, think through which data from your sources are applicable to your question(s). Sometimes we don't have the technical or logistical capacity to keep ALL of the data we are able to collect - so if you are going to remove data at this step, be sure to document WHY you're removing it in a way that makes it easy for others to easily understand the reasoning behind the data decisions you're making. Some reasons might include:
 
