@@ -56,17 +56,23 @@ All Water Boards authors are **bolded** below.
 
 -   [Federal data ethics framework](https://resources.data.gov/assets/documents/fds-data-ethics-framework.pdf)
 
--   [Operationalizing the CARE and FAIR Principles for Indigenous data futures](https://www.nature.com/articles/s41597-021-00892-0)
+-   FAIR and CARE Principles Resources
+
+    -   FAIR: findable, accessible, interoperable, reusable
+
+    -   CARE: Collective Benefit, Authority to Control, Responsibility, Ethics
+
+    -   [Global Indigenous Digital Alliance guidance on using CARE principles for Indigenous data governance](https://www.gida-global.org/care)
+
+    -   [Operationalizing the CARE and FAIR Principles for Indigenous data futures](https://www.nature.com/articles/s41597-021-00892-0)
+
+    -   [FAIR data principles for community centered data formats](https://www.nature.com/articles/s41597-022-01606-w). Research practices documents related to using data for equity - working with communities to find data to use in equity work, and how to best collect and use demographic (ethnic and racial equity, sexual orientation, and gender identity data, specifically).
 
 -   The [Data Ethics Canvas](https://directory.civictech.guide/listing/the-odis-data-ethics-canvas) is designed to help identify potential ethical issues associated with a data project or activity. It promotes understanding and debate around the foundation, intention and potential impact of any piece of work, and helps identify the steps needed to act ethically
 
 -   [Ethics Framework (CalData)](https://medium.com/caldata/practical-data-ethics-summary-of-what-were-learning-24d0e9d89cd0); [Framework at a Glance](https://drive.google.com/file/d/14Hl6i2w3CImqrzLLYuB27PFD6DNdzdHX/view)
 
--   [FAIR data principles for community centered data formats](https://www.nature.com/articles/s41597-022-01606-w). Research practices documents related to using data for equity - working with communities to find data to use in equity work, and how to best collect and use demographic (ethnic and racial equity, sexual orientation, and gender identity data, specifically).
-
 -   [Article - Mapping for Whom? Communities of Color and the Citizen Science Gap](https://acme-journal.org/index.php/acme/article/view/2178/1654)
-
--   [Global Indigenous Digital Alliance guidance on using CARE principles for Indigenous data governance](https://www.gida-global.org/care)
 
 -   At the most basic level, taking an equity lens in Data Wise involves having a team ask itself probing questions at each step of the improvement process. [This document](https://www.ascd.org/el/articles/looking-at-data-through-an-equity-lens) provides a look at how to use a data wise techniques with a racial equity lens.
 
@@ -82,9 +88,9 @@ All Water Boards authors are **bolded** below.
 
 #### [Governor's Office]{.underline}
 
--   Governor Executive Order on Racial Equity: <https://www.gov.ca.gov/wp-content/uploads/2022/09/9.13.22-EO-N-16-22-Equity.pdf?emrc=c11513>
+-   [Governor Executive Order on Racial Equity (Executive Order N-16-22)](https://www.gov.ca.gov/wp-content/uploads/2022/09/9.13.22-EO-N-16-22-Equity.pdf?emrc=c11513)
 
--   Equity in the State Revolving Fund use for infrastructure: <https://www.policyinnovation.org/publications/a-fairer-funding-stream>
+-   [Equity in the State Revolving Fund use for infrastructure](https://www.policyinnovation.org/publications/a-fairer-funding-stream)
 
 #### [California Water Boards]{.underline}
 
@@ -99,7 +105,7 @@ All Water Boards authors are **bolded** below.
 
 #### [California Department of Transportation (Caltrans)]{.underline}
 
--   Considering Equity in Community Impact Analysis for Projects <https://dot.ca.gov/-/media/dot-media/programs/environmental-analysis/documents/ser/equity-guidance-a11y.pdf>
+-   [Considering Equity in Community Impact Analysis for Projects](https://dot.ca.gov/-/media/dot-media/programs/environmental-analysis/documents/ser/equity-guidance-a11y.pdf)
 
 #### [Office of Environmental Health and Hazard Assessment (OEHHA)]{.underline}
 
@@ -119,7 +125,7 @@ All Water Boards authors are **bolded** below.
 
 ### [Other State Level Resources]{.underline}
 
--   MN DOT Governance and Best Practices: A tailored document like this would be useful to encourage contributors to follow the same guidelines and understand which groups or tags need to be added for the data to be ingested properly. - [MnDOT Governance and Best Practices and User Requirements (1).docx](https://github.com/user-attachments/files/16605638/MnDOT.Governance.and.Best.Practices.and.User.Requirements.1.docx)
+-   [MN DOT Governance and Best Practices](https://github.com/user-attachments/files/16605638/MnDOT.Governance.and.Best.Practices.and.User.Requirements.1.docx): A tailored document like this would be useful to encourage contributors to follow the same guidelines and understand which groups or tags need to be added for the data to be ingested properly.
 
 ### [National Level Resources]{.underline}
 
@@ -127,7 +133,7 @@ All Water Boards authors are **bolded** below.
 -   [Year of Open Science Fact Sheet](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/) (2023)
 -   <https://www.census.gov/programs-surveys/acs/data.html> - The American Community Survey (ACS) releases new data every year through a variety of data tables that you can access with different data tools.
 -   <https://www.census.gov/programs-surveys/acs/library/handbook> - You can use American Community Survey (ACS) data in different ways and for different reasons. Each one of our downloadable PDF handbooks helps a particular group with specific how-to instructions and/or case studies.
--   US EPA guidance for Assessing Environmental Justice in Regulatory Analysis <https://www.epa.gov/system/files/documents/2023-11/ejtg_revision_110823_508compliant_0.pdf>
+-   [US EPA guidance for Assessing Environmental Justice in Regulatory Analysis](https://www.epa.gov/system/files/documents/2023-11/ejtg_revision_110823_508compliant_0.pdf)
 -   Guide from the U.S. Department of Health and Human Services on how to conduct an equity assessment of a policy or program: [In-Depth Equity Assessment Guide \| ASPE (hhs.gov)](https://aspe.hhs.gov/reports/equity-assessment-guide)
 -   [FACT SHEET: Biden-⁠Harris Administration Releases Annual Agency Equity Action Plans to Further Advance Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-releases-annual-agency-equity-action-plans-to-further-advance-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
 -   <https://www.usich.gov/resources/uploads/asset_library/Racial_Equity_Data_Guidebook.pdf> (link broken?) - The U.S. Interagency Council on Homelessness (USICH) is the only federal agency with a sole mission focused on preventing and ending homelessness in America. The council consists of 19 federal agencies that help create and catalyze implementation of the Federal Strategic Plan to Prevent and End Homelessness.
@@ -135,11 +141,11 @@ All Water Boards authors are **bolded** below.
 -   <https://cssp.org/wp-content/uploads/2021/09/Our-Identities-Ourselves-Project-Infographic-FINAL.pdf> - Center for the Study of Social Policy. This is the first phase of a larger project whose goal is to share best practices for collecting data about race, ethnicity, and other demographic information including sexual orientation, gender identity and expression (SOGIE); national origin; language spoken; disability; religion; and tribal affiliation in child welfare agencies nationwide.
 -   [CDC guidance: Principles for Using Public Health Data to Drive Equity A guide to embedding equitable practices throughout the data life cycle](https://www.cdcfoundation.org/data-equity-principles?inline)
 -   [Federal Register :: Initial Proposals For Updating OMB's Race and Ethnicity Statistical Standards](https://www.federalregister.gov/documents/2023/01/27/2023-01635/initial-proposals-for-updating-ombs-race-and-ethnicity-statistical-standards)
--   Actionable Intelligence for Social Policy (AISP) Centering for Equity Toolkit: <https://aisp.upenn.edu/resource-article/a-toolkit-for-centering-racial-equity-throughout-data-integration/>
--   Urban Institute's Principles for Advancing Equitable Data Practice: <https://www.urban.org/sites/default/files/publication/102346/principles-for-advancing-equitable-data-practice.pdf>
+-   [Actionable Intelligence for Social Policy (AISP) Centering for Equity Toolkit](https://aisp.upenn.edu/resource-article/a-toolkit-for-centering-racial-equity-throughout-data-integration/)
+-   [Urban Institute's Principles for Advancing Equitable Data Practice](https://www.urban.org/sites/default/files/publication/102346/principles-for-advancing-equitable-data-practice.pdf)
 -   General Data Management resource hub from the National Institute of Health that includes FAIR principles, metadata practices etc. <https://sharing.nih.gov/data-management-and-sharing-policy/data-management>
 -   Hero Database with Racial Equity Resources collated from the National : <https://hero.epa.gov/hero/index.cfm/project/page/project_id/3611>
--   <https://nationalequityatlas.org/> The National Equity Atlas is America's most detailed report card on racial and economic equity.
+-   [The National Equity Atlas](https://nationalequityatlas.org/) is America's most detailed report card on racial and economic equity.
 -   US EPA has [guidance](https://www.epa.gov/geospatial/guidance-content-item-metadata-arcgis-online) for content metadata in ArcGIS Online.
 -   [Initial Proposals for Revising the Federal Race and Ethnicity Standards \| OMB \| The White House](https://www.whitehouse.gov/omb/briefing-room/2023/01/26/initial-proposals-for-revising-the-federal-race-and-ethnicity-standards/)
 
