@@ -258,3 +258,8 @@ Here you might describe next steps or project ideas that are outside the scope a
 -   [MIT Libraries - Write a Data Management Plan](https://libraries.mit.edu/data-management/plan/write/)
 -   [Harvard Medical School - Data Management Plans](https://datamanagement.hms.harvard.edu/plan-design/data-management-plans)
 -   [University of Arizona - Data Management Plans Overview](https://data.library.arizona.edu/data-management/data-management-plans)
+-   [National Institutes of Health Data Management Resources](https://sharing.nih.gov/data-management-and-sharing-policy/data-management)
+-   FAIR and CARE Principles Resources
+    -   [Operationalizing the CARE and FAIR Principles for Indigenous data futures](https://www.nature.com/articles/s41597-021-00892-0)
+
+    -   [Enabling FAIR data in Earth and environmental science with community-centric (meta)data reporting formats](https://www.nature.com/articles/s41597-022-01606-w)

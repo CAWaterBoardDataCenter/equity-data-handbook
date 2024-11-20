@@ -48,6 +48,8 @@ data-intensive workflows
 
 metadata, data dictionaries
 
+-   [US EPA Guidance for Content Item Metadata in ArcGIS Online](https://www.epa.gov/geospatial/guidance-content-item-metadata-arcgis-online)
+
 code (comments within the code; ReadMe, etc.)
 
 reasoning behind decisions

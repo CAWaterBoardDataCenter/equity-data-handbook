@@ -42,11 +42,13 @@ Below we have provided a list of common data sources that can tell us something 
 
 [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen)
 
+-   [Analysis of Race/Ethnicity and CalEnviroScreen 4.0 Scores](https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40raceanalysisf2021.pdf)
+
 #### Federal Data
 
 [United States Census Data](https://www.census.gov/data.html)
 
-[American Community Survey Data](https://www.census.gov/programs-surveys/acs/data.html)
+[American Community Survey Data](https://www.census.gov/programs-surveys/acs/data.html), [ACS Handbooks for Data Users](https://www.census.gov/programs-surveys/acs/library/handbook)
 
 [National Water Quality Portal](https://www.waterqualitydata.us/)
 
