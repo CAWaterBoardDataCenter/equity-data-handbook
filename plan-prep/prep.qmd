@@ -263,3 +263,5 @@ Here you might describe next steps or project ideas that are outside the scope a
     -   [Operationalizing the CARE and FAIR Principles for Indigenous data futures](https://www.nature.com/articles/s41597-021-00892-0)
 
     -   [Enabling FAIR data in Earth and environmental science with community-centric (meta)data reporting formats](https://www.nature.com/articles/s41597-022-01606-w)
+
+    -   [Earth Science Data Repositories: Implementing the CARE Principles](https://doi.org/10.5334/dsj-2024-037.) (O’Brien et al., 2024)

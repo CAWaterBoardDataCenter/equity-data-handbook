@@ -2,8 +2,6 @@
 
 Here you will find a curated list of presentations, webpages and other resources related to the development, implementation and scaling of the principles and practices outlined in this Data Equity Handbook.
 
-All Water Boards authors are **bolded** below.
-
 ## Data Ethics Resources
 
 -   [GovOps medium article on Data Ethics](https://medium.com/caldata/practical-data-ethics-summary-of-what-were-learning-24d0e9d89cd0)
@@ -37,19 +35,25 @@ All Water Boards authors are **bolded** below.
 #### [California Water Boards]{.underline}
 
 -   [Water Boards Environmental Justice Roundtable Resource Catalog](https://cawaterboards.sharepoint.com/:w:/r/sites/WB-OPP-EJRoundtable/Materials/Resources/EJRT_Resources%20Catalogue.docx?d=wbf0bd2eff6e943f0ad5c9972554eb1f4&csf=1&web=1&e=b39KxT)
+
 -   [The Water Boards Office of Research Planning and Performance Water Conservation and Urban Water folks tool](%3Chttps://www.waterboards.ca.gov/water_issues/programs/conservation_portal/water-use-explorer/)
+
 -   [The Water Boards Office of Research Planning and Performance Vulnerable Communities Platform](https://vcp-beta-1-1-gov-opr.hub.arcgis.com/)
+
 -   [Water Boards Division of Drinking Water SAFER Outreach Tool](https://gispublic.waterboards.ca.gov/portal/apps/webappviewer/index.html?id=70d27423735e45d6b037b7fbaea9a6a6)
 
 #### [California Office of Data and Innovation]{.underline}
 
 -   [California Office of Data and Innovation](https://innovation.ca.gov/)
+
 -   [California Data Strategy Report](https://innovation.ca.gov/reports/data-strategy-report-2024/) (2024)
+
 -   [California Data Strategy](https://innovation.ca.gov/pdf/CalData_Californias_Data_Strategy_2020.pdf) (2020)
 
 #### [California Department of Transportation (Caltrans)]{.underline}
 
 -   [Considering Equity in Community Impact Analysis for Projects](https://dot.ca.gov/-/media/dot-media/programs/environmental-analysis/documents/ser/equity-guidance-a11y.pdf)
+
 -   [Beta Transportation Equity Index (EQI) Web Map](https://caltrans.maps.arcgis.com/apps/webappviewer/index.html?id=8ff3d27cdc1a4e8da0ae09c6b076a253)
 
 #### [California Indian Legal Services]{.underline}
@@ -75,36 +79,49 @@ All Water Boards authors are **bolded** below.
 ### [National Level Resources]{.underline}
 
 -   The White House
+
     -   [The Environmental Justice Science, Data, and Research Plan](https://www.whitehouse.gov/wp-content/uploads/2024/07/NSTC-EJ-Research-Plan-July-2024.pdf) (2024)
-    -   [Year of Open Science Fact Sheet](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/) (2023)
+
     -   [FACT SHEET: Biden-⁠Harris Administration Releases Annual Agency Equity Action Plans to Further Advance Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-releases-annual-agency-equity-action-plans-to-further-advance-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) (2024)
-    -   [A Vision for Equitable Data: Recommendations from the Equitable Data Working Group](https://www.whitehouse.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf) (2021)
+
+    -   [Year of Open Science Fact Sheet](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/) (2023)
+
     -   [Initial Proposals for Revising the Federal Race and Ethnicity Standards](https://www.whitehouse.gov/omb/briefing-room/2023/01/26/initial-proposals-for-revising-the-federal-race-and-ethnicity-standards/) (2023)
+
+    -   [A Vision for Equitable Data: Recommendations from the Equitable Data Working Group](https://www.whitehouse.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf) (2021)
+
 -   U.S. Environmental Protection Agency (EPA)
+
     -   [US EPA guidance for Assessing Environmental Justice in Regulatory Analysis](https://www.epa.gov/system/files/documents/2023-11/ejtg_revision_110823_508compliant_0.pdf)
     -   [Health & Environmental Research Online (HERO) Database](https://hero.epa.gov/hero/index.cfm/project/page/project_id/3611) - working list of resources for Justice, Equity, Diversity, and Inclusion (JEDI) in science, particularly those that may interest the water quality monitoring community. This list was initially compiled by the JEDI Working Group (part of the National Water Quality Monitoring Council) in preparation for the 12th National Monitoring Conference.
 
 ### [Non-Governmental Resources]{.underline}
 
 -   Center for the Study of Social Policy (CSSP) - [Antiracist Data Project Survey and Focus Group Findings](https://cssp.org/wp-content/uploads/2021/09/Our-Identities-Ourselves-Project-Infographic-FINAL.pdf). This is the first phase of a larger project whose goal is to share best practices for collecting data about race, ethnicity, and other demographic information including sexual orientation, gender identity and expression (SOGIE); national origin; language spoken; disability; religion; and tribal affiliation in child welfare agencies nationwide.
+
 -   Actionable Intelligence for Social Policy (AISP) - [A Toolkit for Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/resource-article/a-toolkit-for-centering-racial-equity-throughout-data-integration/)
+
 -   CDC Foundation - [Principles for Using Public Health Data to Drive Equity: A guide to embedding equitable practices throughout the data life cycle](https://www.cdcfoundation.org/data-equity-principles?inline)
+
 -   PolicyLink and the USC Equity Research Institute - [The National Equity Atlas](https://nationalequityatlas.org/) is America's most detailed report card on racial and economic equity. We equip movement leaders and policymakers with actionable data and strategies to advance racial equity and shared prosperity.
+
 -   Urban Institute
+
     -   [Elevate Data for Equity](https://www.urban.org/elevate-data-equity){.uri}
 
     -   [Principles for Advancing Equitable Data Practice](https://www.urban.org/sites/default/files/publication/102346/principles-for-advancing-equitable-data-practice.pdf)
 
     -   [Five Ethical Risks to Consider before Filling Missing Race and Ethnicity Data](https://www.urban.org/sites/default/files/publication/103830/five-ethical-risks-to-consider-before-filling-missing-race-and-ethnicity-data-workshop-findings_0.pdf)
+
 -   [Beyond Compliance Network Advocacy Toolkit](https://beyondcompliance.pubpub.org/pub/c90gqevm/release/2)
+
 -   [Academic Data Science Alliance Data Science Ethos](https://ethos.academicdatascience.org/)
+
 -   [500 Women Scientists Guide for Inclusive Scientific Meetings](https://500womenscientists.org/inclusive-scientific-meetings)
+
 -   [We All Count - Data Equity Framework](https://weallcount.com/the-data-process/)
+
 -   [Mapping for Whom? Communities of Color and the Citizen Science Gap](https://acme-journal.org/index.php/acme/article/view/2178/1654)
-
-## Literature
-
-O’Brien, M., Duerr, R., Taitingfong, R., Martinez, A., Vera, L., Jennings, L.L., Downs, R.R., Antognoli, E., ten Brink, T., Halmai, N.B., David-Chavez, D., Carroll, S.R., Hudson, M. and Buttigieg, P.L. (2024) ‘[Earth Science Data Repositories: Implementing the CARE Principles](https://doi.org/10.5334/dsj-2024-037.)’, *Data Science Journal*, 23(1), p. 37.
 
 ## Books
 
