@@ -46,9 +46,15 @@ Comprehensive documentation using an equity lens can be yet another tool we can 
 
 Poor documentation is rarely used or referred to after it is written, and feels like (and often is) a waste of time.
 
-Great documentation is an investment that is built over time. No one documents something and gets *everything* down perfectly the first time. **Teams with great documentation [decide]{.underline} progress is better than perfection and make time to iteratively improve, build on, and evolve what is documented over time so that it continues to be comprehensive and useful beyond when it was first drafted.** This is why it's critical to think through what you/your team will document, how they will develop that documentation, where it will be stored, how it will be shared (or not), and who will be responsible for creating and maintain it.
+Great documentation is an investment that is built over time. No one documents something and gets *everything* down perfectly the first time. **Teams with great documentation [decide]{.underline} progress is better than perfection and make time to iteratively improve, build on, and evolve what is documented over time so that it continues to be comprehensive and useful beyond when it was first drafted.** This is why it's critical for teams to think through:
 
-So, when we are deciding what to document, and begin the documentation process we should expect to document (almost) everything in some form, and plan to invest time accordingly. A list of things you may want to consider documenting is provided in the graphic below.
+-   what the team will document
+-   how documentation will be developed
+-   where documentation will be stored
+-   how it will be shared (or not)
+-   who will be responsible for creating and maintaining documentation over time
+
+When teams are beginning their documentation discussions and process, they should expect to document (almost) everything in some form, and plan to invest time accordingly. A list of things to consider documenting is provided in the graphic below.
 
 ::: callout-tip
 Trying to document *everything* below *all at once* can feel overwhelming and impossible. That's because it is!
