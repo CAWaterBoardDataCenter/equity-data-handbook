@@ -22,23 +22,37 @@ Individuals and teams that invest the time to create clear and complete document
 
 ## Documenting with an Equity Lens
 
-There are abundantly clear benefits to ourselves, our teams and our partners when we invest in comprehensive and clear documentation. As you embark on your documentation journey, be sure to also consider what documentation would be helpful for others outside of your normal or core project team, and keep in mind the below considerations and remember to document with an equity lens.
+There are abundantly clear benefits to ourselves, our teams, and our partners when we invest in comprehensive and clear documentation. As you embark on your documentation journey, be sure to also consider what documentation would be helpful for others outside of your normal or core project team, keep the below considerations in mind, and remember to document with an equity lens.
 
-**Reproducibility:** Reproducibility is a vital aspect of documentation that plays a key role in advancing and operationalizing equity into our data-intensive work. When our work is documented in a way that allows ourselves and others to replicate findings, it ensures that folks can access and validate the data as part of their understanding and workflows.
+**Reproducibility:** Reproducibility is a vital aspect of documentation that plays a key role in advancing and operationalizing equity into our data-intensive work. When our work is documented in a way that allows ourselves and others to replicate process and findings, it ensures that folks can access and validate the data as part of their understanding and workflows.
 
 **Transparency:** Transparency in documentation is particularly vital for building trust with communities that have historically and to this day experience a lack of openness or consideration by government. By prioritizing transparent documentation, we can clearly communicate and connect the dots for folks when it comes to how we work, what data and methods we use, what that data tells us and the reasoning and actions we take throughout our processes, thus better enabling communities to understand how and why we make certain decisions and how all of that may impact them and others. This openness can empower current and potential future partners and communities to engage meaningfully with our work, ensuring that their voices are respected and needs are considered in ongoing and future work.
 
-**Accessibility**: When our is projects, products, and process are presented in ways that center accessibility— such as offering offline materials, using multiple languages, or documenting in [plain language](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html#use-plain-accessible-and-inclusive-language) — it lowers barriers and makes it easier for individuals to participate and engage. Prioritizing accessibility in our documentation not only increases access to vital information but also demonstrates a genuine commitment to inclusivity and respect for diverse experiences.
+::: callout-note
+### Open and Transparent Doesn't Always Mean Public {.callout-note}
 
-**Collaboration**: **If** documentation exists ***and*** that documentation is comprehensive, reproducible, transparent, and accessible then our projects, products, and process can help us rebuild trust, repair old relationships or start new ones and ultimately make it easier for communities to *want* to engage, collaborate and meaningfully contribute to our processes, or better yet, co-create products and resources with us. Prioritizing documentation and creating it with an equity lens, can help us bridge gaps in communication and understanding, ultimately fostering trust, collaboration, and relationships with communities that have had the experience of being excluded or otherwise overlooked in our projects, products, and process.
+While we want to make as much of our process and products open and transparent as possible, this does not mean the EVERYTHING should be made public. It's important to balance the need to keep confidential and private information secure while also making process and products open, transparent, and publicly available. This balance varies by project.
+
+What's important is for teams to discuss what this balance looks like for them and act, document, and share accordingly.
+:::
+
+**Accessibility**: When our is projects, process, and products are presented in ways that center accessibility— such as offering offline materials, using multiple languages, or documenting in [plain language](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html#use-plain-accessible-and-inclusive-language) — it lowers barriers and makes it easier for individuals to participate and engage. Prioritizing accessibility in our documentation not only increases access to vital information but also demonstrates a genuine commitment to inclusivity and respect for diverse experiences.
+
+**Collaboration**: [If]{.underline} documentation exists [and]{.underline} that documentation is comprehensive, reproducible, transparent, and accessible then (and only then!) will our projects, products, and process help us rebuild trust, repair relationships and/or begin to build new ones, which ultimately make it easier for communities to *want* to engage, collaborate and meaningfully contribute to our processes, or better yet, co-create products and resources with us. Prioritizing and investing in documentation, and creating it with an equity lens, can help us bridge gaps in communication and understanding, ultimately fostering trust, collaboration, and relationships with communities that have had the experience of being excluded or otherwise overlooked in our projects, products, and process.
 
 Comprehensive documentation using an equity lens can be yet another tool we can use to operationalize equity and advance more equitable outcomes in our work.
 
-## What to Document \<\< LEFT OFF HERE
+## What to Document
+
+In short - (almost) everything.
+
+Poor documentation is rarely used or referred to after it is written, and feels like (and often is) a waste of time.
+
+Great documentation is an investment that is built over time. No one documents something and gets *everything* down perfectly the first time. **Teams with great documentation [decide]{.underline} progress is better than perfection and make time to iteratively improve, build on, and evolve what is documented over time so that it continues to be comprehensive and useful beyond when it was first drafted.** This is why it's critical to think through what you/your team will document, how they will develop that documentation, where it will be stored, how it will be shared (or not), and who will be responsible for creating and maintain it.
 
 Create graphic to replace this one with documentation categories? For Product, Users, Process within a Project?
 
-Tran
+Training
 
 tips provided in other sections of this handbook...but also...
 
@@ -48,27 +62,25 @@ data-intensive workflows
 
 metadata, data dictionaries
 
--   [US EPA Guidance for Content Item Metadata in ArcGIS Online](https://www.epa.gov/geospatial/guidance-content-item-metadata-arcgis-online)
-
 code (comments within the code; ReadMe, etc.)
 
 reasoning behind decisions
 
-## Resources
+## Additional Resources
 
-### Tools Available to Support Documentation:
-
--   Openscapes at the Water Boards - Pathway
+-   [Openscapes Pathway](https://openscapes.github.io/series/pathways.html) - Join [Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/) to learn more and build your Team Pathway!
 -   [Schema.org](https://schema.org/) -- Promoting common data structures on the internet
 -   [Accessibility tips using Markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/) (Smashing Magazine)
 -   Writethedocs.org, plus a piece on [documenting for beginners](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 -   [Templates](https://github.com/kylelobo/The-Documentation-Compendium#templates-) for documenting on GitHub (e.g., on a ReadMe)
 -   Creating and maintaining a [Data Dictionary](https://www.fgdc.gov/metadata/csdgm-standard)
+-   [US EPA Guidance for Content Item Metadata in ArcGIS Online](https://www.epa.gov/geospatial/guidance-content-item-metadata-arcgis-online)
 -   Document code through comments and [#tidydata](https://vita.had.co.nz/papers/tidy-data.pdf)
 -   GitHub projects [best practices](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/best-practices-for-projects)
 
 ### Examples of Documentation
 
--   [NOAA NMFS: Open Science Resources](https://nmfs-opensci.github.io/ResourceBook/)
--   [NOAA Fisheries: Code documentation](https://noaa-fisheries-integrated-toolbox.github.io/resources/best-practices/code-documentation/)
--   [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/)
+-   [NOAA NMFS Open Science Resources](https://nmfs-opensci.github.io/ResourceBook/) - A Compilation of Resources and Experience to Support Open Science Communities in NOAA Fisheries
+-   [NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/) - Browse software tools for NOAA Fisheries scientific work
+-   [NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) - Supporting NASA Research Teams’ Migration to the Cloud
+-   [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/) - Guidance for Openscapes leaders on how to implement Openscapes programs and approaches
