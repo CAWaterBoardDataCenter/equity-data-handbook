@@ -12,16 +12,78 @@ You don't need to wait until the project is complete to benefit from using these
 
 ## Root Cause Analysis
 
-A root cause analysisis a technique that helps idenify the what caused a problem. Identifying the root cause(s) is the most effective way to prevent future problems and ultimately remedy the exisiting ones. The Water Boards Advancing Racial Equity training course provides some strong content touches on root cause analysis and it's importance when considering racial inequities which is based on the common framework of asking why at least five times. Some online resources and templates are available below:
+Root cause analysis is a technique that helps identify the fundamental reasons, or root causes, of a problem or unwanted outcome. Once the root causes are idenditifed, actions can be taken to address those causes and minimize or eliminate their impact on outcomes. Identifying the root cause(s) is the most effective way to prevent future problems and ultimately remedy existing ones.
 
--   <https://slidemodel.com/templates/tag/root-cause-analysis/>
+### Considerations
 
--   <https://www.pvpc.org/content/root-cause-solutions-exchange>
+It can be tempting to jump straight into the Root Cause Analysis process. Before you do, it's important to think through the below considerations and prepare accordingly.
 
--   <https://www.mchevidence.org/learning/framework/tools.php>
+#### Put a team together
+
+Root Cause Analysis should not be completed in a silo. At the very least, the team should include individuals within our organization that are interested in working on and correcting the problem at hand. **At best, the team would include partners from communities that are impacted by the problem at hand.** Inclusion of external partners enables us to give voice to important perspectives and the lived experiences of those who have been and/or are currently being impacted by the problem. When the team does not include such critical perspectives, there is a tendency to rush to propose solutions that address symptoms of the problem, rather than the actual root causes of the issue.
+
+::: callout-important
+##### Effectively Partnering with Communities Requires Commitment {.callout-important}
+
+Remember that effectively partnering with communities requires making a commitment that extends beyond soliciting feedback in focus groups and surveys. A sustained, long-term, reciprocal relationship must be built on trust and open, honest communication where power is shared. Taking the time to strengthen those relationships will not only benefit the organization but also the outcomes of the communities served.
+
+Quote adapted from [Advancing Health Equity's Root Cause Analysis Page](https://advancinghealthequity.org/roadmap-to-ahe/diagnose-root-causes/)
+:::
+
+See [Step 3 of the Planning Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html#step-3.-collect-expert-input-including-from-affected-community-members) for more guidance.
+
+#### Allocate time to the process
+
+It takes time to truly and deeply interrogate the "whys" and data associated with the problem at hand. Depending on the complexity of the problem, **the team should plan to meet over the course of a few weeks to a few months to complete the process.**
+
+#### Don't avoid hard truths
+
+If you've made it this far into your process, it probably means that you are truly interested and invested in operationalizng and advancing equity into your data-intensive work. Part of that process is acknowledging hard truths and sitting with discomfort. Team members may share perspectives, experiences, or identify root causes during the process that bring up uncomfortable or unfamiliar feelings. While experiencing those feelings is normal, i**t's important to remember to honor hard truths, and prioritize the process over your comfort.**
+
+> Integrity is choosing courage over comfort
+>
+> It's choosing what's right over what's fun, fast, or easy
+>
+> And it's practicing your values, not just professing them
+>
+> — Brené Brown, Dare to Lead
+
+When it comes to the Root Cause Analysis process specifically, it's important to be aware of and push back on views that reinforce individual responsibility over the role of systemic, structural, and institutional racism.
+
+### Process
+
+1.  Identify the problem
+
+2.  Built a team that includes people who are impacted by the problem
+
+3.  Schedule time over the course of a few weeks to a few months to complete the process
+
+4.  Interrogate the problem and associated data with an equity lens by asking "why" at least 5 times.
+
+5.  Prioritize actions you/your team can take to address the root cause(s) of the problem.
+
+Step 4 above is the core of the process, and can be completed using many different methodologies or approaches. Below are a few simple graphical templates you can use to get started!
+
+![Graphical templates illustrating approaches to the problem interrogation process: A.](images/Eval_RCA_Templates.png)
 
 ## Results-Based Accountability (RBA)
 
 ## Performance Accountability
 
 ## Other Racial Equity Lens Evaluation Questions
+
+## **Resources**
+
+### Root Cause Analysis
+
+-   [Advancing Health Equity Root Cause Analyses Guide](https://advancinghealthequity.org/roadmap-to-ahe/diagnose-root-causes/)
+-   [American Society for Quality Root Cause Analysis Guide](https://asq.org/quality-resources/root-cause-analysis)
+-   [Root Cause Analysis Templates for PowerPoint & Google Slides](https://slidemodel.com/templates/tag/root-cause-analysis/)
+-   Examples related to identifying root causes of health inequities
+    -   [Pioneer Valley Planning Exchange - Root Cause Solutions Exchange Process](https://www.pvpc.org/content/root-cause-solutions-exchange){.uri}
+
+    -   [National Center for Education in Maternal and Child Health - Ready, Set, Go approach that utilizes Root Cause Analysis](https://www.mchevidence.org/learning/framework/tools.php){.uri}
+
+#### Results-Based Accountability (RBA)
+
+### Performance Accountability
