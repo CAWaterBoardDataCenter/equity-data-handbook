@@ -77,11 +77,25 @@ Results-Based Accountability (RBA)[^eval-1] is a tool to support a disciplined w
 
 [^eval-1]: The bulk of content in the Results Based Accountability (RBA) section has been informed by: [The Government Alliance on Race and Equity (GARE) guide to applying an equity lens to the RBA methodology](https://www.racialequityalliance.org/viewdocument/racial-equity-getting-to-results-2)
 
-The RBA process involves asking a set of seven questions, and starts with the desired results (outcomes, impact) and works backward towards the means (solutions, strategies, actions) to ensure that plans work toward community-centered results and implementation. The RBA process also helps to distinguish between population level (whole groups) indicators, that are the responsibility of multiple systems and take a long time to shift, and performance measures (activity-specific) that teams can use to determine whether what they do is having an impact.
+The RBA process involves two parts, each asking a set of seven questions, and starts with the desired results (outcomes, impact) and works backward towards the means (solutions, strategies, actions) to ensure that plans work toward community-centered results and implementation. The RBA process also helps to distinguish between population level (whole groups) indicators, that are the responsibility of multiple systems and take a long time to shift, and performance measures (activity-specific) that teams can use to determine whether what they do is having an impact.
 
 ### Considerations
 
-### Process
+#### The RBA includes Root Cause Analysis
+
+In step 4 below, teams will use Root Cause Analysis to understand the "whys" behind the trends they see in the data related to their work. As such, it will be critical to remember the considerations in the Root Cause Analysis section and apply them to Step 4 (and all other steps) of the RBA Process as well: [Put a team together](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#put-a-team-together), [Allocate time to the process](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#allocate-time-to-the-process), [Don't avoid hard truths](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#dont-avoid-hard-truths).
+
+#### Impact requires community at the center of all work
+
+To truly achieve the impact we require with our racial equity goals, it is essential that the work be community based and participatory. The process requires taking time to develop relationship, trust, and true partnership with the communities that are most impacted by our work so that solutions to the problem at hand are co-created with and groundtruthed by those who will ultimately benefit or be burdened by the intended and unintended impacts of the decisions.
+
+For more information, see the [Put a team together](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#put-a-team-together) consideration under the Root Cause Analysis section above, and the below Living Cities RBA Video on the importance of community participatory practice:
+
+{{< video https://vimeo.com/360877401 >}}
+
+#### Anti-racist RBA work requires culture change
+
+### Action Identification Process
 
 1.  **What are the desired results?** These statements should (1) reflect the equity outcomes you want to see in the whole population (i.e., communities, cities, states), and (2) positive conditions (e.g., "healthy" vs. "not sick"). If you're stuck, try filling in the following statement: “We want communities that are \[ insert positive condition that reflects an equity outcome \]”
 
@@ -127,7 +141,7 @@ The RBA process involves asking a set of seven questions, and starts with the de
         If we are truly interested and invested in advancing and operationalizing equity into our work, we need to seriously consider making different choices. This is an opportunity to walk the talk of equity - to put our time, money, and resources where our proverbial mouths are - to go from preformative words about the importance of equity to making the difficult decisions and taking the time and resources needed to actually practice and operationalize equity.
         :::
 
-## Performance Accountability
+### Performance Accountability Process
 
 ## Other Racial Equity Lens Evaluation Questions
 
@@ -161,6 +175,6 @@ The **Racial Equity Lens tool** helps us integrate an explicit focus on racial e
 #### Results-Based Accountability (RBA)
 
 -   [GARE guide that connects a racial equity lens to the RBA methodology](https://www.racialequityalliance.org/viewdocument/racial-equity-getting-to-results-2)
--   
+-   [A beginners guide to anti-racist Results Based Accountability (RBA)](https://medium.com/@Living_Cities/your-beginners-guide-to-anti-racist-results-based-accountability-rba-a1e3fae60055)
 
 ### Performance Accountability
