@@ -5,7 +5,7 @@ After a project is complete (or has gone through a complete iteration) - it's im
 Depending on what you discover during the evaluation process, you may need to undergo a second phase or iteration of the project to integrate lessons and get closer to achieving the original goals and desired equity outcomes.
 
 ::: callout-tip
-You don't need to wait until the project is complete to benefit from using these tools! It may be helpful to use these tools at multiple points during your project or process.
+While the processes below include numerical steps - that does not mean steps *must* be completed in that order, or that steps *must* be completed all at once. Moreover, teams don't need to wait until the project is complete to benefit from using these tools! It may be helpful to use some or all of these tools at the during the [Plan & Prepare phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/), and then revisit and iterate some or all components at multiple points during your project or process.
 
 ***When in doubt - make time to use these tools early and often!***
 :::
@@ -234,7 +234,7 @@ The **Racial Equity Lens tool** helps us integrate an explicit focus on racial e
 
 7.  How will you ensure accountability, communicate, and evaluation results?
 
-## **Resources**
+## Resources
 
 ### Root Cause Analysis
 
@@ -245,9 +245,7 @@ The **Racial Equity Lens tool** helps us integrate an explicit focus on racial e
     -   [Pioneer Valley Planning Exchange - Root Cause Solutions Exchange Process](https://www.pvpc.org/content/root-cause-solutions-exchange){.uri}
     -   [National Center for Education in Maternal and Child Health - Ready, Set, Go approach that utilizes Root Cause Analysis](https://www.mchevidence.org/learning/framework/tools.php){.uri}
 
-#### Results-Based Accountability (RBA)
+### Results-Based Accountability (RBA)
 
 -   [GARE guide that connects a racial equity lens to the RBA methodology](https://www.racialequityalliance.org/viewdocument/racial-equity-getting-to-results-2)
 -   [A beginners guide to anti-racist Results Based Accountability (RBA)](https://medium.com/@Living_Cities/your-beginners-guide-to-anti-racist-results-based-accountability-rba-a1e3fae60055)
-
-### Performance Accountability
