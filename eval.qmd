@@ -89,13 +89,19 @@ In step 4 below, teams will use Root Cause Analysis to understand the "whys" beh
 
 To truly achieve the impact we require with our racial equity goals, it is essential that the work be community based and participatory. The process requires taking time to develop relationship, trust, and true partnership with the communities that are most impacted by our work so that solutions to the problem at hand are co-created with and groundtruthed by those who will ultimately benefit or be burdened by the intended and unintended impacts of the decisions.
 
-For more information, see the [Put a team together](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#put-a-team-together) consideration under the Root Cause Analysis section above, and the below Living Cities RBA Video on the importance of community participatory practice:
+For more information, see the [Put a team together](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#put-a-team-together) consideration under the Root Cause Analysis section above, and the below Living Cities RBA Video on the importance of community participatory practice.
+
+Note how in the video, Theo Miller (Executive Director of Hope SF) speaks to how a truly rigorous, data-driven, and equity centered RBA process requires:
+
+1.  integrating community in the data process
+2.  acknowledging of the power dynamics of data
+3.  transparency of data and results throughout the process (see the [Publish and Share section](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html) for guidance on how to make data and products transparent, open and accessible)
 
 {{< video https://vimeo.com/360877401 >}}
 
 #### Anti-racist RBA work requires culture change
 
-### Action Identification Process
+### Part 1: Action Identification
 
 1.  **What are the desired results?** These statements should (1) reflect the equity outcomes you want to see in the whole population (i.e., communities, cities, states), and (2) positive conditions (e.g., "healthy" vs. "not sick"). If you're stuck, try filling in the following statement: “We want communities that are \[ insert positive condition that reflects an equity outcome \]”
 
@@ -141,7 +147,7 @@ For more information, see the [Put a team together](https://cawaterboarddatacent
         If we are truly interested and invested in advancing and operationalizing equity into our work, we need to seriously consider making different choices. This is an opportunity to walk the talk of equity - to put our time, money, and resources where our proverbial mouths are - to go from preformative words about the importance of equity to making the difficult decisions and taking the time and resources needed to actually practice and operationalize equity.
         :::
 
-### Performance Accountability Process
+### Part 2: Performance Accountability
 
 ## Other Racial Equity Lens Evaluation Questions
 
