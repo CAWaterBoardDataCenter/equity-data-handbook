@@ -73,7 +73,7 @@ Step 4 above is the core of the process, and can be completed using many differe
 
 ## Results-Based Accountability (RBA)
 
-Results-Based Accountability (RBA)[^eval-1] is a tool to support a disciplined way of thinking and taking action that can be used to improve the performance of programs or projects and their associated outcomes. Like the Root Cause Analysis process, asking "why" is central to this process but applied in different ways.
+Results-Based Accountability (RBA)[^eval-1] is a tool to support a disciplined way of thinking and taking action that can be used to improve the performance of programs or projects and their associated outcomes.
 
 [^eval-1]: The bulk of content in the Results Based Accountability (RBA) section has been informed by: [The Government Alliance on Race and Equity (GARE) guide to applying an equity lens to the RBA methodology](https://www.racialequityalliance.org/viewdocument/racial-equity-getting-to-results-2)
 
@@ -81,7 +81,7 @@ The RBA process involves two parts, each asking a set of seven questions, and st
 
 ### Considerations
 
-#### The RBA includes Root Cause Analysis
+#### RBA includes conducting Root Cause Analysis
 
 In step 4 below, teams will use Root Cause Analysis to understand the "whys" behind the trends they see in the data related to their work. As such, it will be critical to remember the considerations in the Root Cause Analysis section and apply them to Step 4 (and all other steps) of the RBA Process as well: [Put a team together](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#put-a-team-together), [Allocate time to the process](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#allocate-time-to-the-process), [Don't avoid hard truths](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#dont-avoid-hard-truths).
 
@@ -95,11 +95,25 @@ In the video, Theo Miller (Executive Director of Hope SF) notes that a truly rig
 
 1.  integrating community in the data process
 2.  acknowledging of the power dynamics of data
-3.  transparency of data and results throughout the process (see the [Publish and Share section](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html) for guidance on how to make data and products transparent, open and accessible)
+3.  transparency of data and results throughout the process (see the [Publish and Share section](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html) for guidance on how to make data and products transparent, open, and accessible)
 
 {{< video https://vimeo.com/360877401 >}}
 
 #### Anti-racist RBA work requires culture change
+
+> Culture is a set of living relationships working towards a shared goal. It's not something you are, it's something you do.
+>
+> — Daniel Coyle, [The Culture Code](https://danielcoyle.com/the-culture-code/)
+
+Our organization's culture lives at the intersection of our values and behavior. Our decisions reflect what we value (i.e., racial equity) and how we behave (i.e., our actions). [Shifting our institutional cultures](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341) to be more data driven, equitable, inclusive, and kind takes time and can be uncomfortable.
+
+As noted in the [Beginners Guide to Anti-Racist RBA](https://medium.com/@Living_Cities/your-beginners-guide-to-anti-racist-results-based-accountability-rba-a1e3fae60055):
+
+> Anti-racist RBA requires that you look inward and understand how your own power, privilege, biases, world view and identity impacts everything that you do, and then having done that personal work use your power, understanding of history, awareness of your blind spots, and ability to identify and interrupt instances of racism to make more equitable decisions in your role. These are the behaviors that lead to systems change.
+
+In the below Living Cities RBA Video, Robin Brule (The Integration Initiative Director) details the journey and tensions she and her team at City Alive underwent and are continuously work through as they implement the RBA framework:
+
+{{< video https://vimeo.com/360877575 >}}
 
 ### Part 1: Action Identification
 
