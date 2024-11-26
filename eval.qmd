@@ -109,7 +109,7 @@ The RBA process involves asking a set of seven questions, and starts with the de
 
 7.  **What actions should we start with?** For each action (or group of similar action ideas), answer the questions associated with each criteria category to help determine which actions will be prioritized during implementation:
 
-    -   **Values**: Is the action strengths-based, people-centered, culturally relevant, and anti-racist? Does it advance a racial equity goals?
+    -   **Values**: Is the action strengths-based, people-centered, culturally relevant, and anti-racist? Does it advance our racial equity goals?
 
     -   **Leverage**: How likely is the action to change the trendline towards equity? What additional resources for change does it activate?
 
@@ -120,9 +120,9 @@ The RBA process involves asking a set of seven questions, and starts with the de
         ::: callout-important
         #### Feasibility does not equal business as usual
 
-        Note that we might need to adjust and reprioritize our workloads (i.e. how we spend our time) and resources (how we spend our money) to *make* an action feasible. If this is necessary but it also makes completing the action feasible, it should be considered a feasible action!
+        Note that we might need to adjust and reprioritize our workloads (i.e., how we spend our time) and resources (i.e., how we spend our money) to make an action truly feasible. If this is necessary but it also makes completing the action feasible, it should be considered a feasible action!
 
-        This process and way of thinking disrupts historical patterns of “doing (or not doing) what we’ve always done because we’ve always done it that way.” That way of work, regardless of our good intentions, does not produce the racial equity we demand in our communities.
+        This process and way of thinking disrupts historical patterns of “doing (or not doing) what we’ve always done because we’ve always done it that way.” That way of work, regardless of our good intentions, does not produce the racial equity we demand in our communities - and ultimately perpetuates inequitable outcomes.
 
         If we are truly interested and invested in advancing and operationalizing equity into our work, we need to seriously consider making different choices. This is an opportunity to walk the talk of equity - to put our time, money, and resources where our proverbial mouths are - to go from preformative words about the importance of equity to making the difficult decisions and taking the time and resources needed to actually practice and operationalize equity.
         :::
