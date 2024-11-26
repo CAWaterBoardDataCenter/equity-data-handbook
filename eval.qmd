@@ -91,7 +91,7 @@ To truly achieve the impact we require with our racial equity goals, it is essen
 
 For more information, see the [Put a team together](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#put-a-team-together) consideration under the Root Cause Analysis section above, and the below Living Cities RBA Video on the importance of community participatory practice.
 
-Note how in the video, Theo Miller (Executive Director of Hope SF) speaks to how a truly rigorous, data-driven, and equity centered RBA process requires:
+In the video, Theo Miller (Executive Director of Hope SF) notes that a truly rigorous, data-driven, and equity centered RBA process requires:
 
 1.  integrating community in the data process
 2.  acknowledging of the power dynamics of data
