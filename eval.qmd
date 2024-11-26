@@ -177,7 +177,7 @@ For each of the priority actions identified in [Part 1](https://cawaterboarddata
 
 2.  **What is the action’s intended impact?** Answering this question will generate the action's performance measures and will mean the difference between doing business as usual, which has produced racially inequitable results for generations, and being accountable for the impact of our work.
 
-    First, teams will answer the following questions to understand the intended impact of the action. Review how teams responded to "What would the results look like?" during Part 1 of the RBA process and refine the vision captured in those responses to make them specific to the action.
+    First, teams will answer the following questions to understand the intended impact of the action. Review how teams responded to "What would the results look like?" during [Part 1](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#part-1-action-identification) of the RBA process and refine the vision captured in those responses to make them specific to the action.
 
     -   What is the intended impact?
     -   How would we know if the action worked?
@@ -193,11 +193,33 @@ For each of the priority actions identified in [Part 1](https://cawaterboarddata
 
 3.  **What is the quality of the action?** The purpose of this group of metrics it to ensure the action is being done *well*. Consider metrics that can measure cultural relevance, language access, and participation rates to more technical measures of staff training and staff-to-client ratios. If the “better off” measures show no change, quality measures sometimes tell us why we are not having an impact. Alternately, just because the action is being implemented in a high-quality manner, does not mean that the “better off” data will move in the right direction.
 
-    *\<insert graphic that ties metrics from above qs together\>*
+4.  **What is the story behind the data?** It is critical to review the data at the performance level, ask why, and get to root causes - many might be the same as the community level, but it's critical to take time to regularly review, confirm and adjust as needed. Review how teams responded to "What do the data tell us?" during [Part 1](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#part-1-action-identification) of the RBA process to refresh on root causes at the population level, and then refine understanding (as needed) to make them applicable and specific to the action. Completing this step makes the difference between perpetuating systemic failures to address racially disproportionate outcomes and disrupting them to operationalize equity and justice.
 
-4.  What is the story behind the data?
+5.  **Who are the partners with a role to play?** Identify which partners would be the most effective and impactful to support completing this action. Review how teams responded to "Who are our partners?" during [Part 1](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#part-1-action-identification) of the RBA process and consider who is needed and in what role to move the work of this specific action forward. When teams fail to think about the partners that would make their work more effective, it results in the continuation of business as usual, and prevents them from having the thought partners at the table that would allow them to take their work from good to transformative.
 
-5.  
+6.  **What works to have greater impact?** As teams implement the action, take time periodically to reflect, especially when things are not going well, as planned, or the data coming in does not show the expected impact. Remember that you have already identified root cases at the population level ([Part 1](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#part-1-action-identification), What do the data tell us?) and the performance level (Part 2, What is the story behind the data?), and know that it takes time to see transformative and cultural change. If sufficient time has passed, consider how to use lessons learned, agency, partner, and community experience, and data to inform how to adapt the action to have a greater impact.
+
+7.  **What are the next steps?** A commitment to action, just like in the population level process, is critical. This is where we turn our words into actions. Teams answer the questions below with as much precision and specificity as possible.
+
+    -   Who will do what, by when?
+
+    -   What resources are needed to get it done?
+
+    -   Is this a long-term action that needs time or can it be done tomorrow?
+
+    -   What is the active role of community leadership in making these decisions?
+
+    ::: callout-tip
+    #### Document commitments to support collective accountability
+
+    White answers to the above questions down and get confirmation from all parties to ensure everyone is on the same page with respect to agreed upon commitments.
+
+    Data will be required to evaluate the performance measures the team developed. Integrate those performance measures, data needs, commitments, and timelnes into the [Data & Product Evaluation section](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#data-product-evaluation) of the project's [Data Management Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#data-preparation)!
+    :::
+
+Below is a graphical templates teams can use to walk through Part 2 of the RBA process.
+
+![Graphical template illustrating components of Part 2 of the RBA Process teams will go through to develop performance measures for each priority action that will enable collective accountability throughout the implementation process.](images/Eval_RCA_Performance.png)
 
 ## Other Racial Equity Lens Evaluation Questions
 
