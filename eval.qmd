@@ -186,9 +186,7 @@ For each of the priority actions identified in [Part 1](https://cawaterboarddata
     Then, while keeping the broader intentions of the action in mind, teams will answer the following questions to develop performance measures that can be used to quantify the impact of the action.
 
     -   How much did you do? (*Quantity*; e.g., number of clients and/or activities)
-
     -   How well did you do it? (*Quality*; e.g., percentage of activity that was of high quality, percentage of common measures of appropriate/high quality)
-
     -   Is anyone better off? (*Impact*; e.g., number or percentage change in skills/knowledge, attitude/opinion, behavior, or circumstance)
 
 3.  **What is the quality of the action?** The purpose of this group of metrics it to ensure the action is being done *well*. Consider metrics that can measure cultural relevance, language access, and participation rates to more technical measures of staff training and staff-to-client ratios. If the “better off” measures show no change, quality measures sometimes tell us why we are not having an impact. Alternately, just because the action is being implemented in a high-quality manner, does not mean that the “better off” data will move in the right direction.
@@ -202,11 +200,8 @@ For each of the priority actions identified in [Part 1](https://cawaterboarddata
 7.  **What are the next steps?** A commitment to action, just like in the population level process, is critical. This is where we turn our words into actions. Teams answer the questions below with as much precision and specificity as possible.
 
     -   Who will do what, by when?
-
     -   What resources are needed to get it done?
-
     -   Is this a long-term action that needs time or can it be done tomorrow?
-
     -   What is the active role of community leadership in making these decisions?
 
     ::: callout-tip
@@ -217,9 +212,9 @@ For each of the priority actions identified in [Part 1](https://cawaterboarddata
     Data will be required to evaluate the performance measures the team developed. Integrate those performance measures, data needs, commitments, and timelnes into the [Data & Product Evaluation section](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#data-product-evaluation) of the project's [Data Management Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#data-preparation)!
     :::
 
-Below is a graphical templates teams can use to walk through Part 2 of the RBA process.
+Below is a graphical illustration of the main RBA Part 2 process components.
 
-![Graphical template illustrating components of Part 2 of the RBA Process teams will go through to develop performance measures for each priority action that will enable collective accountability throughout the implementation process.](images/Eval_RCA_Performance.png)
+![Graphical illustration of the components of Part 2 of the RBA Process teams will go through to develop performance measures for each priority action, which will enable collective accountability throughout the implementation process.](images/Eval_RCA_Performance.png)
 
 ## Other Racial Equity Lens Evaluation Questions
 
