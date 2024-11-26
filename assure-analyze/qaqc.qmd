@@ -47,7 +47,7 @@ According to the [Water Boards Quality Assurance/Quality Control Website](https:
 
 -   If data is of insufficient quality and needs to be excluded from future steps - where and how will documentation summarize what measures/standards were used to make such determination and which data were excluded?
 
-## **Resources**
+## Additional Resources
 
 -   [Water Boards QAQC Webpage](https://www.waterboards.ca.gov/water_issues/programs/quality_assurance/)
 -   [SWAMP Bioaccumulation Monitoring Program Training Series](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring/training.html)

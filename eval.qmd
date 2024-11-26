@@ -69,7 +69,7 @@ When it comes to the Root Cause Analysis process specifically, it's important to
 
 Step 4 above is the core of the process, and can be completed using many different methodologies or approaches. Below are a few simple graphical templates you can use to get started!
 
-![Graphical templates illustrating approaches to the problem interrogation process. A. is a simple template to walk teams through the 5 whys and identify priority actions. B. is a more nuanced template with prompts for teams to think about potential causes of each "why" response. C. is a flow chart illustrating the complexity that can result in a thorough Root Cause Analysis process. ](images/Eval_RCA_Templates.png)
+![Graphical templates illustrating approaches to the problem interrogation process. A. is a simple template to walk teams through the 5 whys and identify priority actions. B. is a more nuanced template with prompts for teams to think about potential causes of each "why" response. C. is a flow chart illustrating the complexity that can result in a thorough Root Cause Analysis process.](images/Eval_RCA_Templates.png)
 
 ## Results-Based Accountability (RBA)
 
@@ -138,7 +138,7 @@ When embarking on the journey to operationalize equity into our organizations an
 6.  **What works to change the data trend towards racial equity?** What specific actions can be taken to address root causes and ultimately decrease racial disparities. During this step, the group should brainstorm a large number of actions, ideally in a judgement free zone. If you're stuck, try thinking of ideas that fall under the following categories: Low-cost / no-cost ideas; ideas from community, traditional or indigenous knowledge; promising practices; evidence-based practices; creative out-of-the-box or "imagine if" ideas. More is more in this step get all ideas out there without worrying about costs, practicality, implementation, etc.
 
     ::: callout-tip
-    #### Organize your thoughts post-brainstorm!  {.callout-tip}
+    #### Organize your thoughts post-brainstorm! {.callout-tip}
 
     Once you've completed the generative brainstorming process, you will likely (hopefully!) have a large number of ideas. Take some time to review ideas and group like ideas together. This will help identify similar ideas stated in different ways and will make it easier gather your thoughts when you begin the prioritization process in the next step.
     :::
@@ -240,7 +240,7 @@ It’s really important for us to remember that when racial equity is left off t
 Starting these processes early in the project life cycle, revisiting them often, and in partnership with communities, can help us build relationships and trust, and speaks to the need for our teams, organizations, and systems to operationalize equity with urgency and care.
 :::
 
-## Resources
+## Additional Resources
 
 -   [Advancing Health Equity Root Cause Analyses Guide](https://advancinghealthequity.org/roadmap-to-ahe/diagnose-root-causes/)
 -   [American Society for Quality Root Cause Analysis Guide](https://asq.org/quality-resources/root-cause-analysis)

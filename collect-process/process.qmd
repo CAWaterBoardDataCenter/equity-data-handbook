@@ -51,7 +51,7 @@ Any aggregation or preliminary analysis of your data should be completed during 
 
 You *might* be tempted to begin your data quality assessments as you're looking at the data during this phase, but you'll actually want to hold off on that for now. **You'll complete your [data quality and assurance steps](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/qaqc.html)** ***after*** **all of your data have been tidied and you can look at all of your data holistically.**
 
-## Resources
+## Additional Resources
 
 -   Julia Lowndes and Allison Horst (2020) [Tidy Data for reproducibility, efficiency, and collaboration](https://www.openscapes.org/blog/2020/10/12/tidy-data/). [Openscapes](https://www.openscapes.org/) blog.
 -   College of Water Informatics [Data Management Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html) - [Collect and Process Section](https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html#collect_process)

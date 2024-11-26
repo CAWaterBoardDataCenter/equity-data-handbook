@@ -378,7 +378,7 @@ When determining how you will include table(s) in your visualization or data pro
 
 -   **What do blank cells mean?** Screen readers do not tell the viewer that a cell is blank; they just skip the cell altogether. If a blank cell has a certain meaning in your data story (e.g. NA, 0, no data, etc.), state that within the cell explicitly or add a dash ( - ) to the blank cell(s) and add a note at the bottom of the table (or within the caption) to make viewers aware of the meaning of the dash.
 
-## Resources
+## Additional Resources
 
 -   Justinmind Blog (2020) [User-centered design: a beginner’s guide](https://www.justinmind.com/blog/user-centered-design/)
 -   [Urban Institute](https://www.urban.org/) Resources
