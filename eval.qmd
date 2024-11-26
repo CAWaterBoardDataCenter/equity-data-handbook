@@ -117,6 +117,8 @@ In the below Living Cities RBA Video, Robin Brule (The Integration Initiative Di
 
 ### Part 1: Action Identification
 
+When embarking on the journey to operationalize equity into our organizations and our work, it can be overwhelming and difficult to know where to start. The first part of the RBA process provides a framework for determining what actions we can take first to begin to achieve our racial equity goals.
+
 1.  **What are the desired results?** These statements should (1) reflect the equity outcomes you want to see in the whole population (i.e., communities, cities, states), and (2) positive conditions (e.g., "healthy" vs. "not sick"). If you're stuck, try filling in the following statement: “We want communities that are \[ insert positive condition that reflects an equity outcome \]”
 
 2.  **What would the results look like?** These statements should be (1) culturally relevant, contextualized, and connected to the vision the team has with respect to equity outcomes you want to see in the whole population, and (2) specific to the community of interest, not just any community. If you're stuck, think about what experiencing the outcome/result/condition of well being would look like for that community? What would it feel like? How would people be better off?
@@ -162,6 +164,40 @@ In the below Living Cities RBA Video, Robin Brule (The Integration Initiative Di
         :::
 
 ### Part 2: Performance Accountability
+
+In this phase of the RBA process, teams will develop performance measures to ensure the implementation of each action will:
+
+-   work to decrease racial disparities
+-   help hold teams accountable to their commitments
+-   give teams an understanding of how well implementation went and whether anyone is better off
+
+For each of the priority actions identified in [Part 1](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#part-1-action-identification), teams will need to answer the following questions:
+
+1.  **Who do you serve?** Identifying who you serve (whether an institution, people, a group, or a system) helps you gain clarity about the intended impact of your work and not attempt to make people accountable for change outside their scope of work.
+
+2.  **What is the action’s intended impact?** Answering this question will generate the action's performance measures and will mean the difference between doing business as usual, which has produced racially inequitable results for generations, and being accountable for the impact of our work.
+
+    First, teams will answer the following questions to understand the intended impact of the action. Review how teams responded to "What would the results look like?" during Part 1 of the RBA process and refine the vision captured in those responses to make them specific to the action.
+
+    -   What is the intended impact?
+    -   How would we know if the action worked?
+    -   How would we know if anyone is better off as a result of this action?
+
+    Then, while keeping the broader intentions of the action in mind, teams will answer the following questions to develop performance measures that can be used to quantify the impact of the action.
+
+    -   How much did you do? (*Quantity*; e.g., number of clients and/or activities)
+
+    -   How well did you do it? (*Quality*; e.g., percentage of activity that was of high quality, percentage of common measures of appropriate/high quality)
+
+    -   Is anyone better off? (*Impact*; e.g., number or percentage change in skills/knowledge, attitude/opinion, behavior, or circumstance)
+
+3.  **What is the quality of the action?** The purpose of this group of metrics it to ensure the action is being done *well*. Consider metrics that can measure cultural relevance, language access, and participation rates to more technical measures of staff training and staff-to-client ratios. If the “better off” measures show no change, quality measures sometimes tell us why we are not having an impact. Alternately, just because the action is being implemented in a high-quality manner, does not mean that the “better off” data will move in the right direction.
+
+    *\<insert graphic that ties metrics from above qs together\>*
+
+4.  What is the story behind the data?
+
+5.  
 
 ## Other Racial Equity Lens Evaluation Questions
 
