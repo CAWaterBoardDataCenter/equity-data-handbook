@@ -5,9 +5,9 @@ After a project is complete (or has gone through a complete iteration) - it's im
 Depending on what you discover during the evaluation process, you may need to undergo a second phase or iteration of the project to integrate lessons and get closer to achieving the original goals and desired equity outcomes.
 
 ::: callout-tip
-While the processes below include numerical steps - that does not mean steps *must* be completed in that order, or that steps *must* be completed all at once. Moreover, teams don't need to wait until the project is complete to benefit from using these tools! It may be helpful to use some or all of these tools at the during the [Plan & Prepare phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/), and then revisit and iterate some or all components at multiple points during your project or process.
+While the processes below include numerical steps - that does not mean steps must be completed in that order, or that steps must be completed all at once. Moreover, teams don't need to wait until the project is complete to benefit from using these tools! It may be helpful to use some or all of these tools at the during the [Plan & Prepare phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/), and then revisit and iterate some or all components at multiple points during your project or process.
 
-***When in doubt - make time to use these tools early and often!***
+**When in doubt - make time to use these tools early and often!**
 :::
 
 ## Root Cause Analysis
@@ -135,7 +135,7 @@ When embarking on the journey to operationalize equity into our organizations an
 
     Note that engaging with each partner on your list is a completely different step that requires time to build relationships and trust. For some partners on the list, that engagement might happen concurrently as you are completing this process. For others, it might come later.
 
-6.  **What works to change the data trend towards racial equity?** What specific actions can be taken to address root causes and ultimately decrease racial disparities. During this step, the group should brainstorm a large number of actions, ideally in a judgement free zone. If you're stuck, try thinking of ideas that fall under the following categories: Low-cost / no-cost ideas; ideas from community, traditional or indigenous knowledge; promising practices; evidence-based practices; creative out-of-the-box or "imagine if" ideas. More is more in this step get *all* ideas out there without worrying about costs, practicality, implementation, etc.
+6.  **What works to change the data trend towards racial equity?** What specific actions can be taken to address root causes and ultimately decrease racial disparities. During this step, the group should brainstorm a large number of actions, ideally in a judgement free zone. If you're stuck, try thinking of ideas that fall under the following categories: Low-cost / no-cost ideas; ideas from community, traditional or indigenous knowledge; promising practices; evidence-based practices; creative out-of-the-box or "imagine if" ideas. More is more in this step get all ideas out there without worrying about costs, practicality, implementation, etc.
 
     ::: callout-tip
     #### Organize your thoughts post-brainstorm!  {.callout-tip}
@@ -185,11 +185,11 @@ For each of the priority actions identified in [Part 1](https://cawaterboarddata
 
     Then, while keeping the broader intentions of the action in mind, teams will answer the following questions to develop performance measures that can be used to quantify the impact of the action.
 
-    -   How much did you do? (*Quantity*; e.g., number of clients and/or activities)
-    -   How well did you do it? (*Quality*; e.g., percentage of activity that was of high quality, percentage of common measures of appropriate/high quality)
-    -   Is anyone better off? (*Impact*; e.g., number or percentage change in skills/knowledge, attitude/opinion, behavior, or circumstance)
+    -   How much did you do? (Quantity; e.g., number of clients and/or activities)
+    -   How well did you do it? (Quality; e.g., percentage of activity that was of high quality, percentage of common measures of appropriate/high quality)
+    -   Is anyone better off? (Impact; e.g., number or percentage change in skills/knowledge, attitude/opinion, behavior, or circumstance)
 
-3.  **What is the quality of the action?** The purpose of this group of metrics it to ensure the action is being done *well*. Consider metrics that can measure cultural relevance, language access, and participation rates to more technical measures of staff training and staff-to-client ratios. If the “better off” measures show no change, quality measures sometimes tell us why we are not having an impact. Alternately, just because the action is being implemented in a high-quality manner, does not mean that the “better off” data will move in the right direction.
+3.  **What is the quality of the action?** The purpose of this group of metrics it to ensure the action is being done well. Consider metrics that can measure cultural relevance, language access, and participation rates to more technical measures of staff training and staff-to-client ratios. If the “better off” measures show no change, quality measures sometimes tell us why we are not having an impact. Alternately, just because the action is being implemented in a high-quality manner, does not mean that the “better off” data will move in the right direction.
 
 4.  **What is the story behind the data?** It is critical to review the data at the performance level, ask why, and get to root causes - many might be the same as the community level, but it's critical to take time to regularly review, confirm and adjust as needed. Review how teams responded to "What do the data tell us?" during [Part 1](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#part-1-action-identification) of the RBA process to refresh on root causes at the population level, and then refine understanding (as needed) to make them applicable and specific to the action. Completing this step makes the difference between perpetuating systemic failures to address racially disproportionate outcomes and disrupting them to operationalize equity and justice.
 
@@ -218,7 +218,7 @@ Below is a graphical illustration of the main RBA Part 2 process components.
 
 ## Other Racial Equity Lens Evaluation Questions
 
-The **Racial Equity Lens tool** helps us integrate an explicit focus on racial equity as we develop programs and policies.
+The questions below can helps us integrate an explicit focus on racial equity as we develop, review, and revise our projects. Some of the questions below are similar to the questions posed in the [Root Cause Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#root-cause-analysis) and [RBA](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html#results-based-accountability-rba) sections, as well as in the [Planning Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html). The main difference is that Root Cause Analysis, RBA, and planning phases can involve formal longer-term processes whereas the questions below are more flexible and can be applied as needed during any phase of a project.
 
 1.  What’s the policy, program, practice, or budget decision under consideration? What are the desired results and outcomes?
 
@@ -233,6 +233,13 @@ The **Racial Equity Lens tool** helps us integrate an explicit focus on racial e
 6.  What is the plan for implementation?
 
 7.  How will you ensure accountability, communicate, and evaluation results?
+
+::: callout-note
+It’s really important for us to remember that when racial equity is left off the table entirely, added to a process haphazardly, or not considered until the last minute, using the above racial equity processes is less likely to be fruitful, and for the communities we’re trying to serve – and regardless of our intentions - it can feel more like a box checking performance rather than an earnest effort to
+advance equity.
+
+Starting these processes early in the project life cycle, and in partnership with communities, can help us build relationships and trust, and speaks to the need for our teams, organizations, and systems to operationalize equity with urgency and care.
+:::
 
 ## Resources
 
