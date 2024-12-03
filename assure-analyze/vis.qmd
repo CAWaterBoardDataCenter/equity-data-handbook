@@ -77,7 +77,7 @@ Water Boards Staff may also [request translation services from the Office of Pub
 
 ### Consider how you group the data
 
-Review considerations provided on the Data Collection page and think through how those should be applied as you visualize and communicate the data and results of your project.
+Review considerations provided on the [Data Collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html#consider-how-you-will-group-the-data) page and think through how those should be applied as you visualize and communicate the data and results of your project.
 
 ### Tell a story with the data
 
