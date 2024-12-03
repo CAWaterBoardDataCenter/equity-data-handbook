@@ -176,9 +176,11 @@ Tips for Building an Effective Survey:
 
 10. Take Your Survey for a Test Drive
 
-A good comprehensive guide for survey design can be found here:  <https://files.eric.ed.gov/fulltext/ED619797.pdf> 
+A good comprehensive guide for survey design can be found here: 
 
-<https://www.qualtrics.com/blog/10-tips-for-building-effective-surveys/>
+-   [Creating Effective Surveys - Best Practices](https://files.eric.ed.gov/fulltext/ED619797.pdf )
+
+-   [How to Create an Effective Survey](https://www.qualtrics.com/blog/10-tips-for-building-effective-surveys/)
 
 ### **Beware of Common Types of** Survey Bias
 
