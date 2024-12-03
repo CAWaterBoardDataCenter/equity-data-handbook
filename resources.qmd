@@ -14,10 +14,6 @@ Here you will find a curated list of presentations, webpages and other resources
 
 -   [Looking at Data Through an Equity Lens](https://ascd.org/el/articles/looking-at-data-through-an-equity-lens) - At the most basic level, taking an equity lens in Data Wise involves having a team ask itself probing questions at each step of the improvement process. This document provides a look at how to use a data wise techniques with a racial equity lens.
 
-## Presentations
-
-[Analyzing Water Boards and Demographic Data for Equity](https://cawaterboards.sharepoint.com/:b:/r/sites/WB-OPP-EJRoundtable/Materials/Racial%20Equity%20Data%20Subcommittee/Webinars/Demo%20Webinar%20with%20DataMade%20Coaches_25June24/Hannah%27s%20slides%20on%20racial%20equity%20data%20analysis.pdf?csf=1&web=1&e=eNCc0K). Jun 2024. Hannah Cushman Garland. State Water Board Racial Equity Data Subcommittee Webinar. [Recording](https://cawaterboards.sharepoint.com/:v:/r/sites/WB-OPP-EJRoundtable/Materials/Racial%20Equity%20Data%20Subcommittee/Webinars/Demo%20Webinar%20with%20DataMade%20Coaches_25June24/DataMade%20Webinar%20Recording_25June24.mp4?csf=1&web=1&e=oOuGyf) \| [Download and Use the Code](https://drive.google.com/file/d/1yva-EE0JyQna4c5RN73TJ7F0YUIRTXCI/view?usp=sharing) \| [View Code](https://datamade.github.io/waterboard-coaching/)
-
 ## Relevant Government Documents
 
 ### [State of California Agency Resources]{.underline}
@@ -122,9 +118,3 @@ Here you will find a curated list of presentations, webpages and other resources
 -   [We All Count - Data Equity Framework](https://weallcount.com/the-data-process/)
 
 -   [Mapping for Whom? Communities of Color and the Citizen Science Gap](https://acme-journal.org/index.php/acme/article/view/2178/1654)
-
-## Books
-
-Leonardi P., Neeley T. (2022) [*The Digital Mindset: What It Really Takes to Thrive in the Age of Data, Algorithms, and AI*](https://store.hbr.org/product/the-digital-mindset-what-it-really-takes-to-thrive-in-the-age-of-data-algorithms-and-ai/10413?sku=10413E-KND-ENG). Harvard Business Review Press
-
-Pahlka J. (2023) [*Recoding America : why government is failing in the digital age and how we can do better*](https://www.recodingamerica.us/). Metropolitan Books
