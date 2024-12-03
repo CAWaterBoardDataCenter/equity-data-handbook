@@ -109,7 +109,7 @@ The above paragraph could replace the following bullet points:
 
 ### [Non-Governmental Resources]{.underline}
 
--   Center for the Study of Social Policy (CSSP) - [Antiracist Data Project Survey and Focus Group Findings](https://cssp.org/wp-content/uploads/2021/09/Our-Identities-Ourselves-Project-Infographic-FINAL.pdf). This is the first phase of a larger project whose goal is to share best practices for collecting data about race, ethnicity, and other demographic information including sexual orientation, gender identity and expression (SOGIE); national origin; language spoken; disability; religion; and tribal affiliation in child welfare agencies nationwide.
+-   Center for the Study of Social Policy (CSSP) - [Antiracist Data Project Survey and Focus Group Findings](https://cssp.org/wp-content/uploads/2021/09/Our-Identities-Ourselves-Project-Infographic-FINAL.pdf). This is the first phase of a larger project whose goal is to share best practices for collecting data about race, ethnicity, and other demographic information including sexual orientation, gender identity and expression (SOGIE); national origin; language spoken; disability; religion; and tribal affiliation in child welfare agencies nationwide. - reports
 
 -   Actionable Intelligence for Social Policy (AISP) - [A Toolkit for Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/resource-article/a-toolkit-for-centering-racial-equity-throughout-data-integration/) - toolkits
 
