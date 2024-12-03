@@ -1,6 +1,6 @@
 # Resources
 
-Here you will find a curated list of presentations, webpages and other resources related to the development, implementation and scaling of the principles and practices outlined in this Data Equity Handbook.
+Here you will find a curated list of resources related to the development, implementation and scaling of the principles and practices outlined in this Data Equity Handbook.
 
 ## Data Ethics Resources
 
