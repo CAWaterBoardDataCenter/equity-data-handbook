@@ -1,5 +1,7 @@
 # Data Visualization
 
+Effective and equitable communication of the information we have gleaned from our analyses involves strategic consideration of the audience and the mode of dissemination that most effectively conveys that information. There are many ways to communicate information, including briefs, interactive documents, websites, dashboards, social media content, data walks, posters, briefs, and infographics. Regardless of the form, content should integrate the recommendations below.
+
 Effective data visualizations - the ones that stick with us, can help us understand complex issues, and those that encourage us to change our behaviors and actions to be more equitable, inclusive, and kind - are more than points on a map. Great data visualizations are communication tools that are user-centered and tell a compelling story that connects with the audience.
 
 [![Venn diagram of the components of data communication that make a product work for a particular audience: Content, Medium and Access. Graphic from We All Count](images/audience-content-medium-access.png){fig-alt="Venn diagram with three overlapping circles: Content, Medium, and Access. Content is what you include in your communication and how you choose to say it. Medium is what form your communication takes, like the difference between a paper, and animated video, and a searchable database. Access is how easily and how completely your audience can engage with and understand your information. The content and medium work together to increase clarity and offer better depth. The medium of distribution supports the ideal accessibility for the information for each audience, including feedback and engagement. The content is created considering accessibility, including comprehension and cultural appropriateness. When all of the components intersect (i.e. the middle of the venn diagram), the product works for the intended audience."}](https://blog.providence.org/center-for-outcomes-research-education/6-steps-toward-more-equitable-data-visualization)
@@ -16,7 +18,7 @@ Consider who the audience will be for the product you're developing and make dec
 
 [![Graphic illustrating three key components of the user-centered design process: Research, Empathy, and Iteration. Image from Justinmind (2020)](images/user-centered-design.png)](https://www.justinmind.com/blog/user-centered-design/)
 
-***Research*** - Let's use an equity lens here. Instead of "researching" your users and audience, try getting to know them by prioritizing relationship and trust building through meaningful engagement. Ideally, by the time you're at this data visualization phase, you have already identified the audience and key partners, and have been working or engaging with them during other phases of the project. See the [Planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) section on [collecting expert input](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html#step-3.-collect-expert-input-including-from-affected-community-members) for more guidance on outreach and engagement.
+***Research*** - Let's use an equity lens here. Instead of "researching" your users and audience, try getting to know them by prioritizing relationship and trust building through meaningful engagement. Ideally, by the time you're at this data visualization phase, you have already identified the audience and key partners, and have been working or engaging with them during other phases of the project. See the [Planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) section on [collecting expert input](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html#step-3.-collect-expert-input-including-from-affected-community-members) for more guidance on outreach and engagement.
 
 ***Empathy*** - According to Dr. Brené Brown: [empathy is about feeling *WITH people, and requires four qualities*](https://bouldercrest.org/resources/brene-brown-what-is-empathy/):
 
@@ -39,45 +41,9 @@ Integrating empathy into our data-intensive work requires us to consider how our
 -   **What are the different ways feedback might be gathered?** We might think sending an email with a poll or survey linked is the easiest, but our partner might find it easier to talk through questions over the phone with you. Knowing which method(s) to use comes with time and relationship. When in doubt - ask for what people prefer and do your best to accommodate those needs.
 -   **How much time is adequate for folks to be able to review what you send them and provide their feedback?** When in doubt - plan for a longer feedback period than you think might be needed and confirm timelines with your partners (and adjust them if you can when your partners indicate more or less time is needed)
 
-### Consider who is missing from the data
-
-It's not uncommon for project teams to have gaps in data, even after all of your diligent work and investment into the [planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html), [data preparation](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) and [collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html) steps of the project. This limitation of the data may be out of your control - especially when you are using data from external sources. When this happens, it's important to acknowledge, document, and accessibly communicate those gaps and who is not adequately represented in your data product.
-
-### Consider how you group the data
-
-How we aggregate or disaggregate the data can impact which groups are "seen" and represented (or not) in our data products. This can also influence who is centered, valued, or prioritized in the narrative of the visualization, and who is excluded.
-
-Carefully consider how groups are lumped or split - by aggregating many groups in the visualization beyond what might be statistically necessary (and not acknowledging who is being grouped together and why), we can unintentionally misrepresent said groups, minimize inequities and perpetuate invisible and erased experiences of those communities. The [UNC Health’s Equity and Inclusion Analytics Workgroup](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf) recommends we ask ourselves the following questions when we're thinking about how we will aggregate the data (or not):
-
--   **Is important data/nuance lost by combining categories?** Ensure there is not a meaningful difference in our ability to understand equity outcomes between groups that would be lost if combined.
-
--   **Does the inclusion of uncombined data negatively impact the interpretation of the data visualization?** Having too many groups can make visualizations cluttered and hard to interpret. Additionally, disaggregation leads to smaller group sizes, which can make comparisons to larger groups more difficult and quantifying statistical significance more challenging. For those reasons, it can sometimes be best to combine groups.
-
--   **Does sharing uncombined data compromise confidential information (e.g., Personal Identifiable Information) or information considered private by the community from which it comes (e.g., locations of sacred practices)?** This will depend on the audience you are sharing the visualization with (e.g. internal vs public) and what information it contains.
-
-If you ultimately decide to aggregate / combine groups, be sure to:
-
-1.  **Avoid creating a dichotomy of races.** Don’t use “White” vs. “non-White” or “people of color.” Rather, disaggregate the “non-White” group to show the diversity among communities.
-
-2.  **Be transparent** about why you're making those decisions (including the trade offs you considered) and documenting those decisions accordingly.
-
-3.  **Acknowledge who is now not included** in the data or visualization and explain what groups have been combined and why. Use comments, tooltips, or footnotes that can be easily accessed within the visualization to make it easier for users to find this information.
-
-4.  **Think carefully about how groups are lumped in the "other" category** of our analysis or visualization. Sometimes it's necessary to combine groups into a single "other" category (e.g. to generalize small groups to protect confidentiality or to achieve adequate sample size for your analysis). The Urban Institute's [Do No Harm Data Visualization Recommendations](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) include considering alternatives to using the term "other" as a catch-all category, including:
-
-    -   Another \_\_\_\_\_\_ (e.g. Another race or Another group)
-
-    -   Additional \_\_\_\_\_\_ (e.g. Additional races or Additional languages)
-
-    -   All other self-descriptions
-
-    -   People identifying as other or multiple races
-
-    -   Identity not listed
-
-    -   Identity not listed in the survey or dataset
-
 ### Use plain, accessible, and inclusive language
+
+Centering racial equity means paying attention to how to most effectively convey information to the audience, and insuring that the content is using plain, accessible, and inclusive language.
 
 ***Plain Language*** - Plain language is writing designed to ensure the audience can understand what you're trying to communicate as easily, quickly, and comprehensively as possible. This means:
 
@@ -108,6 +74,10 @@ Water Boards Staff may also [request translation services from the Office of Pub
 -   **How am I framing the words?** What is the context and culture we are creating and perpetuating by using the words? Are the words positioning the communities we serve to live in their personal and collective power while addressing systemic oppression?
 
 -   **Do the words dehumanize the communities we serve?** Words that take away agency, self-determination, or personal power and do not recognize communities’ inherent strengths and assets should be avoided.
+
+### Consider how you group the data
+
+Review considerations provided on the Data Collection page and think through how those should be applied as you visualize and communicate the data and results of your project.
 
 ### Tell a story with the data
 

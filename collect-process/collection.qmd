@@ -16,19 +16,67 @@ The data related to your project may come from direct human observation, laborat
 
 ## Data Limitations
 
-It's important to remember that ALL data have limits in what they can actually tell us, constraints on how they should be used appropriately, and biases related to initial data collection or generation - and it's crucial to be aware of and account for them during your project.
+As you begin to collect the data required for your project, it's important to remember that ALL data have limits in what they can actually tell us, constraints on how they should be used appropriately, and biases related to initial data collection or generation - and it's crucial to be aware of and account for them during your project.
 
-In most cases, the Water Boards programs were not developed or designed to collect the types of data needed to conduct analyses with an equity lens as a matter of process which means that most will rely on a few key data sources.
+In addition to data limitations related to data quality or analysis methods (e.g., insufficient quality, low sample size; see the the [Quality Assurance](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/qaqc.html) and [Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html) pages for more details), be sure to also keep the below considerations in mind so that you can prepare and analyze your data in a way that supports the advancement of equity, inclusion, and justice.
 
-![Data Benefit vs Risk](images/Data_Benefit_vs%20_Risk.png)
+### Unconscious bias of data sources
 
-Incorporating a racial equity lens during data analysis includes incorporating individual, community, political, and historical contexts of race to inform analysis, conclusions, and recommendations. Solely relying on statistical outputs will not necessarily lead to insights without careful consideration during the analytic process, such as ensuring data quality is sufficient and determining appropriate statistical power. Disaggregation of data is also a series of tradeoffs. Without disaggregating data by subgroup, analysis can unintentionally gloss over inequity and lead to invisible experiences. On the other hand, when analysts create a subgroup, they may be shifting the focus of analysis to a specific population that is likely already over-surveilled. ([Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/wp-content/uploads/2022/07/AISP-Toolkit_5.27.20.pdf))
+We all have unconscious biases and operate in inequitable and unjust systems. That can unconsciously and unintentionally impact how data are collected and result in datasets that reflect those biases. Take time to ask the following questions about the data you're interested in using for your project so you can have a better understanding of the data's context and be better able to detect and account for potential biases of said data:
 
-Centering racial equity means paying attention to which data are highlighted and how they are framed, as well as the readability and accessibility of the communication method. This involves strategic consideration of the audience and the mode of dissemination that most effectively conveys the information. There are many ways to communicate information. These include briefs, interactive documents, websites, dashboards, social media content, data walks, posters, briefs, and infographics. Regardless of the form, content geared toward the public should avoid jargon that may be otherwise appropriate for internal program staff or academic audiences, while also using person-centered language and translating materials into languages most applicable to your community context. ([Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/wp-content/uploads/2022/07/AISP-Toolkit_5.27.20.pdf))
+-   Who collected the data?
+-   Why were these specific data collected? What were the data collection goals?
+-   How was data collected?
+-   What was prioritized during data collection?
+-   What assumptions were made during data collection?
 
-Furthermore, good quality data regarding marginalized communities is often lacking, but it is still important to discuss impacts to BIPOC communities. It may be appropriate in some cases to still present or analyze this data and also present caveats for the data limitations. In other cases, it may be more appropriate to rely only on qualitative discussion based on information derived from background research and feedback from affected communities.
+### Who is missing from the data
+
+It's not uncommon for project teams to have gaps in data, even after all of your diligent work and investment into the [planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) and [data preparation](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) steps of the project. This limitation of the data may be out of your control - especially when you are using data from external sources. Quality data regarding marginalized communities is often lacking. For example, recent research has shown that [US lakes are monitored disproportionately less in communities of color](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2803) - similar trends may be likely in other data sources.
+
+When this happens, it's important to acknowledge, document, and accessibly communicate those gaps and who is not adequately represented in your data product. In some cases, It may be appropriate to still present or analyze these data and also present caveats for the data limitations. In other cases, it may be more appropriate to rely only on qualitative discussion based on information derived from background research and feedback from affected communities.
+
+## Consider how you will group the data
+
+As you collect your data, start thinking through how the raw data you are collecting is already grouped and how you intend on grouping the data. You may not be able to decide on how you will ultimately aggregate or disaggregate the data until you are further along in the [analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html) or [visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html) stages - but it's important to begin thinking about this issue during the data collection phase for the reasons outlined below.
+
+How we aggregate or disaggregate the data can impact which groups are "seen" and represented (or not) in our data products. This can also influence who is centered, valued, or prioritized in the narrative of the visualization, and who is excluded.
+
+Carefully consider how groups are lumped or split - by aggregating many groups in the visualization beyond what might be statistically necessary (and not acknowledging who is being grouped together and why), we can unintentionally misrepresent said groups, minimize inequities and perpetuate invisible and erased experiences of those communities. On the other hand, when analysts create a subgroup, they may be shifting the focus of analysis to a specific population that is likely already over-surveilled ([Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/wp-content/uploads/2022/07/AISP-Toolkit_5.27.20.pdf)).
+
+The [UNC Health’s Equity and Inclusion Analytics Workgroup](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf) recommends we ask ourselves the following questions when we're thinking about how we will aggregate the data (or not):
+
+-   **Is important data/nuance lost by combining categories?** Ensure there is not a meaningful difference in our ability to understand equity outcomes between groups that would be lost if combined.
+
+-   **Does the inclusion of uncombined data negatively impact the interpretation of the data visualization?** Having too many groups can make visualizations cluttered and hard to interpret. Additionally, disaggregation leads to smaller group sizes, which can make comparisons to larger groups more difficult and quantifying statistical significance more challenging. For those reasons, it can sometimes be best to combine groups.
+
+-   **Does sharing uncombined data compromise confidential information (e.g., Personal Identifiable Information) or information considered private by the community from which it comes (e.g., locations of sacred practices)?** This will depend on the audience you are sharing the visualization with (e.g. internal vs public) and what information it contains.
+
+If you ultimately decide to aggregate / combine groups, be sure to:
+
+1.  **Avoid creating a dichotomy of races.** Don’t use “White” vs. “non-White” or “people of color.” Rather, disaggregate the “non-White” group to show the diversity among communities.
+
+2.  **Be transparent** about why you're making those decisions (including the trade offs you considered) and documenting those decisions accordingly.
+
+3.  **Acknowledge who is now not included** in the data or visualization and explain what groups have been combined and why. Use comments, tooltips, or footnotes that can be easily accessed within the visualization to make it easier for users to find this information.
+
+4.  **Think carefully about how groups are lumped in the "other" category** of our analysis or visualization. Sometimes it's necessary to combine groups into a single "other" category (e.g. to generalize small groups to protect confidentiality or to achieve adequate sample size for your analysis). The Urban Institute's [Do No Harm Data Visualization Recommendations](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) include considering alternatives to using the term "other" as a catch-all category, including:
+
+    -   Another \_\_\_\_\_\_ (e.g. Another race or Another group)
+
+    -   Additional \_\_\_\_\_\_ (e.g. Additional races or Additional languages)
+
+    -   All other self-descriptions
+
+    -   People identifying as other or multiple races
+
+    -   Identity not listed
+
+    -   Identity not listed in the survey or dataset
 
 ## Common Data Sources
+
+In most cases, the Water Boards programs were not developed or designed to collect the types of data needed to conduct analyses with an equity lens as a matter of process which means that most will rely on a few key data sources.
 
 Below we have provided a list of common data sources that can tell us something about the extent to which we are achieving equity outcomes. In addition to the open data sources below, most organizations including the Water Board have various types of Administrative Data which is internal demographics data related to the workforce in the organization. This data is normally confidential but is very valuable when working on addressing workforce equity.
 
@@ -100,7 +148,7 @@ In the CES 4.0 data (for the version available as of April 2023), the shapefile 
 
 ## Surveys
 
-There may be instances where you need to collect new data using survey(s).
+There may be instances where the data you need are not already available and you need to collect it yourself through the use of survey(s).
 
 ### Survey Design
 
