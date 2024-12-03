@@ -14,7 +14,7 @@ Here you will find a curated list of resources related to the development, imple
 
 -   [Looking at Data Through an Equity Lens](https://ascd.org/el/articles/looking-at-data-through-an-equity-lens) - At the most basic level, taking an equity lens in Data Wise involves having a team ask itself probing questions at each step of the improvement process. This document provides a look at how to use a data wise techniques with a racial equity lens.
 
-## Best practices / frameworks / strategic planning??
+## Best practices and frameworks
 
 ## Mapping tools
 
@@ -44,7 +44,7 @@ Here you will find a curated list of resources related to the development, imple
 
 -   [The Water Boards Office of Research Planning and Performance Water Conservation and Urban Water folks tool](%3Chttps://www.waterboards.ca.gov/water_issues/programs/conservation_portal/water-use-explorer/) - toolkits
 
--   [The Water Boards Office of Research Planning and Performance Vulnerable Communities Platform](https://vcp-beta-1-1-gov-opr.hub.arcgis.com/) - was prompted to sign in. Do we want to include restricted access sites? If so may want to add a qualifier that you need such and such account access.
+-   [The Water Boards Office of Research Planning and Performance Vulnerable Communities Platform](https://vcp-beta-1-1-gov-opr.hub.arcgis.com/) - omit
 
 -   [Water Boards Division of Drinking Water SAFER Outreach Tool](https://gispublic.waterboards.ca.gov/portal/apps/webappviewer/index.html?id=70d27423735e45d6b037b7fbaea9a6a6) - toolkits
 
