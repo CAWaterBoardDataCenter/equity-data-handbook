@@ -106,13 +106,11 @@ The ACS also has a [Handbooks for Data Users](https://www.census.gov/programs-su
 
 The [Safe and Affordable Funding for Equity and Resilience](https://www.waterboards.ca.gov/water_issues/programs/grants_loans/sustainable_water_solutions/safer.html) (SAFER) Program developed the [Final FY 2024-25 Fund Expenditure Plan for the Safe and Affordable Drinking Water Fund](https://www.waterboards.ca.gov/water_issues/programs/grants_loans/docs/2024/draft-final-fy2024-25-fep-clean-version.pdf) in response to the Senate Bill (SB) 200 (Ch. 120, Stats. 2019) which requires the annual adoption of a Fund Expenditure Plan for the Safe and Affordable Drinking Water Fund.
 
-The SAFER Program’s goal is to provide safe and affordable drinking water in every California community, for every Californian. FY 2024-25 marks the halfway point of the initial ten years of continuously appropriated funding to the SADW Fund as originally envisioned in SB 200.
+The SAFER Program’s goal is to provide safe and affordable drinking water in every California community, for every Californian. FY 2024-25 marks the halfway point of the initial ten years of continuously appropriated funding to the Safe and Affordable Drinking Water Fund as originally envisioned in SB 200.
 
 Looking at the SAFER Program goal with an equity lens, we can add that the goal would be for race to no longer predict a person's ability to have access to safe and affordable drinking water.
 
-The Racial Equity and Environmental Justice Section of the Plan (Section VIII.G.) provides several tables with data that incorporates demographics data.
-
-As we see, presenting demographics data alone does not tell the full story of the issue. The tables and the text lack clarity and in depth analysis on *why* the data is telling the story it is.
+The Racial Equity and Environmental Justice Section of the Plan (Section VIII.G.) provides several tables with data that incorporates demographics data. As we see below, presenting demographics data alone does not tell the full story of the issue. The tables and the text lack clarity and in depth analysis on *why* the data is telling the story it is.
 
 ::: callout-tip
 ##### To tell a compelling story and truly advance equity - adding demographics data to an analysis is not enough! 
@@ -126,9 +124,9 @@ As you go through the process of collecting demographics data for your project -
 -   How you plan on taking action to advance equity based on whatever is shown in the analysis. You might not be able to have a full plan in place at the data collection step - but now is the time to begin brainstorming so that you can take action as swiftly as possible once the analysis or data product is complete.
 :::
 
-For this example, race and ethnicity of the populations served by the water systems likely isn't the *only* only difference between the systems. What other factors that are associated with different populations that could be driving the imbalance in failing systems and funding? Perhaps, the majority-Hispanic population systems are much larger, or older, or have more severe problems.
+For this example, race and ethnicity of the populations served by the water systems likely isn't the *only* difference between the systems. What other factors are associated with different populations that could be driving the imbalance in failing systems and funding? Perhaps the majority-Hispanic population systems are much larger, or older, or have more severe problems.
 
-A more nuanced comparison would look at the major factors that determine cost (or other metrics) and compare the racial difference between those subgroups. For example, comparing the racial and ethnic differences between systems of medium sized cities with a water treatment plants built within the past 30 years.
+A more nuanced comparison would look at the major factors that determine cost (or other metrics driving the imbalance in failing systems and funding) and compare the racial difference between those subgroups. For example, comparing the racial and ethnic differences between systems of medium sized cities with a water treatment plants built within the past 30 years.
 
 Some recommendations to improving the storytelling and meaningful impact of the data being shown in the report to support the advancement of equity could include:
 
