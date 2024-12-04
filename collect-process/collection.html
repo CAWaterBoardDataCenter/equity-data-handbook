@@ -309,20 +309,17 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#common-data-sources" id="toc-common-data-sources" class="nav-link" data-scroll-target="#common-data-sources">Common Data Sources</a>
   <ul class="collapse">
   <li><a href="#demographics-data" id="toc-demographics-data" class="nav-link" data-scroll-target="#demographics-data">Demographics Data</a></li>
-  <li><a href="#calenviroscreen" id="toc-calenviroscreen" class="nav-link" data-scroll-target="#calenviroscreen">CalEnviroScreen</a></li>
+  <li><a href="#calenviroscreen" id="toc-calenviroscreen" class="nav-link" data-scroll-target="#calenviroscreen"><strong>CalEnv</strong>iroScreen</a></li>
   <li><a href="#u.s.-epa-ejscreen" id="toc-u.s.-epa-ejscreen" class="nav-link" data-scroll-target="#u.s.-epa-ejscreen">U.S. EPA EJScreen</a></li>
   </ul></li>
+  <li><a href="#internal-administrative-data" id="toc-internal-administrative-data" class="nav-link" data-scroll-target="#internal-administrative-data">Internal Administrative Data</a></li>
   <li><a href="#surveys" id="toc-surveys" class="nav-link" data-scroll-target="#surveys">Surveys</a>
   <ul class="collapse">
   <li><a href="#survey-design" id="toc-survey-design" class="nav-link" data-scroll-target="#survey-design">Survey Design</a></li>
-  <li><a href="#beware-of-common-types-of-survey-bias" id="toc-beware-of-common-types-of-survey-bias" class="nav-link" data-scroll-target="#beware-of-common-types-of-survey-bias"><strong>Beware of Common Types of</strong> Survey Bias</a></li>
-  <li><a href="#picking-a-survey-software" id="toc-picking-a-survey-software" class="nav-link" data-scroll-target="#picking-a-survey-software"><strong>Picking a Survey Software</strong></a></li>
+  <li><a href="#beware-of-common-types-of-survey-bias" id="toc-beware-of-common-types-of-survey-bias" class="nav-link" data-scroll-target="#beware-of-common-types-of-survey-bias">Beware of Common Types of Survey Bias</a></li>
+  <li><a href="#picking-a-survey-software" id="toc-picking-a-survey-software" class="nav-link" data-scroll-target="#picking-a-survey-software">Picking a Survey Software</a></li>
   </ul></li>
-  <li><a href="#internal-and-confidential-data" id="toc-internal-and-confidential-data" class="nav-link" data-scroll-target="#internal-and-confidential-data">Internal and Confidential Data</a></li>
-  <li><a href="#additional-resources" id="toc-additional-resources" class="nav-link" data-scroll-target="#additional-resources">Additional Resources</a>
-  <ul class="collapse">
-  <li><a href="#move-to-use-case-page" id="toc-move-to-use-case-page" class="nav-link" data-scroll-target="#move-to-use-case-page"><em>Move to Use Case Page</em></a></li>
-  </ul></li>
+  <li><a href="#additional-resources" id="toc-additional-resources" class="nav-link" data-scroll-target="#additional-resources">Additional Resources</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/edit/main/collect-process/collection.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/blob/main/collect-process/collection.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
@@ -445,15 +442,48 @@ Remember - it’s OK to have data gaps!
 <p><em>&lt;insert content from Use Case Page here!&gt;</em></p>
 <p><a href="https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html">Estimating Demographics of Custom Spatial Features</a> is another detailed example of how to use the R programming language to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features, and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.</p>
 </section>
+<section id="demographics-data-consideration-example" class="level4">
+<h4 class="anchored" data-anchor-id="demographics-data-consideration-example"><strong>Demographics Data</strong> Consideration Example</h4>
+<p>The <a href="https://www.waterboards.ca.gov/water_issues/programs/grants_loans/sustainable_water_solutions/safer.html">Safe and Affordable Funding for Equity and Resilience</a> (SAFER) Program developed the <a href="https://www.waterboards.ca.gov/water_issues/programs/grants_loans/docs/2024/draft-final-fy2024-25-fep-clean-version.pdf">Final FY 2024-25 Fund Expenditure Plan for the Safe and Affordable Drinking Water Fund</a> in response to the Senate Bill (SB) 200 (Ch. 120, Stats. 2019) which requires the annual adoption of a Fund Expenditure Plan for the Safe and Affordable Drinking Water Fund.</p>
+<p>The SAFER Program’s goal is to provide safe and affordable drinking water in every California community, for every Californian. FY 2024-25 marks the halfway point of the initial ten years of continuously appropriated funding to the SADW Fund as originally envisioned in SB 200.</p>
+<p>Looking at the SAFER Program goal with an equity lens, we can add that the goal would be for race to no longer predict a person’s ability to have access to safe and affordable drinking water.</p>
+<p>The Racial Equity and Environmental Justice Section of the Plan (Section VIII.G.) provides several tables with data that incorporates demographics data.</p>
+<p>As we see, presenting demographics data alone does not tell the full story of the issue. The tables and the text lack clarity and in depth analysis on <em>why</em> the data is telling the story it is.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To tell a compelling story and truly advance equity - adding demographics data to an analysis is not enough!
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>As you go through the process of collecting demographics data for your project - be sure to understand:</p>
+<ul>
+<li><p>WHY demographics data are needed for your project</p></li>
+<li><p>How you plan on using demographics data, in concert with the other data sources you identified in your Data Management Plan, to tell the (often complex and nuanced) story behind the data.</p></li>
+<li><p>How you plan on taking action to advance equity based on whatever is shown in the analysis. You might not be able to have a full plan in place at the data collection step - but now is the time to begin brainstorming so that you can take action as swiftly as possible once the analysis or data product is complete.</p></li>
+</ul>
+</div>
+</div>
+<p>For this example, race and ethnicity of the populations served by the water systems likely isn’t the <em>only</em> only difference between the systems. What other factors that are associated with different populations that could be driving the imbalance in failing systems and funding? Perhaps, the majority-Hispanic population systems are much larger, or older, or have more severe problems.</p>
+<p>A more nuanced comparison would look at the major factors that determine cost (or other metrics) and compare the racial difference between those subgroups. For example, comparing the racial and ethnic differences between systems of medium sized cities with a water treatment plants built within the past 30 years.</p>
+<p>Some recommendations to improving the storytelling and meaningful impact of the data being shown in the report to support the advancement of equity could include:</p>
+<ul>
+<li><p>making proportions of different populations and their association to failing systems (or other metrics) more explicit</p></li>
+<li><p>adding a section articulating how the most impacted and burdend population systems (Hispanics in this case) will get more funding, proportionally</p></li>
+<li><p>list some additional explanatory factors that could be explored in future analyses</p></li>
+</ul>
+</section>
 </section>
 <section id="calenviroscreen" class="level3">
-<h3 class="anchored" data-anchor-id="calenviroscreen">CalEnviroScreen</h3>
+<h3 class="anchored" data-anchor-id="calenviroscreen"><strong>CalEnv</strong>iroScreen</h3>
 <p><a href="https://oehha.ca.gov/calenviroscreen">CalEnviroScreen</a> is a mapping tool that helps identify California communities that are most affected by many sources of pollution, and where people are often especially vulnerable to pollution’s effects. CalEnviroScreen can be a helpful tool in creating visualizations and performing analysis as it provides a number of indices, as well as a “rolled-up” score that combines environmental and demographic data together. As with any dataset or visualization tool there can be things to consider, a couple of which are discussed below.</p>
 <section id="missing-values-for-calenviroscreen-scores" class="level4">
 <h4 class="anchored" data-anchor-id="missing-values-for-calenviroscreen-scores"><strong>Missing Values for CalEnviroScreen Scores</strong></h4>
 <p>Users conducting an analysis with the <a href="https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40">CalEnviroScreen (CES) 4.0 dataset</a> should be aware that it contains missing values, both for individual indicators and overall CES scores. These missing values are distinct from zeros, which are also in the CES dataset.</p>
-<p>In the CES 4.0 data (for the version available as of April 2023), the <a href="https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40shpf2021shp.zip">shapefile containing CES 4.0 scores</a> encodes these missing values as negative numbers (-999 for most variables, and -1998 for one variable). The <a href="https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40resultsdatadictionaryf2021.zip">Excel workbook containing CES 4.0 scores</a> encodes these missing values as NA.</p>
-<p>Also, note that the CalEnviroScreen 3 shapefile (June 2018 update version) encoded missing values as 0, so users should be aware of this change if/when updating an analysis from CES 3 to CES 4.0 data.</p>
+<p>In the CES 4.0 data (for the version available as of April 2023), the <a href="https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40shpf2021shp.zip">shapefile containing CES 4.0 scores</a> encodes these missing values as negative numbers (-999 for most variables, and -1998 for one variable). The <a href="https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40resultsdatadictionaryf2021.zip">Excel workbook containing CES 4.0 scores</a> encodes these missing values as NA. Also, note that the CalEnviroScreen 3 shapefile (June 2018 update version) encoded missing values as 0, so users should be aware of this change if/when updating an analysis from CES 3 to CES 4.0 data.</p>
 <p>Users should account for these missing values – and their different encodings – as needed when doing any analysis using CES data.</p>
 <p>For more information about the missing (and zero) values in the CES 4.0 dataset, see the data dictionary (PDF file) that accompanies the CalEnviroScreen 4.0 results Excel workbook, both of which are available for <a href="https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40resultsdatadictionaryf2021.zip">download as a zip file</a>.</p>
 </section>
@@ -468,6 +498,10 @@ Remember - it’s OK to have data gaps!
 <p><a href="https://www.epa.gov/ejscreen">EJScreen</a> is EPA’s environmental justice mapping and screening tool that provides EPA with a nationally consistent dataset and approach for combining environmental and socioeconomic indicators.</p>
 <p>First-time users may find the 5-minute <a href="#0" title="This link opens a new webpage.">EJScreen in 5: A Quick Overview of EJScreen</a> video helpful as an introduction to the tool.</p>
 </section>
+</section>
+<section id="internal-administrative-data" class="level2">
+<h2 class="anchored" data-anchor-id="internal-administrative-data">Internal Administrative Data</h2>
+<p>Most organizations, including the Water Boards, have various types of Administrative Data which includes internal demographics data related to the workforce in the organization. This data is normally confidential but can be very valuable when working on addressing workforce equity. If and when these data are used, it is critical to ensure the protection and security of the data to preserve confidentiality through the development and sharing (or not) of the final data product. See the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#data-collection-processing">Data Collection and Processing section of the Planning Phase</a> for more guidance.</p>
 </section>
 <section id="surveys" class="level2">
 <h2 class="anchored" data-anchor-id="surveys">Surveys</h2>
@@ -495,18 +529,14 @@ Remember - it’s OK to have data gaps!
 </ul>
 </section>
 <section id="beware-of-common-types-of-survey-bias" class="level3">
-<h3 class="anchored" data-anchor-id="beware-of-common-types-of-survey-bias"><strong>Beware of Common Types of</strong> Survey Bias</h3>
-<p><em>Add content</em></p>
+<h3 class="anchored" data-anchor-id="beware-of-common-types-of-survey-bias">Beware of Common Types of Survey Bias</h3>
+<p>As you develop your survey, it’s important to</p>
 </section>
 <section id="picking-a-survey-software" class="level3">
-<h3 class="anchored" data-anchor-id="picking-a-survey-software"><strong>Picking a Survey Software</strong></h3>
+<h3 class="anchored" data-anchor-id="picking-a-survey-software">Picking a Survey Software</h3>
 <p>Most Water Board staff will use Microsoft Forms which is available to all staff through the Microsoft 365 suite of applications. Microsoft Forms has a lot of advantages because of its integration with other Microsoft tools like Excel and PowerBI which allow for the survey results to be analyzed and visualized.&nbsp; See this <a href="https://youtu.be/XBFVDedwLiY?si=O161oYja-FBhG1W7">6 min video on Using Microsoft Forms data with Power BI</a> for guidance on how to make the connection between Forms and PowerBi via Sharepoint that allows for consistent updating of results</p>
 <p>Note that those who use Microsoft Forms and other free software like Google Forms will likely need to transform the form output from a wide format to a long format for analysis. See the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html#processing-data-with-an-equity-lens">Processing Data with an Equity Lens</a> section of the Data Processing page for more guidance.</p>
 </section>
-</section>
-<section id="internal-and-confidential-data" class="level2">
-<h2 class="anchored" data-anchor-id="internal-and-confidential-data">Internal and Confidential Data</h2>
-<p>In addition to the data sources listed above, most organizations including the Water Board have various types of Administrative Data which includes internal demographics data related to the workforce in the organization. This data is normally confidential but can be very valuable when working on addressing workforce equity. If and when these data are used, it is critical to ensure the protection and security of the data to preserve confidentiality through the development and sharing (or not) of the final data product. See the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#data-collection-processing">Data Collection and Processing section of the Planning Phase</a> for more guidance.</p>
 </section>
 <section id="additional-resources" class="level2">
 <h2 class="anchored" data-anchor-id="additional-resources">Additional Resources</h2>
@@ -528,13 +558,8 @@ Remember - it’s OK to have data gaps!
 <li><a href="https://www.epa.gov/ejscreen/frequent-questions-about-ejscreen" title="This link opens a new webpage.">Frequent Questions about EJScreen</a></li>
 </ul></li>
 </ul>
-<section id="move-to-use-case-page" class="level3">
-<h3 class="anchored" data-anchor-id="move-to-use-case-page"><em>Move to Use Case Page</em></h3>
-<p>Example - <a href="https://www.waterboards.ca.gov/water_issues/programs/grants_loans/sustainable_water_solutions/safer.html">SAFER Fund Expenditure Plan</a></p>
-<p>Section VIII.G. Racial Equity and Environmental Justice provides several tables with data that incorporates demographics data. The tables and the text lack clarity and in depth analysis on why the data is telling the story it is. Race and ethnicity of the populations served by the systems likely isn’t the only only difference between the systems. Are there other factors that are associated with different populations that could be driving the imbalance in failing systems and funding? Perhaps, the majority-Hispanic population systems are much larger, or older, or have more severe problems. An apples to apples comparison would look at the major factors that determine cost and compare the racial difference between those subgroups. For example, comparing the racial and ethnic differences between systems of medium sized cities with a water treatment plant built within the past 30 years. Making these proportions more explicit and adding a section where Hispanics population systems get more funding, proportionally and list some additional explanatory factors that should be explored.</p>
 
 
-</section>
 </section>
 </section>
 
