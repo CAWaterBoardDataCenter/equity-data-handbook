@@ -170,7 +170,7 @@ This issue may be addressed in a future release of the CES dataset; in the meant
 
 First-time users may find the 5-minute [EJScreen in 5: A Quick Overview of EJScreen](#0 "This link opens a new webpage.") video helpful as an introduction to the tool.
 
-## Internal Administrative Data
+### Internal Administrative Data
 
 Most organizations, including the Water Boards, have various types of Administrative Data which includes internal demographics data related to the workforce in the organization. This data is normally confidential but can be very valuable when working on addressing workforce equity. If and when these data are used, it is critical to ensure the protection and security of the data to preserve confidentiality through the development and sharing (or not) of the final data product. See the [Data Collection and Processing section of the Planning Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#data-collection-processing) for more guidance.
 
