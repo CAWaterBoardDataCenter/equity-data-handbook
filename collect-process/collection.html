@@ -310,7 +310,6 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#demographics-data" id="toc-demographics-data" class="nav-link" data-scroll-target="#demographics-data">Demographics Data</a></li>
   <li><a href="#multi-source-data-tools" id="toc-multi-source-data-tools" class="nav-link" data-scroll-target="#multi-source-data-tools">Multi-Source Data Tools</a></li>
-  <li><a href="#open-data-portals" id="toc-open-data-portals" class="nav-link" data-scroll-target="#open-data-portals">Open Data Portals</a></li>
   </ul></li>
   <li><a href="#surveys" id="toc-surveys" class="nav-link" data-scroll-target="#surveys">Surveys</a>
   <ul class="collapse">
@@ -319,7 +318,10 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#picking-a-survey-software" id="toc-picking-a-survey-software" class="nav-link" data-scroll-target="#picking-a-survey-software"><strong>Picking a Survey Software</strong></a></li>
   </ul></li>
   <li><a href="#internal-and-confidential-data" id="toc-internal-and-confidential-data" class="nav-link" data-scroll-target="#internal-and-confidential-data">Internal and Confidential Data</a></li>
-  <li><a href="#additional-resources" id="toc-additional-resources" class="nav-link" data-scroll-target="#additional-resources">Additional Resources</a></li>
+  <li><a href="#additional-resources" id="toc-additional-resources" class="nav-link" data-scroll-target="#additional-resources">Additional Resources</a>
+  <ul class="collapse">
+  <li><a href="#move-to-use-case-page" id="toc-move-to-use-case-page" class="nav-link" data-scroll-target="#move-to-use-case-page"><em>Move to Use Case Page</em></a></li>
+  </ul></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/edit/main/collect-process/collection.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/blob/main/collect-process/collection.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
@@ -355,7 +357,20 @@ Important
 <section id="data-limitations" class="level2">
 <h2 class="anchored" data-anchor-id="data-limitations">Data Limitations</h2>
 <p>As you begin to collect the data required for your project, it’s important to remember that ALL data have limits in what they can actually tell us, constraints on how they should be used appropriately, and biases related to initial data collection or generation - and it’s crucial to be aware of and account for them during your project.</p>
-<p>In addition to data limitations related to data quality or analysis methods (e.g., insufficient quality, low sample size; see the the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/qaqc.html">Quality Assurance</a> and <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html">Data Analysis</a> pages for more details), be sure to also keep the below considerations in mind so that you can prepare and analyze your data in a way that supports the advancement of equity, inclusion, and justice.</p>
+<p>In addition to data limitations related to data quality or analysis methods (e.g., insufficient quality, low sample size, data gaps; see the the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/qaqc.html">Quality Assurance</a> and <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html">Data Analysis</a> pages for more details), be sure to also keep the below considerations in mind so that you can prepare and analyze your data in a way that supports the advancement of equity, inclusion, and justice.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Remember - it’s OK to have data gaps!
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>It’s OK to have some data gaps, and in the case of conducting data analyses with a racial equity lens, gaps will be the norm. What’s important is to acknowledge what gaps exist, document how you will account for them, and (ideally) set a course for filling those gaps, as appropriate.</p>
+</div>
+</div>
 <section id="unconscious-bias-of-data-sources" class="level3">
 <h3 class="anchored" data-anchor-id="unconscious-bias-of-data-sources">Unconscious bias of data sources</h3>
 <p>We all have unconscious biases and operate in inequitable and unjust systems. That can unconsciously and unintentionally impact how data are collected and result in datasets that reflect those biases. Take time to ask the following questions about the data you’re interested in using for your project so you can have a better understanding of the data’s context and be better able to detect and account for potential biases of said data:</p>
@@ -408,27 +423,37 @@ Important
 <p>Adding demographics data to your data project can help increase understanding of potential correlations or relationships between your data and demographic and socioeconomic characteristics of locations of interest. More specifically, the integration of demographics data into your data project can highlight the extent to which race can still be used to predict outcomes associated with your project and therefore underscore where and to what extent racial equity outcomes have not yet been achieved.</p>
 <section id="demographics-data-needs-context" class="level4">
 <h4 class="anchored" data-anchor-id="demographics-data-needs-context"><strong>Demographics Data Needs Context</strong></h4>
-<p>It’s important to remember that you can always benefit from setting context before trying to communicate demographic or specific racial equity answers to questions posed by our Board, a member of the public, or a partner in this work. What your program is about, what does it do, how well does it do these things (aka Performance Report), etc. This may take a few different visualizations to help frame the context of the program mission but will help viewers understand how you are approaching the racial equity data work within the scope of your program.&nbsp;</p>
-<p>Often the go-to resources for making inferences to demographic and socioeconomic characteristics is the National Census dataset and the associated American Community Survey dataset. While we are fortunate to have just updated this dataset in 2020 there are limitations and potential inaccuracies associated with relying solely on census data to enumerate demographic characteristics within a given census tract. This <a href="https://cacensus.maps.arcgis.com/apps/webappviewer/index.html?id=48be59de0ba94a3dacff1c9116df8b37">tool from the Department of Finance exists to measure this limitation</a>.</p>
-<p>A detailed example of using R programming to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features is available and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program. <a href="https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html" class="uri">https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html</a></p>
-<p>Example - <a href="https://www.waterboards.ca.gov/water_issues/programs/grants_loans/sustainable_water_solutions/safer.html">SAFER Fund Expenditure Plan</a></p>
-<p>Section VIII.G. Racial Equity and Environmental Justice provides several tables with data that incorporates demographics data. The tables and the text lack clarity and indepth analysis on why the data is telling the story it is. Race and ethnicity of the populations served by the systems likely isn’t the only only difference between the systems. Are there other factors that are associated with different populations that could be driving the imbalance in failing systems and funding? Perhaps, the majority-Hispanic population systems are much larger, or older, or have more severe problems. An apples to apples comparison would look at the major factors that determine cost and compare the racial difference between those subgroups. For example, comparing the racial and ethnic differences between systems of medium sized cities with a water treatment plant built within the past 30 years. Making these proportions more explicit and adding a section where Hispanics population systems get more funding, proportionally and list some additional explanatory factors that should be explored.</p>
-<p>TIP: It’s ok to note data gaps, and in the case of racial equity data, gaps will be the norm. It is a key part of a good analysis to identify data gaps and set a course for filling those gaps.</p>
+<p>It’s important to remember to provide context about your project before trying to communicate demographics related results or answers to specific racial equity questions posed by our Board, the public, or our partners in this work. Contextual topics could include:</p>
+<ul>
+<li><p>What is your program/project about? What is the mission?</p></li>
+<li><p>What is your program/project meant to do? What are your objectives/goals?</p></li>
+<li><p>How well does your program/project do these things now (aka Performance Report)?</p></li>
+<li><p>What approaches are you taking with this project to advance equity outcomes?</p></li>
+</ul>
+<p>Communicating this contextual information may require different complementary modes of communication (e.g.&nbsp;presentation, fact sheets, visualizations), but investing the time to provide that grounding and framing will help the audience understand how you are approaching your data work with an equity lens within the scope of your program/project.&nbsp;</p>
+</section>
+<section id="demographics-data-sources" class="level4">
+<h4 class="anchored" data-anchor-id="demographics-data-sources"><strong>Demographics Data Sources</strong></h4>
+<p>The data sources many use to make inferences related to demographic and socioeconomic characteristics are from the <a href="https://www.census.gov/data.html">United States Census Bureau</a> and the associated <a href="https://www.census.gov/programs-surveys/acs/data.html">American Community Survey (ACS) Data</a>.</p>
+<p>While we are fortunate to have just updated this dataset in 2020 there are limitations and potential inaccuracies associated with relying solely on census data to enumerate demographic characteristics within a given census tract. This <a href="https://cacensus.maps.arcgis.com/apps/webappviewer/index.html?id=48be59de0ba94a3dacff1c9116df8b37">tool from the Department of Finance exists to measure this limitation</a>.</p>
+<p>The ACS also has a <a href="https://www.census.gov/programs-surveys/acs/library/handbook">Handbooks for Data Users</a> to make it easier for folks to use the data appropriately.</p>
 </section>
 <section id="demographics-data-integration-methods" class="level4">
 <h4 class="anchored" data-anchor-id="demographics-data-integration-methods">Demographics Data Integration Methods</h4>
 <p>Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.</p>
+<p><em>&lt;insert content from Use Case Page here!&gt;</em></p>
+<p><a href="https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html">Estimating Demographics of Custom Spatial Features</a> is another detailed example of how to use the R programming language to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features, and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.</p>
 </section>
 </section>
 <section id="multi-source-data-tools" class="level3">
 <h3 class="anchored" data-anchor-id="multi-source-data-tools">Multi-Source Data Tools</h3>
-<section id="california-water-boards-racial-equity-data-resource-hub" class="level4">
-<h4 class="anchored" data-anchor-id="california-water-boards-racial-equity-data-resource-hub">California Water Boards Racial Equity Data Resource Hub</h4>
-<p>The <a href="https://gispublic.waterboards.ca.gov/portal/apps/experiencebuilder/template/?data_id=dataSource_14-0%3A10&amp;id=b02e68db0fa7452aad0b08d3c65d4a93">California Water Boards Racial Equity Data Resource Hub</a> provides a list of Water Boards Developed Racial Equity Data Tools</p>
-</section>
 <section id="calenviroscreen" class="level4">
 <h4 class="anchored" data-anchor-id="calenviroscreen">CalEnviroScreen</h4>
 <p><a href="https://experience.arcgis.com/experience/6b863505f9454cea802f4be0b4b49d62">CalEnviroScreen 4.0</a></p>
+<p><a href="https://oehha.ca.gov/calenviroscreen">CalEnviroScreen</a></p>
+<ul>
+<li><a href="https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40raceanalysisf2021.pdf">Analysis of Race/Ethnicity and CalEnviroScreen 4.0 Scores</a></li>
+</ul>
 <p><a href="https://oehha.ca.gov/calenviroscreen">CalEnviroScreen</a> can be a helpful tool in creating visualizations and performing analysis as it provides a number of indices, as well as a “rolled-up” score that combines environmental and demographic data together. However, there can be things to consider, a couple of which are discussed below.</p>
 </section>
 <section id="missing-values-for-calenviroscreen-scores" class="level4">
@@ -440,21 +465,10 @@ Important
 <h4 class="anchored" data-anchor-id="inconsistent-census-tract-boundaries-in-calenviroscreen-4.0-shapefile"><strong>Inconsistent Census Tract Boundaries in CalEnviroScreen 4.0 Shapefile</strong></h4>
 <p>In the CES 4.0 data (for the version available as of April 2023), the shapefile containing CES 4.0 scores (available <a href="https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40shpf2021shp.zip">here</a>) uses a simplified version of the polygons that represent 2010 census tracts. The boundaries of the census tracts defined by these simplified polygons do not always align with the boundaries of neighboring census tracts, resulting in slight gaps or overlaps between some neighboring census tracts. These inconsistencies are not likely to have a significant impact on most uses of the CES data, but they could impact some types of analysis based on CES data. For example, when assessing sites or facilities based on the CES score of the census tract they are located in, sites located near a census tract boundary could be associated with more than one census tract (and more than one CES score) in areas where there are overlapping census tract polygons, or not associated with any census tract (and no CES score) in areas where there are gaps between census tract polygons. This issue may be addressed in a future release of the CES dataset; in the meantime, a possible workaround is to use the official 2010 census tract boundaries from the US Census Bureau for any calculations, then use census tract IDs to tie this information to the associated CES score for each tract.</p>
 </section>
-</section>
-<section id="open-data-portals" class="level3">
-<h3 class="anchored" data-anchor-id="open-data-portals">Open Data Portals</h3>
-<section id="state-of-california-data" class="level4">
-<h4 class="anchored" data-anchor-id="state-of-california-data">State of California Data</h4>
-<p><a href="https://oehha.ca.gov/calenviroscreen">CalEnviroScreen</a></p>
-<ul>
-<li><a href="https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40raceanalysisf2021.pdf">Analysis of Race/Ethnicity and CalEnviroScreen 4.0 Scores</a></li>
-</ul>
-</section>
-<section id="federal-data" class="level4">
-<h4 class="anchored" data-anchor-id="federal-data">Federal Data</h4>
-<p><a href="https://www.census.gov/data.html">United States Census Data</a></p>
-<p><a href="https://www.census.gov/programs-surveys/acs/data.html">American Community Survey Data</a>, <a href="https://www.census.gov/programs-surveys/acs/library/handbook">ACS Handbooks for Data Users</a></p>
-<p><a href="https://www.epa.gov/ejscreen">U.S. EPA EJ Screen</a></p>
+<section id="us-epa-ej-screen" class="level4">
+<h4 class="anchored" data-anchor-id="us-epa-ej-screen">US EPA EJ Screen</h4>
+<p><a href="https://www.epa.gov/ejscreen">U.S. EPA EJ Screen</a>…</p>
+<p><em>&lt;Insert Table comparing CalEnviroScreen and EJ Screen&gt;</em></p>
 </section>
 </section>
 </section>
@@ -466,16 +480,16 @@ Important
 <p>Creating surveys that yield actionable insights is all about the details - and writing effective survey questions is the first step. You do not have to be an expert to build and distribute an effective online survey, but by checking your survey against tried-and-tested benchmarks, you can help ensure you are collecting the best data possible.&nbsp;&nbsp;</p>
 <p>Tips for Building an Effective Survey:</p>
 <ol type="1">
-<li><p>Make Sure That Every Question Is Necessary.</p></li>
-<li><p>Keep it Short and Simple.</p></li>
-<li><p>Ask Direct Questions.</p></li>
-<li><p>Ask One Question at a Time.</p></li>
-<li><p>Avoid Leading and Biased Questions.</p></li>
-<li><p>Speak Your Respondent’s Language.</p></li>
-<li><p>Use Response Scales Whenever Possible.</p></li>
-<li><p>Avoid Using Grids or Matrices for Responses.</p></li>
-<li><p>Rephrase Yes/No Questions if Possible</p></li>
-<li><p>Take Your Survey for a Test Drive</p></li>
+<li>Make Sure That Every Question Is Necessary</li>
+<li>Keep it Short and Simple</li>
+<li>Ask Direct Questions</li>
+<li>Ask One Question at a Time</li>
+<li>Avoid Leading and Biased Questions</li>
+<li>Speak Your Respondent’s Language</li>
+<li>Use Response Scales Whenever Possible</li>
+<li>Avoid Using Grids or Matrices for Responses</li>
+<li>Rephrase Yes/No Questions if Possible</li>
+<li>Take Your Survey for a Test Drive</li>
 </ol>
 <p>Guides for good survey design include:</p>
 <ul>
@@ -485,11 +499,12 @@ Important
 </section>
 <section id="beware-of-common-types-of-survey-bias" class="level3">
 <h3 class="anchored" data-anchor-id="beware-of-common-types-of-survey-bias"><strong>Beware of Common Types of</strong> Survey Bias</h3>
+<p><em>Add content</em></p>
 </section>
 <section id="picking-a-survey-software" class="level3">
 <h3 class="anchored" data-anchor-id="picking-a-survey-software"><strong>Picking a Survey Software</strong></h3>
-<p>Most Water Board staff will use Microsoft Forms which is available to all staff through the Microsoft 365 suite of applications.&nbsp; Microsoft Forms has a lot of advantages because of its integration with other Microsoft tools like Excel and PowerBi which allow for the survey results to be analyzed and visualized.&nbsp; Here is video on how to make that connection between Forms and PowerBi via Sharepoint that allows for consistent updating of results:&nbsp; <a href="https://youtu.be/XBFVDedwLiY?si=O161oYja-FBhG1W7" class="uri">https://youtu.be/XBFVDedwLiY?si=O161oYja-FBhG1W7</a>&nbsp;</p>
-<p>One issue with Microsoft Forms and other free software like Google Forms is that they produce wide data in Excel of Google Sheets.&nbsp; This type of data is more difficult to transform.</p>
+<p>Most Water Board staff will use Microsoft Forms which is available to all staff through the Microsoft 365 suite of applications. Microsoft Forms has a lot of advantages because of its integration with other Microsoft tools like Excel and PowerBI which allow for the survey results to be analyzed and visualized.&nbsp; See this <a href="https://youtu.be/XBFVDedwLiY?si=O161oYja-FBhG1W7">6 min video on Using Microsoft Forms data with Power BI</a> for guidance on how to make the connection between Forms and PowerBi via Sharepoint that allows for consistent updating of results</p>
+<p>Note that those who use Microsoft Forms and other free software like Google Forms will likely need to transform the form output from a wide format to a long format for analysis. See the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html#processing-data-with-an-equity-lens">Processing Data with an Equity Lens</a> section of the Data Processing page for more guidance.</p>
 </section>
 </section>
 <section id="internal-and-confidential-data" class="level2">
@@ -501,8 +516,13 @@ Important
 <ul>
 <li><a href="https://cawaterboards.sharepoint.com/:b:/r/sites/WB-OPP-EJRoundtable/Materials/Racial%20Equity%20Data%20Subcommittee/Webinars/Demo%20Webinar%20with%20DataMade%20Coaches_25June24/Hannah%27s%20slides%20on%20racial%20equity%20data%20analysis.pdf?csf=1&amp;web=1&amp;e=eNCc0K">Analyzing Water Boards and Demographic Data for Equity</a>. Jun 2024. Hannah Cushman Garland. State Water Board Racial Equity Data Subcommittee Webinar. <a href="https://cawaterboards.sharepoint.com/:v:/r/sites/WB-OPP-EJRoundtable/Materials/Racial%20Equity%20Data%20Subcommittee/Webinars/Demo%20Webinar%20with%20DataMade%20Coaches_25June24/DataMade%20Webinar%20Recording_25June24.mp4?csf=1&amp;web=1&amp;e=oOuGyf">Recording</a> | <a href="https://drive.google.com/file/d/1yva-EE0JyQna4c5RN73TJ7F0YUIRTXCI/view?usp=sharing">Download and Use the Code</a> | <a href="https://datamade.github.io/waterboard-coaching/">View Code</a></li>
 </ul>
+<section id="move-to-use-case-page" class="level3">
+<h3 class="anchored" data-anchor-id="move-to-use-case-page"><em>Move to Use Case Page</em></h3>
+<p>Example - <a href="https://www.waterboards.ca.gov/water_issues/programs/grants_loans/sustainable_water_solutions/safer.html">SAFER Fund Expenditure Plan</a></p>
+<p>Section VIII.G. Racial Equity and Environmental Justice provides several tables with data that incorporates demographics data. The tables and the text lack clarity and in depth analysis on why the data is telling the story it is. Race and ethnicity of the populations served by the systems likely isn’t the only only difference between the systems. Are there other factors that are associated with different populations that could be driving the imbalance in failing systems and funding? Perhaps, the majority-Hispanic population systems are much larger, or older, or have more severe problems. An apples to apples comparison would look at the major factors that determine cost and compare the racial difference between those subgroups. For example, comparing the racial and ethnic differences between systems of medium sized cities with a water treatment plant built within the past 30 years. Making these proportions more explicit and adding a section where Hispanics population systems get more funding, proportionally and list some additional explanatory factors that should be explored.</p>
 
 
+</section>
 </section>
 </section>
 
