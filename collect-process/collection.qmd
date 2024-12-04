@@ -119,7 +119,7 @@ As you go through the process of collecting demographics data for your project -
 
 -   WHY demographics data are needed for your project
 
--   How you plan on using demographics data, in concert with the other data sources you identified in your Data Management Plan, to tell the (often complex and nuanced) story behind the data.
+-   How you plan on using demographics data, in concert with the other data sources you identified in your [Data Management Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html), to tell the (often complex and nuanced) story behind the data.
 
 -   How you plan on taking action to advance equity based on whatever is shown in the analysis. You might not be able to have a full plan in place at the data collection step - but now is the time to begin brainstorming so that you can take action as swiftly as possible once the analysis or data product is complete.
 :::
