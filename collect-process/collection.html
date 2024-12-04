@@ -309,7 +309,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#common-data-sources" id="toc-common-data-sources" class="nav-link" data-scroll-target="#common-data-sources">Common Data Sources</a>
   <ul class="collapse">
   <li><a href="#demographics-data" id="toc-demographics-data" class="nav-link" data-scroll-target="#demographics-data">Demographics Data</a></li>
-  <li><a href="#multi-source-data-tools" id="toc-multi-source-data-tools" class="nav-link" data-scroll-target="#multi-source-data-tools">Multi-Source Data Tools</a></li>
+  <li><a href="#calenviroscreen" id="toc-calenviroscreen" class="nav-link" data-scroll-target="#calenviroscreen"><strong>CalEnviroScreen</strong></a></li>
+  <li><a href="#us-epa-ej-screen" id="toc-us-epa-ej-screen" class="nav-link" data-scroll-target="#us-epa-ej-screen">US EPA EJ Screen</a></li>
   </ul></li>
   <li><a href="#surveys" id="toc-surveys" class="nav-link" data-scroll-target="#surveys">Surveys</a>
   <ul class="collapse">
@@ -406,12 +407,12 @@ Remember - it’s OK to have data gaps!
 <li><p><strong>Acknowledge who is now not included</strong> in the data or visualization and explain what groups have been combined and why. Use comments, tooltips, or footnotes that can be easily accessed within the visualization to make it easier for users to find this information.</p></li>
 <li><p><strong>Think carefully about how groups are lumped in the “other” category</strong> of our analysis or visualization. Sometimes it’s necessary to combine groups into a single “other” category (e.g.&nbsp;to generalize small groups to protect confidentiality or to achieve adequate sample size for your analysis). The Urban Institute’s <a href="https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf">Do No Harm Data Visualization Recommendations</a> include considering alternatives to using the term “other” as a catch-all category, including:</p>
 <ul>
-<li><p>Another ______ (e.g.&nbsp;Another race or Another group)</p></li>
-<li><p>Additional ______ (e.g.&nbsp;Additional races or Additional languages)</p></li>
-<li><p>All other self-descriptions</p></li>
-<li><p>People identifying as other or multiple races</p></li>
-<li><p>Identity not listed</p></li>
-<li><p>Identity not listed in the survey or dataset</p></li>
+<li>Another ______ (e.g.&nbsp;Another race or Another group)</li>
+<li>Additional ______ (e.g.&nbsp;Additional races or Additional languages)</li>
+<li>All other self-descriptions</li>
+<li>People identifying as other or multiple races</li>
+<li>Identity not listed</li>
+<li>Identity not listed in the survey or dataset</li>
 </ul></li>
 </ol>
 </section>
@@ -425,10 +426,10 @@ Remember - it’s OK to have data gaps!
 <h4 class="anchored" data-anchor-id="demographics-data-needs-context"><strong>Demographics Data Needs Context</strong></h4>
 <p>It’s important to remember to provide context about your project before trying to communicate demographics related results or answers to specific racial equity questions posed by our Board, the public, or our partners in this work. Contextual topics could include:</p>
 <ul>
-<li><p>What is your program/project about? What is the mission?</p></li>
-<li><p>What is your program/project meant to do? What are your objectives/goals?</p></li>
-<li><p>How well does your program/project do these things now (aka Performance Report)?</p></li>
-<li><p>What approaches are you taking with this project to advance equity outcomes?</p></li>
+<li>What is your program/project about? What is the mission?</li>
+<li>What is your program/project meant to do? What are your objectives/goals?</li>
+<li>How well does your program/project do these things now (aka Performance Report)?</li>
+<li>What approaches are you taking with this project to advance equity outcomes?</li>
 </ul>
 <p>Communicating this contextual information may require different complementary modes of communication (e.g.&nbsp;presentation, fact sheets, visualizations), but investing the time to provide that grounding and framing will help the audience understand how you are approaching your data work with an equity lens within the scope of your program/project.&nbsp;</p>
 </section>
@@ -439,25 +440,22 @@ Remember - it’s OK to have data gaps!
 <p>The ACS also has a <a href="https://www.census.gov/programs-surveys/acs/library/handbook">Handbooks for Data Users</a> to make it easier for folks to use the data appropriately.</p>
 </section>
 <section id="demographics-data-integration-methods" class="level4">
-<h4 class="anchored" data-anchor-id="demographics-data-integration-methods">Demographics Data Integration Methods</h4>
+<h4 class="anchored" data-anchor-id="demographics-data-integration-methods"><strong>Demographics Data Integration Methods</strong></h4>
 <p>Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.</p>
 <p><em>&lt;insert content from Use Case Page here!&gt;</em></p>
 <p><a href="https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html">Estimating Demographics of Custom Spatial Features</a> is another detailed example of how to use the R programming language to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features, and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.</p>
 </section>
 </section>
-<section id="multi-source-data-tools" class="level3">
-<h3 class="anchored" data-anchor-id="multi-source-data-tools">Multi-Source Data Tools</h3>
-<section id="calenviroscreen" class="level4">
-<h4 class="anchored" data-anchor-id="calenviroscreen">CalEnviroScreen</h4>
+<section id="calenviroscreen" class="level3">
+<h3 class="anchored" data-anchor-id="calenviroscreen"><strong>CalEnviroScreen</strong></h3>
 <p><a href="https://experience.arcgis.com/experience/6b863505f9454cea802f4be0b4b49d62">CalEnviroScreen 4.0</a></p>
 <p><a href="https://oehha.ca.gov/calenviroscreen">CalEnviroScreen</a></p>
 <ul>
 <li><a href="https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40raceanalysisf2021.pdf">Analysis of Race/Ethnicity and CalEnviroScreen 4.0 Scores</a></li>
 </ul>
 <p><a href="https://oehha.ca.gov/calenviroscreen">CalEnviroScreen</a> can be a helpful tool in creating visualizations and performing analysis as it provides a number of indices, as well as a “rolled-up” score that combines environmental and demographic data together. However, there can be things to consider, a couple of which are discussed below.</p>
-</section>
 <section id="missing-values-for-calenviroscreen-scores" class="level4">
-<h4 class="anchored" data-anchor-id="missing-values-for-calenviroscreen-scores"><strong>Missing Values for CalEnviroScreen Scores</strong></h4>
+<h4 class="anchored" data-anchor-id="missing-values-for-calenviroscreen-scores">Missing Values for CalEnviroScreen Scores</h4>
 <p>Users conducting an analysis with the <a href="https://gispublic.waterboards.ca.gov/portal/apps/experiencebuilder/experience/?draft=true&amp;id=b02e68db0fa7452aad0b08d3c65d4a93&amp;page=page_6&amp;views=view_11#">CalEnviroScreen</a> (CES) 4.0 dataset should be aware that it contains missing values, both for individual indicators and overall CES scores. These missing values are distinct from zeros, which are also in the CES dataset. For more information about the missing (and zero) values, see the data dictionary (calenviroscreen40resultsdatadictionary_F_2021.pdf) that accompanies the CalEnviroScreen 4.0 results Excel workbook, available for download as a zip file <a href="https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40resultsdatadictionaryf2021.zip">here</a>.</p>
 <p>In the CES 4.0 data (for the version available as of April 2023), the shapefile containing CES 4.0 scores (available <a href="https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40shpf2021shp.zip">here</a>) encodes these missing values as negative numbers (-999 for most variables, and -1998 for one variable). The Excel workbook containing CES 4.0 scores (available <a href="https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40resultsdatadictionaryf2021.zip">here</a>) encodes these missing values as NA. Users should account for these missing values – and their different encodings – as needed when doing any analysis using CES data. Also, note that the CalEnviroScreen 3 shapefile (June 2018 update version) encoded missing values as 0, so users should be aware of this change if/when updating an analysis from CES 3 to CES 4.0 data.</p>
 </section>
@@ -465,11 +463,11 @@ Remember - it’s OK to have data gaps!
 <h4 class="anchored" data-anchor-id="inconsistent-census-tract-boundaries-in-calenviroscreen-4.0-shapefile"><strong>Inconsistent Census Tract Boundaries in CalEnviroScreen 4.0 Shapefile</strong></h4>
 <p>In the CES 4.0 data (for the version available as of April 2023), the shapefile containing CES 4.0 scores (available <a href="https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40shpf2021shp.zip">here</a>) uses a simplified version of the polygons that represent 2010 census tracts. The boundaries of the census tracts defined by these simplified polygons do not always align with the boundaries of neighboring census tracts, resulting in slight gaps or overlaps between some neighboring census tracts. These inconsistencies are not likely to have a significant impact on most uses of the CES data, but they could impact some types of analysis based on CES data. For example, when assessing sites or facilities based on the CES score of the census tract they are located in, sites located near a census tract boundary could be associated with more than one census tract (and more than one CES score) in areas where there are overlapping census tract polygons, or not associated with any census tract (and no CES score) in areas where there are gaps between census tract polygons. This issue may be addressed in a future release of the CES dataset; in the meantime, a possible workaround is to use the official 2010 census tract boundaries from the US Census Bureau for any calculations, then use census tract IDs to tie this information to the associated CES score for each tract.</p>
 </section>
-<section id="us-epa-ej-screen" class="level4">
-<h4 class="anchored" data-anchor-id="us-epa-ej-screen">US EPA EJ Screen</h4>
+</section>
+<section id="us-epa-ej-screen" class="level3">
+<h3 class="anchored" data-anchor-id="us-epa-ej-screen">US EPA EJ Screen</h3>
 <p><a href="https://www.epa.gov/ejscreen">U.S. EPA EJ Screen</a>…</p>
 <p><em>&lt;Insert Table comparing CalEnviroScreen and EJ Screen&gt;</em></p>
-</section>
 </section>
 </section>
 <section id="surveys" class="level2">
