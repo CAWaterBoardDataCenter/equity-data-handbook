@@ -146,7 +146,7 @@ Depending on what demographics data sources you decide to use, the methods neede
 
 [Estimating Demographics of Custom Spatial Features](https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html) is another detailed example of how to use the R programming language to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features, and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.
 
-### **CalEnv**iroScreen
+### CalEnviroScreen
 
 [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen) is a mapping tool that helps identify California communities that are most affected by many sources of pollution, and where people are often especially vulnerable to pollution’s effects. CalEnviroScreen can be a helpful tool in creating visualizations and performing analysis as it provides a number of indices, as well as a "rolled-up" score that combines environmental and demographic data together. As with any dataset or visualization tool there can be things to consider, a couple of which are discussed below.
 
