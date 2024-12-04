@@ -102,7 +102,7 @@ While we are fortunate to have just updated this dataset in 2020 there are limit
 
 The ACS also has a [Handbooks for Data Users](https://www.census.gov/programs-surveys/acs/library/handbook) to make it easier for folks to use the data appropriately.
 
-#### **Demographics Data** Consideration Example
+#### **Demographics Data Consideration Example**
 
 The [Safe and Affordable Funding for Equity and Resilience](https://www.waterboards.ca.gov/water_issues/programs/grants_loans/sustainable_water_solutions/safer.html) (SAFER) Program developed the [Final FY 2024-25 Fund Expenditure Plan for the Safe and Affordable Drinking Water Fund](https://www.waterboards.ca.gov/water_issues/programs/grants_loans/docs/2024/draft-final-fy2024-25-fep-clean-version.pdf) in response to the Senate Bill (SB) 200 (Ch. 120, Stats. 2019) which requires the annual adoption of a Fund Expenditure Plan for the Safe and Affordable Drinking Water Fund.
 
