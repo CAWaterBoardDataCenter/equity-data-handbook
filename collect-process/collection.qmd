@@ -102,14 +102,6 @@ While we are fortunate to have just updated this dataset in 2020 there are limit
 
 The ACS also has a [Handbooks for Data Users](https://www.census.gov/programs-surveys/acs/library/handbook) to make it easier for folks to use the data appropriately.
 
-#### **Demographics Data Integration Methods**
-
-Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.
-
-*\<insert content from Use Case Page here!\>*
-
-[Estimating Demographics of Custom Spatial Features](https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html) is another detailed example of how to use the R programming language to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features, and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.
-
 #### **Demographics Data** Consideration Example
 
 The [Safe and Affordable Funding for Equity and Resilience](https://www.waterboards.ca.gov/water_issues/programs/grants_loans/sustainable_water_solutions/safer.html) (SAFER) Program developed the [Final FY 2024-25 Fund Expenditure Plan for the Safe and Affordable Drinking Water Fund](https://www.waterboards.ca.gov/water_issues/programs/grants_loans/docs/2024/draft-final-fy2024-25-fep-clean-version.pdf) in response to the Senate Bill (SB) 200 (Ch. 120, Stats. 2019) which requires the annual adoption of a Fund Expenditure Plan for the Safe and Affordable Drinking Water Fund.
@@ -145,6 +137,14 @@ Some recommendations to improving the storytelling and meaningful impact of the 
 -   adding a section articulating how the most impacted and burdend population systems (Hispanics in this case) will get more funding, proportionally
 
 -   list some additional explanatory factors that could be explored in future analyses
+
+#### **Demographics Data Integration Methods**
+
+Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.
+
+*\<insert content from Use Case Page here!\>*
+
+[Estimating Demographics of Custom Spatial Features](https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html) is another detailed example of how to use the R programming language to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features, and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.
 
 ### **CalEnv**iroScreen
 
