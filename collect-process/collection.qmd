@@ -110,7 +110,43 @@ Depending on what demographics data sources you decide to use, the methods neede
 
 [Estimating Demographics of Custom Spatial Features](https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html) is another detailed example of how to use the R programming language to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features, and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.
 
-### CalEnviroScreen
+#### **Demographics Data** Consideration Example
+
+The [Safe and Affordable Funding for Equity and Resilience](https://www.waterboards.ca.gov/water_issues/programs/grants_loans/sustainable_water_solutions/safer.html) (SAFER) Program developed the [Final FY 2024-25 Fund Expenditure Plan for the Safe and Affordable Drinking Water Fund](https://www.waterboards.ca.gov/water_issues/programs/grants_loans/docs/2024/draft-final-fy2024-25-fep-clean-version.pdf) in response to the Senate Bill (SB) 200 (Ch. 120, Stats. 2019) which requires the annual adoption of a Fund Expenditure Plan for the Safe and Affordable Drinking Water Fund.
+
+The SAFER Program’s goal is to provide safe and affordable drinking water in every California community, for every Californian. FY 2024-25 marks the halfway point of the initial ten years of continuously appropriated funding to the SADW Fund as originally envisioned in SB 200.
+
+Looking at the SAFER Program goal with an equity lens, we can add that the goal would be for race to no longer predict a person's ability to have access to safe and affordable drinking water.
+
+The Racial Equity and Environmental Justice Section of the Plan (Section VIII.G.) provides several tables with data that incorporates demographics data.
+
+As we see, presenting demographics data alone does not tell the full story of the issue. The tables and the text lack clarity and in depth analysis on *why* the data is telling the story it is.
+
+::: callout-tip
+##### To tell a compelling story and truly advance equity - adding demographics data to an analysis is not enough! 
+
+As you go through the process of collecting demographics data for your project - be sure to understand:
+
+-   WHY demographics data are needed for your project
+
+-   How you plan on using demographics data, in concert with the other data sources you identified in your Data Management Plan, to tell the (often complex and nuanced) story behind the data.
+
+-   How you plan on taking action to advance equity based on whatever is shown in the analysis. You might not be able to have a full plan in place at the data collection step - but now is the time to begin brainstorming so that you can take action as swiftly as possible once the analysis or data product is complete.
+:::
+
+For this example, race and ethnicity of the populations served by the water systems likely isn't the *only* only difference between the systems. What other factors that are associated with different populations that could be driving the imbalance in failing systems and funding? Perhaps, the majority-Hispanic population systems are much larger, or older, or have more severe problems.
+
+A more nuanced comparison would look at the major factors that determine cost (or other metrics) and compare the racial difference between those subgroups. For example, comparing the racial and ethnic differences between systems of medium sized cities with a water treatment plants built within the past 30 years.
+
+Some recommendations to improving the storytelling and meaningful impact of the data being shown in the report to support the advancement of equity could include:
+
+-   making proportions of different populations and their association to failing systems (or other metrics) more explicit
+
+-   adding a section articulating how the most impacted and burdend population systems (Hispanics in this case) will get more funding, proportionally
+
+-   list some additional explanatory factors that could be explored in future analyses
+
+### **CalEnv**iroScreen
 
 [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen) is a mapping tool that helps identify California communities that are most affected by many sources of pollution, and where people are often especially vulnerable to pollution’s effects. CalEnviroScreen can be a helpful tool in creating visualizations and performing analysis as it provides a number of indices, as well as a "rolled-up" score that combines environmental and demographic data together. As with any dataset or visualization tool there can be things to consider, a couple of which are discussed below.
 
@@ -118,9 +154,7 @@ Depending on what demographics data sources you decide to use, the methods neede
 
 Users conducting an analysis with the [CalEnviroScreen (CES) 4.0 dataset](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40) should be aware that it contains missing values, both for individual indicators and overall CES scores. These missing values are distinct from zeros, which are also in the CES dataset.
 
-In the CES 4.0 data (for the version available as of April 2023), the [shapefile containing CES 4.0 scores](https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40shpf2021shp.zip) encodes these missing values as negative numbers (-999 for most variables, and -1998 for one variable). The [Excel workbook containing CES 4.0 scores](https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40resultsdatadictionaryf2021.zip) encodes these missing values as NA.
-
-Also, note that the CalEnviroScreen 3 shapefile (June 2018 update version) encoded missing values as 0, so users should be aware of this change if/when updating an analysis from CES 3 to CES 4.0 data.
+In the CES 4.0 data (for the version available as of April 2023), the [shapefile containing CES 4.0 scores](https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40shpf2021shp.zip) encodes these missing values as negative numbers (-999 for most variables, and -1998 for one variable). The [Excel workbook containing CES 4.0 scores](https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40resultsdatadictionaryf2021.zip) encodes these missing values as NA. Also, note that the CalEnviroScreen 3 shapefile (June 2018 update version) encoded missing values as 0, so users should be aware of this change if/when updating an analysis from CES 3 to CES 4.0 data.
 
 Users should account for these missing values – and their different encodings – as needed when doing any analysis using CES data.
 
@@ -137,6 +171,10 @@ This issue may be addressed in a future release of the CES dataset; in the meant
 [EJScreen](https://www.epa.gov/ejscreen) is EPA's environmental justice mapping and screening tool that provides EPA with a nationally consistent dataset and approach for combining environmental and socioeconomic indicators.
 
 First-time users may find the 5-minute [EJScreen in 5: A Quick Overview of EJScreen](#0 "This link opens a new webpage.") video helpful as an introduction to the tool.
+
+## Internal Administrative Data
+
+Most organizations, including the Water Boards, have various types of Administrative Data which includes internal demographics data related to the workforce in the organization. This data is normally confidential but can be very valuable when working on addressing workforce equity. If and when these data are used, it is critical to ensure the protection and security of the data to preserve confidentiality through the development and sharing (or not) of the final data product. See the [Data Collection and Processing section of the Planning Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#data-collection-processing) for more guidance.
 
 ## Surveys
 
@@ -164,19 +202,15 @@ Guides for good survey design include:
 -   [Creating Effective Surveys - Best Practices](https://files.eric.ed.gov/fulltext/ED619797.pdf)
 -   [How to Create an Effective Survey](https://www.qualtrics.com/blog/10-tips-for-building-effective-surveys/)
 
-### **Beware of Common Types of** Survey Bias
+### Beware of Common Types of Survey Bias
 
-*Add content*
+As you develop your survey, it's important to
 
-### **Picking a Survey Software**
+### Picking a Survey Software
 
 Most Water Board staff will use Microsoft Forms which is available to all staff through the Microsoft 365 suite of applications. Microsoft Forms has a lot of advantages because of its integration with other Microsoft tools like Excel and PowerBI which allow for the survey results to be analyzed and visualized.  See this [6 min video on Using Microsoft Forms data with Power BI](https://youtu.be/XBFVDedwLiY?si=O161oYja-FBhG1W7) for guidance on how to make the connection between Forms and PowerBi via Sharepoint that allows for consistent updating of results
 
 Note that those who use Microsoft Forms and other free software like Google Forms will likely need to transform the form output from a wide format to a long format for analysis. See the [Processing Data with an Equity Lens](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html#processing-data-with-an-equity-lens) section of the Data Processing page for more guidance.
-
-## Internal and Confidential Data
-
-In addition to the data sources listed above, most organizations including the Water Board have various types of Administrative Data which includes internal demographics data related to the workforce in the organization. This data is normally confidential but can be very valuable when working on addressing workforce equity. If and when these data are used, it is critical to ensure the protection and security of the data to preserve confidentiality through the development and sharing (or not) of the final data product. See the [Data Collection and Processing section of the Planning Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#data-collection-processing) for more guidance.
 
 ## Additional Resources
 
@@ -190,9 +224,3 @@ In addition to the data sources listed above, most organizations including the W
     -   [EJScreen User Guide](https://ejscreen.epa.gov/mapper/help/ejscreen_help.pdf "This link opens a new webpage.") for navigating the various features of the tool,
     -   [EJScreen Glossary](https://www.epa.gov/ejscreen/ejscreen-map-descriptions "This link opens a new webpage.") for better understanding the map layers and indicators being displayed in the tool, and
     -   [Frequent Questions about EJScreen](https://www.epa.gov/ejscreen/frequent-questions-about-ejscreen "This link opens a new webpage.")
-
-### *Move to Use Case Page*
-
-Example - [SAFER Fund Expenditure Plan](https://www.waterboards.ca.gov/water_issues/programs/grants_loans/sustainable_water_solutions/safer.html)
-
-Section VIII.G. Racial Equity and Environmental Justice provides several tables with data that incorporates demographics data. The tables and the text lack clarity and in depth analysis on why the data is telling the story it is. Race and ethnicity of the populations served by the systems likely isn't the only only difference between the systems. Are there other factors that are associated with different populations that could be driving the imbalance in failing systems and funding? Perhaps, the majority-Hispanic population systems are much larger, or older, or have more severe problems. An apples to apples comparison would look at the major factors that determine cost and compare the racial difference between those subgroups. For example, comparing the racial and ethnic differences between systems of medium sized cities with a water treatment plant built within the past 30 years. Making these proportions more explicit and adding a section where Hispanics population systems get more funding, proportionally and list some additional explanatory factors that should be explored.
