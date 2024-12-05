@@ -14,125 +14,46 @@ Here you will find a curated list of resources related to the development, imple
 
 -   [Looking at Data Through an Equity Lens](https://ascd.org/el/articles/looking-at-data-through-an-equity-lens) - At the most basic level, taking an equity lens in Data Wise involves having a team ask itself probing questions at each step of the improvement process. This document provides a look at how to use a data wise techniques with a racial equity lens.
 
+-   [Academic Data Science Alliance Data Science Ethos](https://ethos.academicdatascience.org/)
+
+-   Urban Institute: [Five Ethical Risks to Consider before Filling Missing Race and Ethnicity Data](https://www.urban.org/sites/default/files/publication/103830/five-ethical-risks-to-consider-before-filling-missing-race-and-ethnicity-data-workshop-findings_0.pdf)
+
 ## Best practices and frameworks
 
-## Mapping tools
+-   CDC Foundation - [Principles for Using Public Health Data to Drive Equity: A guide to embedding equitable practices throughout the data life cycle](https://www.cdcfoundation.org/data-equity-principles?inline)
 
-## Resource hubs
+-   CalEPA's [Practices to Advance Racial Equity in Workforce Planning](https://calepa.ca.gov/wp-content/uploads/sites/6/2021/11/Practices-to-Advance-Racial-Equity-in-Workforce-Planning.sw_.jh_.pdf?emrc=175a3b)
+
+-   [California Data Strategy](https://innovation.ca.gov/pdf/CalData_Californias_Data_Strategy_2020.pdf) (2020) and ensuing [Report](https://innovation.ca.gov/reports/data-strategy-report-2024/) (2024)
+
+-   [California Indian Water Rights Study](https://water.calindian.org/)
+
+-   Center for the Study of Social Policy (CSSP) - [Antiracist Data Project Survey and Focus Group Findings](https://cssp.org/wp-content/uploads/2021/09/Our-Identities-Ourselves-Project-Infographic-FINAL.pdf)
+
+-   PolicyLink and the USC Equity Research Institute - [The National Equity Atlas](https://nationalequityatlas.org/)
+
+-   [We All Count - Data Equity Framework](https://weallcount.com/the-data-process/)
+
+-   [MN DOT Governance and Best Practices](https://github.com/user-attachments/files/16605638/MnDOT.Governance.and.Best.Practices.and.User.Requirements.1.docx): A tailored document like this would be useful to encourage contributors to follow the same guidelines and understand which groups or tags need to be added for the data to be ingested properly.
+
+-   Urban Institute's [Principles for Advancing Equitable Data Practice](https://www.urban.org/sites/default/files/publication/102346/principles-for-advancing-equitable-data-practice.pdf)
+
+-   Caltrans: [Considering Equity in Community Impact Analysis for Projects](https://dot.ca.gov/-/media/dot-media/programs/environmental-analysis/documents/ser/equity-guidance-a11y.pdf)
 
 ## Toolkits
 
-------------------------------------------------------------------------
+-   [The Water Boards Office of Research Planning and Performance Water Conservation and Urban Water folks tool](%3Chttps://www.waterboards.ca.gov/water_issues/programs/conservation_portal/water-use-explorer/)
 
-## Relevant Government Documents
+-   [Water Boards Division of Drinking Water SAFER Outreach Tool](https://gispublic.waterboards.ca.gov/portal/apps/webappviewer/index.html?id=70d27423735e45d6b037b7fbaea9a6a6)
 
-### [State of California Agency Resources]{.underline}
+-   Actionable Intelligence for Social Policy (AISP) - [A Toolkit for Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/resource-article/a-toolkit-for-centering-racial-equity-throughout-data-integration/)
 
-#### [Governor's Office]{.underline}
+-   [Beyond Compliance Network Advocacy Toolkit](https://beyondcompliance.pubpub.org/pub/c90gqevm/release/2)
 
--   [Governor Executive Order on Racial Equity (Executive Order N-16-22)](https://www.gov.ca.gov/wp-content/uploads/2022/09/9.13.22-EO-N-16-22-Equity.pdf?emrc=c11513) - background page
+## Resource hubs
 
--   [Equity in the State Revolving Fund use for infrastructure](https://www.policyinnovation.org/publications/a-fairer-funding-stream) - background page
+-   [Water Boards Environmental Justice Roundtable Resource Catalog](https://cawaterboards.sharepoint.com/:w:/r/sites/WB-OPP-EJRoundtable/Materials/Resources/EJRT_Resources%20Catalogue.docx?d=wbf0bd2eff6e943f0ad5c9972554eb1f4&csf=1&web=1&e=b39KxT)
 
-#### [CalEPA]{.underline}
+-   The [California Water Boards Racial Equity Data Resource Hub](https://gispublic.waterboards.ca.gov/portal/apps/experiencebuilder/template/?data_id=dataSource_14-0%3A10&id=b02e68db0fa7452aad0b08d3c65d4a93) provides a list of Water Boards Developed Racial Equity Data Tools
 
--   [Practices to Advance Racial Equity in Workforce Planning](https://calepa.ca.gov/wp-content/uploads/sites/6/2021/11/Practices-to-Advance-Racial-Equity-in-Workforce-Planning.sw_.jh_.pdf?emrc=175a3b) - best practices
-
-#### [California Water Boards]{.underline}
-
--   [Water Boards Environmental Justice Roundtable Resource Catalog](https://cawaterboards.sharepoint.com/:w:/r/sites/WB-OPP-EJRoundtable/Materials/Resources/EJRT_Resources%20Catalogue.docx?d=wbf0bd2eff6e943f0ad5c9972554eb1f4&csf=1&web=1&e=b39KxT) - resource hubs
-
--   The [California Water Boards Racial Equity Data Resource Hub](https://gispublic.waterboards.ca.gov/portal/apps/experiencebuilder/template/?data_id=dataSource_14-0%3A10&id=b02e68db0fa7452aad0b08d3c65d4a93) provides a list of Water Boards Developed Racial Equity Data Tools - resource hubs
-
--   [The Water Boards Office of Research Planning and Performance Water Conservation and Urban Water folks tool](%3Chttps://www.waterboards.ca.gov/water_issues/programs/conservation_portal/water-use-explorer/) - toolkits
-
--   [The Water Boards Office of Research Planning and Performance Vulnerable Communities Platform](https://vcp-beta-1-1-gov-opr.hub.arcgis.com/) - omit
-
--   [Water Boards Division of Drinking Water SAFER Outreach Tool](https://gispublic.waterboards.ca.gov/portal/apps/webappviewer/index.html?id=70d27423735e45d6b037b7fbaea9a6a6) - toolkits
-
-#### [California Office of Data and Innovation]{.underline}
-
--   [California Office of Data and Innovation](https://innovation.ca.gov/) (mentioned in a contextual link on one of the main pages?)
-
--   [California Data Strategy Report](https://innovation.ca.gov/reports/data-strategy-report-2024/) (2024) - best practices
-
--   [California Data Strategy](https://innovation.ca.gov/pdf/CalData_Californias_Data_Strategy_2020.pdf) (2020) - best practices
-
-#### [California Department of Transportation (Caltrans)]{.underline}
-
--   [Considering Equity in Community Impact Analysis for Projects](https://dot.ca.gov/-/media/dot-media/programs/environmental-analysis/documents/ser/equity-guidance-a11y.pdf) - best practices
-
--   [Beta Transportation Equity Index (EQI) Web Map](https://caltrans.maps.arcgis.com/apps/webappviewer/index.html?id=8ff3d27cdc1a4e8da0ae09c6b076a253) - mapping
-
-#### [California Indian Legal Services]{.underline}
-
--   [California Indian Water Rights Study](https://water.calindian.org/) - reports
-
-### [Local City and County Resources]{.underline}
-
-The following text could replace the bullet points below: Many local city and county governments have compiled their own resources for working with equity data, like Oakland's [Geographic Equity Toolbox](https://www.oaklandca.gov/resources/oakdot-geographic-equity-toolbox), Portland's [Racial Equity Toolkit](https://www.portlandoregon.gov/oehr/71685), and New York City's interactive equity data tool [EquityNYC](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fequity.nyc.gov%2F&data=05%7C01%7Cnicholas.martorano%40waterboards.ca.gov%7C87a614b2e3db4c85368c08dbc55a8595%7Cfe186a257d4941e6994105d2281d36c1%7C0%7C0%7C638320764855634179%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=r%2Br4%2BybTh130ovhG12PjYHQYqVHlz4jSB8gXj3KTnAI%3D&reserved=0), including a [Mapping Equity tool](https://equity.nyc.gov/mapping-equity). Before starting your project, it is a good idea to do some research online to identify pre-existing resources available in your region.
-
--   City of Oakland \| [OakDOT Geographic Equity Toolbox (oaklandca.gov)](https://www.oaklandca.gov/resources/oakdot-geographic-equity-toolbox)
-
--   City of Portland [Racial Equity Toolkit](https://www.portlandoregon.gov/oehr/71685)
-
--   Pierce County (Washington State) utilizes an [Equity Index mapping tool](http://www.piercecountywa.gov/equityindex) to help inform diversity, equity, and inclusion considerations throughout County decision-making
-
--   The City of Seattle utilizes a [Racial and Social Equity Index](https://maps.seattle.gov/RSEIndex) that many departments use for prioritization and evaluation/analysis. A [user guide](#0) is also available
-
--   New York City government's online interactive equity data tool [EquityNYC](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fequity.nyc.gov%2F&data=05%7C01%7Cnicholas.martorano%40waterboards.ca.gov%7C87a614b2e3db4c85368c08dbc55a8595%7Cfe186a257d4941e6994105d2281d36c1%7C0%7C0%7C638320764855634179%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=r%2Br4%2BybTh130ovhG12PjYHQYqVHlz4jSB8gXj3KTnAI%3D&reserved=0), including a [Mapping Equity tool](https://equity.nyc.gov/mapping-equity)
-
-### [Other State Level Resources]{.underline}
-
--   [MN DOT Governance and Best Practices](https://github.com/user-attachments/files/16605638/MnDOT.Governance.and.Best.Practices.and.User.Requirements.1.docx): A tailored document like this would be useful to encourage contributors to follow the same guidelines and understand which groups or tags need to be added for the data to be ingested properly. - best practices or omit
-
-### [National Level Resources]{.underline}
-
-Add to Background: "In recent years, the United States government has also made strides towards promoting equitable data and environmental justice, as reflected in documents released by the White House such as a [Vision for Equitable Data](https://www.whitehouse.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf) (2021), a [fact sheet](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-releases-annual-agency-equity-action-plans-to-further-advance-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) on the Federal Government's plans to advance racial equity (2024), and [The Environmental Justice Science, Data, and Research Plan](https://www.whitehouse.gov/wp-content/uploads/2024/07/NSTC-EJ-Research-Plan-July-2024.pdf) (2024). Similarly, the U.S. Environmental Protection Agency has provided guidance for [Assessing Environmental Justice in Regulatory Analysis](https://www.epa.gov/system/files/documents/2023-11/ejtg_revision_110823_508compliant_0.pdf) and maintains a working list of resources for related to equity and water data at the [Health & Environmental Research Online (HERO) Database](https://hero.epa.gov/hero/index.cfm/project/page/project_id/3611).
-
-The above paragraph could replace the following bullet points:
-
--   The White House
-
-    -   [The Environmental Justice Science, Data, and Research Plan](https://www.whitehouse.gov/wp-content/uploads/2024/07/NSTC-EJ-Research-Plan-July-2024.pdf) (2024)
-
-    -   [FACT SHEET: Biden-⁠Harris Administration Releases Annual Agency Equity Action Plans to Further Advance Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-releases-annual-agency-equity-action-plans-to-further-advance-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) (2024)
-
-    -   [Year of Open Science Fact Sheet](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/) (2023)
-
-    -   [Initial Proposals for Revising the Federal Race and Ethnicity Standards](https://www.whitehouse.gov/omb/briefing-room/2023/01/26/initial-proposals-for-revising-the-federal-race-and-ethnicity-standards/) (2023)
-
-    -   [A Vision for Equitable Data: Recommendations from the Equitable Data Working Group](https://www.whitehouse.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf) (2021)
-
--   U.S. Environmental Protection Agency (EPA)
-
-    -   [US EPA guidance for Assessing Environmental Justice in Regulatory Analysis](https://www.epa.gov/system/files/documents/2023-11/ejtg_revision_110823_508compliant_0.pdf)
-    -   [Health & Environmental Research Online (HERO) Database](https://hero.epa.gov/hero/index.cfm/project/page/project_id/3611) - working list of resources for Justice, Equity, Diversity, and Inclusion (JEDI) in science, particularly those that may interest the water quality monitoring community. This list was initially compiled by the JEDI Working Group (part of the National Water Quality Monitoring Council) in preparation for the 12th National Monitoring Conference.
-
-### [Non-Governmental Resources]{.underline}
-
--   Center for the Study of Social Policy (CSSP) - [Antiracist Data Project Survey and Focus Group Findings](https://cssp.org/wp-content/uploads/2021/09/Our-Identities-Ourselves-Project-Infographic-FINAL.pdf). This is the first phase of a larger project whose goal is to share best practices for collecting data about race, ethnicity, and other demographic information including sexual orientation, gender identity and expression (SOGIE); national origin; language spoken; disability; religion; and tribal affiliation in child welfare agencies nationwide. - reports
-
--   Actionable Intelligence for Social Policy (AISP) - [A Toolkit for Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/resource-article/a-toolkit-for-centering-racial-equity-throughout-data-integration/) - toolkits
-
--   CDC Foundation - [Principles for Using Public Health Data to Drive Equity: A guide to embedding equitable practices throughout the data life cycle](https://www.cdcfoundation.org/data-equity-principles?inline) - best practices
-
--   PolicyLink and the USC Equity Research Institute - [The National Equity Atlas](https://nationalequityatlas.org/) is America's most detailed report card on racial and economic equity. We equip movement leaders and policymakers with actionable data and strategies to advance racial equity and shared prosperity. - report
-
--   Urban Institute - one link for Urban Institute?
-
-    -   [Elevate Data for Equity](https://www.urban.org/elevate-data-equity){.uri} - omit?
-
-    -   [Principles for Advancing Equitable Data Practice](https://www.urban.org/sites/default/files/publication/102346/principles-for-advancing-equitable-data-practice.pdf) - best practices
-
-    -   [Five Ethical Risks to Consider before Filling Missing Race and Ethnicity Data](https://www.urban.org/sites/default/files/publication/103830/five-ethical-risks-to-consider-before-filling-missing-race-and-ethnicity-data-workshop-findings_0.pdf) - data ethics
-
--   [Beyond Compliance Network Advocacy Toolkit](https://beyondcompliance.pubpub.org/pub/c90gqevm/release/2) - toolkit
-
--   [Academic Data Science Alliance Data Science Ethos](https://ethos.academicdatascience.org/) - data ethics, or omit
-
--   [500 Women Scientists Guide for Inclusive Scientific Meetings](https://500womenscientists.org/inclusive-scientific-meetings) - omit
-
--   [We All Count - Data Equity Framework](https://weallcount.com/the-data-process/) - best practices
-
--   [Mapping for Whom? Communities of Color and the Citizen Science Gap](https://acme-journal.org/index.php/acme/article/view/2178/1654) - mapping
+-   [California Office of Data and Innovation: Innovation Hub](https://innovation.ca.gov/)
