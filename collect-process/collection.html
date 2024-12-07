@@ -317,6 +317,7 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#survey-design" id="toc-survey-design" class="nav-link" data-scroll-target="#survey-design">Survey Design</a></li>
   <li><a href="#beware-of-common-types-of-survey-bias" id="toc-beware-of-common-types-of-survey-bias" class="nav-link" data-scroll-target="#beware-of-common-types-of-survey-bias">Beware of Common Types of Survey Bias</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
   <li><a href="#picking-a-survey-software" id="toc-picking-a-survey-software" class="nav-link" data-scroll-target="#picking-a-survey-software">Picking a Survey Software</a></li>
   </ul></li>
   <li><a href="#additional-resources" id="toc-additional-resources" class="nav-link" data-scroll-target="#additional-resources">Additional Resources</a></li>
@@ -530,21 +531,9 @@ To tell a compelling story and truly advance equity - adding demographics data t
 <section id="beware-of-common-types-of-survey-bias" class="level3">
 <h3 class="anchored" data-anchor-id="beware-of-common-types-of-survey-bias">Beware of Common Types of Survey Bias</h3>
 <p>As you develop your survey, it’s important to design and implement the survey in a way that minimizes or eliminates the biases as much as possible. Below are three tables that provide an overview of common survey biases to be aware of and avoid<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>:</p>
-<section id="biases-associated-with-how-a-question-is-designed" class="level4">
-<h4 class="anchored" data-anchor-id="biases-associated-with-how-a-question-is-designed">Biases Associated with How a Question is Designed</h4>
-<div class="callout callout-style-default callout-caution callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Caution
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1323316/#abstract1">LEFT OFF AT LEADING QUESTIOSN SECTION</a></p>
-</div>
-</div>
+<section id="biases-associated-with-question-design" class="level4">
+<h4 class="anchored" data-anchor-id="biases-associated-with-question-design">Biases Associated with Question Design</h4>
+<p>While the specific sources below vary, they can generally cause one or more of the following issues: problematic wording, data for the intended purpose of the question is missing or inadequate, the scale included the question is faulty, questions that are leading, intrusive, or inconsistent.</p>
 <table class="caption-top table">
 <thead>
 <tr class="header">
@@ -562,7 +551,7 @@ Caution
 <tr class="even">
 <td><strong>Ambiguous question</strong></td>
 <td>The question leads respondents to understand the question differently than was intended and, therefore, to answer a different question than was intended</td>
-<td></td>
+<td>Have a trusted partner, but one who had not participated in survey development, review and provide feedback on questions.</td>
 </tr>
 <tr class="odd">
 <td><strong>Complex question</strong></td>
@@ -570,22 +559,22 @@ Caution
 <td>Keep questions short and to the point.</td>
 </tr>
 <tr class="even">
-<td><strong>Data Degradation</strong></td>
+<td><strong>Data degradation</strong></td>
 <td>The question is phrased in a way that encourages respondents to provide less accurate information, which, can not be recovered or made more accurate after the survey is complete.</td>
 <td><p>Phrase questions in a manner that collects the most accurate information (ideally in the form of continuous data)</p>
 <p>Example:</p>
 <ul>
-<li>What age category do you belong to? &gt; What is your age? or What year are you born?</li>
+<li>What age category do you belong to? ➔ What is your age? or What year are you born?</li>
 </ul>
 <p>Note that sometimes it is more beneficial to collect generalized information (e.g.&nbsp;age category) so that you can prevent the unnecessary collection of Personal Identifiable Information (PII).</p></td>
 </tr>
 <tr class="odd">
 <td><strong>Double-barrelled question</strong></td>
 <td>The question is made up of two or more questions, and therefore make it difficult for the respondent to know which part of the question to answer and for the investigator to know which part of the question the respondent actually answered</td>
-<td></td>
+<td>Separate questions so that each question is only asking for one thing.</td>
 </tr>
 <tr class="even">
-<td><strong>Forced Choice (aka insufficient category)</strong></td>
+<td><strong>Forced choice (aka insufficient category)</strong></td>
 <td>The question provides too few categories that results in the respondents being forced to choose an imprecise option.</td>
 <td><p>Add one or more of the below category options to your question:</p>
 <ul>
@@ -601,20 +590,20 @@ Caution
 <td><p>Keep questions specific to the respondent’s behaviors.</p>
 <p>Example:</p>
 <ul>
-<li>Do you think…? &gt; Have you ever…?</li>
+<li>Do you think…? ➔ Have you ever…?</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><strong>Incomplete Interval</strong></td>
+<td><strong>Incomplete interval</strong></td>
 <td>The question does not include all possible intervals so respondents cannot select a category that most accurately reflects their experience.</td>
 <td><p>Add more intervals, or broaden interval categories, when appropriate.</p>
-<p>Example - insufficient interval</p>
+<p>Example - insufficient intervals</p>
 <ul>
 <li>Once per month</li>
 <li>Once per week</li>
 <li>More than once per week</li>
 </ul>
-<p>Example - sufficient interval</p>
+<p>Example - sufficient intervals</p>
 <ul>
 <li>Less than once per month</li>
 <li>Once per month to once per week</li>
@@ -622,31 +611,42 @@ Caution
 </ul></td>
 </tr>
 <tr class="odd">
-<td><strong>Insensitive&nbsp;Scales</strong></td>
+<td><strong>Insensitive&nbsp;scales</strong></td>
 <td>The question does not contain a range or scale that would result in sufficient discriminating power to differentiate the respondents because of the limited categories.</td>
 <td><p>Use a scale has five or more categories.</p>
 <p>Example:</p>
 <ul>
-<li>On a scale of 1-3… &gt; On a scale of 1-5… OR 1-10…</li>
+<li>On a scale of 1-3… ➔ On a scale of 1-5… OR 1-10…</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+<td><strong>Intrusive question</strong></td>
+<td><p>The question is requesting sensitive information (e.g.&nbsp;PII, income, identity, culture, etc.) too abruptly or directly and can feel intrusive to the respondent.</p>
+<p>This can result in the respondent electively suppressing information, providing inaccurate information and can influence how the respondent answers subsequent questions.</p></td>
+<td><p>Confirm the information you are asking for is truly essential to your project. If it is, frame the question in a way that respects the sensitivity of the information you are requesting.</p>
+<p>Try adding a transition into the question that provides context and explains why the information is needed.</p></td>
 </tr>
 <tr class="odd">
+<td><strong>Leading question</strong></td>
+<td>The question is worded in a way that guides respondents toward a certain answer.</td>
+<td><p>Use wording that is generalized and unbiased towards the respective answer choices.</p>
+<p>Example:</p>
+<ul>
+<li>Don’t you agree that…? ➔ Do you agree or disagree that..?</li>
+</ul></td>
+</tr>
+<tr class="even">
 <td><strong>Overlapping interval</strong></td>
 <td>The question contains intervals that overlap, which can result in respondent confusion related to which interval should be selected</td>
 <td><p>Use intervals that do not overlap</p>
-<p>Example - Overlapping interval</p>
+<p>Example - Overlapping intervals</p>
 <ul>
 <li>None</li>
 <li>5 or less</li>
 <li>5 - 10</li>
 <li>10 or more</li>
 </ul>
-<p>Example - sufficient interval</p>
+<p>Example - sufficient intervals</p>
 <ul>
 <li>None</li>
 <li>1 - 4</li>
@@ -654,73 +654,80 @@ Caution
 <li>10 or more</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Scale format</strong></td>
 <td><p>An even or an odd number of categories in the scale for the respondents to choose from may produce different results.</p>
 <p>Questions with an odd number of categories in the scale can result in neutral answers, whereas those with even categories forces respondents to pick a side on the scale.</p></td>
 <td><p>There is no consensus on which approach is better overall (i.e.&nbsp;even vs.&nbsp;odd).</p>
 <p>What’s important is that you select the scale that is most appropriate for the question and data you need.</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Technical jargon</strong></td>
 <td>The question includes technical terms that are specific to a profession that may not be understood by those outside of that field.</td>
 <td>Replace jargon with more <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html#use-plain-accessible-and-inclusive-language">plain, accessible, and inclusive language</a>.</td>
 </tr>
-<tr class="even">
-<td><strong>Time Period</strong></td>
-<td>The question does not identify a common time period for the respondent’s experience</td>
+<tr class="odd">
+<td><strong>Time period</strong></td>
+<td>The question does not identify a common time period for the respondents experience</td>
 <td><p>Include a specific time period in the question.</p>
 <p>Example:</p>
 <ul>
-<li>In the last 12 months…? &gt; Between Jan 1 to Dec 31 of last year…?</li>
+<li>In the last 12 months…? ➔ Between Jan 1 to Dec 31 of last year…?</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Uncommon word</strong></td>
 <td>The question uses uncommon or difficult words.</td>
 <td><p>Replace uncommon words with those that are more commonly used by your survey audience.</p>
 <p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1323316/table/N0x9913558.0x92f5098/">Example Uncommon/Common word pairs</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Vague word</strong></td>
 <td>The question includes words that undefined or may have multiple definitions.</td>
 <td><p>Replace vague words with those that are more precise.</p>
 <p>Examples:</p>
 <ul>
-<li>Occasionally &gt; one per month</li>
-<li>Regularly &gt; once per week</li>
-<li>Bi-weekly &gt; twice per week OR every other week</li>
-<li>Bi-monthly &gt; twice per month OR every other month</li>
+<li>Occasionally ➔ one per month</li>
+<li>Regularly ➔ once per week</li>
+<li>Bi-weekly ➔ twice per week OR every other week</li>
+<li>Bi-monthly ➔ twice per month OR every other month</li>
 </ul></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
+<td><strong>Word choice</strong></td>
+<td>The question may use words or phrases that pull focus or frame aspects of the question in a way that increases the likelihood of respondents choosing an answer that does not accurately reflect their intended choice.</td>
+<td><p>Use consistent question structure and terminology.</p>
+<p>Example - poor word choice:</p>
+<p>Which operation would you prefer?</p>
+<ul>
+<li><p>An operation that has a 5% mortality.</p></li>
+<li><p>An operation in which 90% of the patients will survive.</p></li>
+</ul>
+<p>Patients scheduled for surgery may choose the second option when they see or hear the words “90%” and “survive,” but in fact a 90% survival rate (or 10% mortality) is worse than a 5% mortality</p>
+<p>Example - improved word choice:</p>
+<p>Which operation would you prefer?</p>
+<ul>
+<li><p>An operation in which 95% of the patients will survive.</p></li>
+<li><p>An operation in which 90% of the patients will survive.</p></li>
+</ul></td>
 </tr>
 </tbody>
 </table>
+</section>
+<section id="biases-associated-with-survey-design" class="level4">
+<h4 class="anchored" data-anchor-id="biases-associated-with-survey-design">Biases Associated with Survey Design</h4>
+<p>While the specific sources below vary, they can generally cause one or more of the following issues: inconsistencies with past surveys which makes it difficult to compare responses over time, problematic formatting or design that can cause confusion or fatigue among respondents and result in inaccurate answers.</p>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 36%">
+<col style="width: 36%">
+</colgroup>
 <thead>
 <tr class="header">
-<th>Bias</th>
+<th>Bias Source</th>
 <th>Description</th>
-<th>Tips to prevent bias</th>
+<th>Tips to Minimize Bias</th>
 </tr>
 </thead>
 <tbody>
@@ -734,46 +741,26 @@ Caution
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+</tbody>
+</table>
+</section>
+<section id="biases-associated-with-survey-implementation" class="level4">
+<h4 class="anchored" data-anchor-id="biases-associated-with-survey-implementation">Biases Associated with Survey Implementation</h4>
+<p>While the specific sources below vary, they can generally cause one or more of the following issues: …</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 36%">
+<col style="width: 36%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Bias Source</th>
+<th>Description</th>
+<th>Tips to Minimize Bias</th>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td></td>
 <td></td>
@@ -787,6 +774,9 @@ Caution
 </tbody>
 </table>
 </section>
+</section>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section"></h3>
 </section>
 <section id="picking-a-survey-software" class="level3">
 <h3 class="anchored" data-anchor-id="picking-a-survey-software">Picking a Survey Software</h3>
