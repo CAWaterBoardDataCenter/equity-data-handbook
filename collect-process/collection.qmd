@@ -244,6 +244,18 @@ library(sf)
 library(patchwork)
 ```
 
+###### Activate Census API Key
+
+::: callout-warning
+LEFT OFF HERE
+:::
+
+``` r
+census_api_key(" ")                              # <7>
+```
+
+7.  modify code to pull from api key located in file to increase security
+
 ##### Collecting Data
 
 -   geographies
