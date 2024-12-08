@@ -155,7 +155,7 @@ In addition to the terms defined in the [Handbook Glossary](https://cawaterboard
 
 -   **Demographics**: statical data relating to characteristics of human populations, such as: age, race, ethnicity, sex, gender, income, education, etc.
 
--   **Geographic Vectors**: how data are stored in geographic information systems:
+-   **Geographic (Geospatial) Vectors**: how data are stored in geographic information systems:
 
     -   **Points**: zero-dimensional objects that contain only a single coordinate pair (i.e. latitude, longitude) to define their location. Example: Census landmarks
 
@@ -207,43 +207,57 @@ If you will be using U.S. Census data regularly and will be accesing and analyzi
 
 ##### Download Packages
 
+###### Install Packages
+
+You must install any packages you will use on your computer before you can use them. You only need to install a package once; if you have already installed the below packages you can skip this step and proceed to the Load Packages step.
+
 ---
 code-annotations: below
 ---
 
 ``` r
-library(tidyverse)
-library(palmerpenguins)
-penguins |>                                      # <1>
-  mutate(                                        # <2>
-    bill_ratio = bill_depth_mm / bill_length_mm, # <2>
-    bill_area  = bill_depth_mm * bill_length_mm  # <2>
-  )                                              # <2>
+install.packages("here")        # <1>
+install.packages("tidyverse")   # <2>
+install.packages("ggplot2")     # <3>
+install.packages("tidycensus")  # <4>
+install.packages("sf")          # <5>
+install.packages("patchwork")   # <6>
 ```
 
-1.  Take `penguins`, and then,
-2.  add new columns for the bill ratio and bill area.
+1.  The `here` package enables easy, shareable and reproducible file referencing in [project-oriented workflows](https://rstats.wtf/project-oriented-workflow.html). In contrast to using [`setwd()`](https://rdrr.io/r/base/getwd.html), which is fragile and dependent on the way you organize your files, here uses the top-level directory of a project to easily build paths to files. [Package Documentation](https://here.r-lib.org/)
+2.  The `tidyverse` package installs all packages in the tidyverse at once, including: [ggplot2](https://ggplot2.tidyverse.org/), [dplyr](https://dplyr.tidyverse.org/), [tidyr](https://tidyr.tidyverse.org/), among others. [Package Documentation](https://www.tidyverse.org/)
+3.  The `ggplot2` package is used to create graphics and data visualizations. [Package Documentation](https://ggplot2.tidyverse.org/)
+4.  The `tidycensus` package allows users to interface with the US Census Bureau's decennial Census and five-year American Community APIs and return tidyverse-ready data frames. [Package Documentation](https://walker-data.com/tidycensus/)
+5.  The `sf` package provides access to simple features in R so users can work with geographic vectors. [Package Documentation](https://r-spatial.github.io/sf/index.html)
+6.  The `patchwork` package is an extension of the `ggplot2` package, designed to simplify the process of combining multiple plots into a single layout. [Package Documentation](https://patchwork.data-imaginist.com/)
 
-```` r
+###### Load Packages
+
 ---
 code-annotations: below
 ---
-```r
-library(tidyverse)
-library(palmerpenguins)
+
+``` r
+library(here)                                    # <1>
+library(tidyverse)                               # <2>
+library(ggplot2)                                 # <3>
+library(tidycensus)                              # <1>
+library(sf)                                      # <1>
+library(patchwork)                               # <1>
+
+
 penguins |>                                      # <1>
   mutate(                                        # <2>
     bill_ratio = bill_depth_mm / bill_length_mm, # <2>
     bill_area  = bill_depth_mm * bill_length_mm  # <2>
   )                                              # <2>
 ```
-1. Take `penguins`, and then,
-2. add new columns for the bill ratio and bill area.
-````
+
+1.  The here package enables easy, shareable and reproducible file referencing in [project-oriented workflows](https://rstats.wtf/project-oriented-workflow.html). In contrast to using [`setwd()`](https://rdrr.io/r/base/getwd.html), which is fragile and dependent on the way you organize your files, here uses the top-level directory of a project to easily build paths to files. [Package Documentation](https://here.r-lib.org/)
+2.  
+3.  The ggplot2 package is used to create graphics and data visualizations. [Package Documentation](https://ggplot2.tidyverse.org/)
 
 use R Projects
-
-use the here package (instead of explicitly setting working directory - makes it more shareable and reproducible
 
 Tidyverse: the R package we'll be using to organize and prepare data for use \[add link to tidyverse documentation\]
 
