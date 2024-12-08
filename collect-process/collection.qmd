@@ -1,5 +1,9 @@
 # Data Collection
 
+::: callout-warning
+# This page is still under development - new content may be added and existing content may change at any time without notice
+:::
+
 ::: callout-important
 You should have addressed this during the [Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) & [Prepare](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) phase of your process...but just in case you haven't (yet) or you need a refresher - we're restating here:
 
@@ -81,7 +85,9 @@ In most cases, the Water Boards programs were not developed or designed to colle
 
 ### Demographics Data
 
-Adding demographics data to your data project can help increase understanding of potential correlations or relationships between your data and demographic and socioeconomic characteristics of locations of interest. More specifically, the integration of demographics data into your data project can highlight the extent to which race can still be used to predict outcomes associated with your project and therefore underscore where and to what extent racial equity outcomes have not yet been achieved.
+Adding demographics data to your data project[^collection-1] can help increase understanding of potential correlations or relationships between your data and demographic and socioeconomic characteristics of locations of interest. More specifically, the integration of demographics data into your data project can highlight the extent to which race can still be used to predict outcomes associated with your project and therefore underscore where and to what extent racial equity outcomes have not yet been achieved.
+
+[^collection-1]: The bulk of content in this section has been informed by, adapted or directly pulled from [DataMade](https://datamade.us/) guidance, resources (e.g., [Analysis Steps](https://datamade.github.io/waterboard-coaching/)) with their support and consent.
 
 #### **Demographics Data Needs Context**
 
@@ -91,16 +97,15 @@ It’s important to remember to provide context about your project before trying
 -   What is your program/project meant to do? What are your objectives/goals?
 -   How well does your program/project do these things now (aka Performance Report)?
 -   What approaches are you taking with this project to advance equity outcomes?
+-   What equity and data related questions do you have for your program/project? Which data types and datasets would be the best to use to answer that questions?
 
 Communicating this contextual information may require different complementary modes of communication (e.g. presentation, fact sheets, visualizations), but investing the time to provide that grounding and framing will help the audience understand how you are approaching your data work with an equity lens within the scope of your program/project. 
 
-#### **Demographics Data Sources**
+::: callout-tip
+**Hint**: ALL of the questions above (and more!) should have already been answered to some degree during the [Plan & Prepare Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/) of your project.
 
-The data sources many use to make inferences related to demographic and socioeconomic characteristics are from the [United States Census Bureau](https://www.census.gov/data.html) and the associated [American Community Survey (ACS) Data](https://www.census.gov/programs-surveys/acs/data.html).
-
-While we are fortunate to have just updated this dataset in 2020 there are limitations and potential inaccuracies associated with relying solely on census data to enumerate demographic characteristics within a given census tract. This [tool from the Department of Finance exists to measure this limitation](https://cacensus.maps.arcgis.com/apps/webappviewer/index.html?id=48be59de0ba94a3dacff1c9116df8b37).
-
-The ACS also has a [Handbooks for Data Users](https://www.census.gov/programs-surveys/acs/library/handbook) to make it easier for folks to use the data appropriately.
+Be sure to reference, pull from, and build on information you have already synthesized in your [Equity Assessment](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) and [Data Management Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) documents!
+:::
 
 #### **Demographics Data Consideration Example**
 
@@ -136,53 +141,41 @@ Some recommendations to improving the storytelling and meaningful impact of the 
 
 -   list some additional explanatory factors that could be explored in future analyses
 
-#### **Demographics Data Integration Methods**
+#### **Common Data Sources**
+
+The data sources many use to make inferences related to demographic and socioeconomic characteristics are from the [United States Census Bureau](https://www.census.gov/data.html) and the associated [American Community Survey (ACS) Data](https://www.census.gov/programs-surveys/acs/data.html).
+
+While we are fortunate to have just updated this dataset in 2020 there are limitations and potential inaccuracies associated with relying solely on census data to enumerate demographic characteristics within a given census tract. This [tool from the Department of Finance exists to measure this limitation](https://cacensus.maps.arcgis.com/apps/webappviewer/index.html?id=48be59de0ba94a3dacff1c9116df8b37).
+
+The ACS also has a [Handbooks for Data Users](https://www.census.gov/programs-surveys/acs/library/handbook) to make it easier for folks to use the data appropriately.
+
+#### Key Terms
+
+In addition to the terms defined in the [Handbook Glossary](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/common-language.html#glossary), users should know the following terms when using demographics data:
+
+-   **Demographics**: statical data relating to characteristics of human populations, such as: age, race, ethnicity, sex, gender, income, education, etc.
+
+-   **Geographies**
+
+    -   Block
+
+    -   Block Group
+
+    -   Tract
+
+#### **Data Integration Methods**
 
 Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.
-
-::: callout-caution
-LEFT OFF HERE \<\< *insert content from Use Case Page!*
-:::
-
-[Estimating Demographics of Custom Spatial Features](https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html) is another detailed example of how to use the R programming language to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features, and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.
-
-**FROM OTHER PAGE**
-
-Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.
-
-## Before you dive in
-
-Think through what questions you have and what data would be the best to use to answer that questions
-
-data isn't people
-
-be sure to understand limitations / bias of data you use
-
--   who collected it? what were their original intentions/questions
 
 ::: callout-important
-Remember - there's no such thing as "equity data" - how we use data, interpret it, and act on what we learn makes our use equitable (or not).
+##### Important Reminders Before You Dive In
+
+**Data are NOT people** - We need to use these data to get a better understanding of what's going on in our communities, but the data (at best) only represent a sample of the communitie's population and in no way reflect *everyone* or their lived experiences.
+
+**There's no such thing as "equity data"** - how we use data, interpret it, and act on what we learn makes our use equitable (or not). Simply including demographics data in your project's analysis or data products does not make those resources equitable - to operationalize equity we need to take actions and make decisions in ways to advance equitable outcomes.
+
+**The data you're using has limitations, be sure you know what they are before moving forward** - as discussed above, [all data have limitations](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html#data-limitations), and that is particularly true for demographics data. Be sure you have a clear and comprehensive understanding of the limitations that apply to the specific datasets you're using so you can collect and eventually process and analyze those data in ways that are appropriate.
 :::
-
-### Key Terms
-
-Demographics
-
--   Race
-
--   Ethnicity
-
-Geographies
-
--   Block
-
--   Block Group
-
--   Tract
-
-Census Data
-
-Tidyverse: the R package we'll be using to organize and prepare data for use \[add link to tidyverse documentation\]
 
 We''ll be running through examples below in R -
 
@@ -192,17 +185,15 @@ use R Projects
 
 use the here package (instead of explicitly setting working directory - makes it more shareable and reproducible
 
-Acknowledgements:
+Tidyverse: the R package we'll be using to organize and prepare data for use \[add link to tidyverse documentation\]
 
-This resource is being developed....and adapting code from...insert DataMade resources...
-
-### Download Packages
+##### Setup
 
 census API key sign up link: <https://api.census.gov/data/key_signup.html>
 
-## Collecting Data
+##### Download Packages
 
-CalEnviroScreen vs Census Data - add table that compares difference sources to make it easier for folks to understand which tool is best for the job
+##### Collecting Data
 
 -   geographies
 
@@ -220,30 +211,26 @@ Take some time to review the Concept and Labels in the table -
 summary_var = "P2_001N" # Total population
 ```
 
-### Demographics data sources
+***Common tables to use in sources***
 
--   census data in R & Python
-
-non-census data (e.g. CalEnviroScreen)
-
-### Common tables to use in sources
-
-## Data Prep & Use
-
-### Point Data
+##### Data Prep & Use - Points
 
 ``` r
 --- code-annotations: below ---  ```r library(tidyverse) library(palmerpenguins) penguins |>                                      # <1>   mutate(                                        # <2>     bill_ratio = bill_depth_mm / bill_length_mm, # <2>     bill_area  = bill_depth_mm * bill_length_mm  # <2>   )                                              # <2> ``` 1. Take `penguins`, and then, 2. add new columns for the bill ratio and bill area.
 ```
 
-### Lines
+##### Data Prep & Use - Lines
 
 ``` python
 ```
 
-### Polygons
+##### Data Prep & Use - Polygons
 
-## Data Interpretation
+##### Data Interpretation
+
+::: callout-note
+[Estimating Demographics of Custom Spatial Features](https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html) is another detailed example of how to use the R programming language to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features, and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.
+:::
 
 ### CalEnviroScreen
 
@@ -303,9 +290,9 @@ Guides for good survey design include:
 
 ### Beware of Common Types of Survey Bias
 
-As you develop your survey, it's important to design and implement the survey in a way that minimizes or eliminates the biases as much as possible. Below are three tables that provide an overview of common survey biases to be aware of and avoid[^collection-1]:
+As you develop your survey, it's important to design and implement the survey in a way that minimizes or eliminates the biases as much as possible. Below are three tables that provide an overview of common survey biases to be aware of and avoid[^collection-2]:
 
-[^collection-1]: The bulk of content in the Results Based Accountability (RBA) section has been informed by: [A Catalog of Biases in Questionnaires](https://pmc.ncbi.nlm.nih.gov/articles/PMC1323316/)
+[^collection-2]: The bulk of content in the Results Based Accountability (RBA) section has been informed by: [A Catalog of Biases in Questionnaires](https://pmc.ncbi.nlm.nih.gov/articles/PMC1323316/)
 
 #### Biases Associated with Question Design
 
