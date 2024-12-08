@@ -102,7 +102,7 @@ It’s important to remember to provide context about your project before trying
 Communicating this contextual information may require different complementary modes of communication (e.g. presentation, fact sheets, visualizations), but investing the time to provide that grounding and framing will help the audience understand how you are approaching your data work with an equity lens within the scope of your program/project. 
 
 ::: callout-tip
-**Hint**: ALL of the questions above (and more!) should have already been answered to some degree during the [Plan & Prepare Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/) of your project.
+##### ALL of the questions above (and more!) should have already been answered to some degree during the [Plan & Prepare Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/) of your project. 
 
 Be sure to reference, pull from, and build on information you have already synthesized in your [Equity Assessment](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) and [Data Management Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) documents!
 :::
@@ -155,13 +155,27 @@ In addition to the terms defined in the [Handbook Glossary](https://cawaterboard
 
 -   **Demographics**: statical data relating to characteristics of human populations, such as: age, race, ethnicity, sex, gender, income, education, etc.
 
--   **Geographies**
+-   **Geographies**: the geographic unit(s) into which demographic data are aggregated.
 
-    -   Block
+    -   **Blocks** (Census Blocks or Tabulation Blocks) are statistical areas bounded by visible features, such as streets, roads, streams, and railroad tracks, and by nonvisible boundaries, such as selected property lines and city, township, school district, and county limits and short line-of-sight extensions of streets and roads. Blocks are numbered uniquely with a four-digit census block number from 0000 to 9999 within census tract, which nest within state and county. 
 
-    -   Block Group
+    -   **Block Groups** are statistical divisions of census tracts, are generally defined to contain between 600 and 3,000 people, and are used to present data and control block numbering. A block group consists of clusters of blocks within the same census tract that have the same first digit of their four-digit census block number.
 
-    -   Tract
+        -   **Tribal Block Groups** are only applicable to legal federally recognized American Indian reservation and off-reservation trust land areas, and are defined independently of the standard county-based block group delineation. Tribal block groups use the letter range A through K (except “I,” which could be confused with a number “1”) to identify and code the tribal block group. Tribal block groups nest within tribal census tracts.
+
+    -   **Census Tracts** are small, relatively permanent statistical subdivisions of a county or statistically equivalent entity, that generally have a population size between 1,200 and 8,000 people, with an optimum size of 4,000 people. State and county boundaries always are census tract boundaries in the standard census geographic hierarchy.
+
+        -   **Tribal Census Tracts** are only applicable to legal federally recognized American Indian reservation and off-reservation trust land areas, are defined independently of the standard county-based census tract delineation, and can cross state and county boundaries. Tribal census tract codes are six characters long with a leading “T” alphabetic character followed by five-digit numeric codes having an implied decimal between the fourth and fifth character.
+
+        [![Census Geography Unit Hierarchies](images/census-hierarchies.png)](https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html#fig-census-hierarchies)
+
+-   **R**: a free software environment for statistical computing and graphics; [R website](https://www.r-project.org/).
+
+-   **R Packages / Libraries**: extensions to the R statistical programming language that contain code, data, and documentation in a standardised collection format that can be installed by users of R.
+
+-   **RStudio**: an integrated development environment (IDE) that includes is a set of tools and user interfaces built to help you be more productive with R and Python; [RStudio website](https://posit.co/download/rstudio-desktop/).
+
+Also see this [U.S. Census Glossary](https://www.census.gov/programs-surveys/geography/about/glossary.html) for additional terms specific to U.S. Census programs, data, and products.
 
 #### **Data Integration Methods**
 
