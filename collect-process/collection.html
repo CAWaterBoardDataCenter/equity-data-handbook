@@ -529,6 +529,12 @@ To tell a compelling story and truly advance equity - adding demographics data t
 <p>In addition to the terms defined in the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/common-language.html#glossary">Handbook Glossary</a>, users should know the following terms when using demographics data:</p>
 <ul>
 <li><p><strong>Demographics</strong>: statical data relating to characteristics of human populations, such as: age, race, ethnicity, sex, gender, income, education, etc.</p></li>
+<li><p><strong>Geographic Vectors</strong>: how data are stored in geographic information systems:</p>
+<ul>
+<li><p><strong>Points</strong>: zero-dimensional objects that contain only a single coordinate pair (i.e.&nbsp;latitude, longitude) to define their location. Example: Census landmarks</p></li>
+<li><p><strong>Lines</strong>: one-dimensional features composed of multiple, explicitly connected points. Examples: roads, streams</p></li>
+<li><p><strong>Polygons</strong>: two-dimensional features created by multiple lines that loop back to create a “closed” feature. Examples: region, city, county, census tract, block boundaries, lakes</p></li>
+</ul></li>
 <li><p><strong>Geographies</strong>: the geographic unit(s) into which demographic data are aggregated.</p>
 <ul>
 <li><p><strong>Blocks</strong> (Census Blocks or Tabulation Blocks) are statistical areas bounded by visible features, such as streets, roads, streams, and railroad tracks, and by nonvisible boundaries, such as selected property lines and city, township, school district, and county limits and short line-of-sight extensions of streets and roads. Blocks are numbered uniquely with a four-digit census block number from 0000 to 9999 within census tract, which nest within state and county.&nbsp;</p></li>
@@ -556,6 +562,7 @@ To tell a compelling story and truly advance equity - adding demographics data t
 <section id="data-integration-methods" class="level4">
 <h4 class="anchored" data-anchor-id="data-integration-methods"><strong>Data Integration Methods</strong></h4>
 <p>Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.</p>
+<p>We’’ll be running through examples below in R -</p>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -571,7 +578,6 @@ Important Reminders Before You Dive In
 <p><strong>The data you’re using has limitations, be sure you know what they are before moving forward</strong> - as discussed above, <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html#data-limitations">all data have limitations</a>, and that is particularly true for demographics data. Be sure you have a clear and comprehensive understanding of the limitations that apply to the specific datasets you’re using so you can collect and eventually process and analyze those data in ways that are appropriate.</p>
 </div>
 </div>
-<p>We’’ll be running through examples below in R -</p>
 <p>link to intro to R4WDS training</p>
 <p>use R Projects</p>
 <p>use the here package (instead of explicitly setting working directory - makes it more shareable and reproducible</p>
