@@ -21,7 +21,7 @@ As you begin to collect the data required for your project, it's important to re
 In addition to data limitations related to data quality or analysis methods (e.g., insufficient quality, low sample size, data gaps; see the the [Quality Assurance](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/qaqc.html) and [Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html) pages for more details), be sure to also keep the below considerations in mind so that you can prepare and analyze your data in a way that supports the advancement of equity, inclusion, and justice.
 
 ::: callout-note
-### Remember - it's OK to have data gaps! 
+### Remember - it's OK to have data gaps!
 
 It's OK to have some data gaps, and in the case of conducting data analyses with a racial equity lens, gaps will be the norm. What's important is to acknowledge what gaps exist, document how you will account for them, and (ideally) set a course for filling those gaps, as appropriate.
 :::
@@ -113,7 +113,7 @@ Looking at the SAFER Program goal with an equity lens, we can add that the goal 
 The Racial Equity and Environmental Justice Section of the Plan (Section VIII.G.) provides several tables with data that incorporates demographics data. As we see below, presenting demographics data alone does not tell the full story of the issue. The tables and the text lack clarity and in depth analysis on *why* the data is telling the story it is.
 
 ::: callout-tip
-##### To tell a compelling story and truly advance equity - adding demographics data to an analysis is not enough! 
+##### To tell a compelling story and truly advance equity - adding demographics data to an analysis is not enough!
 
 As you go through the process of collecting demographics data for your project - be sure to understand:
 
@@ -145,6 +145,105 @@ LEFT OFF HERE \<\< *insert content from Use Case Page!*
 :::
 
 [Estimating Demographics of Custom Spatial Features](https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html) is another detailed example of how to use the R programming language to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features, and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.
+
+**FROM OTHER PAGE**
+
+Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.
+
+## Before you dive in
+
+Think through what questions you have and what data would be the best to use to answer that questions
+
+data isn't people
+
+be sure to understand limitations / bias of data you use
+
+-   who collected it? what were their original intentions/questions
+
+::: callout-important
+Remember - there's no such thing as "equity data" - how we use data, interpret it, and act on what we learn makes our use equitable (or not).
+:::
+
+### Key Terms
+
+Demographics
+
+-   Race
+
+-   Ethnicity
+
+Geographies
+
+-   Block
+
+-   Block Group
+
+-   Tract
+
+Census Data
+
+Tidyverse: the R package we'll be using to organize and prepare data for use \[add link to tidyverse documentation\]
+
+We''ll be running through examples below in R -
+
+link to intro to R4WDS training
+
+use R Projects
+
+use the here package (instead of explicitly setting working directory - makes it more shareable and reproducible
+
+Acknowledgements:
+
+This resource is being developed....and adapting code from...insert DataMade resources...
+
+### Download Packages
+
+census API key sign up link: <https://api.census.gov/data/key_signup.html>
+
+## Collecting Data
+
+CalEnviroScreen vs Census Data - add table that compares difference sources to make it easier for folks to understand which tool is best for the job
+
+-   geographies
+
+-   last data update
+
+-   age categories
+
+-   
+
+pull over content + code from: <https://datamade.github.io/waterboard-coaching/>
+
+Take some time to review the Concept and Labels in the table -
+
+```         
+summary_var = "P2_001N" # Total population
+```
+
+### Demographics data sources
+
+-   census data in R & Python
+
+non-census data (e.g. CalEnviroScreen)
+
+### Common tables to use in sources
+
+## Data Prep & Use
+
+### Point Data
+
+``` r
+--- code-annotations: below ---  ```r library(tidyverse) library(palmerpenguins) penguins |>                                      # <1>   mutate(                                        # <2>     bill_ratio = bill_depth_mm / bill_length_mm, # <2>     bill_area  = bill_depth_mm * bill_length_mm  # <2>   )                                              # <2> ``` 1. Take `penguins`, and then, 2. add new columns for the bill ratio and bill area.
+```
+
+### Lines
+
+``` python
+```
+
+### Polygons
+
+## Data Interpretation
 
 ### CalEnviroScreen
 
@@ -317,7 +416,7 @@ While the specific sources below vary, they can generally be caused by one or mo
 +-----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Word choice**                               | The question may use words or phrases that pull focus or frame aspects of the question in a way that increases the likelihood of respondents choosing an answer that does not accurately reflect their intended choice.                        | Use consistent question structure and terminology.                                                                                                                                                       |
 |                                               |                                                                                                                                                                                                                                                |                                                                                                                                                                                                          |
-|                                               |                                                                                                                                                                                                                                                | Example  - poor word choice:                                                                                                                                                                             |
+|                                               |                                                                                                                                                                                                                                                | Example - poor word choice:                                                                                                                                                                              |
 |                                               |                                                                                                                                                                                                                                                |                                                                                                                                                                                                          |
 |                                               |                                                                                                                                                                                                                                                | Which operation would you prefer?                                                                                                                                                                        |
 |                                               |                                                                                                                                                                                                                                                |                                                                                                                                                                                                          |
@@ -326,12 +425,12 @@ While the specific sources below vary, they can generally be caused by one or mo
 |                                               |                                                                                                                                                                                                                                                |                                                                                                                                                                                                          |
 |                                               |                                                                                                                                                                                                                                                | Patients scheduled for surgery may choose the second option when they see or hear the words "90%" and "survive," but in fact a 90% survival rate (or 10% mortality) is worse than a 5% mortality         |
 |                                               |                                                                                                                                                                                                                                                |                                                                                                                                                                                                          |
-|                                               |                                                                                                                                                                                                                                                | Example  - improved word choice:                                                                                                                                                                         |
+|                                               |                                                                                                                                                                                                                                                | Example - improved word choice:                                                                                                                                                                          |
 |                                               |                                                                                                                                                                                                                                                |                                                                                                                                                                                                          |
 |                                               |                                                                                                                                                                                                                                                | Which operation would you prefer?                                                                                                                                                                        |
 |                                               |                                                                                                                                                                                                                                                |                                                                                                                                                                                                          |
 |                                               |                                                                                                                                                                                                                                                | -   An operation in which 95% of the patients will survive.                                                                                                                                              |
-|                                               |                                                                                                                                                                                                                                                | -   An operation in which 90% of the patients will survive.                                                                                                                                              |
+|                                               |                                                                                                                                                                                                                                                | -   An operation in which 90% of the patients will survive.                                                                                                                                              |
 +-----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 #### Biases Associated with Survey Design
@@ -395,7 +494,7 @@ While the specific sources below vary, they can generally be caused by one or mo
 +---------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Sample representation** (aka sampling bias, selection bias) | The sample of individuals selected to complete the survey is not representative of the population, which can lead it inaccurate results and conclusions.                                                                    | Ensure you are delivering the survey randomly to the audience(s) that represent the population, and that you have enough responses to be representative of the population.                                                                                                                                                                                                         |
 |                                                               |                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                    |
-|                                                               |                                                                                                                                                                                                                             | Consider the best way(s) to reach your target audience - and use methods that would be the most effective for and accessible to them.                                                                                                                                                                                                                                              |
+|                                                               |                                                                                                                                                                                                                             | Consider the best way(s) to reach your target audience - and use methods that would be the most effective for and accessible to them.                                                                                                                                                                                                                                              |
 |                                                               |                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                    |
 |                                                               |                                                                                                                                                                                                                             | Consider extending the deadline to complete the survey and sending reminders to those who have not yet responded.                                                                                                                                                                                                                                                                  |
 +---------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -489,7 +588,7 @@ While the specific sources below vary, they can generally be caused by one or mo
 +----------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Recall / Telescope Bias**                                                                                                | This type of bias is because of differences in accuracy or completeness of respondents recall prior to major events or experiences (general recall), and because respondents may recall an event or experience in the distant past as happening more recently (telescope).   | None - but be aware of this potential bias as you analyze your results.                                                                                                                                                  |
 +----------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Respondent's learning**                                                                                                  | Having thought about prior questions can affect the respondent's answer to subsequent questions through the learning process as the questionnaire is completed.                                                                                                              | Randomize the order of the questions for different respondents.                                                                                                                                                          |
+| **Respondent's learning**                                                                                                  | Having thought about prior questions can affect the respondent's answer to subsequent questions through the learning process as the questionnaire is completed.                                                                                                              | Randomize the order of the questions for different respondents.                                                                                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Unacceptability**                                                                                                        | Questions or measurements that can hurt, embarrass, invade privacy, or require excessive commitment may be systematically refused or evaded.                                                                                                                                 | Whenever possible, do not ask such questions.                                                                                                                                                                            |
 |                                                                                                                            |                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                          |
@@ -508,7 +607,7 @@ Note that those who use Microsoft Forms and other free software like Google Form
     -   [Analyzing Water Boards and Demographic Data for Equity](https://cawaterboards.sharepoint.com/:b:/r/sites/WB-OPP-EJRoundtable/Materials/Racial%20Equity%20Data%20Subcommittee/Webinars/Demo%20Webinar%20with%20DataMade%20Coaches_25June24/Hannah%27s%20slides%20on%20racial%20equity%20data%20analysis.pdf?csf=1&web=1&e=eNCc0K). Jun 2024. Hannah Cushman Garland. State Water Board Racial Equity Data Subcommittee Webinar. [Recording](https://cawaterboards.sharepoint.com/:v:/r/sites/WB-OPP-EJRoundtable/Materials/Racial%20Equity%20Data%20Subcommittee/Webinars/Demo%20Webinar%20with%20DataMade%20Coaches_25June24/DataMade%20Webinar%20Recording_25June24.mp4?csf=1&web=1&e=oOuGyf) \| [Download and Use the Code](https://drive.google.com/file/d/1yva-EE0JyQna4c5RN73TJ7F0YUIRTXCI/view?usp=sharing) \| [View Code](https://datamade.github.io/waterboard-coaching/)
 -   CalEnviroScreen
     -   Analysis of Race/Ethnicity and CalEnviroScreen 4.0 Scores [Storymap](https://storymaps.arcgis.com/stories/f555670d30a942e4b46b18293e2795a7) \| [Report](https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40raceanalysisf2021.pdf)
-    -    [SB 535 Disadvantaged Communities](https://oehha.ca.gov/calenviroscreen/sb535)
+    -   [SB 535 Disadvantaged Communities](https://oehha.ca.gov/calenviroscreen/sb535)
     -   [CalEnviroScreen page of the California Water Boards Racial Equity Resource Hub](https://gispublic.waterboards.ca.gov/portal/apps/experiencebuilder/experience/?draft=true&id=b02e68db0fa7452aad0b08d3c65d4a93&page=page_6&views=View-4)
 -   U.S. EPA EJScreen
     -   [EJScreen User Guide](https://ejscreen.epa.gov/mapper/help/ejscreen_help.pdf "This link opens a new webpage.") for navigating the various features of the tool,
