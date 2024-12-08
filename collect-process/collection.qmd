@@ -199,12 +199,6 @@ Depending on what demographics data sources you decide to use, the methods neede
 **The data you're using has limitations, be sure you know what they are before moving forward** - as discussed above, [all data have limitations](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html#data-limitations), and that is particularly true for demographics data. Be sure you have a clear and comprehensive understanding of the limitations that apply to the specific datasets you're using so you can collect and eventually process and analyze those data in ways that are appropriate.
 :::
 
-use R Projects
-
-use the here package (instead of explicitly setting working directory - makes it more shareable and reproducible
-
-Tidyverse: the R package we'll be using to organize and prepare data for use \[add link to tidyverse documentation\]
-
 ##### Setup
 
 If you haven't already, you will need to install R and RStudio. Water Boards staff should be able to do so through the Software Center. Also see [step by step installiation instructions](https://www.r4wrds.com/intro/m_install_r#step-1.-install) for outside of the Software Center enviornment.
@@ -229,6 +223,12 @@ penguins |>                                      # <1>
 1. Take `penguins`, and then,
 2. add new columns for the bill ratio and bill area.
 ````
+
+use R Projects
+
+use the here package (instead of explicitly setting working directory - makes it more shareable and reproducible
+
+Tidyverse: the R package we'll be using to organize and prepare data for use \[add link to tidyverse documentation\]
 
 ##### Collecting Data
 
