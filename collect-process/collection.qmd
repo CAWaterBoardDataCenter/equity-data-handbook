@@ -155,6 +155,14 @@ In addition to the terms defined in the [Handbook Glossary](https://cawaterboard
 
 -   **Demographics**: statical data relating to characteristics of human populations, such as: age, race, ethnicity, sex, gender, income, education, etc.
 
+-   **Geographic Vectors**: how data are stored in geographic information systems:
+
+    -   **Points**: zero-dimensional objects that contain only a single coordinate pair (i.e. latitude, longitude) to define their location. Example: Census landmarks
+
+    -   **Lines**: one-dimensional features composed of multiple, explicitly connected points. Examples: roads, streams
+
+    -   **Polygons**: two-dimensional features created by multiple lines that loop back to create a “closed” feature. Examples: region, city, county, census tract, block boundaries, lakes
+
 -   **Geographies**: the geographic unit(s) into which demographic data are aggregated.
 
     -   **Blocks** (Census Blocks or Tabulation Blocks) are statistical areas bounded by visible features, such as streets, roads, streams, and railroad tracks, and by nonvisible boundaries, such as selected property lines and city, township, school district, and county limits and short line-of-sight extensions of streets and roads. Blocks are numbered uniquely with a four-digit census block number from 0000 to 9999 within census tract, which nest within state and county. 
@@ -181,6 +189,8 @@ Also see this [U.S. Census Glossary](https://www.census.gov/programs-surveys/geo
 
 Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.
 
+We''ll be running through examples below in R -
+
 ::: callout-important
 ##### Important Reminders Before You Dive In
 
@@ -190,8 +200,6 @@ Depending on what demographics data sources you decide to use, the methods neede
 
 **The data you're using has limitations, be sure you know what they are before moving forward** - as discussed above, [all data have limitations](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html#data-limitations), and that is particularly true for demographics data. Be sure you have a clear and comprehensive understanding of the limitations that apply to the specific datasets you're using so you can collect and eventually process and analyze those data in ways that are appropriate.
 :::
-
-We''ll be running through examples below in R -
 
 link to intro to R4WDS training
 
