@@ -248,6 +248,8 @@ library(patchwork)
 
 ::: callout-warning
 LEFT OFF HERE
+
+pull over content + code from: <https://datamade.github.io/waterboard-coaching/>
 :::
 
 ``` r
@@ -266,8 +268,6 @@ census_api_key(" ")                              # <7>
 
 -   
 
-pull over content + code from: <https://datamade.github.io/waterboard-coaching/>
-
 Take some time to review the Concept and Labels in the table -
 
 ```         
@@ -278,14 +278,7 @@ summary_var = "P2_001N" # Total population
 
 ##### Data Prep & Use - Points
 
-``` r
---- code-annotations: below ---  ```r library(tidyverse) library(palmerpenguins) penguins |>                                      # <1>   mutate(                                        # <2>     bill_ratio = bill_depth_mm / bill_length_mm, # <2>     bill_area  = bill_depth_mm * bill_length_mm  # <2>   )                                              # <2> ``` 1. Take `penguins`, and then, 2. add new columns for the bill ratio and bill area.
-```
-
 ##### Data Prep & Use - Lines
-
-``` python
-```
 
 ##### Data Prep & Use - Polygons
 
