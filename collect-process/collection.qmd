@@ -102,7 +102,7 @@ It’s important to remember to provide context about your project before trying
 Communicating this contextual information may require different complementary modes of communication (e.g. presentation, fact sheets, visualizations), but investing the time to provide that grounding and framing will help the audience understand how you are approaching your data work with an equity lens within the scope of your program/project. 
 
 ::: callout-tip
-##### ALL of the questions above (and more!) should have already been answered to some degree during the [Plan & Prepare Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/) of your project. 
+##### ALL of the questions above (and more!) should have already been answered to some degree during the [Plan & Prepare Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/) of your project.
 
 Be sure to reference, pull from, and build on information you have already synthesized in your [Equity Assessment](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) and [Data Management Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) documents!
 :::
@@ -177,7 +177,7 @@ In addition to the terms defined in the [Handbook Glossary](https://cawaterboard
 
         [![Census Geography Unit Hierarchies](images/census-hierarchies.png)](https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html#fig-census-hierarchies)
 
--   **R**: a free software environment for statistical computing and graphics; [R website](https://www.r-project.org/).
+-   **R**: a free software environment for statistical computing and graphics; [R website](https://www.r-project.org/); [Training Resources](https://www.r4wrds.com/).
 
 -   **R Packages / Libraries**: extensions to the R statistical programming language that contain code, data, and documentation in a standardised collection format that can be installed by users of R.
 
@@ -187,9 +187,7 @@ Also see this [U.S. Census Glossary](https://www.census.gov/programs-surveys/geo
 
 #### **Data Integration Methods**
 
-Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.
-
-We''ll be running through examples below in R -
+Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types using R.
 
 ::: callout-important
 ##### Important Reminders Before You Dive In
@@ -201,8 +199,6 @@ We''ll be running through examples below in R -
 **The data you're using has limitations, be sure you know what they are before moving forward** - as discussed above, [all data have limitations](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html#data-limitations), and that is particularly true for demographics data. Be sure you have a clear and comprehensive understanding of the limitations that apply to the specific datasets you're using so you can collect and eventually process and analyze those data in ways that are appropriate.
 :::
 
-link to intro to R4WDS training
-
 use R Projects
 
 use the here package (instead of explicitly setting working directory - makes it more shareable and reproducible
@@ -211,9 +207,28 @@ Tidyverse: the R package we'll be using to organize and prepare data for use \[a
 
 ##### Setup
 
-census API key sign up link: <https://api.census.gov/data/key_signup.html>
+If you haven't already, you will need to install R and RStudio. Water Boards staff should be able to do so through the Software Center. Also see [step by step installiation instructions](https://www.r4wrds.com/intro/m_install_r#step-1.-install) for outside of the Software Center enviornment.
+
+If you will be using U.S. Census data regularly and will be accesing and analyzing it programmatically (e.g. using R or Python), you will also need to [Request a U.S. Census Data API Key](https://api.census.gov/data/key_signup.html).
 
 ##### Download Packages
+
+```` r
+---
+code-annotations: below
+---
+```r
+library(tidyverse)
+library(palmerpenguins)
+penguins |>                                      # <1>
+  mutate(                                        # <2>
+    bill_ratio = bill_depth_mm / bill_length_mm, # <2>
+    bill_area  = bill_depth_mm * bill_length_mm  # <2>
+  )                                              # <2>
+```
+1. Take `penguins`, and then,
+2. add new columns for the bill ratio and bill area.
+````
 
 ##### Collecting Data
 
