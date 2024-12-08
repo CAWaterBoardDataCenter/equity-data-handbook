@@ -233,35 +233,16 @@ install.packages("patchwork")                    # <6>
 
 ###### Load Packages
 
-You must load any packages you will use for an analysis before each use.
-
----
-code-annotations: below
----
+You must load all packages you will use for an analysis before each use.
 
 ``` r
-library(here)                                    # <1>
-library(tidyverse)                               # <2>
-library(ggplot2)                                 # <3>
-library(tidycensus)                              # <1>
-library(sf)                                      # <1>
-library(patchwork)                               # <1>
-
-
-penguins |>                                      # <1>
-  mutate(                                        # <2>
-    bill_ratio = bill_depth_mm / bill_length_mm, # <2>
-    bill_area  = bill_depth_mm * bill_length_mm  # <2>
-  )                                              # <2>
+library(here)
+library(ggplot2)
+library(tidyverse)
+library(tidycensus)
+library(sf)
+library(patchwork)
 ```
-
-1.  The here package enables easy, shareable and reproducible file referencing in [project-oriented workflows](https://rstats.wtf/project-oriented-workflow.html). In contrast to using [`setwd()`](https://rdrr.io/r/base/getwd.html), which is fragile and dependent on the way you organize your files, here uses the top-level directory of a project to easily build paths to files. [Package Documentation](https://here.r-lib.org/)
-2.  
-3.  The ggplot2 package is used to create graphics and data visualizations. [Package Documentation](https://ggplot2.tidyverse.org/)
-
-use R Projects
-
-Tidyverse: the R package we'll be using to organize and prepare data for use \[add link to tidyverse documentation\]
 
 ##### Collecting Data
 
