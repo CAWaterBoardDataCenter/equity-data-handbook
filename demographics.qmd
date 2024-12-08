@@ -1,6 +1,8 @@
 # Demographics Data
 
-Adding demographics data to your data project can help increase understanding of potential correlations or relationships between your data and demographic and socioeconomic characteristics of locations of interest.
+Adding demographics data to your data project can help increase understanding of potential correlations or relationships between your data and demographic and socioeconomic characteristics of locations of interest. More specifically, the integration of demographics data into your data project can highlight the extent to which race can still be used to predict outcomes associated with your project and therefore underscore where and to what extent racial equity outcomes have not yet been achieved.
+
+#### **Demographics Data Integration Methods**
 
 Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.
 
