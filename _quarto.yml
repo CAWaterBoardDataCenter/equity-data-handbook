@@ -70,7 +70,6 @@ website:
         text: Use Cases
         contents:
           - use-cases/swamp.qmd
-          - use-cases/demographics.qmd
       - href: resources.qmd
         text: Resources
       - href: inspo.qmd
