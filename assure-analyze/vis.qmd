@@ -1,0 +1,364 @@
+# Data Visualization
+
+Effective and equitable communication of the information we have gleaned from our analyses involves strategic consideration of the audience and the mode of dissemination that most effectively conveys that information. There are many ways to communicate information, including briefs, interactive documents, websites, dashboards, social media content, data walks, posters, briefs, and infographics. Regardless of the form, content should integrate the recommendations below.
+
+Effective data visualizations - the ones that stick with us, can help us understand complex issues, and those that encourage us to change our behaviors and actions to be more equitable, inclusive, and kind - are more than points on a map. Great data visualizations are communication tools that are user-centered and tell a compelling story that connects with the audience.
+
+[![Venn diagram of the components of data communication that make a product work for a particular audience: Content, Medium and Access. Graphic from We All Count](images/audience-content-medium-access.png){fig-alt="Venn diagram with three overlapping circles: Content, Medium, and Access. Content is what you include in your communication and how you choose to say it. Medium is what form your communication takes, like the difference between a paper, and animated video, and a searchable database. Access is how easily and how completely your audience can engage with and understand your information. The content and medium work together to increase clarity and offer better depth. The medium of distribution supports the ideal accessibility for the information for each audience, including feedback and engagement. The content is created considering accessibility, including comprehension and cultural appropriateness. When all of the components intersect (i.e. the middle of the venn diagram), the product works for the intended audience."}](https://blog.providence.org/center-for-outcomes-research-education/6-steps-toward-more-equitable-data-visualization)
+
+When thinking of the Data-Information-Knowledge-Wisdom graphic at the top of the [Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html) page: data visualizations are tools we can use to add context and meaning to data to create information and knowledge. Ideally, the insights gleaned from our visualizations can then be used to make data and equity-informed decisions and to take effective and impactful action.
+
+## General Data Visualization Considerations
+
+When it comes to creating data visualizations with an equity lens, it boils down to making decisions that consider equity and inclusion in the way results are shown and communicated, and that promote accessibility of the data, information, and tool as a whole. As you develop your data visualization or equivalent application - be sure to keep the below considerations in mind and make data, communication, and design choices that support the advancement of equity, inclusion, and justice.
+
+### Take a user-centered design approach
+
+Consider who the audience will be for the product you're developing and make decisions that will prioritize their needs so they are able to easily and efficiently use, engage and interact with the product.
+
+[![Graphic illustrating three key components of the user-centered design process: Research, Empathy, and Iteration. Image from Justinmind (2020)](images/user-centered-design.png)](https://www.justinmind.com/blog/user-centered-design/)
+
+***Research*** - Let's use an equity lens here. Instead of "researching" your users and audience, try getting to know them by prioritizing relationship and trust building through meaningful engagement. Ideally, by the time you're at this data visualization phase, you have already identified the audience and key partners, and have been working or engaging with them during other phases of the project. See the [Planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) section on [collecting expert input](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html#step-3.-collect-expert-input-including-from-affected-community-members) for more guidance on outreach and engagement.
+
+***Empathy*** - According to Dr. Brené Brown: [empathy is about feeling *WITH people, and requires four qualities*](https://bouldercrest.org/resources/brene-brown-what-is-empathy/):
+
+-   Perspective taking and believing the other person when they share their experience with you
+-   Staying out of judgement and listening
+-   Recognizing emotion in another person that you have maybe felt before
+-   Communicating that you can recognize that emotion
+
+Integrating empathy into our data-intensive work requires us to consider how our audience and/or the communities whose data are being used will perceive or be impacted by our work. It means ensuring we're developing the product and thinking about the data as more than mere points on a map or visualization, but as representing real humans, environments, and conditions that should be contextualized and considered with care. Some [questions to consider include](https://datajournalism.com/read/longreads/data-visualisations-with-empathy):
+
+-   **Who is vulnerable in this context and how would they want to be counted?**
+-   **What information would they need to improve their lives?**
+-   **Who is undercounted or possibly missing entirely?**
+-   **Who was counted? Who did the counting? Why were they asking these people?**
+-   **Who benefits or is harmed if you forget the dots are people?**
+
+***Iteration*** - The key here is knowing and planning for an iterative process from the beginning. Add the feedback, implementation, and testing loop(s) into your project plan and allocate appropriate time and resources to adequately support each step. When working with partners or communities using an iterative approach, be sure to consider:
+
+-   **When it is appropriate to ask for feedback, and when it might be burdensome?**
+-   **What are the different ways feedback might be gathered?** We might think sending an email with a poll or survey linked is the easiest, but our partner might find it easier to talk through questions over the phone with you. Knowing which method(s) to use comes with time and relationship. When in doubt - ask for what people prefer and do your best to accommodate those needs.
+-   **How much time is adequate for folks to be able to review what you send them and provide their feedback?** When in doubt - plan for a longer feedback period than you think might be needed and confirm timelines with your partners (and adjust them if you can when your partners indicate more or less time is needed)
+
+### Use plain, accessible, and inclusive language
+
+Centering racial equity means paying attention to how to most effectively convey information to the audience, and insuring that the content is using plain, accessible, and inclusive language.
+
+***Plain Language*** - Plain language is writing designed to ensure the audience can understand what you're trying to communicate as easily, quickly, and comprehensively as possible. This means:
+
+-   Avoiding convoluted or verbose language
+-   Avoiding the use of jargon and acronyms
+-   Making critical information easy to see and understand
+-   Using a conversational rather than legal or bureaucratic tone
+
+For more guidance on plain language, see:
+
+-   [Center for Plain Language](https://centerforplainlanguage.org/learning-training/five-steps-plain-language/)
+-   [PlainLanguage.gov](https://www.plainlanguage.gov/)
+-   Water Boards Staff may also [request plain language review from the Office of Public Participation](https://cawaterboards.sharepoint.com/OPP/Resources/SitePages/Home.aspx), although that service is more geared towards the review of fact sheets, brochures, and FAQs rather than data visualizations or other data products at this time.
+-   Healthy Watershed Partnership [Guidance on Communicating Results](https://mywaterquality.ca.gov/monitoring_council/healthy_watersheds/assessment_guidance/communicate_results.html)
+
+***Accessible Language*** - Making language accessible to your audience may also require the translation of products (or product components) into the primary languages used by your audience. The [Water Board's Linguistic Isolation Tool](https://app.powerbigov.us/view?r=eyJrIjoiMjc0YjQ2ZWQtZWU2OS00N2NjLTllODgtY2VhOTk3NDBkMjM2IiwidCI6ImZlMTg2YTI1LTdkNDktNDFlNi05OTQxLTA1ZDIyODFkMzZjMSJ9&pageName=ReportSection) can be used to help understand the different languages that are used by communities across the state.
+
+Water Boards Staff may also [request translation services from the Office of Public Participation](https://cawaterboards.sharepoint.com/OPP/Resources/SitePages/Language%20Services.aspx?csf=1&web=1&e=arv47O), although that service is more geared towards the translation of documents, rather than data visualizations or other data products at this time.
+
+***Inclusive Language*** - Words matter. The language we use in our products can be a way for us to show respect, empathy, and care for the communities connected to or impacted by the data. It's important to be mindful of the language and terms we use (see [Non-Inclusive Terms to Avoid](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/common-language.html#non-inclusive-terms-to-avoid) for examples). The [UNC Health’s Equity and Inclusion Analytics Workgroup](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf) recommends we ask ourselves the following questions when we need to decide on language to use in our data products:
+
+-   **Do the words seek to fix, blame, shame, or change communities that are most marginalized, OR do they seek to address the oppressive systems that impact these communities?**
+
+-   **Are the words racialized?** Do the terms have a racist or colonialist implication? An example is the phrase “at risk.” Close your eyes and say the phrase “at risk.” Does a picture of a certain group or community come to mind? If so, stop and pick another word.
+
+-   **Is the language people-centered?** Or do the phrases objectify communities? Distinguish between calling communities a name and describing what they are experiencing. For example: “people with disabilities,” “a person with asthma,” or “communities of color.”
+
+-   **How am I framing the words?** What is the context and culture we are creating and perpetuating by using the words? Are the words positioning the communities we serve to live in their personal and collective power while addressing systemic oppression?
+
+-   **Do the words dehumanize the communities we serve?** Words that take away agency, self-determination, or personal power and do not recognize communities’ inherent strengths and assets should be avoided.
+
+### Consider how you group the data
+
+Review considerations provided on the [Data Collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html#consider-how-you-will-group-the-data) page and think through how those should be applied as you visualize and communicate the data and results of your project.
+
+### Tell a story with the data
+
+> "While data may seem cut and dry, people are not"
+>
+> \- [P. Kim Bui](https://datajournalism.com/contributors/pkimbui), Director of audience innovation at the Arizona Republic and author of [Designing data visualisations with empathy](https://datajournalism.com/read/longreads/data-visualisations-with-empathy)
+
+[Humans are hardwired for story](https://medium.com/the-protagonist/the-science-behind-storytelling-51169758b22c). Plopping points on a map or throwing together an interactive chart without adding context is not only insufficient, its ineffective!
+
+Take the time to tell a story with the visualization or product you're developing. Walk the audience through the the messages you want to convey - connect with their emotions, and back it up with the data. If you're unsure what the story of your data is, or how to communicate it effectively, try collecting and distilling your thoughts using a [COMPASS Message Box](https://www.compassscicomm.org/the-message-box-workbook):
+
+[![The COMPASS Message Box is a tool to help scientists sort and distill their (often technical or complex) knowledge in a way that will resonate with their chosen audience. Users complete the sections in any order and can then use the distilled information to communicate their science more effectively.](images/compass-box.png){fig-alt="The COMPASS Message Box with six sections and associated brainstorm questions: Audience (Who is impacted by this? Who can change this? Who cares about this?), Issue (Broadly, what are you working on? What keywords would you search to find your topic online?), Problems? (What specific dimension of the issue are you addressing?), So What? (What does your audience value? How does this impact them or something they care about?), Solutions? (What can be done to address the problem? Or what are you doing to address it?) and Benefits? (Who does this help and how? What improves in the short-term? Long-term?)"}](https://www.compassscicomm.org/wp-content/uploads/2020/05/The-Message-Box-Workbook.pdf)
+
+[*Escape from the Ivory Tower: A Guide to Making Your Science Matter*](https://islandpress.org/books/escape-ivory-tower#desc) (Baron, 2010) is another great science communication resource.
+
+## Data Visualization Design Considerations
+
+This section walks through the different design decisions data practitioners must think through when developing a data visualization or similar data product, and provides recommendations on how to approach the work through a lens of accessibility, equity, and inclusion.
+
+Data visualization design is composed of a series of compromises: Complexity vs Clarity. Depth vs. Speed. Pretty vs. Practical. The best visualizations maximize all of these, but usually, you have to prioritize some things over others. When designing a data visualization or similar data communication product, data practitioners should make decisions with their audience and equity in mind and do their best to follow the recommendations below to make the final data product as accessible and inclusive as possible.
+
+### Alternative Text (Alt Text)
+
+Alt Text is descriptive text, usually associated with images or figures, that conveys the meaning and context of the item. When creating alt text, remember:
+
+-   It should complement the caption and not replicate it
+-   Use language to describe what the audience should take away from looking at the item
+-   If there is text in the item, that text should be spelled out in the alt text
+
+Test to see if your alt text is effective by asking a colleague or project partner to listen to you (or a screen reader - see below) read the text aloud to them BEFORE they look at the item. Then, have them look at the item and ask if there are other details about the item that stand out to them as contributing to the meaning behind the item. If there are, add them in!
+
+Screen readers are computer software that read the text aloud and include programs like NVDA, JAWS, Acrobat, Word. A screen reader may already be integrated into your data visualization tool - if not, [NVDA](https://www.nvaccess.org/download/) is free to download and is the Water Boards standard.
+
+### Color
+
+Color can be a powerful communicator that should be selected purposefully. If we aren't intentional with the colors we choose we may be unintentionally perpetuating stereotypes, creating hierarchies, or using color palettes that are not accessible to those with color vision differences.
+
+When selecting colors for your visualization or data product, consider the recommendations from the [UNC Health’s Equity and Inclusion Analytics Workgroup](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf) and the [Urban Institute Data Visualization Style Guide](https://urbaninstitute.github.io/graphics-styleguide/):
+
+-   **Select the color palettes according to the message you're trying to convey:**
+
+    -   Categorical palettes are best when you want to distinguish discrete chunks of data that do not have an inherent ordering. It’s best to use a palette that has bold, contrasting, non-gradient colors.
+
+    -   Sequential palettes are best when data range from relatively low or uninteresting values to relatively high or interesting values. It’s best to use a palette that has a relatively subtle shift in hue accompanied by a large shift in brightness and saturation.
+
+-   **Avoid reinforcing stereotypes** (e.g. using pink to represent female populations, and blue to represent male populations, using colors associated with skin tones or racial stereotypes).
+
+-   When thinking about demographic data:
+
+    -   **Not using color to differentiate between demographic groups helps avoid unintentionally creating a hierarchy between groups and reinforcing stereotypes**, and instead enables color to be used to highlight group differences and assist with interpreting the data.
+
+    -   **If color is determined to be necessary to differentiate between groups, the palette should be chosen carefully.** Avoid using incremental color palettes (e.g., light to dark) to represent different demographic groups. Bold and contrasting, non-gradient color palettes are a best practice when displaying demographic data and incorporating color.
+
+    -   **Consider plotting data disaggregated by race or ethnicity in their own separate charts, instead of plotting all disaggregated groups together in a single chart.**
+
+        -   Plotting all groups on the same chart encourages comparison using a “[deficit-based perspective](https://urban-institute.medium.com/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff)” that focuses attention on what low-performing / worse off groups are lacking when compared with the high performing / better off groups.
+
+        -   Plotting a set of small multiples faceted by each racial or ethnic group can better encourage viewers to think about the specific needs and challenges facing each group.
+
+-   **Avoid using red to green color combinations.** Daltonism (i.e., [Dichromacy](https://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/)) is the most common type of color vision difference, affecting up to 1 in 12 males (8%) and 1 in 200 females (0.5%), and it makes certain shades of green look more red.
+
+-   **Do not use color or shading alone to convey data or information.** Instead pair color with patterns, textures, or shapes to convey data or information.
+
+-   **Avoid using too many colors, shapes, and/or patterns at the same time.** Our brains can really only hold (or effectively understand) three to five complex concepts at once. If you need to use six or more colors to represent the data - it might feel cluttered or overwhelming to the viewers. Consider consolidating categories or breaking up the chart into multiple smaller charts as described above.
+
+-   **A 3:1 contrast ratio is required for figures if a person must perceive a graphic in order to understand the content** (e.g., colored lines in graphs, points on maps). However, **text that is embedded in a graphic must meet a contrast ratio of 4.5:1** unless the text is incidental or there is no way of presenting the graphic with sufficient contrast without undermining the meaning. Use the [Colour Contrast Analyser](https://www.tpgi.com/color-contrast-checker/) (CCA) or equivalent software to determine if the figure meets the ratio requirements.
+
+Tools to help with color selection may already be integrated into your data visualization tools - if not, some other resources include:
+
+-   [Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) – tool to help create accessible color schemes for maps
+-   Non-exhaustive list of color vision difference simulators – [Color Oracle](https://colororacle.org/), [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+-   Non-exhaustive list of color palette packages for R – [Base R Color Palette Guide](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf), [RColorBrewer](https://rdrr.io/cran/RColorBrewer/man/ColorBrewer.html), [rcartocolor](https://jakubnowosad.com/rcartocolor/), [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
+-   [Paletton](https://paletton.com) – tool to help explore colors and palettes
+-   [WebAIM](https://webaim.org/resources/contrastchecker/) – color contract checker
+
+### Figure & Chart Types
+
+As data practitioners, you decide how your audience will be able to view the data through your visualization or data product. While we might *think* that data are objective (spoiler - they're not), how they're presented impacts how they're interpreted, perceived, and ultimately valued and acted upon. How we present the data impacts which stories we tell (or don't tell).
+
+The graphic below, from [*Data Feminism*](https://direct.mit.edu/books/book/4660/Data-Feminism)*,* illustrates how the same data can tell different stories depending on their presentation. The graphic on the left tells a story of how the unemployment has fallen substantially since it's recent peak and might be interpreted as "good news". The graphic on the right tells a story of how the unemployment rate has been consistently above 8% for a long time period and might be interpreted as "bad news".
+
+![Two figures presenting the same data in different ways. Graphic from Data Feminism](images/graphic-ex-data-femenism.png)
+
+When selecting figure or chart types for your visualization or data product, consider:
+
+-   **How does the chart you use frame or present the data?** What is the context and culture we are creating and perpetuating by presenting the data in that way? Are the charts we're using positioning the communities we serve to live in their personal and collective power while addressing systemic oppression?
+
+-   **Is the chart used appropriate for the data you want to display?** Think about your variables (string/categorical and numeric), the volume of data, and the question you are attempting to answer or the story you're trying to tell through the visualization or data product.
+
+-   **Will the chart type be easily interpreted by the audience?** Sometimes data practitioners might be inclined to use a complex chart so we can display more data at once (or just because we think it's cool!). In moments like these, remember the words of Leonardo da Vinci — “Simplicity is the ultimate sophistication.” Think about what will be the most easy to understand and impactful for your audience.
+
+-   **How can I use the textual components of the chart (i.e., title, axis and other labels, legend, notes, caption, tooltips) to communicate simply and with clarity?** More is not always more here. If context is provided elsewhere in the visualization or data product, maybe the title, caption, or tooltips are redundant. If there is only one data category that can be described by the title or caption, maybe a legend is not necessary. Think about what is essential and what can be removed or omitted to improve your clarity and communication.
+
+-   **How can other chart components (i.e. gridlines, axis lines/ticks, scales, spacing) be used to communicate simply and with clarity?** If you have a lot of data on the chart - do gridlines help make sense of things, or cause confusion and clutter? Are there enough empty or negative spaces in the chart so that viewers are given the "visual breathing room" needed to easily absorb the messages you're hoping the data conveys?
+
+Tools to help with chart selection include:
+
+-   [Cool Infographics Data Visualization Guides](https://coolinfographics.com/dataviz-guides) – collection of data visualization chart choosers, reference guides, cheat sheets, websites and infographics about data visualization design best practices.
+
+### Fonts & Typography
+
+The fonts and typography we use determine how easy (or not) it is for the audience to efficiently read and comprehend whatever it is you're trying to communicate. Typography (the art and technique of arranging type to make written language legible, readable and appealing when displayed) within a chart and visualization is a way to establish a hierarchy among elements within the visualization or data product and guides the reader through the visual product.
+
+When selecting fonts and typography for your visualization or data product, consider:
+
+-   **Are the fonts you're using accessible?** The Water Boards recommends that all fonts (including in tables and figures) must be sans serif (e.g. Arial, Calibri, Helvetica), 12 point or larger. Serif fonts (e.g. Times New Roman) and fonts sized 11 points or lower (even in captions, tables, figures, etc.) should be avoided.
+
+-   **How many different font and size combinations are being used at once?** Similar to the principles outlined in the color section above, using too many different types of fonts and sizes can make the visualization or data product feel cluttered or overwhelming to the viewers. Consider consolidating your use of fonts by giving different types of information with the same level of importance the same font and size.
+
+-   **Does the text have enough space around it?** Some users may have cognitive disabilities or visual impairments that results in them having trouble reading lines of text when they're too closely spaced. By prioritizing [types of cognitive accessibility](https://accessiblyapp.com/blog/cognitive-accessibility/) through thoughtful spacing, you contribute to a more inclusive visualization or data product.
+
+    -   For paragraphs - give the reader at least 1.15 pt spacing *within* paragraphs and at least 6 pt spacing after (or between) each paragraph.
+
+    -   For lists - if the list contains only a few words on each line, 1.15 pt spacing may be sufficient. If each item in the list has multiple lines of text, treat it as you would a paragraph and use 1.15 pt spacing *within* each list and at least 3 pt spacing after (or between) each item in the list.
+
+    -   For items within a chart - make sure the default spacing is sufficient. If items feel cramped, see if you can add spacing among items or reduce the amount of text needed for that particular item (e.g. shorten the title so it's only a few words on a single line rather that a full sentence)
+
+    -   Specific recommendations the [World Wide Web Consortium](https://www.w3.org/) Web Content Accessibility Guidelines (WCAG) 2.1 on [Text Spacing](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html) include:
+
+        -   Line height (line spacing) to at least 1.5 times the font size;
+        -   Spacing following paragraphs to at least 2 times the font size;
+        -   Letter spacing (tracking) to at least 0.12 times the font size;
+        -   Word spacing to at least 0.16 times the font size.
+
+Tools to help with fonts & typography include:
+
+-   [Urban Institute](https://www.urban.org/) [Data Visualization Style Guide](https://urbaninstitute.github.io/graphics-styleguide/) - [Chart Typography Section](https://urbaninstitute.github.io/graphics-styleguide/)
+
+### Labels
+
+The labels we use in our data products highlight or center the extent to which we reduce people and their experiences to components of our visualization or position and frame those same communities to live in their personal and collective power while addressing systemic oppression. Being mindful of the labels we use in our data products can help us connect and build trust with the communities that the data represents.
+
+When selecting the labels for your visualization or data product:
+
+-   **Use clear and concise labels.**
+
+-   **Use full labels such as “Black people” rather than “Black.”**
+
+-   **Avoid using labels that reinforce stereotypes or inequitable or unjust norms.**
+
+-   **When describing people from certain demographics, use descriptors that reflect the preferences of the communities it represents as much as you can.**
+
+    -   Language continues to evolve. Certain labels that may have been acceptable years ago may no longer be, and we should adjust our labeling accordingly. The [UNC Health’s Equity and Inclusion Analytics Workgroup](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf) notes that, for consistency and clarity, the data descriptors should match the categories used during data collection. However, if the data source you’re using has outdated language, updated language should be used in the label, and the outdated language can be noted in tooltips, comments, or footnotes of your visualization.
+
+-   **Be mindful of how labels are ordered.** Ordering items as they appear in the data may reflect and reinforce historical biases. The [Urban Institute](https://www.urban.org/) [Do No Harm Guide](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) recommends considering alternative sorting parameters such as study focus, specific story or argument, quantitative relationship (i.e., magnitude of the results), alphabetical, or sample size (weighted or unweighted).
+
+### Layout & Ordering
+
+How we layout the different components of our visualizations and data products - like color and typography - guides the reader through the their experience with said product. The order in which we present things establishes a hierarchy among elements that can indicate what we deem as important, significant or most valuable within product.
+
+When selecting the layout of the different components of your visualization or data product, consider:
+
+-   **Does the structure of your visualization resonate with how your audience sees the aspects of the data?** 
+
+-   **Are you including (or excluding) elements arbitrarily or by default?** Think about what would be meaningful to include (or not) for your audience. Are you adding items that don't add value or context to the data story? If so, consider removing them. Are you removing items out of habit that should actually be included? If so, consider adding them.
+
+-   **Are your captions, legends, and notes in intuitive locations?**
+
+    -   Captions should go above tables, but below charts, images, and figures.
+
+    -   Legends should stretch across the top of the chart, or to the right to make it easier for the viewer to orient themselves to the information in the product. 
+
+    -   Notes about a specific item (e.g. table, chart) should go below the item (and its caption, as applicable).
+
+    -   Footnotes should go at the bottom of the page and only include crucial contextual information that is not explained elsewhere.
+
+When ordering different components of your visualization or data product, consider:
+
+-   **Are data and categories ordered with intention and in a way that does not perpetuate historical biases?** Which group(s) we choose to list first in figures, tables, and legends can influence how relationships and hierarchies are perceived.
+
+    -   The [Urban Institute notes](https://urban-institute.medium.com/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff) that, always starting with “White” or “Men” can make these groups appear as the default against which other groups should be compared, suggesting they’re the most important populations. How we choose to order may also reflect who we view as the intended audience for our visualizations. Starting with “White” or “Men” can make it seem as though those are the most important groups we are trying to communicate with.
+
+-   The [Urban Institute](https://www.urban.org/) [Do No Harm Guide](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) recommends considering alternative sorting parameters for data, tables, and graphs such as:
+
+    -   **Does your study focus on a particular community?** If it does, that group should be presented first.
+
+    -   **Is there a particular argument or story you are trying to tell?** If so, the order or presentation of results should reflect that argument.
+
+    -   **Is there a quantitative relationship that can guide how the groups are ordered?** Can they be sorted alphabetically or by population size, sample size (weighted or unweighted), or magnitude or effect of the results?
+
+### Maps
+
+Maps can be powerful and intuitive ways to give place to the data you're using in your visualization. However, just like all other visualizations, a map with points, lines, or polygons and zero context is not helpful and can actually be counter productive.
+
+When thinking about and building your map, consider:
+
+-   **Is showing your geographic data on a map the best way to get your message across?** [The Urban Institute](https://urbaninstitute.github.io/graphics-styleguide/) notes that at times, there may be more efficient forms of storytelling (other than maps) that can get your point across more clearly. Specifically, if your data shows a very clear geographic trend or if the absolute location of a place or event matters, maps might be the best approach, [but sometimes the reflexive impulse to map the data can make you forget that showing the data in another form might answer other—and sometimes more important—questions.](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/) Consider using other graphic types when the interesting patterns are not geographic patterns, or when the geographic data is more effective for analysis than for presentation for your audience (i.e., a simple bar chart, column chart, scatterplot or table).
+
+-   **Is the map projection you're using appropriate?**
+
+    -   Simple interactive county- or state-level maps also use the Albers projection.
+
+    -   US maps for print publication, or use in reports should use the Albers Equal Area projection.
+
+    -   [Zoomable tile-based interactive maps](http://apps.urban.org/features/ncdb/immigrants-reshaping-residential-segregation/index.html#) use the Mercator projection.
+
+        Note that how a map is projected can influence the story being told, who is centered, and who is valued by the viewed, especially as you scale up. A great example of how map projections can impact our perception is summarized in the below clip from *The West Wing.* This [Forbes article](https://www.forbes.com/sites/chuckswoboda/2020/07/14/what-this-3-minute-scene-from-the-west-wing-about-maps-can-teach-you-about-leadership/) summarizes the scene well: The White House Press Secretary C.J. Gregg (Allison Janney) grants an audience to a group of socially minded cartographers on a noble mission: to convince the President to officially adopt a new global map that is more respectful of Third World countries. The group explains why conventional world maps are wrong and, worse, how this leads to misguided social perspectives that extend far beyond geography.
+
+        {{< video https://www.youtube.com/watch?v=vVX-PrBRtTY >}}
+
+-   **Is the geography you're using to visualize the data appropriate?** The [considerations we outlined above about grouping data](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html#consider-how-you-group-the-data) also apply here, with an added geographic context, since the geography you use in your map (e.g., zip codes, census tracts, counties, watersheds, regions, etc.) will impact how the audience interacts with the map or visualization. The [UNC Health’s Equity and Inclusion Analytics Workgroup](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf) notes that, zip codes may be convenient and readily available, but they represent expedient routes for postal delivery, not “natural” communities. This can cause analysis that disguises disparities, such as the [example in Flint made by Sadler (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8301226/).
+
+-   **Is the color on the map effective?** Maps tend to have more colors involved by nature (i.e. because of the inclusion of base maps, etc.). Take special care to adopt the [considerations about color outlined above](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html#color) to ensure the map, data, and story you're trying to tell are as accessible as possible.
+
+Tools to help with map development include:
+
+-   [State of Minnesota Map Accessibility Page](https://mn.gov/mnit/about-mnit/accessibility/maps/) – provides information on best practices for accessibility in static maps, web maps and applications.
+-   Non-exhaustive list of ESRI resources:
+    -   [Accessible Web Mapping Apps](https://www.youtube.com/watch?v=miTPT68kjto) – recording from the 2020 ESRI Developer Summit
+
+    -   [ESRI ArcGIS Accessibility Showcase (requires ESRI login)](https://arcgis-accessibility-showcase-science.hub.arcgis.com/)
+
+    -   [ESRI GitHub Accessibility Repository](https://esri-es.github.io/awesome-arcgis/arcgis/accessibility/) – information on making AGOL/Portal maps accessible
+
+    -   [Web Accessibility Best Practices](https://jimmieego.github.io/Web-Accessibility-Best-Practices/#/) – slides from 2019 ESRI GeoDev Webinar
+
+    -   [Improve accessibility of your Story Map by adding alternative text](https://www.esri.com/arcgis-blog/products/story-maps/sharing-collaboration/improve-accessibility-of-your-story-map-journal-by-adding-alternative-text/) – ESRI blog post
+
+    -   [ArcGIS Web AppBuilder accessibility support documentation](https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/accessibility-support.htm)
+
+    -   [ArcGIS Social Equity Analysis tool documentation](https://learn.arcgis.com/en/projects/create-a-social-equity-index-to-improve-public-health/)
+
+    -   [ArcGIS Online Tips & Best Practices to Extend the Reach of your GIS](file:///C:/Users/aholder/Downloads/Extend_the_Reach_of_Your_GIS.1%20(1).pdf)
+
+    -   [ArcGIS Hub guidance on improving the display of your content on a site and in search results](https://doc.arcgis.com/en/hub/content/prepare-your-content.htm)
+
+    -   [ArcGIS, ISO and INSPIRE Content Category recommendations](https://doc.arcgis.com/en/arcgis-online/reference/content-categories.htm)
+
+### Shapes & Icons
+
+Similar to color, the shapes and icons we use in our our data visualizations or other data products can help the audience connect with the data, but we need to be thoughtful about what shapes and icons we use, how we use them, and how they may be perceived to avoid unintentionally perpetuating stereotypes or creating hierarchies.
+
+When selecting shapes and icons for your visualization or data product, consider the recommendations from the [UNC Health’s Equity and Inclusion Analytics Workgroup](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf) and the [Urban Institute Do No Harm Guide](https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization):
+
+-   **Avoid reinforcing stereotypes** (e.g., a woman as a nurse but a man as a doctor). Mis- or underrepresentation of certain groups in imagery and iconography fails to take a racial or gender equity awareness perspective toward our data visualization work and can reinforce and perpetuate stereotypes. A [2018 study by the Pew Research Center](https://www.pewresearch.org/social-trends/2018/12/17/gender-and-jobs-in-online-image-searches/) found that:
+
+    -   Image results for common job searches overrepresent men relative to women - an estimated 60% of the individuals that appeared in the image results were men (40% were women).
+    -   For more than half the tested job categories, images appearing in searches underrepresent women relative to their actual participation in those jobs
+    -   Images containing women appear further down the page in search results for many jobs.
+
+-   **Avoid discriminatory and racist imagery.**
+
+-   **Use images that show people as empowered and dignified, and avoid images that depict people as helpless victims**
+
+-   **When showing groups of people, we should consider a mix of genders, races, ethnicities, and abilities.**
+
+Tools to help with icon selection include:
+
+-   [Tips for designing icons that depict gender](https://blog.thenounproject.com/visible-women-gender-in-iconography/) from Noun Project’s lead content curator Erika Kim
+
+### Tables
+
+Many data visualization applications enable data practitioners to display a visualization (chart, map) alongside a table. Including or embedding tables in a visualization can increases transparency and enable users to dig into the data behind the visualization without leaving said product. However, like every other design consideration we've discussed, the inclusion of tables should be considered with care.
+
+When determining how you will include table(s) in your visualization or data product, consider:
+
+-   **Is including a table helpful or does it cause confusion?** If the visualization is busy by itself, including a table that shows the exact same information can add to information overwhelm. If tables and figures/maps are not linked, adding filters in one place and then not seeing those same filters applied elsewhere can cause confusion. If this is the case for your visualization & table combination, consider excluding the table from the visualization to better focus on the story and instead make it easy for viewers to download the data to view outside of the visualization, or include the table in the visualization application but on a different tab (so it's there, but not distracting).
+
+-   **What information should be added to the caption to make interpretation of the table easier for viewers?** While the data may make perfect sense to you, remember that is likely because you have invested [***hours***]{.underline} of your time to collect, process, analyze, and visualize the data. This makes it easy for the you to quickly glance at the table(s) and figure(s) within the visualization and "instinctively" know what the viewers are *supposed* to take away. Your audience likely doesn't have the time (or interest) to invest as you have, and forcing them to do so will only result in loss of interest and use of the resource. **ALWAYS include a caption above the table** to make it easier for users to quickly orient themselves to the information included in the table, and understand how the table contributes to or backs up the story you're trying to tell. The caption should describe the table using as much detail as needed to make it a stand-alone object (i.e. viewers should not need to read the body text or other parts of the visualization or application to understand the table).
+
+-   **Are table notes needed to increase clarity?** Preferably, most of the text associated with a table is in the table caption. However, if it is necessary to include notes that are associated with the table that are separate from the caption, be sure to keep them simple and only include crucial contextual information that is not explained elsewhere.
+
+-   **Are the data shown in the table essential to the story?** If you've followed the guidance in the [Data Processing step](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html), then the data you use to create the visualization or data product should be tidy. Depending on the story you're trying to tell and the audience you're trying to connect with, including ALL of columns and rows of the processed data within visualization can be helpful or overwhelming. Consider only displaying the essential rows and columns within the visualization and making the complete dataset available for download.
+
+    -   If you're unsure of what columns or rows are essential - try asking a colleague or project partner to listen to you (or a [screen reader](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html#alternative-text-alt-text)) read the first couple of lines of the table aloud to them BEFORE they look at the table and caption. Then, have them look at the table and caption and ask which pieces of the table should be added or removed to make the desired meaning more clear.
+
+-   **Is highlighting being used to convey information?** Screen readers do not tell the viewer the color of a cell. So, do not use color or shading alone to convey data or information. Authors may use color to improve the esthetics of a table, but if the color is representative of data or information, it should be coupled by text, symbols, or data that also convey that information so that those with color vision differences can access the information you're trying to convey.
+
+-   **What do blank cells mean?** Screen readers do not tell the viewer that a cell is blank; they just skip the cell altogether. If a blank cell has a certain meaning in your data story (e.g. NA, 0, no data, etc.), state that within the cell explicitly or add a dash ( - ) to the blank cell(s) and add a note at the bottom of the table (or within the caption) to make viewers aware of the meaning of the dash.
+
+## Additional Resources
+
+-   Justinmind Blog (2020) [User-centered design: a beginner’s guide](https://www.justinmind.com/blog/user-centered-design/)
+-   [Urban Institute](https://www.urban.org/) Resources
+    -   [Data Visualization Style Guide](https://urbaninstitute.github.io/graphics-styleguide/)
+    -   [Do No Harm Guide: Applying Equity Awareness in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization)
+-   We All Count - [Reverse Engineering Data Viz for Equity](https://weallcount.com/2020/07/30/reverse-engineering-data-viz-for-equity/)
+-   TEDx Talk (2014) [Hardwired for story](https://www.youtube.com/watch?v=BrtTyEmDLKQ)
+
+### Data Visualization Examples
+
+-   California Water Board's Tribal Water Data [Map](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c1841907240e1a4d896c8cf2302a8) & [Manual](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/)
+-   [California Public Domain Allotment (PDA) Water Rights Map](https://aquaoso.maps.arcgis.com/apps/webappviewer/index.html?id=a16deac30dec495185fc35771f3584ab)
+-   [Unequal access to water: How societal factors shape vulnerability to water insecurity](https://labs.waterdata.usgs.gov/visualizations/vulnerability-indicators/index.html#/en)

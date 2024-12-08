@@ -1,0 +1,18 @@
+# Use Cases
+
+There is no single correct way to operationalize equity in a data project. Each project has it's own objectives, data, and audience - and truly operationalizing equity in your data work means dedicating the time, attention, and resources needed to meet the needs of the project (i.e. avoid one-size fits all approaches).
+
+In this Use Cases section, you will find some examples of how some Water Boards staff have approached operationalizing equity into their data-intensive work, including use cases from:
+
+-   [The Statewide Surface Water Ambient Monitoring Program (SWAMP)](https://cawaterboarddatacenter.github.io/equity-data-handbook/use-cases/uc_swamp.html)
+-   \<ADD OTHERS HERE!\>
+
+::: callout-note
+## **Help us highlight your data equity work!** 
+
+If you are the lead of a data-intensive project that has worked to operationalize equity into some or all phases of your project's data life cycle, and would like to add a page to this Handbook to highlight the work - let us know!
+
+Please email [equitydatahelp\@waterboards.ca.gov](mailto:equitydatahelp@waterboards.ca.gov) with a short description of your project and what you'd like to highlight!
+:::
+
+## 

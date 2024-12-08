@@ -1,3 +1,119 @@
-# Data Sharing
+# Publication & Sharing
 
-add guidance on open/sharing practices & locations - GitHub, Open Data Portals, etc.
+By now, you’ve completed some or all of your product development steps ([Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html), [Data Visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html)) and are ready to publish and share product components. Congratulations!
+
+This phase of the data life cycle involves making the project's data and products open and accessible as appropriate.
+
+Also see a [short list of best practices for this phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/best-practice.html#publish-share).
+
+::: callout-tip
+Just like the [Preservation & Storage phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html), this content should be reviewed during the [Plan & Prepare Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/) of your project! Depending on your project needs, you may even integrate your responses to questions below into your [project’s data management plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html). Doing so will make it easier for all team members to prepare their project components accordingly and will save you time when implementing this phase of the project.
+:::
+
+## Why Publish & Share Data Products?
+
+The Water Boards typically make virtually all of the data we collect available to the public, with the exception of confidential information that should remain private and secure. As such, the openness and accessibility of your project's data and resultant products should be in alignment with the Water Board’s Open Data Resolution: “[Adopting Principles of Open Data as a Core Value and Directing Programs and Activities to Implement Strategic Actions to Improve Data Accessibility and Associated Innovation](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2018/rs2018_0032.pdf).” This means:
+
+-   [Documenting](https://cawaterboarddatacenter.github.io/equity-data-handbook/documentation.html) your process throughout the project so as to make it open, transparent, and reproducible
+
+-   Utilizing open data and open source software and tools (e.g., Python, R, GitHub) as much as possible
+
+-   Making the data you use and code you develop transparent and accessible to the public after the project is complete, as appropriate
+
+***From a data science lens*** - Making data and products open and accessible (as appropriate) increases transparency of the work and makes it easier for future project team members (including yourself!) to reference, reuse, and build upon components in the future. This will reduce the amount of time future teams need to spend looking for and reinventing proverbial wheels you already invested time in developing, thus increasing future efficiency and reproducibility and decreasing frustration and workload for all.
+
+***From an equity lens*** - In addition to the benefits listed above, making data and products open and accessible (as appropriate) can contribute to trust building and future opportunities for collaboration between the project team, partners, and communities, enable communities and partners to use the data for their interests and needs, and empower all to take data-informed actions that ultimately advance and operationalize equity in the institutions, communities, and systems in which we all live, work, and play.
+
+## Project Publication & Sharing with an Equity Lens
+
+When getting ready to publish and share components or products of your data project, it's important to be thoughtful of how you do so. Similar to the creation of [data visualizations](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html) - plopping content or products on a webpage or data portal without context or care can (at best) be unhelpful and (at worst) actually perpetuate or reinforce inequity and injustice.
+
+As you embark upon this exciting phase of your project's data life cycle, be sure to keep the below considerations in mind and make publication and sharing choices that support the advancement of equity, inclusion, and justice.
+
+### Communicate with communities and partners BEFORE publication
+
+We've said it before and we'll repeat it again here: project teams should begin communication with communities and partners at the earliest stages of project development, and continue to communicate and check-in during each phase of implementation, including during this phase. What's critical here is to communicate with communities and partners BEFORE any content is finalized or published to get a (hopefully another) round of critical feedback on the interpretation and framing of the project and its content.
+
+Unfortunately, it's not uncommon for communities - particularly those that have been excluded, marginalized, neglected and face the impacts and burden of systemic racism and injustice - to get requests for data, information, or feedback during one phase of a government project, never hear back from the project team, and then learn after something is published that what they shared has been misrepresented, miscommunicated, or even shared when it should not have been. As one might expect, this is a very easy and fast way to erode trust, burn bridges, and ruin relationships that you have invested precious time, energy, and resources to build.
+
+Use this time to:
+
+-   **Connect with those you have reached out to in previous phases of the project and share your publication, sharing, and communication plans for the project.** Also see the notes on iteration in the [Take a user-centered design approach section](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html#take-a-user-centered-design-approach) for more guidance.
+
+-   **Integrate the feedback you receive into the product(s) before publishing and sharing broadly.** Remember, this can take some time to implement well - plan ahead so you aren't rushed. Also see the notes on iteration in the [Take a user-centered design approach section](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html#take-a-user-centered-design-approach) for more guidance.
+
+-   **Discuss whether a coordinated communication strategy across community and partner institutions can/should be developed and implemented.** If appropriate and communities and partners on board, this could result in all parties involved (and their media / communication teams) distributing findings and products across their respective networks in a coordinated and consistent way, thus furthering the reach and potential impact of the project.
+
+### Make data and products open and accessible to the public
+
+In addition to all of the reasons outlined in the above [Why Publish & Share Data Products?](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html#why-publish-share-data-products)section, the [Urban Institute's Principles for Advancing Equitable Data Practice](https://www.urban.org/sites/default/files/publication/102346/principles-for-advancing-equitable-data-practice_0.pdf) notes that sharing data can reduce the burden of duplicate data collection on communities. Specifically:
+
+> Some people and communities are consistently the targets of data collection and study, sometimes from organizations seeking the same information for similar purposes. Siloed data place an additional—and potentially unnecessary—burden on community members. Sharing nonconfidential data, when it is unlikely that it could lead to harm or add risks, may reduce the burden that individuals and communities experience from data collection
+
+As you publish your project's data and products, be sure to:
+
+-   **Publish data and complete metadata in publicly accessible locations**, such as [Water Boards databases](https://www.waterboards.ca.gov/resources/data_databases/) and/or the [California Open Data Portal](https://data.ca.gov/) (or [California State Geoportal](https://gis.data.ca.gov/)), as appropriate. Also see the [Publish Your Water Boards Data page](https://cawaterboarddatacenter.github.io/equity-data-handbook/publish-data.html) for more guidance
+
+-   **Publish or embed accessible products onto Water Boards webpages**, as appropriate, including: planning or summary documents/reports, fact sheets, applications, presentation slides or recordings, etc.
+
+-   **Publish any code and related software packages or products in the [Water Boards GitHub](https://github.com/CAWaterBoardDataCenter)**, as appropriate, including: data and analysis workflow diagrams or related documentation, all application and source code files, and all data, analysis, interpretation, and visualization processing scripts. Also see the [Open Source Code Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/open_source_code_handbook.html) for more guidance.
+
+-   **Publish any peer-reviewed literature in open access journals**, as appropriate. Public data and records are public property, as appropriate. Therefore, any products developed by public agencies using those public resources should also be public property, as appropriate. The best way to ensure peer-reviewed literature remains accessible to the public is by publishing in open access journals or equivalent open and free to access publication avenues.
+
+-   **Ensure all documentation associated with the project is written in [plain, accessible, and inclusive language](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html#use-plain-accessible-and-inclusive-language)**, as appropriate, including: metadata, ReadMe files, code comments, and anything else pertaining to the project components listed.
+
+::: callout-important
+# Remember - Open does not *always* mean public
+
+The Water Board’s Open Data Resolution urges us to make our data and products open and accessible to the public, as appropriate. Equally important is ensuring that the confidential components of our work are secured and protected appropriately. See the [Data Preparation](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) and [Preservation & Storage](https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html) pages for more detailed guidance.
+:::
+
+### Make data and products useful for communities and partners
+
+In addition to all of the considerations outlined in the above [Make data and products open and accessible to the public](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html#make-data-and-products-open-and-accessible-to-the-public) section, it's also important to take time to make project, data, products, information and knowledge accessible to and useful for the communities and partners that contributed to or could be impacted by the project. The [Urban Institute's Principles for Advancing Equitable Data Practice](https://www.urban.org/sites/default/files/publication/102346/principles-for-advancing-equitable-data-practice_0.pdf) notes that:
+
+> Analysts have the power to disrupt the dynamic of people’s having no ownership of and deriving no utility from what their data have produced. Ensuring that the results are communicated in a way that community members can use and understand is an important step toward equity.
+
+As you implement other components of this phase, be sure to:
+
+-   **Connect with those you have reached out to in previous phases of the project and walk through the data and products you plan to publish and share.** Ideally, this will be wrapped into the [conversations you have with these folks BEFORE publication](Communicate with communities and partners BEFORE publication) to streamline conversations and reduce the burden of providing feedback.
+
+-   **Discuss whether the [*existing*]{.underline} results and products are communicated in ways that resonate with and are useful to the community.** If they are generous and able to tell you how to improve your communication, be sure to integrate that into existing products! See the [Data Visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html) for guidance on how to effectively communicate with data.
+
+-   **Discuss whether [*additional*]{.underline} products or resources should be developed to improve communication and usefulness of the data and products for the community.** It will be important to be clear about your capacity and limitations going into these conversations so you can manage expectations and only commit to actions and timelines you can realistically accomplish. Depending on what products you decide to develop, it might be helpful to co-create them with your community partners so that messaging and functionality is as useful and impactful as possible. Some products that might be considered for development include:
+
+    -   A project fact sheet or brochure that describes the project, available resources, and what it means for the community
+
+    -   A webpage update (or development of a new page) that makes it easy for communities to find the information and resources they need about the project and products
+
+    -   A step by step guide, workshop, training, or video that walks people through how to use what has been developed and interpret the results or findings appropriately
+
+    -   Customized code or program that communities can use to pull data from databases and process it for their own data analysis and visualization needs
+
+    -   A media and/or press kit, that would include resources for communities and partners to use to share information about the project and products, including:
+
+        -   language for press releases or social media posts, including:
+
+            -   project background, goals
+
+            -   key results, facts, or statistics
+
+            -   case studies
+
+            -   available resources, products, or services
+
+            -   contact details (name/email addresses, social media handles)
+
+            -   relevant hashtags
+
+        -   figures or images that are ready to be shared broadly, including the image titles, captions, and alt text that should accompany the use of each image
+
+        -   instructions on how to embed products into community-managed web-pages
+
+        -   branding guidelines
+
+            ::: callout-tip
+            As you develop your media kit, be sure to work with your Water Boards Communications team to ensure all content is consistent with other Water Boards communications*.*
+            :::
+
+    -   Anything else communities and partners say they need to effectively use the data and products, you've invested time, energy, and resources to develop!

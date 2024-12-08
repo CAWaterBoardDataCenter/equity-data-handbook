@@ -1,0 +1,71 @@
+# Establishing Common Language
+
+When working with a racial equity lens we suggest establishing a common language and definitions to cultivate a collective understanding of underlying concepts and historical context. Creating and agreeing upon a common language can help foster transparency, challenge assumptions, and center the voices of marginalized communities; yet the efficiency of these efforts hinges on a shared language that facilitates understanding and collaboration. By grounding discussions in a common language, we can build trust and empower our team and community.
+
+Establishing a common language and definitions are critical to creating a shared understanding, however we acknowledge that language can be used deliberately to engage and support community anti-racism coalitions and initiatives, or to inflame and divide them. It is important to note that although the language in this Handbook may be commonly used, the list of terms herein is not exhaustive, and may not be the sole definition of a term, and some may disagree with the definitions and their use. More specifically, in this resource we intentionally use the acronym BIPoC (Black, Indigenous, People of Color) as a term that seeks to recognize the unique experience of Black and Indigenous People within the United States. We recognize that naming is power, and we remain committed to using language that supports pro-Blackness and Native visibility, while dismantling white supremacy.
+
+Below we have included a Glossary and Non-Inclusive Terms to Avoid to establish a common language within the Guidance Document as it relates to Racial Equity. In addition, data terms used throughout the Guidance document will be defined as they arise on the following pages. A more extensive list of data terms and definitions can also be found on the [College of Water Informatics Data Glossary page.](https://www.waterboards.ca.gov/resources/oima/cowi/glossary.html)
+
+## Glossary
+
+Below are a set of key terms and definitions provided by the Water Board Racial Equity Team in the development of the [Racial Equity Resolution](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2021/rs2021_0050.pdf) and [Racial Equity Action Plan](https://www.waterboards.ca.gov/racial_equity/docs/racial-equity-action-plan-final-en.pdf) and are those that we adhere to in this document. (citations can be found [here](https://waterboards.ca.gov/racial_equity/information-and-resources.html#terminology)). For a more comprehensive list of equity-related terms, see the [Racial Equity Tools Glossary](https://www.racialequitytools.org/glossary)
+
+-   **Disadvantaged Community** (DAC) is defined by the California Water Code as a community in which the median household income (MHI) is less than 80 percent of the statewide annual MHI (CA Water Code Section 13149.2 and 79505.5(a)). At the time this document was developed, the statewide annual MHI from the U.S. Census Bureau from 2017-2021 was \$84,097 ([U.S. Census Bureau QuickFacts: California](https://www.census.gov/quickfacts/fact/table/CA/INC110220)). Based on this data, a community with a household income of less than \$67,278 qualifies as a DAC based on the Water Code definition.
+
+-   **Equality** describes circumstances in which each individual or group is given the same or equal treatment, including the same resources, opportunities, and support. However, because different individuals or groups have different histories, needs, and circumstances, they do not have equal positions in society or starting points. Providing the same resources, support, or treatment does not guarantee that everyone will have fair or equal outcomes.
+
+-   **Ethnicity** is a term used to describe subgroups of a population that share characteristics such as language, values, behavioral patterns, history, and ancestral geographical base. Social scientists often use the terms ethnicity and ethnic group to avoid the perception of biological significance associated with race.
+
+-   **Intersectionality** is a term used to describe the complex, cumulative way in which the effects of multiple forms of discrimination (such as racism, sexism, and classism) combine, overlap and intersect especially in the experiences of marginalized individuals or groups.
+
+-   **Institutional racism** describes the ways in which policies and practices perpetuated by institutions, including governments and private groups, produce different outcomes for different racial groups in a manner that benefits the dominant group. In the United States, institutional racism includes policies that may not mention race but still result in benefiting white people over people of color.
+
+-   **Race** is a social construct used to categorize humans into groups based on combinations of shared physical traits such as skin color, hair texture, nose shape, eye shape, or head shape. Although most scientists agree that such groupings lack biological meaning, racial groups continue to have a strong influence over contemporary social relations. Historically in the United States, race has frequently been used to concentrate power with white people and legitimize dominance over non-white people.
+
+-   **Racial equity** means Race can no longer be used to predict life outcomes and outcomes for all groups are improved. For example, when we hold income constant, there are still large inequities based on race across multiple indicators for success, including the environment, education, jobs, incarceration, health and housing. 
+
+-   **Racism** is any prejudice against someone because of their race when systems of power reinforce those views. 
+
+-   **Structural racism** is the normalization and legitimization of an array of historical, cultural, institutional, and interpersonal dynamics that routinely advantage whites while producing cumulative and chronic adverse outcomes for people of color. Structural racism encompasses the entire system of white domination, diffused, and infused in all aspects of society, including its history, culture, politics, economics, and whole social fabric. Structural racism is more difficult to locate in a particular institution because it involves the reinforcing effects of multiple institutions and cultural norms, past and present, continually reproducing old and producing new forms of racism. Structural racism is the most profound and pervasive form of racism; all other forms of racism emerge from structural racism.
+
+-   **Systemic racism** can be said to encompass both institutional and structural racism. Glenn Harris, president of Race Forward, defines systemic racism as “the complex interaction of culture, policy and institutions that holds in place the outcomes we see in our lives.”  The legacy of systemic racism can be seen in a variety of outcomes affecting people of color, such as housing insecurity, a ten-fold wealth gap between white and Black or Latinx households, a dramatic over-representation of people of color in prison, and disparities in education, health, and exposure to environmental pollution.
+
+## Non-Inclusive Terms to Avoid
+
+Below are a set of common terms that are non-inclusive particularly to Black and Indigenous People and are commonly used in the workplace that have . This is not an exhaustive list but we recommend that research be conducted to review non-inclusive terms that may be used and have a history prior to engaging with communities. A good resource to start with is the University of Arizona's [Antiracist language guide.](https://lib.arizona.edu/help/employees/anti-racist-guide)
+
+-   **Blacklist** - Blacklist typically refers to the ostracizing of a person, group, or organization that prevents them from participating in specific activities or spaces. This issue with the word blacklist is the association of the color with negative, evil, or wrong, and the racist undertones associated with it, and can be harmful.
+
+    -   Alternatives: blocked, closed off, inaccessible, blocked list, banned, or closed list
+
+-   **Brown Bag** - The term “brown bag” has a historical connotation with creating an exclusive gathering that required attendees to have a lighter skin tone than a brown paper bag to participate and gain access.
+
+    -   Alternatives: lunch in, lunch and learn, presentation, seminar
+
+-   **Chief** - this term is used throughout the Water Boards to indicate positions and job titles.  This term is appropriated from the Indigenous Peoples of North America and should be avoided wherever possible.
+
+    -   Alternatives: manager, lead, head
+
+-   **Grandfathered in** - The American South created absurd voting requirements that targeted Black people and made it almost impossible to vote. The name for these requirements is the "Grandfather Clause." They wrote the Amendment in a way to imply the practice was not discriminatory. They created stringent new voter requirements such as literacy tests. These requirements did not apply to people who had voted before 1867. Slaves did not know they were free until June 19, 1865. However, slavery was abolished on January 1, 1863, making it nearly impossible for a person formally kept in captivity to be legally allowed to vote.
+
+    -   Alternatives:  legacied, exempted, preapproved
+
+-   **Master \_\_\_\_** - using the term "master" to describe something that is the main or centralized source of information is inappropriate due to the connotations associated with slavery.
+
+    -   Alternatives: primary, main
+
+-   **Pow wow** - Social gatherings for ceremonial and celebratory purposes conducted under strict protocols. Avoid using the phrase to refer to a quick business meeting or informal social gathering as this is a form of cultural appropriation.
+
+    -   Alternatives: meeting, gathering, or huddle
+
+-   **Spirit Animal -** These are spiritual guides that take the form of animals often viewed as sacred in tribal cultures. Non-native people appropriate the term to relate themselves to an animal, inanimate object, or person and draw parallels between the person and object’s characteristics. For example, saying that a sloth is your spirit animal because you are slow, lazy, and/or sleepy.
+
+    -   Alternatives: patronus, kindred spirit, reason for living, muse, guide, or familiar.
+
+-   **Totem Pole** - Pieces of wood carved with a person’s totems. It is a tradition particular to Native and Indigenous people on the Northwest Coast. They tend to convey a family or tribe’s history. Avoid using phrases like “low on the totem pole” or “climbing the totem pole” as these are forms of cultural appropriation. These phrases are also inaccurate because in some First Nation communities being lower on the totem pole is a higher honor.
+
+    -   Alternatives: climbing the corporate ladder, the lowest rung on the latter, least significant, or promotion.
+
+-   **White Paper** - while this term is widely used to describe an authoritative document, the term has historical implications that evoke negative associations especially with Tribes. 
+
+    -   Alternatives: Issue paper, briefing document, prospectus

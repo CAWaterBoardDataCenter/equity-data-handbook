@@ -1,0 +1,77 @@
+# Getting Started
+
+::: callout-tip
+**Before embarking on your data project using a racial equity lens you should:**
+
+1.  Make your Water Boards data open and accessible to the public! See the [Open Data Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/open_data_handbook.html) for guidance.
+
+2.  Consult the Racial Equity Data Subcommittee by emailing [equitydatahelp\@waterboards.ca.gov](mailto:equitydatahelp@waterboards.ca.gov) to help identify audience and potential questions or information your teams’ analysis may answer and provide guidance.
+
+3.  Review the guidance and best practices described in this [Equity Data Handbook](https://cawaterboarddatacenter.github.io/equity-data-handbook/) and complete the [Racial Equity Data Project Form](https://forms.office.com/g/0HuJqQkiJs)
+
+4.  Review the [GARE Framework: Normalize, Organize, and Operationalize](https://www.racialequityalliance.org/resources/racial-equity-toolkit-opportunity-operationalize-equity/)  
+
+*Other Optional Recommendations*
+
+-   Take the Advancing Racial Equity training series offered by the [Water Boards Training Academy](https://launcher.myapps.microsoft.com/api/signin/82768508-b765-4d4e-bc76-c73262ddb0cf?tenantId=fe186a25-7d49-41e6-9941-05d2281d36c1)
+
+-   Put a team together and join an [Openscapes Champions Cohort at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/)
+:::
+
+## Make your Water Boards data open and accessible!
+
+In accordance with the first principle of the Water Board's Open Data Resolution (Resolution No. 2018-0032; see below), it is the responsibility of Water Boards data stewards to make our data open and accessible to the public.
+
+> Make Data Accessible (“Open First”): our organization values transparency and strives to make all critical public data available in machine-readable datasets with metadata and data dictionaries.
+
+Guidance on open data publishing at the Water Boards is available in the [Open Data Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/open_data_handbook.html).
+
+## Consult the Racial Equity Data Subcommittee
+
+Program staff that are beginning data project using a racial equity lens should meet with the Racial Equity Data Team to discuss key aspects of the project including who the audience is and what questions or information you are trying to convey using the available racial equity data. *This engagement should occur prior to beginning any data collection or analysis.*
+
+To initiate a consultation with the Racial Equity Data Team, please send an email to [equitydatahelp\@waterboards.ca.gov](mailto:equitydatahelp@waterboards.ca.gov). 
+
+## Review the Equity Data Handbook and complete the Racial Equity Data Project Form
+
+This [Equity Data Handbook](https://cawaterboarddatacenter.github.io/equity-data-handbook/) is a curated compilation of emerging and comprehensive (but not exhaustive) guidance on:  
+
+-   How to break down the management questions where racial equity information is being posed against administrative data; and 
+-   How to apply equity best practices during each phase of the data life cycle to begin an iterative process into advancing racial equity. 
+
+This Handbook is specifically structured to support Water Boards staff on incorporating racial equity concepts into all phases of their data projects. The guidance and best practices provided serves as a strategic guide emphasizing the importance of collection, analysis and utilization of racial equity data.
+
+These intended users of this Handbook include, but are not limited to:  
+
+-   Program Staff
+-   Program managers
+-   Executives
+-   Agency Partners
+-   Tribal Governments
+-   The Public 
+
+After reviewing this Handbook, please complete the [Racial Equity Data Project Form](https://forms.office.com/g/0HuJqQkiJs) so that the Racial Equity Data Subcommittee is better equipped for your project consultation.
+
+## Review the GARE Framework
+
+It's strongly suggested staff review the [framework outlined by the Government Alliance for Racial Equity (GARE)](https://www.racialequityalliance.org/viewdocument/racial-equity-toolkit-an-opportuni-2) to normalize, organize, and operationalize racial equity throughout data integration (see image below).
+
+[![GARE model of change. Source: GARE Communications Guide, May 2018](images/gare-change-model.png)](https://www.racialequityalliance.org/viewdocument/gare-communications-guide-1)
+
+In addition staff should also review why it is important to [lead with race](https://www.racialequityalliance.org/about/our-approach/race/):
+
+> “with the recognition that the creation and perpetuation of racial inequities has been baked into government, and that racial inequities across all indicators for success are deep and pervasive. We also know that other groups of people are still marginalized, including based on gender, sexual orientation, ability and age, to name but a few. Focusing on racial equity provides the opportunity to introduce a framework, tools and resources that can also be applied to other areas of marginalization. It is critical to address all areas of marginalization, and an institutional approach is necessary across the board. As the local and regional government deepens its ability to eliminate racial inequity, it will be better equipped to transform systems and institutions impacting other marginalized groups.”
+
+## Other Optional Recommendations
+
+### Take the Advancing Racial Equity Training
+
+When possible, staff should take the Advancing Racial Equity training series offered by the [Water Boards Training Academy](https://launcher.myapps.microsoft.com/api/signin/82768508-b765-4d4e-bc76-c73262ddb0cf?tenantId=fe186a25-7d49-41e6-9941-05d2281d36c1) to foster a consistent baseline knowledge of racial equity work and the importance of applying a racial equity lens to our work.
+
+### Join an Openscapes Champions Cohort at the Water Boards
+
+[Openscapes](https://www.openscapes.org/) through their [Champions Program](https://www.openscapes.org/champions/), provides a framework for education, integration, and operationalization of open science, equity, communication, and kindness into individual and team collaborations and workflows. Teams that participate in the Champions Program are empowered to evolve and invest in their culture, processes, and workflows so that they can embody the [better science for future us mindset](https://openscapes.github.io/series/mindset.html).
+
+Water Boards teams are able to join Openscapes Champions Cohorts that are created for and led by Water Boards staff.
+
+For more information and to learn how to join an upcoming Openscapes Champions Cohort at the Water Boards, visit the [Openscapes at the Water Boards webpage](https://cawaterboarddatacenter.github.io/swrcb-openscapes/).
