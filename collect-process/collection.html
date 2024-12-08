@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -309,6 +343,25 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#common-data-sources" id="toc-common-data-sources" class="nav-link" data-scroll-target="#common-data-sources">Common Data Sources</a>
   <ul class="collapse">
   <li><a href="#demographics-data" id="toc-demographics-data" class="nav-link" data-scroll-target="#demographics-data">Demographics Data</a></li>
+  </ul></li>
+  <li><a href="#before-you-dive-in" id="toc-before-you-dive-in" class="nav-link" data-scroll-target="#before-you-dive-in">Before you dive in</a>
+  <ul class="collapse">
+  <li><a href="#key-terms" id="toc-key-terms" class="nav-link" data-scroll-target="#key-terms">Key Terms</a></li>
+  <li><a href="#download-packages" id="toc-download-packages" class="nav-link" data-scroll-target="#download-packages">Download Packages</a></li>
+  </ul></li>
+  <li><a href="#collecting-data" id="toc-collecting-data" class="nav-link" data-scroll-target="#collecting-data">Collecting Data</a>
+  <ul class="collapse">
+  <li><a href="#demographics-data-sources-1" id="toc-demographics-data-sources-1" class="nav-link" data-scroll-target="#demographics-data-sources-1">Demographics data sources</a></li>
+  <li><a href="#common-tables-to-use-in-sources" id="toc-common-tables-to-use-in-sources" class="nav-link" data-scroll-target="#common-tables-to-use-in-sources">Common tables to use in sources</a></li>
+  </ul></li>
+  <li><a href="#data-prep-use" id="toc-data-prep-use" class="nav-link" data-scroll-target="#data-prep-use">Data Prep &amp; Use</a>
+  <ul class="collapse">
+  <li><a href="#point-data" id="toc-point-data" class="nav-link" data-scroll-target="#point-data">Point Data</a></li>
+  <li><a href="#lines" id="toc-lines" class="nav-link" data-scroll-target="#lines">Lines</a></li>
+  <li><a href="#polygons" id="toc-polygons" class="nav-link" data-scroll-target="#polygons">Polygons</a></li>
+  </ul></li>
+  <li><a href="#data-interpretation" id="toc-data-interpretation" class="nav-link" data-scroll-target="#data-interpretation">Data Interpretation</a>
+  <ul class="collapse">
   <li><a href="#calenviroscreen" id="toc-calenviroscreen" class="nav-link" data-scroll-target="#calenviroscreen">CalEnviroScreen</a></li>
   <li><a href="#u.s.-epa-ejscreen" id="toc-u.s.-epa-ejscreen" class="nav-link" data-scroll-target="#u.s.-epa-ejscreen">U.S. EPA EJScreen</a></li>
   <li><a href="#internal-administrative-data" id="toc-internal-administrative-data" class="nav-link" data-scroll-target="#internal-administrative-data">Internal Administrative Data</a></li>
@@ -486,8 +539,98 @@ Caution
 </div>
 </div>
 <p><a href="https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html">Estimating Demographics of Custom Spatial Features</a> is another detailed example of how to use the R programming language to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features, and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.</p>
+<p><strong>FROM OTHER PAGE</strong></p>
+<p>Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types.</p>
 </section>
 </section>
+</section>
+<section id="before-you-dive-in" class="level2">
+<h2 class="anchored" data-anchor-id="before-you-dive-in">Before you dive in</h2>
+<p>Think through what questions you have and what data would be the best to use to answer that questions</p>
+<p>data isn’t people</p>
+<p>be sure to understand limitations / bias of data you use</p>
+<ul>
+<li>who collected it? what were their original intentions/questions</li>
+</ul>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Remember - there’s no such thing as “equity data” - how we use data, interpret it, and act on what we learn makes our use equitable (or not).</p>
+</div>
+</div>
+<section id="key-terms" class="level3">
+<h3 class="anchored" data-anchor-id="key-terms">Key Terms</h3>
+<p>Demographics</p>
+<ul>
+<li><p>Race</p></li>
+<li><p>Ethnicity</p></li>
+</ul>
+<p>Geographies</p>
+<ul>
+<li><p>Block</p></li>
+<li><p>Block Group</p></li>
+<li><p>Tract</p></li>
+</ul>
+<p>Census Data</p>
+<p>Tidyverse: the R package we’ll be using to organize and prepare data for use [add link to tidyverse documentation]</p>
+<p>We’’ll be running through examples below in R -</p>
+<p>link to intro to R4WDS training</p>
+<p>use R Projects</p>
+<p>use the here package (instead of explicitly setting working directory - makes it more shareable and reproducible</p>
+<p>Acknowledgements:</p>
+<p>This resource is being developed….and adapting code from…insert DataMade resources…</p>
+</section>
+<section id="download-packages" class="level3">
+<h3 class="anchored" data-anchor-id="download-packages">Download Packages</h3>
+<p>census API key sign up link: <a href="https://api.census.gov/data/key_signup.html" class="uri">https://api.census.gov/data/key_signup.html</a></p>
+</section>
+</section>
+<section id="collecting-data" class="level2">
+<h2 class="anchored" data-anchor-id="collecting-data">Collecting Data</h2>
+<p>CalEnviroScreen vs Census Data - add table that compares difference sources to make it easier for folks to understand which tool is best for the job</p>
+<ul>
+<li><p>geographies</p></li>
+<li><p>last data update</p></li>
+<li><p>age categories</p></li>
+<li></li>
+</ul>
+<p>pull over content + code from: <a href="https://datamade.github.io/waterboard-coaching/" class="uri">https://datamade.github.io/waterboard-coaching/</a></p>
+<p>Take some time to review the Concept and Labels in the table -</p>
+<pre><code>summary_var = "P2_001N" # Total population</code></pre>
+<section id="demographics-data-sources-1" class="level3">
+<h3 class="anchored" data-anchor-id="demographics-data-sources-1">Demographics data sources</h3>
+<ul>
+<li>census data in R &amp; Python</li>
+</ul>
+<p>non-census data (e.g.&nbsp;CalEnviroScreen)</p>
+</section>
+<section id="common-tables-to-use-in-sources" class="level3">
+<h3 class="anchored" data-anchor-id="common-tables-to-use-in-sources">Common tables to use in sources</h3>
+</section>
+</section>
+<section id="data-prep-use" class="level2">
+<h2 class="anchored" data-anchor-id="data-prep-use">Data Prep &amp; Use</h2>
+<section id="point-data" class="level3">
+<h3 class="anchored" data-anchor-id="point-data">Point Data</h3>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="sc">---</span> code<span class="sc">-</span>annotations<span class="sc">:</span> below <span class="sc">---</span>  <span class="st">```</span><span class="at">r library(tidyverse) library(palmerpenguins) penguins |&gt;                                      # &lt;1&gt;   mutate(                                        # &lt;2&gt;     bill_ratio = bill_depth_mm / bill_length_mm, # &lt;2&gt;     bill_area  = bill_depth_mm * bill_length_mm  # &lt;2&gt;   )                                              # &lt;2&gt; </span><span class="st">```</span> <span class="fl">1.</span> Take <span class="st">`</span><span class="at">penguins</span><span class="st">`</span>, and then, <span class="fl">2.</span> add new columns <span class="cf">for</span> the bill ratio and bill area.</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="lines" class="level3">
+<h3 class="anchored" data-anchor-id="lines">Lines</h3>
+<div class="sourceCode" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="polygons" class="level3">
+<h3 class="anchored" data-anchor-id="polygons">Polygons</h3>
+</section>
+</section>
+<section id="data-interpretation" class="level2">
+<h2 class="anchored" data-anchor-id="data-interpretation">Data Interpretation</h2>
 <section id="calenviroscreen" class="level3">
 <h3 class="anchored" data-anchor-id="calenviroscreen">CalEnviroScreen</h3>
 <p><a href="https://oehha.ca.gov/calenviroscreen">CalEnviroScreen</a> is a mapping tool that helps identify California communities that are most affected by many sources of pollution, and where people are often especially vulnerable to pollution’s effects. CalEnviroScreen can be a helpful tool in creating visualizations and performing analysis as it provides a number of indices, as well as a “rolled-up” score that combines environmental and demographic data together. As with any dataset or visualization tool there can be things to consider, a couple of which are discussed below.</p>
