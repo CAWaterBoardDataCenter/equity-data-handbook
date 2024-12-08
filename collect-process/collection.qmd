@@ -209,19 +209,19 @@ If you will be using U.S. Census data regularly and will be accesing and analyzi
 
 ###### Install Packages
 
-You must install any packages you will use on your computer before you can use them. You only need to install a package once; if you have already installed the below packages you can skip this step and proceed to the Load Packages step.
+You must install any packages you will use on your computer before you can load them. You only need to install a package once; if you have already installed the below packages you can skip this step and proceed to the Load Packages step.
 
 ---
 code-annotations: below
 ---
 
 ``` r
-install.packages("here")        # <1>
-install.packages("tidyverse")   # <2>
-install.packages("ggplot2")     # <3>
-install.packages("tidycensus")  # <4>
-install.packages("sf")          # <5>
-install.packages("patchwork")   # <6>
+install.packages("here")                         # <1>
+install.packages("tidyverse")                    # <2>
+install.packages("ggplot2")                      # <3>
+install.packages("tidycensus")                   # <4>
+install.packages("sf")                           # <5>
+install.packages("patchwork")                    # <6>
 ```
 
 1.  The `here` package enables easy, shareable and reproducible file referencing in [project-oriented workflows](https://rstats.wtf/project-oriented-workflow.html). In contrast to using [`setwd()`](https://rdrr.io/r/base/getwd.html), which is fragile and dependent on the way you organize your files, here uses the top-level directory of a project to easily build paths to files. [Package Documentation](https://here.r-lib.org/)
@@ -232,6 +232,8 @@ install.packages("patchwork")   # <6>
 6.  The `patchwork` package is an extension of the `ggplot2` package, designed to simplify the process of combining multiple plots into a single layout. [Package Documentation](https://patchwork.data-imaginist.com/)
 
 ###### Load Packages
+
+You must load any packages you will use for an analysis before each use.
 
 ---
 code-annotations: below
