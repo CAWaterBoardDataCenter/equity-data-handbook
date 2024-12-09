@@ -10,4 +10,4 @@ Before data collection begins, it is paramount that you think through *why* you 
 
 This phase of the data life cycle involves conducting an equity assessment ([Planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html)) and developing your data management plan using an equity lens ([Data Preparation](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html)).
 
-Also see a [short list of best practices for this phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/best-practice.html#plan-prepare).
+

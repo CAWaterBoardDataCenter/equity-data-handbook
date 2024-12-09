@@ -38,7 +38,6 @@ website:
       - section: get-started/index.qmd
         text: Getting Started
         contents:
-          - get-started/best-practice.qmd
           - get-started/common-language.qmd
       - href: publish-data.qmd
         text: Publish Your Data

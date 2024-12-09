@@ -4,4 +4,4 @@ At this phase, you should have already completed your equity assessment ([Planni
 
 This phase of the data life cycle involves gathering the data you identified during the Plan & Prep phase ([Data Collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html)) and getting it ready so it can be used in your analyses or product development steps ([Data Processing](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html)).
 
-Also see a [short list of best practices for this phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/best-practice.html#collect-process).
+
