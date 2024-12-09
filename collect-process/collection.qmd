@@ -209,11 +209,23 @@ In the CES 4.0 data (for the version available as of April 2023), the [shapefile
 
 This issue may be addressed in a future release of the CES dataset; in the meantime, a possible workaround is to use the official 2010 census tract boundaries from the US Census Bureau for any calculations, then use census tract IDs to tie this information to the associated CES score for each tract.
 
+#### CalEnviroScreen Resources 
+
+-   Analysis of Race/Ethnicity and CalEnviroScreen 4.0 Scores [Storymap](https://storymaps.arcgis.com/stories/f555670d30a942e4b46b18293e2795a7) \| [Report](https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40raceanalysisf2021.pdf)
+-   [SB 535 Disadvantaged Communities](https://oehha.ca.gov/calenviroscreen/sb535)
+-   [CalEnviroScreen page of the California Water Boards Racial Equity Resource Hub](https://gispublic.waterboards.ca.gov/portal/apps/experiencebuilder/experience/?draft=true&id=b02e68db0fa7452aad0b08d3c65d4a93&page=page_6&views=View-4)
+
 ### U.S. EPA EJScreen
 
 [EJScreen](https://www.epa.gov/ejscreen) is EPA's environmental justice mapping and screening tool that provides EPA with a nationally consistent dataset and approach for combining environmental and socioeconomic indicators.
 
 First-time users may find the 5-minute [EJScreen in 5: A Quick Overview of EJScreen](#0 "This link opens a new webpage.") video helpful as an introduction to the tool.
+
+#### EJScreen Resources 
+
+-   [EJScreen User Guide](https://ejscreen.epa.gov/mapper/help/ejscreen_help.pdf "This link opens a new webpage.") for navigating the various features of the tool,
+-   [EJScreen Glossary](https://www.epa.gov/ejscreen/ejscreen-map-descriptions "This link opens a new webpage.") for better understanding the map layers and indicators being displayed in the tool, and
+-   [Frequent Questions about EJScreen](https://www.epa.gov/ejscreen/frequent-questions-about-ejscreen "This link opens a new webpage.")
 
 ### Internal Administrative Data
 
@@ -544,14 +556,3 @@ While the specific sources below vary, they can generally be caused by one or mo
 Most Water Board staff will use Microsoft Forms which is available to all staff through the Microsoft 365 suite of applications. Microsoft Forms has a lot of advantages because of its integration with other Microsoft tools like Excel and PowerBI which allow for the survey results to be analyzed and visualized.  See this [6 min video on Using Microsoft Forms data with Power BI](https://youtu.be/XBFVDedwLiY?si=O161oYja-FBhG1W7) for guidance on how to make the connection between Forms and PowerBi via Sharepoint that allows for consistent updating of results
 
 Note that those who use Microsoft Forms and other free software like Google Forms will likely need to transform the form output from a wide format to a long format for analysis. See the [Processing Data with an Equity Lens](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html#processing-data-with-an-equity-lens) section of the Data Processing page for more guidance.
-
-## Additional Resources
-
--   CalEnviroScreen
-    -   Analysis of Race/Ethnicity and CalEnviroScreen 4.0 Scores [Storymap](https://storymaps.arcgis.com/stories/f555670d30a942e4b46b18293e2795a7) \| [Report](https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40raceanalysisf2021.pdf)
-    -   [SB 535 Disadvantaged Communities](https://oehha.ca.gov/calenviroscreen/sb535)
-    -   [CalEnviroScreen page of the California Water Boards Racial Equity Resource Hub](https://gispublic.waterboards.ca.gov/portal/apps/experiencebuilder/experience/?draft=true&id=b02e68db0fa7452aad0b08d3c65d4a93&page=page_6&views=View-4)
--   U.S. EPA EJScreen
-    -   [EJScreen User Guide](https://ejscreen.epa.gov/mapper/help/ejscreen_help.pdf "This link opens a new webpage.") for navigating the various features of the tool,
-    -   [EJScreen Glossary](https://www.epa.gov/ejscreen/ejscreen-map-descriptions "This link opens a new webpage.") for better understanding the map layers and indicators being displayed in the tool, and
-    -   [Frequent Questions about EJScreen](https://www.epa.gov/ejscreen/frequent-questions-about-ejscreen "This link opens a new webpage.")
