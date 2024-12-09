@@ -1,9 +1,5 @@
 # Data Collection
 
-::: callout-warning
-# This page is still under development - new content may be added and existing content may change at any time without notice
-:::
-
 ::: callout-important
 You should have addressed this during the [Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) & [Prepare](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) phase of your process...but just in case you haven't (yet) or you need a refresher - we're restating here:
 
@@ -177,17 +173,11 @@ In addition to the terms defined in the [Handbook Glossary](https://cawaterboard
 
         [![Census Geography Unit Hierarchies](images/census-hierarchies.png)](https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html#fig-census-hierarchies)
 
--   **R**: a free software environment for statistical computing and graphics; [R website](https://www.r-project.org/); [Training Resources](https://www.r4wrds.com/).
-
--   **R Packages / Libraries**: extensions to the R statistical programming language that contain code, data, and documentation in a standardised collection format that can be installed by users of R.
-
--   **RStudio**: an integrated development environment (IDE) that includes is a set of tools and user interfaces built to help you be more productive with R and Python; [RStudio website](https://posit.co/download/rstudio-desktop/).
-
 Also see this [U.S. Census Glossary](https://www.census.gov/programs-surveys/geography/about/glossary.html) for additional terms specific to U.S. Census programs, data, and products.
 
 #### **Data Integration Methods**
 
-Depending on what demographics data sources you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. Below we outline methods of comparing demographics data to point, line, and polygon data types using R.
+Depending on what demographics data sources and software you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. See the [Demographcs Use Case page](https://cawaterboarddatacenter.github.io/equity-data-handbook/use-cases/demographics.html) for step by step guidance on how to download and compare demographics data to point, line, and polygon data types using R.
 
 ::: callout-important
 ##### Important Reminders Before You Dive In
@@ -197,95 +187,6 @@ Depending on what demographics data sources you decide to use, the methods neede
 **There's no such thing as "equity data"** - how we use data, interpret it, and act on what we learn makes our use equitable (or not). Simply including demographics data in your project's analysis or data products does not make those resources equitable - to operationalize equity we need to take actions and make decisions in ways to advance equitable outcomes.
 
 **The data you're using has limitations, be sure you know what they are before moving forward** - as discussed above, [all data have limitations](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html#data-limitations), and that is particularly true for demographics data. Be sure you have a clear and comprehensive understanding of the limitations that apply to the specific datasets you're using so you can collect and eventually process and analyze those data in ways that are appropriate.
-:::
-
-##### Setup
-
-If you haven't already, you will need to install R and RStudio. Water Boards staff should be able to do so through the Software Center. Also see [step by step installiation instructions](https://www.r4wrds.com/intro/m_install_r#step-1.-install) for outside of the Software Center enviornment.
-
-If you will be using U.S. Census data regularly and will be accesing and analyzing it programmatically (e.g. using R or Python), you will also need to [Request a U.S. Census Data API Key](https://api.census.gov/data/key_signup.html).
-
-##### Download Packages
-
-###### Install Packages
-
-You must install any packages you will use on your computer before you can load them. You only need to install a package once; if you have already installed the below packages you can skip this step and proceed to the Load Packages step.
-
----
-code-annotations: below
----
-
-``` r
-install.packages("here")                         # <1>
-install.packages("tidyverse")                    # <2>
-install.packages("ggplot2")                      # <3>
-install.packages("tidycensus")                   # <4>
-install.packages("sf")                           # <5>
-install.packages("patchwork")                    # <6>
-```
-
-1.  The `here` package enables easy, shareable and reproducible file referencing in [project-oriented workflows](https://rstats.wtf/project-oriented-workflow.html). In contrast to using [`setwd()`](https://rdrr.io/r/base/getwd.html), which is fragile and dependent on the way you organize your files, here uses the top-level directory of a project to easily build paths to files. [Package Documentation](https://here.r-lib.org/)
-2.  The `tidyverse` package installs all packages in the tidyverse at once, including: [ggplot2](https://ggplot2.tidyverse.org/), [dplyr](https://dplyr.tidyverse.org/), [tidyr](https://tidyr.tidyverse.org/), among others. [Package Documentation](https://www.tidyverse.org/)
-3.  The `ggplot2` package is used to create graphics and data visualizations. [Package Documentation](https://ggplot2.tidyverse.org/)
-4.  The `tidycensus` package allows users to interface with the US Census Bureau's decennial Census and five-year American Community APIs and return tidyverse-ready data frames. [Package Documentation](https://walker-data.com/tidycensus/)
-5.  The `sf` package provides access to simple features in R so users can work with geographic vectors. [Package Documentation](https://r-spatial.github.io/sf/index.html)
-6.  The `patchwork` package is an extension of the `ggplot2` package, designed to simplify the process of combining multiple plots into a single layout. [Package Documentation](https://patchwork.data-imaginist.com/)
-
-###### Load Packages
-
-You must load all packages you will use for an analysis before each use.
-
-``` r
-library(here)
-library(ggplot2)
-library(tidyverse)
-library(tidycensus)
-library(sf)
-library(patchwork)
-```
-
-###### Activate Census API Key
-
-::: callout-warning
-LEFT OFF HERE
-
-pull over content + code from: <https://datamade.github.io/waterboard-coaching/>
-:::
-
-``` r
-census_api_key(" ")                              # <7>
-```
-
-7.  modify code to pull from api key located in file to increase security
-
-##### Collecting Data
-
--   geographies
-
--   last data update
-
--   age categories
-
--   
-
-Take some time to review the Concept and Labels in the table -
-
-```         
-summary_var = "P2_001N" # Total population
-```
-
-***Common tables to use in sources***
-
-##### Data Prep & Use - Points
-
-##### Data Prep & Use - Lines
-
-##### Data Prep & Use - Polygons
-
-##### Data Interpretation
-
-::: callout-note
-[Estimating Demographics of Custom Spatial Features](https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html) is another detailed example of how to use the R programming language to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features, and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.
 :::
 
 ### CalEnviroScreen

@@ -5,6 +5,7 @@ There is no single correct way to operationalize equity in a data project. Each 
 In this Use Cases section, you will find some examples of how some Water Boards staff have approached operationalizing equity into their data-intensive work, including use cases from:
 
 -   [The Statewide Surface Water Ambient Monitoring Program (SWAMP)](https://cawaterboarddatacenter.github.io/equity-data-handbook/use-cases/uc_swamp.html)
+-   [Demographics Data Integration Examples](https://cawaterboarddatacenter.github.io/equity-data-handbook/use-cases/demographics.html)
 
 ::: callout-note
 ## **Help us highlight your data equity work!**
