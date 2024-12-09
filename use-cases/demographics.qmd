@@ -18,7 +18,9 @@ Depending on what demographics data sources and software you decide to use, the 
 
 ## R Data Integration Example
 
-[R](https://www.r-project.org/) is a free software environment for statistical computing and graphics ([Training Resources](https://www.r4wrds.com/)). [RStudio](https://posit.co/download/rstudio-desktop/) is an integrated development environment (IDE) that includes is a set of tools and user interfaces built to help you be more productive with R and Python.
+[R](https://www.r-project.org/)[^demographics-1] is a free software environment for statistical computing and graphics ([Training Resources](https://www.r4wrds.com/)). [RStudio](https://posit.co/download/rstudio-desktop/) is an integrated development environment (IDE) that includes is a set of tools and user interfaces built to help you be more productive with R and Python.
+
+[^demographics-1]: The bulk of content in this section has been informed by, adapted or directly pulled from [DataMade](https://datamade.us/) guidance, resources (e.g., [Analysis Steps](https://datamade.github.io/waterboard-coaching/)).
 
 ### Setup
 

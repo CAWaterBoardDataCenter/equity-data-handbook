@@ -81,9 +81,7 @@ In most cases, the Water Boards programs were not developed or designed to colle
 
 ### Demographics Data
 
-Adding demographics data to your data project[^collection-1] can help increase understanding of potential correlations or relationships between your data and demographic and socioeconomic characteristics of locations of interest. More specifically, the integration of demographics data into your data project can highlight the extent to which race can still be used to predict outcomes associated with your project and therefore underscore where and to what extent racial equity outcomes have not yet been achieved.
-
-[^collection-1]: The bulk of content in this section has been informed by, adapted or directly pulled from [DataMade](https://datamade.us/) guidance, resources (e.g., [Analysis Steps](https://datamade.github.io/waterboard-coaching/)) with their support and consent.
+Adding demographics data to your data project can help increase understanding of potential correlations or relationships between your data and demographic and socioeconomic characteristics of locations of interest. More specifically, the integration of demographics data into your data project can highlight the extent to which race can still be used to predict outcomes associated with your project and therefore underscore where and to what extent racial equity outcomes have not yet been achieved.
 
 #### **Demographics Data Needs Context**
 
@@ -259,9 +257,9 @@ Guides for good survey design include:
 
 ### Beware of Common Types of Survey Bias
 
-As you develop your survey, it's important to design and implement the survey in a way that minimizes or eliminates the biases as much as possible. Below are three tables that provide an overview of common survey biases to be aware of and avoid[^collection-2]:
+As you develop your survey, it's important to design and implement the survey in a way that minimizes or eliminates the biases as much as possible. Below are three tables that provide an overview of common survey biases to be aware of and avoid[^collection-1]:
 
-[^collection-2]: The bulk of content in the Results Based Accountability (RBA) section has been informed by: [A Catalog of Biases in Questionnaires](https://pmc.ncbi.nlm.nih.gov/articles/PMC1323316/)
+[^collection-1]: The bulk of content in this section has been informed by: [A Catalog of Biases in Questionnaires](https://pmc.ncbi.nlm.nih.gov/articles/PMC1323316/)
 
 #### Biases Associated with Question Design
 
