@@ -35,7 +35,7 @@ If you will be using U.S. Census data regularly and will be accesing and analyzi
 You must install any packages you will use on your computer before you can load them. You only need to install a package once; if you have already installed the below packages you can skip this step and proceed to the Load Packages step.
 
 ---
---- code-annotations: below ---
+code-annotations: below
 ---
 
 ``` r
@@ -44,7 +44,7 @@ install.packages("tidyverse")                    # <2>
 install.packages("ggplot2")                      # <3> 
 install.packages("tidycensus")                   # <4> 
 install.packages("sf")                           # <5> 
-install.packages("patchwork")                    # <6> 
+install.packages("patchwork")                    # <6>
 ```
 
 1.  The `here` package enables easy, shareable and reproducible file referencing in [project-oriented workflows](https://rstats.wtf/project-oriented-workflow.html). In contrast to using [`setwd()`](https://rdrr.io/r/base/getwd.html), which is fragile and dependent on the way you organize your files, here uses the top-level directory of a project to easily build paths to files. [Package Documentation](https://here.r-lib.org/)
