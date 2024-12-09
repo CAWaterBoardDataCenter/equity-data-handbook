@@ -334,7 +334,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <ul>
   <li><a href="#demographics" id="toc-demographics" class="nav-link active" data-scroll-target="#demographics">Demographics</a>
   <ul class="collapse">
-  <li><a href="#r-data-integration-example" id="toc-r-data-integration-example" class="nav-link" data-scroll-target="#r-data-integration-example"><strong>R Data Integration Example</strong></a>
+  <li><a href="#r-data-integration-example" id="toc-r-data-integration-example" class="nav-link" data-scroll-target="#r-data-integration-example">R Data Integration Example</a>
   <ul class="collapse">
   <li><a href="#setup" id="toc-setup" class="nav-link" data-scroll-target="#setup">Setup</a></li>
   <li><a href="#download-packages" id="toc-download-packages" class="nav-link" data-scroll-target="#download-packages">Download Packages</a></li>
@@ -343,8 +343,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#data-interpretation" id="toc-data-interpretation" class="nav-link" data-scroll-target="#data-interpretation">Data Interpretation</a></li>
   <li><a href="#other-r-examples-and-resources" id="toc-other-r-examples-and-resources" class="nav-link" data-scroll-target="#other-r-examples-and-resources">Other R Examples and Resources</a></li>
   </ul></li>
-  <li><a href="#python-data-integration-example" id="toc-python-data-integration-example" class="nav-link" data-scroll-target="#python-data-integration-example">Python <strong>Data Integration Example</strong></a></li>
-  <li><a href="#esri-data-integration-example" id="toc-esri-data-integration-example" class="nav-link" data-scroll-target="#esri-data-integration-example">ESRI <strong>Data Integration Example</strong></a></li>
+  <li><a href="#python-data-integration-example" id="toc-python-data-integration-example" class="nav-link" data-scroll-target="#python-data-integration-example">Python Data Integration Example</a></li>
+  <li><a href="#esri-data-integration-example" id="toc-esri-data-integration-example" class="nav-link" data-scroll-target="#esri-data-integration-example">ESRI Data Integration Example</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/edit/main/use-cases/demographics.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/blob/main/use-cases/demographics.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/equity-data-handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
@@ -383,16 +383,16 @@ Important Reminders Before You Dive In
 <div class="callout-body-container callout-body">
 <p><strong>Data are NOT people</strong> - We need to use these data to get a better understanding of what’s going on in our communities, but the data (at best) only represent a sample of the communitie’s population and in no way reflect <em>everyone</em> or their lived experiences.</p>
 <p><strong>There’s no such thing as “equity data”</strong> - how we use data, interpret it, and act on what we learn makes our use equitable (or not). Simply including demographics data in your project’s analysis or data products does not make those resources equitable - to operationalize equity we need to take actions and make decisions in ways to advance equitable outcomes.</p>
-<p><strong>The data you’re using has limitations, be sure you know what they are before moving forward</strong> - as discussed above, <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html#data-limitations">all data have limitations</a>, and that is particularly true for demographics data. Be sure you have a clear and comprehensive understanding of the limitations that apply to the specific datasets you’re using so you can collect and eventually process and analyze those data in ways that are appropriate.</p>
+<p><strong>The data you’re using has limitations, be sure you know what they are before moving forward</strong> - as discussed on the Data Collection page, <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html#data-limitations">all data have limitations</a>, and that is particularly true for demographics data. Be sure you have a clear and comprehensive understanding of the limitations that apply to the specific datasets you’re using so you can collect and eventually process and analyze those data in ways that are appropriate.</p>
 </div>
 </div>
 <section id="r-data-integration-example" class="level2">
-<h2 class="anchored" data-anchor-id="r-data-integration-example"><strong>R Data Integration Example</strong></h2>
-<p><strong>R</strong> is a free software environment for statistical computing and graphics; <a href="https://www.r-project.org/">R website</a>; <a href="https://www.r4wrds.com/">Training Resources</a>. <strong>RStudio</strong> is an integrated development environment (IDE) that includes is a set of tools and user interfaces built to help you be more productive with R and Python; <a href="https://posit.co/download/rstudio-desktop/">RStudio website</a>.</p>
+<h2 class="anchored" data-anchor-id="r-data-integration-example">R Data Integration Example</h2>
+<p><a href="https://www.r-project.org/">R</a> is a free software environment for statistical computing and graphics (<a href="https://www.r4wrds.com/">Training Resources</a>). <a href="https://posit.co/download/rstudio-desktop/">RStudio</a> is an integrated development environment (IDE) that includes is a set of tools and user interfaces built to help you be more productive with R and Python.</p>
 <section id="setup" class="level3">
 <h3 class="anchored" data-anchor-id="setup">Setup</h3>
-<p>If you haven’t already, you will need to install R and RStudio. Water Boards staff should be able to do so through the Software Center. Also see <a href="https://www.r4wrds.com/intro/m_install_r#step-1.-install">step by step installiation instructions</a> for outside of the Software Center enviornment.</p>
-<p>If you will be using U.S. Census data regularly and will be accesing and analyzing it programmatically (e.g.&nbsp;using R or Python), you will also need to <a href="https://api.census.gov/data/key_signup.html">Request a U.S. Census Data API Key</a>.</p>
+<p>If you haven’t already, you will need to install R and RStudio. Water Boards staff should be able to do so through the Software Center. Also see <a href="https://www.r4wrds.com/intro/m_install_r#step-1.-install">step by step installiation instructions</a> for outside of the Software Center environment.</p>
+<p>If you will be using U.S. Census data regularly and will be accessing and analyzing it programmatically (e.g.&nbsp;using R or Python), you will also need to <a href="https://api.census.gov/data/key_signup.html">Request a U.S. Census Data API Key</a>.</p>
 </section>
 <section id="download-packages" class="level3">
 <h3 class="anchored" data-anchor-id="download-packages">Download Packages</h3>
@@ -459,7 +459,10 @@ Warning
 </div>
 <div class="callout-body-container callout-body">
 <p>LEFT OFF HERE</p>
-<p>pull over content + code from: <a href="https://datamade.github.io/waterboard-coaching/" class="uri">https://datamade.github.io/waterboard-coaching/</a></p>
+<p>pull over content + code from:</p>
+<p><a href="https://datamade.github.io/waterboard-coaching/" class="uri">https://datamade.github.io/waterboard-coaching/</a></p>
+<p><a href="https://walker-data.com/census-r/census-geographic-data-and-applications-in-r.html" class="uri">https://walker-data.com/census-r/census-geographic-data-and-applications-in-r.html</a></p>
+<p><a href="https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html" class="uri">https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html</a></p>
 </div>
 </div>
 <div class="sourceCode" id="annotated-cell-3"><pre class="sourceCode r code-annotation-code code-with-copy code-annotated"><code class="sourceCode r"><a class="code-annotation-anchor" data-target-cell="annotated-cell-3" data-target-annotation="7" onclick="event.preventDefault();">7</a><span id="annotated-cell-3-1" class="code-annotation-target"><a href="#annotated-cell-3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">census_api_key</span>(<span class="st">" "</span>)</span><div class="code-annotation-gutter-bg"></div><div class="code-annotation-gutter"></div></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
@@ -473,7 +476,6 @@ Warning
 <li><p>geographies</p></li>
 <li><p>last data update</p></li>
 <li><p>age categories</p></li>
-<li></li>
 </ul>
 <p>Take some time to review the Concept and Labels in the table -</p>
 <pre><code>summary_var = "P2_001N" # Total population</code></pre>
@@ -499,15 +501,18 @@ Warning
 </section>
 <section id="other-r-examples-and-resources" class="level3">
 <h3 class="anchored" data-anchor-id="other-r-examples-and-resources">Other R Examples and Resources</h3>
-<p><a href="https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html">Estimating Demographics of Custom Spatial Features</a> is another detailed example of how to use the R programming language to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features, and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.</p>
+<ul>
+<li><p><a href="https://cawaterboards.sharepoint.com/:b:/r/sites/WB-OPP-EJRoundtable/Materials/Racial%20Equity%20Data%20Subcommittee/Webinars/Demo%20Webinar%20with%20DataMade%20Coaches_25June24/Hannah%27s%20slides%20on%20racial%20equity%20data%20analysis.pdf?csf=1&amp;web=1&amp;e=eNCc0K">Analyzing Water Boards and Demographic Data for Equity</a>. Jun 2024. Hannah Cushman Garland. State Water Board Racial Equity Data Subcommittee Webinar. <a href="https://cawaterboards.sharepoint.com/:v:/r/sites/WB-OPP-EJRoundtable/Materials/Racial%20Equity%20Data%20Subcommittee/Webinars/Demo%20Webinar%20with%20DataMade%20Coaches_25June24/DataMade%20Webinar%20Recording_25June24.mp4?csf=1&amp;web=1&amp;e=oOuGyf">Recording</a> | <a href="https://drive.google.com/file/d/1yva-EE0JyQna4c5RN73TJ7F0YUIRTXCI/view?usp=sharing">Download and Use the Code</a> | <a href="https://datamade.github.io/waterboard-coaching/">View Code</a></p></li>
+<li><p><a href="https://daltare.github.io/example-census-race-ethnicity-calculation/example_census_race_ethnicity_calculation.html">Estimating Demographics of Custom Spatial Features</a> is another detailed example of how to use the R programming language to estimate demographics and other characteristics with U.S. census data to be used for custom spatial features, and can be tailored to programs with the help of a data scientist proficient in R and staff familiar with the program.</p></li>
+</ul>
 </section>
 </section>
 <section id="python-data-integration-example" class="level2">
-<h2 class="anchored" data-anchor-id="python-data-integration-example">Python <strong>Data Integration Example</strong></h2>
+<h2 class="anchored" data-anchor-id="python-data-integration-example">Python Data Integration Example</h2>
 <p><strong>Python</strong> is a….</p>
 </section>
 <section id="esri-data-integration-example" class="level2">
-<h2 class="anchored" data-anchor-id="esri-data-integration-example">ESRI <strong>Data Integration Example</strong></h2>
+<h2 class="anchored" data-anchor-id="esri-data-integration-example">ESRI Data Integration Example</h2>
 <p><strong>ESRI</strong> is a….</p>
 
 
