@@ -145,7 +145,7 @@ While we are fortunate to have just updated this dataset in 2020 there are limit
 
 The ACS also has a [Handbooks for Data Users](https://www.census.gov/programs-surveys/acs/library/handbook) to make it easier for folks to use the data appropriately.
 
-#### Key Terms
+#### **Key Terms**
 
 In addition to the terms defined in the [Handbook Glossary](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/common-language.html#glossary), users should know the following terms when using demographics data:
 
