@@ -1,5 +1,88 @@
 # SWAMP
 
-::: callout-warning
-# This page is still under development - new content may be added and existing content may change at any time without notice
+## Background
+
+California's Surface Water Ambient Monitoring Program (SWAMP) was established by the California Legislature in 2000 ([Assembly Bill 982](http://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=199920000AB982); Ducheny 1999) to develop a comprehensive statewide surface water quality monitoring program to assess the condition of California’s surface waters and watersheds.
+
+There are four statewide monitoring programs, including:
+
+-   [The Bioaccumulation Monitoring Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring.html)
+-   [The Bioassessment Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioassessment/)
+-   [The Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/freshwater_cyanobacteria.html)
+-   [The Toxicology and Contaminants Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/spot/)
+
+SWAMP is also leading the [SWAMP environmental DNA Metabarcoding Monitoring and Analysis Project (SeMMAP)](https://experience.arcgis.com/experience/db3a30220d0d4bdea684781cdaef5230/) that is exploring how we might use eDNA to augment, complement, and add to other statewide and [regional](https://www.waterboards.ca.gov/water_issues/programs/swamp/monitoring/regional_monitoring_programs/) monitoring programs.
+
+The California State Water Resources Control Board adopted principles of open data ([Assembly Bill 1755 (Bloom, 2016)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160AB1755); [State Board Resolution 2018-0032](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2018/rs2018_0032.pdf)) and racial equity ([State Water Board Resolution 2021-0050](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2021/rs2021_0050.pdf)) and directed programs to strategically implement those principles into their activities. In preparation for and response to these Resolutions, SWAMP has dedicated resources to make its monitoring data open, accessible, and used. Moving beyond basic open data requirements, SWAMP has embraced open science and racial equity as core, interconnected values and has begun to operationalize and implement them into their work.
+
+Below are use cases of how SWAMP statewide programs and projects are working to operationalize open science and equity principles and practices into all phases of the data life cycle. Each program and project have differing levels of resources, capacity, and partnerships which have resulted in differing approaches. SWAMP does not claim to have finished operationalizing open science and equity principles and practices into all phases of the data life cycle. Rather, SWAMP sees each of the use cases below as iterative, living, and continuously improving works in progress.
+
+## Bioaccumulation Monitoring Program
+
+The Bioaccumulation Monitoring Program funds and coordinates the collection and analysis of tissue from fish (and sometimes shellfish) to understand which fish are safer to eat in water bodies throughout the state.
+
+### Realignment
+
+::: callout-note
+The [Program Realignment](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring/program_realignment.html) process focuses on improving the [Plan and Prepare](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/), [Collect and Process](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/), and [Publish and Share](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html) phases of the data life cycle so that the data and projects the program generates can support the advancement of equity outcomes throughout the state.
 :::
+
+The Bioaccumulation Monitoring Program has realized several successes since its inception in 2006, including forming and leading the [Safe to Eat Workgroup](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/), establishing comprehensive and robust bioaccumulation monitoring methodologies, and generating data that is regularly used in the [California Integrated Report process](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/) and to create [Fish Consumption Advisories](https://oehha.ca.gov/fish/advisories) statewide.
+
+In 2020, SWAMP evaluated the Program and determined that, although it has had several successes, to fully align with and achieve its original mission it must address three key issues:
+
+1.  The Program needs to develop and build stronger relationships with California Native American Tribes (tribes) and communities.
+
+2.  Significant data and information gaps remain regarding the question: “Is it safe to eat fish and shellfish from our waters?”, especially for waterbodies or species that are important for subsistence by traditionally underrepresented communities, as well as tribal traditions, culture, and subsistence. 
+
+3.  The Program needs to better collaborate and connect with other Water Boards Divisions, Regions, and programs.
+
+The [Program Realignment](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring/program_realignment.html) process was created to begin to address these issues while balancing and maintaining core aspects of the statewide and regional program efforts, implementing Realignment efforts, and the limited availability of Program and implementation resources. To maintain this balance, the Realignment process was designed to be implemented through a cyclical approach, where a single Realignment cycle consists of a three-year process focused in a single [Water Board Region](https://www.waterboards.ca.gov/waterboards_map.html).
+
+During the three year process, Program, Tribal, community and other government and monitoring partners invest time to meet (via advosory meetings or workshops) to:
+
+-   build relationships and trust among Program, Tribal government and community based organization representatives, as well as with state and federal agency and other monitoring partners
+
+-   learn more about and document Tribal and community monitoring, data, and information needs
+
+-   work with Tribal and community partners to determine how a percentage of the Program's budget will be used to fill priority monitoring, data, and information gaps
+
+For more information see the [Bioaccumulation Monitoring Program Realignment Webpage](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring/program_realignment.html).
+
+### Tribally-centered Training Series
+
+::: callout-note
+The [Tribally-centered Training Series](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring/training.html) focuses on improving the [Publish and Share](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html) phases of the data life cycle so that we can continue to build relationships and trust with our Tribal Government partners, and grow the bioaccumulation monitoring community. All of which will ultimatrly result in a more equitable Program and the advancement of equity outcomes throughout the state.
+:::
+
+The purpose of this training series is to support California Native American Tribes in developing programs in the areas of bioaccumulation monitoring, data analysis, and data use processes, and enable Tribes and other bioaccumulation monitoring groups to adopt those processes into their workflows and more easily partner with the Program and the [Safe to Eat Workgroup](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/index.html).
+
+The training series idea was brought to the program by Tribal partners during early Realignment discussions and the Progam decided to invest resources into developing the training series with our Tribal partners as another way the program can operationalize open science and equity principles in the Program.
+
+Key decisions were made with equity in mind:
+
+-   The training series would be co-created with Tribal partners. Course outlines were to be approved by Tribal partners, and slides were to be shared with Tribal partners ahead of each course with enough time for them to review and provide feedback on content.
+
+-   Courses would make time and space for Tribal monitoring experts to share their perspectives and expertise in a way that is comfortable for Tribal contributors. In some cases this meant Tribal experts would lead instruction, in others it meant reserving time for open and tribally-led discussion about topics.
+
+-   All courses would be virtual, less than three hours in length, and free to attend, to increase access to live attendance.
+
+-   Courses would be recorded and posted online after the training, along with training slides, to increase access to content for those that are not able to attend live.
+
+-   Course faciliators would offer to pause the recording during discussion, upon request of an attendee, or to delete discussions sections from recordings before posting. This can help make attendees feel more open to contributing to discussions.
+
+For more information see the [Bioaccumulation Monitoring Program Training Series Webpage](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring/training.html)
+
+## FHAB Program
+
+The FHAB Program is primarily a response program that helps inform the public about which water bodies are unsafe to use in the event of a harmful algal bloom, although the Program is working towards becoming a regular monitoring program as well.
+
+Partner Monitoring Program
+
+Pre-Holiday Assessments
+
+Training Resources
+
+## SeMMAP
+
+## Additional Resources
