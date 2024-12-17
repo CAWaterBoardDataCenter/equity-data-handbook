@@ -43,7 +43,7 @@ Integrating empathy into our data-intensive work requires us to consider how our
 
 ### Use plain, accessible, and inclusive language
 
-Centering racial equity means paying attention to how to most effectively convey information to the audience, and insuring that the content is using plain, accessible, and inclusive language.
+Centering racial equity means paying attention to how to most effectively convey information to the audience, and ensuring that the content is using plain, accessible, and inclusive language.
 
 ***Plain Language*** - Plain language is writing designed to ensure the audience can understand what you're trying to communicate as easily, quickly, and comprehensively as possible. This means:
 
