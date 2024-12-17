@@ -13,7 +13,7 @@ There are four statewide monitoring programs, including:
 
 SWAMP is also leading the [SWAMP environmental DNA Metabarcoding Monitoring and Analysis Project (SeMMAP)](https://experience.arcgis.com/experience/db3a30220d0d4bdea684781cdaef5230/).
 
-The California State Water Resources Control Board adopted principles of open data ([Assembly Bill 1755 (Bloom, 2016)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160AB1755); [State Board Resolution 2018-0032](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2018/rs2018_0032.pdf)) and racial equity ([State Water Board Resolution 2021-0050](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2021/rs2021_0050.pdf)) and directed programs to strategically implement those principles into their activities. In preparation for and response to these Resolutions, SWAMP has dedicated resources to make its monitoring data open, accessible, and used. Moving beyond basic open data requirements, SWAMP has embraced open science and racial equity as core, interconnected values and has begun to operationalize and implement them into their work.
+The California State Water Resources Control Board adopted principles of open data ([Assembly Bill 1755 (Bloom, 2016)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160AB1755); [State Board Resolution 2018-0032](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2018/rs2018_0032.pdf)) and racial equity ([State Water Board Resolution 2021-0050](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2021/rs2021_0050.pdf)) and directed programs to strategically implement those principles into their activities. In preparation for and in response to these Resolutions, SWAMP has dedicated resources to make its monitoring data open, accessible, and used. Moving beyond basic open data requirements, SWAMP has embraced open science and racial equity as core, interconnected values and has begun to operationalize and implement them into their work.
 
 Below are use cases of how SWAMP statewide programs and projects are working to operationalize open science and equity principles and practices into all phases of the data life cycle. Each program and project have differing levels of resources, capacity, and partnerships which have resulted in differing approaches. SWAMP does not claim to have finished operationalizing open science and equity principles and practices into all phases of the data life cycle. Rather, SWAMP sees each of the use cases below as iterative, living, and continuously improving works in progress.
 
@@ -39,7 +39,7 @@ In 2020, SWAMP evaluated the Program and determined that, although it has had se
 
 The [Program Realignment](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring/program_realignment.html) process was created to begin to address these issues while balancing and maintaining core aspects of the statewide and regional program efforts, implementing Realignment efforts, and the limited availability of Program and implementation resources. To maintain this balance, the Realignment process was designed to be implemented through a cyclical approach, where a single Realignment cycle consists of a three-year process focused in a single [Water Board Region](https://www.waterboards.ca.gov/waterboards_map.html).
 
-During the three year process, Program, Tribal, community and other government and monitoring partners invest time to meet (via advosory meetings or workshops) to:
+During the three year process, Program, Tribal, community and other government and monitoring partners invest time to meet (via advisory meetings or workshops) to:
 
 -   build relationships and trust among Program, Tribal government and community based organization representatives, as well as with state and federal agency and other monitoring partners
 
@@ -57,7 +57,7 @@ The [Tribally-centered Training Series](https://www.waterboards.ca.gov/water_iss
 
 The purpose of this training series is to support California Native American Tribes in developing programs in the areas of bioaccumulation monitoring, data analysis, and data use processes, and enable Tribes and other bioaccumulation monitoring groups to adopt those processes into their workflows and more easily partner with the Program and the [Safe to Eat Workgroup](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/index.html).
 
-The training series idea was brought to the program by Tribal partners during early Realignment discussions and the Progam decided to invest resources into developing the training series with our Tribal partners as another way the program can operationalize open science and equity principles in the Program.
+The training series idea was brought to the program by Tribal partners during early Realignment discussions and the Program decided to invest resources into developing the training series with our Tribal partners as another way the program can operationalize open science and equity principles in the Program.
 
 Key decisions were made with equity in mind:
 
@@ -69,7 +69,7 @@ Key decisions were made with equity in mind:
 
 -   Courses would be recorded and posted online after the training, along with training slides, to increase access to content for those that are not able to attend live.
 
--   Course faciliators would offer to pause the recording during discussion, upon request of an attendee, or to delete discussions sections from recordings before posting. This can help make attendees feel more open to contributing to discussions.
+-   Course facilitators would offer to pause the recording during discussion, upon request of an attendee, or to delete discussions sections from recordings before posting. This can help make attendees feel more open to contributing to discussions.
 
 For more information see the [Bioaccumulation Monitoring Program Training Series Webpage](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring/training.html)
 
@@ -103,7 +103,7 @@ For more information see the [FHAB Partner Monitoring Program Webpage](https://s
 The [FHAB Pre-Holiday Assessments](https://sites.google.com/view/fhab-program-wiki/pre-holiday-assessment?authuser=0) focuses on improving the [Collect and Process](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/) phases of the data life cycle so that *how* we collect data is more equitable and protective of public health during high risk times.
 :::
 
-Similar to the FHAB Partner Monitoring Program, the FHAB Pre-holiday Assessments involve working with partners to conduct sampling at popular water bodies prior to major holiday weekends, and working with waterbody managers and the county to determine most appropriate signage to inform visitors of potential HABs.
+Similar to the FHAB Partner Monitoring Program, the FHAB Pre-holiday Assessments involve working with partners to conduct sampling at popular water bodies prior to major holiday weekends, and working with water body managers and the county to determine most appropriate signage to inform visitors of potential HABs.
 
 By leading coordination efforts with our partners, and covering the costs of our partner's laboratory analyses for targeted monitoring before major holiday weekends, we hope to:
 
@@ -125,7 +125,7 @@ For more information see the [FHAB Pre-Holiday Assessment Webpage](https://sites
 The [FHAB Training Resources](https://sites.google.com/view/fhab-program-wiki/home?authuser=0) focus on improving the [Publish and Share](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html) phases of the data life cycle so that we can continue to build relationships and trust with our partners, and grow the FHAB monitoring community. All of which will ultimately result in a more equitable Program, the advancement of equity outcomes, and protection of public health throughout the state.
 :::
 
-With greater than 3,000 lakes, 190,000 river miles, diverse ecosystems ranging from deserts to temperate rainforests, and over 40 million inhabitants, California faces complex monitoring and management issues for FHABs.
+With greater than 3,000 lakes, 190,000 river miles, diverse ecosystems ranging from deserts to temperate rain forests, and over 40 million inhabitants, California faces complex monitoring and management issues for FHABs.
 
 The purpose of providing free detailed guidance and training resources online and via live in-person or remote training by SWAMP FHAB Staff, is to make it easier for partners to:
 

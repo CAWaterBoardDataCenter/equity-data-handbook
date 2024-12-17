@@ -1,6 +1,6 @@
 # Inspiration
 
-The impetus for developing this Data Equity Handbook began in August 2020 when the State Water Resources Control Board (State Water Board) publicly acknowledged that the historical effects of institutional racism must be confronted throughout government, and it directed staff to develop a priority plan of action.
+The impetus for developing this Data Equity Handbook began in August 2020 when the State Water Resources Control Board (State Water Board) publicly acknowledged that the historical effects of institutional racism must be confronted throughout government, and it directed staff to develop a priority plan of action. test megan's cool
 
 Since then, the State Water Board, it's [Office of Information Management and Analysis](https://www.waterboards.ca.gov/resources/oima/) (OIMA) and OIMA's many internal and external partners have been developing and compiling material, and adding to this Data Equity Handbook as time and bandwidth allow.
 

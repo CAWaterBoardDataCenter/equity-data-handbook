@@ -9,7 +9,7 @@ Depending on what demographics data sources and software you decide to use, the 
 ::: callout-important
 # Important Reminders Before You Dive In
 
-**Data are NOT people** - We need to use these data to get a better understanding of what's going on in our communities, but the data (at best) only represent a sample of the communitie's population and in no way reflect *everyone* or their lived experiences.
+**Data are NOT people** - We need to use these data to get a better understanding of what's going on in our communities, but the data (at best) only represent a sample of the community's population and in no way reflect *everyone* or their lived experiences.
 
 **There's no such thing as "equity data"** - how we use data, interpret it, and act on what we learn makes our use equitable (or not). Simply including demographics data in your project's analysis or data products does not make those resources equitable - to operationalize equity we need to take actions and make decisions in ways to advance equitable outcomes.
 
@@ -24,7 +24,7 @@ Depending on what demographics data sources and software you decide to use, the 
 
 ### Setup
 
-If you haven't already, you will need to install R and RStudio. Water Boards staff should be able to do so through the Software Center. Also see [step by step installiation instructions](https://www.r4wrds.com/intro/m_install_r#step-1.-install) for outside of the Software Center environment.
+If you haven't already, you will need to install R and RStudio. Water Boards staff should be able to do so through the Software Center. Also see [step by step installation instructions](https://www.r4wrds.com/intro/m_install_r#step-1.-install) for outside of the Software Center environment.
 
 If you will be using U.S. Census data regularly and will be accessing and analyzing it programmatically (e.g. using R or Python), you will also need to [Request a U.S. Census Data API Key](https://api.census.gov/data/key_signup.html).
 
