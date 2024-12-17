@@ -12,7 +12,7 @@ While the processes below include numerical steps - that does not mean steps *mu
 
 ## Root Cause Analysis
 
-Root cause analysis is a technique that helps identify the fundamental reasons, or root causes, of a problem or unwanted outcome. Once the root causes are idenditifed, actions can be taken to address those causes and minimize or eliminate their impact on outcomes. Identifying the root cause(s) is the most effective way to prevent future problems and ultimately remedy existing ones.
+Root cause analysis is a technique that helps identify the fundamental reasons, or root causes, of a problem or unwanted outcome. Once the root causes are identified, actions can be taken to address those causes and minimize or eliminate their impact on outcomes. Identifying the root cause(s) is the most effective way to prevent future problems and ultimately remedy existing ones.
 
 ### Considerations
 
@@ -38,7 +38,7 @@ It takes time to truly and deeply interrogate the "whys" and data associated wit
 
 #### Don't avoid hard truths
 
-If you've made it this far into your process, it probably means that you are truly interested and invested in operationalizng and advancing equity into your data-intensive work. Part of that process is acknowledging hard truths and sitting with discomfort. Team members may share perspectives, experiences, or identify root causes during the process that bring up uncomfortable or unfamiliar feelings. While experiencing those feelings is normal, i**t's important to remember to honor hard truths, and prioritize the process over your comfort.**
+If you've made it this far into your process, it probably means that you are truly interested and invested in operationalizing and advancing equity into your data-intensive work. Part of that process is acknowledging hard truths and sitting with discomfort. Team members may share perspectives, experiences, or identify root causes during the process that bring up uncomfortable or unfamiliar feelings. While experiencing those feelings is normal, i**t's important to remember to honor hard truths, and prioritize the process over your comfort.**
 
 > Integrity is choosing courage over comfort
 >
@@ -147,7 +147,7 @@ When embarking on the journey to operationalize equity into our organizations an
 
     -   **Values**: Is the action strengths-based, people-centered, culturally relevant, and anti-racist? Does it advance our racial equity goals?
 
-    -   **Leverage**: How likely is the action to change the trendline towards equity? What additional resources for change does it activate?
+    -   **Leverage**: How likely is the action to change the trend line towards equity? What additional resources for change does it activate?
 
     -   **Reach**: Is the action feasible given our current resources? Will completing this action actually benefit communities experiencing inequities?
 
@@ -156,7 +156,7 @@ When embarking on the journey to operationalize equity into our organizations an
         ::: callout-important
         #### Feasibility does not equal business as usual
 
-        Note that we might need to adjust and reprioritize our workloads (i.e., how we spend our time) and resources (i.e., how we spend our money) to make an action truly feasible. If this is necessary but it also makes completing the action feasible, it should be considered a feasible action!
+        Note that we might need to adjust and re-prioritize our workloads (i.e., how we spend our time) and resources (i.e., how we spend our money) to make an action truly feasible. If this is necessary but it also makes completing the action feasible, it should be considered a feasible action!
 
         This process and way of thinking disrupts historical patterns of “doing (or not doing) what we’ve always done because we’ve always done it that way.” That way of work, regardless of our good intentions, does not produce the racial equity we demand in our communities - and ultimately perpetuates inequitable outcomes.
 
@@ -209,7 +209,7 @@ For each of the priority actions identified in [Part 1](https://cawaterboarddata
 
     White answers to the above questions down and get confirmation from all parties to ensure everyone is on the same page with respect to agreed upon commitments.
 
-    Data will be required to evaluate the performance measures the team developed. Integrate those performance measures, data needs, commitments, and timelnes into the [Data & Product Evaluation section](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#data-product-evaluation) of the project's [Data Management Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#data-preparation)!
+    Data will be required to evaluate the performance measures the team developed. Integrate those performance measures, data needs, commitments, and timelines into the [Data & Product Evaluation section](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#data-product-evaluation) of the project's [Data Management Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#data-preparation)!
     :::
 
 Below is a graphical illustration of the main RBA Part 2 process components.
