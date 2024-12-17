@@ -149,13 +149,13 @@ Tools to help with color selection may already be integrated into your data visu
 -   Non-exhaustive list of color vision difference simulators – [Color Oracle](https://colororacle.org/), [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 -   Non-exhaustive list of color palette packages for R – [Base R Color Palette Guide](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf), [RColorBrewer](https://rdrr.io/cran/RColorBrewer/man/ColorBrewer.html), [rcartocolor](https://jakubnowosad.com/rcartocolor/), [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
 -   [Paletton](https://paletton.com) – tool to help explore colors and palettes
--   [WebAIM](https://webaim.org/resources/contrastchecker/) – color contract checker
+-   [WebAIM](https://webaim.org/resources/contrastchecker/) – color contrast checker
 
 ### Figure & Chart Types
 
 As data practitioners, you decide how your audience will be able to view the data through your visualization or data product. While we might *think* that data are objective (spoiler - they're not), how they're presented impacts how they're interpreted, perceived, and ultimately valued and acted upon. How we present the data impacts which stories we tell (or don't tell).
 
-The graphic below, from [*Data Feminism*](https://direct.mit.edu/books/book/4660/Data-Feminism)*,* illustrates how the same data can tell different stories depending on their presentation. The graphic on the left tells a story of how the unemployment has fallen substantially since it's recent peak and might be interpreted as "good news". The graphic on the right tells a story of how the unemployment rate has been consistently above 8% for a long time period and might be interpreted as "bad news".
+The graphic below, from [*Data Feminism*](https://direct.mit.edu/books/book/4660/Data-Feminism)*,* illustrates how the same data can tell different stories depending on their presentation. The graphic on the left tells a story of how the unemployment rate has fallen substantially since its recent peak and might be interpreted as "good news". The graphic on the right tells a story of how the unemployment rate has been consistently above 8% for a long time period and might be interpreted as "bad news".
 
 ![Two figures presenting the same data in different ways. Graphic from Data Feminism](images/graphic-ex-data-femenism.png)
 
@@ -342,7 +342,7 @@ When determining how you will include table(s) in your visualization or data pro
 
     -   If you're unsure of what columns or rows are essential - try asking a colleague or project partner to listen to you (or a [screen reader](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html#alternative-text-alt-text)) read the first couple of lines of the table aloud to them BEFORE they look at the table and caption. Then, have them look at the table and caption and ask which pieces of the table should be added or removed to make the desired meaning more clear.
 
--   **Is highlighting being used to convey information?** Screen readers do not tell the viewer the color of a cell. So, do not use color or shading alone to convey data or information. Authors may use color to improve the esthetics of a table, but if the color is representative of data or information, it should be coupled by text, symbols, or data that also convey that information so that those with color vision differences can access the information you're trying to convey.
+-   **Is highlighting being used to convey information?** Screen readers do not tell the viewer the color of a cell. So, do not use color or shading alone to convey data or information. Authors may use color to improve the aesthetics of a table, but if the color is representative of data or information, it should be coupled by text, symbols, or data that also convey that information so that those with color vision differences can access the information you're trying to convey.
 
 -   **What do blank cells mean?** Screen readers do not tell the viewer that a cell is blank; they just skip the cell altogether. If a blank cell has a certain meaning in your data story (e.g. NA, 0, no data, etc.), state that within the cell explicitly or add a dash ( - ) to the blank cell(s) and add a note at the bottom of the table (or within the caption) to make viewers aware of the meaning of the dash.
 
