@@ -83,7 +83,7 @@ The mission of the FHAB Program is to support the protection, prevention, and re
 The [FHAB Partner Monitoring Program](https://sites.google.com/view/fhab-program-wiki/partner-monitoring?authuser=0) focuses on improving the [Collect and Process](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/) phases of the data life cycle so that *how* we collect data is more equitable.
 :::
 
-The FHAB Partner Monitoring Program involves our SWAMP FHAB Program coordinating monitoring with our partners and funding lab analysis for monitoring conducted by partners during the HAB season. Partners can include non-profit organizations, California Tribes, counties, cities, bi-state collaborations, and others.
+The FHAB Partner Monitoring Program involves our SWAMP FHAB Program training and coordinating monitoring with our partners during the HAB season. The FHAB Program can provide sampling supplies and fund lab analysis to inform public health advisories. Partners can include non-profit organizations, California Tribes, counties, cities, bi-state collaborations, and others.
 
 By covering the costs of our partner's laboratory analyses for regular monitoring during the HAB season, we hope to:
 
@@ -103,7 +103,7 @@ For more information see the [FHAB Partner Monitoring Program Webpage](https://s
 The [FHAB Pre-Holiday Assessments](https://sites.google.com/view/fhab-program-wiki/pre-holiday-assessment?authuser=0) focuses on improving the [Collect and Process](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/) phases of the data life cycle so that *how* we collect data is more equitable and protective of public health during high risk times.
 :::
 
-Similar to the FHAB Partner Monitoring Program, the FHAB Pre-holiday Assessments involve working with partners to conduct sampling at popular water bodies prior to major holiday weekends, and working with water body managers and the county to determine most appropriate signage to inform visitors of potential HABs.
+Similar to the FHAB Partner Monitoring Program, the FHAB Pre-holiday Assessments involve training partners to conduct sampling at popular water bodies prior to major holiday weekends and working with water body managers and the county to determine most appropriate signage to inform visitors of potential HABs.
 
 By leading coordination efforts with our partners, and covering the costs of our partner's laboratory analyses for targeted monitoring before major holiday weekends, we hope to:
 
@@ -117,7 +117,7 @@ By leading coordination efforts with our partners, and covering the costs of our
 
 -   increase the consistency of communication critical to protect public health
 
-For more information see the [FHAB Pre-Holiday Assessment Webpage](https://sites.google.com/view/fhab-program-wiki/pre-holiday-assessment?authuser=0)
+For more information see the [FHAB Pre-Holiday Assessment Webpage](https://sites.google.com/view/fhab-program-wiki/pre-holiday-assessment?authuser=0) and the [My Quality Portal](https://mywaterquality.ca.gov/habs/resources/habs_response.html)
 
 ### Training Resources
 
