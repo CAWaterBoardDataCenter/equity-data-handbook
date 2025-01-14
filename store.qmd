@@ -64,7 +64,7 @@ As you embark on this phase of the data life cycle you will want to apply the [5
 
 -   **How will communities and project partners be able to request their personal information be removed or deleted?** If this is applicable to your data project, be sure to establish a mechanism for this in partnership with the communities and project partners and during the planning phase.
 
--   **How will products and files be named?** How we name things can make or break our ability to find and resue things in the future. [Jenny Bryan has developed guidance on naming things](https://speakerdeck.com/jennybc/how-to-name-files), including:
+-   **How will products and files be named?** How we name things can make or break our ability to find and reuse things in the future. [Jenny Bryan has developed guidance on naming things](https://speakerdeck.com/jennybc/how-to-name-files), including:
 
     -   Make names machine readable
 
