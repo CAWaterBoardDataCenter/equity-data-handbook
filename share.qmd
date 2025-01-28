@@ -52,7 +52,7 @@ In addition to all of the reasons outlined in the above [Why Publish & Share Dat
 
 As you publish your project's data and products, be sure to:
 
--   **Publish data and complete metadata in publicly accessible locations**, such as [Water Boards databases](https://www.waterboards.ca.gov/resources/data_databases/) and/or the [California Open Data Portal](https://data.ca.gov/) (or [California State Geoportal](https://gis.data.ca.gov/)), as appropriate. Also see the [Publish Your Water Boards Data page](https://cawaterboarddatacenter.github.io/equity-data-handbook/publish-data.html) for more guidance
+-   **Publish data and complete metadata in publicly accessible locations**, such as [Water Boards databases](https://www.waterboards.ca.gov/resources/data_databases/) and/or the [California Open Data Portal](https://data.ca.gov/) (or [California State Geoportal](https://gis.data.ca.gov/)), as appropriate. Also see the [Publish Your Water Boards Data page](https://cawaterboarddatacenter.github.io/equity-data-handbook/publish-data.html) for more guidance.
 
 -   **Publish or embed accessible products onto Water Boards webpages**, as appropriate, including: planning or summary documents/reports, fact sheets, applications, presentation slides or recordings, etc.
 
