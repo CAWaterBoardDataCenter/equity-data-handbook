@@ -1,99 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/use-cases/index.html</loc>
-    <lastmod>2025-02-12T16:02:04.570Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/use-cases/swamp.html</loc>
-    <lastmod>2025-02-12T16:02:04.570Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html</loc>
-    <lastmod>2025-02-12T16:02:04.543Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/index.html</loc>
-    <lastmod>2025-02-12T16:02:04.552Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html</loc>
-    <lastmod>2025-02-12T16:02:04.542Z</lastmod>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html</loc>
+    <lastmod>2025-04-01T23:15:02.106Z</lastmod>
   </url>
   <url>
     <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/qaqc.html</loc>
-    <lastmod>2025-02-12T16:02:04.542Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/inspo.html</loc>
-    <lastmod>2025-02-12T16:02:04.568Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/resources.html</loc>
-    <lastmod>2025-02-12T16:02:04.569Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/index.html</loc>
-    <lastmod>2025-02-12T16:02:04.568Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html</loc>
-    <lastmod>2025-02-12T16:02:04.570Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html</loc>
-    <lastmod>2025-02-12T16:02:04.569Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/index.html</loc>
-    <lastmod>2025-02-12T16:02:04.569Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html</loc>
-    <lastmod>2025-02-12T16:02:04.569Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html</loc>
-    <lastmod>2025-02-12T16:02:04.569Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/publish-data.html</loc>
-    <lastmod>2025-02-12T16:02:04.569Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/documentation.html</loc>
-    <lastmod>2025-02-12T16:02:04.551Z</lastmod>
+    <lastmod>2025-04-01T23:15:02.120Z</lastmod>
   </url>
   <url>
     <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html</loc>
-    <lastmod>2025-02-12T16:02:04.551Z</lastmod>
+    <lastmod>2025-04-01T23:15:02.130Z</lastmod>
   </url>
   <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/background.html</loc>
-    <lastmod>2025-02-12T16:02:04.542Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html</loc>
-    <lastmod>2025-02-12T16:02:04.528Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/index.html</loc>
-    <lastmod>2025-02-12T16:02:04.542Z</lastmod>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html</loc>
+    <lastmod>2025-04-01T23:15:02.148Z</lastmod>
   </url>
   <url>
     <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/common-language.html</loc>
-    <lastmod>2025-02-12T16:02:04.552Z</lastmod>
+    <lastmod>2025-04-01T23:15:02.130Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html</loc>
+    <lastmod>2025-04-01T23:15:02.121Z</lastmod>
   </url>
   <url>
     <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/index.html</loc>
-    <lastmod>2025-02-12T16:02:04.551Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html</loc>
-    <lastmod>2025-02-12T16:02:04.551Z</lastmod>
+    <lastmod>2025-04-01T23:15:02.130Z</lastmod>
   </url>
   <url>
     <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/use-cases/demographics.html</loc>
-    <lastmod>2025-02-12T16:02:04.570Z</lastmod>
+    <lastmod>2025-04-01T23:15:02.148Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/use-cases/index.html</loc>
+    <lastmod>2025-04-01T23:15:02.149Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html</loc>
+    <lastmod>2025-04-01T23:15:02.148Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/background.html</loc>
+    <lastmod>2025-04-01T23:15:02.121Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/publish-data.html</loc>
+    <lastmod>2025-04-01T23:15:02.148Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/index.html</loc>
+    <lastmod>2025-04-01T23:15:02.147Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/resources.html</loc>
+    <lastmod>2025-04-01T23:15:02.148Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html</loc>
+    <lastmod>2025-04-01T23:15:02.148Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/inspo.html</loc>
+    <lastmod>2025-04-01T23:15:02.147Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/use-cases/swamp.html</loc>
+    <lastmod>2025-04-01T23:15:02.149Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/documentation.html</loc>
+    <lastmod>2025-04-01T23:15:02.130Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html</loc>
+    <lastmod>2025-04-01T23:15:02.130Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/index.html</loc>
+    <lastmod>2025-04-01T23:15:02.131Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/index.html</loc>
+    <lastmod>2025-04-01T23:15:02.147Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html</loc>
+    <lastmod>2025-04-01T23:15:02.148Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/index.html</loc>
+    <lastmod>2025-04-01T23:15:02.120Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html</loc>
+    <lastmod>2025-04-01T23:15:02.120Z</lastmod>
   </url>
 </urlset>
