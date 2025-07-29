@@ -153,3 +153,7 @@ Additional follow-up actions help programs learn about equity impacts and whethe
 -   Who will be responsible for developing and executing monitoring and evaluation plans?  
 
 -   Will the program share monitoring and evaluation results with the experts involved in the assessment or other partners? If so, how?
+
+## Additional Resources
+
+-   [Putting Diversity, Equity, Inclusion, and Justice into Practice: The Four Dimensions of Inclusivity for Public Participatory Science](https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.794) (Foo and Stanlick, 2025)
