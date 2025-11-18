@@ -1,6 +1,6 @@
 # Use Cases
 
-There is no single correct way to operationalize equity in a data project. Each project has it's own objectives, data, and audience - and truly operationalizing equity in your data work means dedicating the time, attention, and resources needed to meet the needs of the project (i.e. avoid one-size fits all approaches).
+There is no single correct way to operationalize equity in a data project. Each project has its own objectives, data, and audience - and truly operationalizing equity in your data work means dedicating the time, attention, and resources needed to meet the needs of the project (i.e. avoid one-size fits all approaches).
 
 In this Use Cases section, you will find some examples of how some Water Boards staff have approached operationalizing equity into their data-intensive work, including use cases from:
 
