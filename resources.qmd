@@ -39,6 +39,10 @@ Here you will find a curated list of resources related to the development, imple
 -   [Beyond Compliance Network Advocacy Toolkit](https://beyondcompliance.pubpub.org/pub/c90gqevm/release/2)
 -   [The Water Boards Office of Research Planning and Performance Water Conservation and Urban Water folks tool](%3Chttps://www.waterboards.ca.gov/water_issues/programs/conservation_portal/water-use-explorer/)
 -   [Water Boards Division of Drinking Water SAFER Outreach Tool](https://gispublic.waterboards.ca.gov/portal/apps/webappviewer/index.html?id=70d27423735e45d6b037b7fbaea9a6a6)
+-   Many local city and county governments have compiled their own resources for working with equity data (Examples below). Before starting your project, it is a good idea to do some research online to identify pre-existing resources available in your region.
+    -   Oakland's [Geographic Equity Toolbox](https://www.oaklandca.gov/resources/oakdot-geographic-equity-toolbox)
+    -   Portland's [Racial Equity Toolkit](https://www.portlandoregon.gov/oehr/71685)
+    -   New York City's interactive equity data tool [EquityNYC](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fequity.nyc.gov%2F&data=05%7C01%7Cnicholas.martorano%40waterboards.ca.gov%7C87a614b2e3db4c85368c08dbc55a8595%7Cfe186a257d4941e6994105d2281d36c1%7C0%7C0%7C638320764855634179%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=r%2Br4%2BybTh130ovhG12PjYHQYqVHlz4jSB8gXj3KTnAI%3D&reserved=0), including a [Mapping Equity tool](https://equity.nyc.gov/mapping-equity).  
 
 ## Resource Hubs
 
