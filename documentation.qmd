@@ -18,7 +18,7 @@ Detailed documentation of every aspect of a project and all phases of the data a
 
 Individuals and teams that invest the time to create clear and complete documentation tend to find projects to be a bit more manageable because they have resources to guide them. Over the long-term, that investment into clear and comprehensive documentation can increase the reproducibility, transparency, and accessibility of their work. All of this, in turn, can make it easier to collaborate with internal and external partners, help build relationships and trust with partners and communities impacted by the project thus helping to operationalize equity into our projects, products, and process.
 
-[![Illustration of core benefits of documentation, which require the documentation to be reproducible, transparent, and accessible. Illustration adapted from LaneFour](images/documentation_benefits.png)](https://lanefour.com/salesforce-admin/the-importance-of-documentation/)
+[![Illustration of core benefits of documentation, which require the documentation to be reproducible, transparent, and accessible. Illustration adapted from [LaneFour](https://lanefour.com/salesforce-admin/the-importance-of-documentation/)](images/documentation_benefits.png)](https://lanefour.com/salesforce-admin/the-importance-of-documentation/)
 
 ## Documenting with an Equity Lens
 
@@ -44,7 +44,7 @@ Comprehensive documentation using an equity lens can be yet another tool we can 
 
 ## What to Document
 
-Poor documentation is rarely used or referred to after it is written, and feels like (and often is) a waste of time.
+Poor documentation is rarely used or referred to after it is written and feels like (and often is) a waste of time.
 
 Great documentation is an investment that is built over time. No one documents something and gets *everything* down perfectly the first time. **Teams with great documentation [decide]{.underline} progress is better than perfection and make time to iteratively improve, build on, and evolve what is documented over time so that it continues to be comprehensive and useful beyond when it was first drafted.** This is why it's critical for teams to think through:
 
