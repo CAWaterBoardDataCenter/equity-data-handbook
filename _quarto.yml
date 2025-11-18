@@ -72,8 +72,6 @@ website:
           - use-cases/demographics.qmd
       - href: resources.qmd
         text: Resources
-      - href: inspo.qmd
-        text: Inspiration
 
 
 format:
