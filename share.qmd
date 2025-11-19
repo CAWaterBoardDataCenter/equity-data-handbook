@@ -86,7 +86,7 @@ As you implement other components of this phase, be sure to:
 
     -   A webpage update (or development of a new page) that makes it easy for communities to find the information and resources they need about the project and products
 
-    -   A step by step guide, workshop, training, or video that walks people through how to use what has been developed and interpret the results or findings appropriately
+    -   A step-by-step guide, workshop, training, or video that walks people through how to use what has been developed and interpret the results or findings appropriately
 
     -   Customized code or program that communities can use to pull data from databases and process it for their own data analysis and visualization needs
 
