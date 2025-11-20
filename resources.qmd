@@ -2,6 +2,36 @@
 
 Here you will find a curated list of resources related to the development, implementation and scaling of the principles and practices outlined in this Equity Data Handbook.
 
+## 2026 Road Show Presentations
+
+Equity Data Handbook Leads will be presenting to various Water Boards groups in 2026 to:
+
+-   Provide updates on Equity Data Handbook Development
+-   Provide a demonstration / overview of each chapter in the Handbook
+-   Review opportunities for support in 2026, including:
+    -   2026 Openscapes Champions process
+    -   Environmental Justice RT Racial Equity Data Subcommittee
+-   Questions & Discussion
+
+Contact Anna Holder via email or MS Teams Chat if you'd like us to present to your Water Boards Region, Division, Office, Branch, Section, Roundtable or other group meeting!
+
+Presentations currently scheduled include:
+
+-   Jan 13: Water Quality Certs (401) Roundtable
+-   Jan 22: Forestry and Wildfire Resiliency Roundtable
+-   Feb 4: USTs Roundtable – Regional Boards Mtg
+-   Feb 10: Power BItes Lunch & Learn
+-   Feb 11:
+    -   USTs Roundtable – Local Oversight Program Mtg
+    -   Division of Water Quality All-Staff
+-   Feb 19: Integrated Report Roundtable
+-   Mar 10: Surface Water Ambient Monitoring Program (SWAMP) Roundtable
+-   Mar 12:
+    -   Cannabis Cultivation Program Roundtable
+    -   Waste Discharge Requirements Program Roundtable
+-   Apr 21: Site Cleanup / DoD Roundtable
+-   May 13: GIS & Data Science Roundtable
+
 ## Water Boards Webinars & Trainings
 
 -   [Analyzing Data for Racial Equity](https://cawaterboarddatacenter.github.io/equity-data-handbook-training/). Jun 2025. Hannah Cushman Garland & Anna Holder. State Water Board Racial Equity Data Subcommittee Training.
