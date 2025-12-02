@@ -1,15 +1,23 @@
 # Getting Started
 
 ::: callout-tip
-**Before embarking on your data project using a racial equity lens you should:**
+**If you are just starting on your data project using a racial equity lens you should:**
 
-1.  Make your Water Boards data open and accessible to the public! See the [Open Data Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/open_data_handbook.html) for guidance.
+1.  Focus on the problem you are trying to solve. For example, what does the Water Board need to know to make an informed decision?
 
+2.  Make your Water Boards data open and accessible to the public! See the [Open Data Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/open_data_handbook.html) for guidance. This publishing step should be complete PRIOR to you exposing your data and information product(s) to the public.
+
+3.  Determine what type of data project you are doing? Typical project types include “equity maps,” “demographics and program synthesis” and related dashboards.
+
+4.  Collect and refine your management questions that are driving the data project.
+
+5.  Research for examples of similar data projects, code, maps, project descriptions to help inform your work.
+
+**If you are mid-way through your data project and are getting feedback to do more work or you and your team are feeling stuck you should:**
+
+1.  Review this handbook and see if the guidance or references contained in any of the elements is helpful and complete the [Racial Equity Data Project Form](https://forms.office.com/g/0HuJqQkiJs). 
 2.  Consult the Racial Equity Data Subcommittee by emailing [equitydatahelp\@waterboards.ca.gov](mailto:equitydatahelp@waterboards.ca.gov) to help identify audience and potential questions or information your teams’ analysis may answer and provide guidance.
-
-3.  Review the guidance and best practices described in this [Equity Data Handbook](https://cawaterboarddatacenter.github.io/equity-data-handbook/) and complete the [Racial Equity Data Project Form](https://forms.office.com/g/0HuJqQkiJs)
-
-4.  Review the [GARE Framework: Normalize, Organize, and Operationalize](https://www.racialequityalliance.org/resources/racial-equity-toolkit-opportunity-operationalize-equity/)  
+3.  Review the [GARE Framework: Normalize, Organize, and Operationalize](https://www.racialequityalliance.org/resources/racial-equity-toolkit-opportunity-operationalize-equity/)  
 
 *Other Optional Recommendations*
 
@@ -22,13 +30,15 @@
 
 In accordance with the first principle of the Water Board's Open Data Resolution (Resolution No. 2018-0032; see below), it is the responsibility of Water Boards data stewards to make our data open and accessible to the public.
 
+This is not just a requirement, it builds trust with the communities we serve. And building and maintaining trust is vital when the government is attempting to use a community lens on water issues.
+
 > Make Data Accessible (“Open First”): our organization values transparency and strives to make all critical public data available in machine-readable datasets with metadata and data dictionaries.
 
 Guidance on open data publishing at the Water Boards is available in the [Open Data Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/open_data_handbook.html).
 
 ## Consult the Racial Equity Data Subcommittee
 
-Program staff that are beginning data project using a racial equity lens should meet with the Racial Equity Data Team to discuss key aspects of the project including who the audience is and what questions or information you are trying to convey using the available racial equity data. *This engagement should occur prior to beginning any data collection or analysis.*
+Program staff that are beginning data project using a racial equity lens should meet with the Racial Equity Data Team to discuss key aspects of the project including who the audience is and what questions or information you are trying to convey using the available racial equity data.
 
 To initiate a consultation with the Racial Equity Data Team, please send an email to [equitydatahelp\@waterboards.ca.gov](mailto:equitydatahelp@waterboards.ca.gov). 
 
