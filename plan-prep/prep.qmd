@@ -1,6 +1,6 @@
 # Data Preparation
 
-As you're in the [Planning phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) of conducting your Equity Assessment, we recommend documenting what you are doing for the remaining phases of the data life cycle and making that documentation as open and transparent as possible. This is best accomplished through the use of a Data Management Plan.
+The [Planning phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) of conducting an Equity Assessment is about (or an opportunity to do)\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Thus, we recommend documenting what you are doing for the remaining phases of the data life cycle and making that documentation as open and transparent as possible. This is best accomplished through the use of a Data Management Plan.
 
 A Data Management Plan describes what data will be used, how the data will be [collected](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html), [processed](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html), and managed to conduct your [analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html), [visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html) or other products, and how those data products will be [stored](https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html), [shared](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html), and maintained over the long-term. In other words, the Data Management Plan describes how the project team intends to address and manage each phase of the data life cycle.
 
@@ -26,16 +26,16 @@ A Data Management Plan should include the following sections:
 7.  [Data & Product Evaluation](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#data-product-evaluation)
 8.  [Other Potential Sections](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#other-potential-sections) or [Potential Appendices](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html#potential-appendices), including: Acknowledgements, Timeline, Project Roles and Responsibilities, Dataset Details, Survey Details, Future work
 
-Since the development the Data Management Plan takes place before data are actually collected, some details, like specific analytical methods, may not be completely worked out. However, the Data Management Plan should include a clear vision and general plan for each section and include as much detail as possible.
+Since the development the Data Management Plan ideally takes place before data are actually collected, some details, like specific analytical methods, may not be completely worked out. However, the Data Management Plan should include a clear vision and general plan for each section and include as much detail as possible.
 
 ## Project Introduction & Context
 
 Here you want to briefly describe the project and the mechanism(s) driving the data collection and product development. Much of this will likely be worked out during the [Planning phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html), including:
 
 -   What is the purpose of the selected program, policy, or process, related to this project?
--   What are the objectives of the project?
+-   What are the objectives of the project? \[Are there specific management questions being tested with data? Place them here! Include data quality objectives of you have them!\]
 -   Who is the intended audience of the project?
--   How do you envision the project's resulting data and products contribute to the advancement and operationalization of equity for your the program, policy, or process, related to this project?
+-   How do you envision the project's resulting data and products contribute to the advancement and operationalization of equity for your program, policy, or process, related to this project?
 
 ## Data Collection & Processing
 
@@ -65,6 +65,8 @@ A good plan will include information that is sufficient to understand the nature
 
 -   **Data and file formats.** Technology changes and formats that are acceptable today may soon be obsolete. Good choices include those formats that are nonproprietary, based upon open standards, and widely adopted and preferred by the larger data consuming community (e.g., Comma Separated Values \[CSV\] over Excel \[.xls, xlsx\]). Data are more accessible for the long term if they are uncompressed, unencrypted, and stored using standard character encodings.
 
+-   **Metadata**
+
 Some questions to help guide the development of this section include:
 
 -   What data will we be collecting and/or generating?
@@ -73,9 +75,9 @@ Some questions to help guide the development of this section include:
 -   How much data will be generated for this project?
 -   Are you using data that someone else produced? If so, where is it from?
 -   How long will the data be collected/generated and how often will it change?
--   To what extent do the data and methods of collection and use for this project abide by [FAIR Principles](https://www.go-fair.org/fair-principles/) of scientific data management and stewardship and [CARE Principles](https://www.gida-global.org/care) for Indigenous Data Governance? If FAIR and CARE Principles are not being met - how can we modify our methods and processes data collection and use to better meet them?
+-   To what extent do the data and methods of collection and use for this project abide by [FAIR Principles](https://www.go-fair.org/fair-principles/) of scientific data management and stewardship and [CARE Principles](https://www.gida-global.org/care) for Indigenous Data Governance? If FAIR and CARE Principles are not being met - how can we modify our methods and processes data collection and use them to better meet these principles?
 
-[![FAIR Principles (Findable, Accessible, Interoperable, Reusable) within the open data movement primarily focus on characteristics of data that will facilitate increased data sharing among entities while ignoring power differentials and historical contexts. CARE Principles (Collective Benefit, Authority to Control, Responsibility, Ethics) for Indigenous Data Governance are people and purpose-oriented, reflecting the crucial role of data in advancing Indigenous innovation and self-determination. Image credit: Global Indigenous Data Allianc](images/Be+FAIR+and+CARE.png){fig-alt="Graphic that spells out FAIR & CARE Principles acronyms - specifically \"Be FAIR and CARE\" with acronym definitions below each letter: FAIR = Findable, Accessible, Interoperable, Reusable and CARE = Collective Benefit, Authority to Control, Responsibility, Ethics."}](https://www.gida-global.org/care)
+[![FAIR Principles (Findable, Accessible, Interoperable, Reusable) within the open data movement primarily focus on characteristics of data that will facilitate increased data sharing among entities while ignoring power differentials and historical contexts. CARE Principles (Collective Benefit, Authority to Control, Responsibility, Ethics) for Indigenous Data Governance are people and purpose-oriented, reflecting the crucial role of data in advancing Indigenous innovation and self-determination. Image credit: Global Indigenous Data Alliance. ](images/Be+FAIR+and+CARE.png){fig-alt="Graphic that spells out FAIR & CARE Principles acronyms - specifically \"Be FAIR and CARE\" with acronym definitions below each letter: FAIR = Findable, Accessible, Interoperable, Reusable and CARE = Collective Benefit, Authority to Control, Responsibility, Ethics."}](https://www.gida-global.org/care)
 
 ### Data Organization & Management
 
@@ -111,23 +113,24 @@ Some questions to help guide the development of this section include:
 ::: callout-important
 # Consider how your project aligns with the Water Boards Quality Management System!
 
-The Water Boards have a [quality management system](https://www.waterboards.ca.gov/water_issues/programs/quality_assurance/) and overarching Quality Assurance Management Plan. Be sure to review this material to consider how your project falls in that framework, and if more is needed to ensure your all aspects of your project are of sufficient quality. For example, many programs do NOT have Quality Assurance Program Plans, so this may be a step needed to occur to establish data quality objectives, etc.
+The Water Boards have a [quality management system](https://www.waterboards.ca.gov/water_issues/programs/quality_assurance/) and overarching Quality Assurance Management Plan. It may be helpful to review this material to consider how your project falls in that framework, and if more is needed to ensure all aspects of your project are of sufficient quality. For example, many programs do NOT have Quality Assurance Program Plans, so maybe your program (beyond just the data work) needs one. Reach out to the Data Quality Team if you need help.
 
 In some cases the Quality Assurance and Data Management plans can be integrated (see this [USGS Quality-Assurance and Data-Management Plan](https://drive.google.com/file/d/14D1VBJU51hrxQya3-rcZcItHHe65gS_s/view) as an example)
 :::
 
 ## Data Analysis & Product Development
 
-In this section, you will describe how you intend on using the data and the general plan or intended workflow you envision for your data analysis and/or product development phase. If you know you will use certain formulas, methods, or software for this step, you will identify them here. More detailed guidance on data analysis and product development steps are outlined on the [Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html) and [Data Visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html) pages.
+In this section, you will describe how you intend to use the data and the general plan or intended workflow you envision for your data analysis and/or product development phase. If you know you will use certain formulas, methods, or software for this step, you will identify them here. More detailed guidance on data analysis and product development steps are outlined on the [Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html) and [Data Visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html) pages.
 
 Some questions to help guide the development of this section include:
 
 -   What management questions are you planning on answering or informing with this data and project?
-    -   If operational decision making is the use please identify which performance measures or existing resource allocation planning processes that will be using the data (e.g., assigning inspections to staff, determining priority for compliance assurance work, etc.).
+    -   If operational decision making is the use please identify which performance measures or existing resource allocation planning processes will be using the data (e.g., assigning inspections to staff, determining priority for compliance assurance work, etc.).
     -   Please also identify any business interests that will need to be alerted to the data / products and may have concerns over its quality, etc. For example, invoicing for fees will need to have updated information, etc.
--   What workflow will you use to analyse the data and/or develop the resultant data product?
+-   What workflow will you use to analyze the data and/or develop the resultant data product?
 -   What data analysis or visualization methods or software will you use?
--   What product(s) will be developed (e.g. analyses, visualizations, applications, reports, etc.)
+-   What product(s) will be developed (e.g. analyses, visualizations, applications, reports, etc.) for each audience.
+-   What statutory requirements, if any, need to be addressed in the resulting data products? 
 -   What opportunities will Tribal and community partners have to review and provide feedback on the data analysis or product development before it is finalized?
 
 ## Data & Product Preservation & Storage
@@ -146,7 +149,7 @@ Some questions to help guide the development of this section include:
 
 In this section, you will describe how and where you plan on publishing, sharing and otherwise making accessible the project's data and products once they are developed. More detailed guidance on publishing and sharing data and resultant products is outlined on the [Data Sharing page](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html).
 
-The Water Boards typically make virtually all of the data we collect available to the public. The exceptions are confidential information (e.g., part of ongoing enforcement actions and/or formal Tribal consultations) and some personally identifiable information (PII). This section should describe any policies that will filter out data from the step of making the data publicly available and, more importantly, how the project plans to provide access to the data.
+The Water Boards typically make virtually all of the data we collect available to the public. The exceptions are confidential information (e.g., part of ongoing enforcement actions and/or formal Tribal consultations) and some personally identifiable information (PII). This section should describe any policies that will filter out data from the step of making the data publicly available and, more importantly, how the project plans to provide access to the data deemed shareable (if applicable).
 
 ::: callout-important
 # Make your project as open and accessible as possible and appropriate!
@@ -171,7 +174,7 @@ Some questions to help guide the development of this section include:
 -   Does sharing the data raise privacy, ethical, or confidentiality concerns?  Do you have a plan to protect or anonymize data, if needed?
 -   If you collected data directly from Tribes or communities -
     -   How will permission be obtained to use and disseminate the data?
-    -   How is informed consent being handled and how is privacy being protected?
+    -   How is informed consent being handled and how are privacy and sovereignty being protected?
     -   How and when will you communicate what will or will not be shared?
 -   To what extent do the methods of publication and sharing of data, products developed through this project abide by [FAIR Principles](https://www.go-fair.org/fair-principles/) of scientific data management and stewardship and [CARE Principles](https://www.gida-global.org/care) for Indigenous Data Governance? If FAIR and CARE Principles are not being met - how can we modify our methods and processes of publication and sharing to better meet them?
 
