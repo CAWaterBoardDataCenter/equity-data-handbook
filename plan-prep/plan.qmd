@@ -1,8 +1,10 @@
 # Planning
 
-When planning for your data project with an equity lens, it's best to conduct a thorough equity assessment, or scoping process. Equity assessments[^plan-1] are systematic examinations of available data and expert input on how various groups - especially those facing inequity or disparities - are or likely will be affected by a policy, program, or process. They aim to minimize unintended adverse outcomes and maximize opportunities and positive outcomes.
+Planning your data project helps you estimate workload, timelines, and needs to support better chances of success with project goals and objectives. There are a lot of ways to do these plans, this chapter lists some of the most useful types of planning steps we found in our research. 
 
-[^plan-1]: The bulk of content on this page has been informed by: [Conducting Intensive Equity Assessments of Existing Programs, Policies, and Processes (hhs.gov)](https://aspe.hhs.gov/sites/default/files/documents/dd148f52c519a5bcc4fde76b4932f53b/Intensive-Equity-Assessment.pdf)
+**Equity Assessment:**
+
+Ideally every data project with an equity lens, begins with an equity impact analysis, or scoping process. Equity impact analyses are systematic examinations of available data and expert input on how various groups - especially those facing inequity or disparities - are or likely will be affected by a policy, program, or process. They aim to minimize unintended adverse outcomes and maximize opportunities and positive outcomes.
 
 The steps to conducting an equity assessment are described below.
 
