@@ -34,29 +34,23 @@ Although these steps are numbered for clarity, teams should synthesize informati
 
 ## Step 1: Describe the selected program, policy, or process, and populations affected by it
 
-Describe the focus of the assessment to provide a foundation for all members of the assessment team and external partners.
+1.  **Identify the sources being regulated:** Before analysts can identify the populations and communities being affected by a Water Board action, it is important to first characterize the regulated sources, i.e. the sources of pollution that are regulated by the Water Boards, such as dischargers subject to NPDES permits. Where are they located? Are there particular characteristics of the regulated sources that contribute to higher exposure and/or risk of health effects? Do the program or regulatory options vary with these characteristics? For instance, are some sources subject to greater stringency or other regulatory requirements that would be important to account for in the analysis?  
 
--   What is the purpose of the selected program, policy, or process, and what are its goals?
+<!-- -->
 
--   What are the known successes or challenges in meeting those goals?
+2.  **Describe the environmental stressor(s):** The spatial distribution of health and welfare outcomes is a relevant consideration for some Water Board actions. In these cases, evidence on the fate and transport of the environmental stressor can help determine the populations and communities potentially exposed. In other cases, the action’s effects may be more widespread. It is also important to understand which specific health effects are of greatest relevance for a given context.  
 
--   What types of actions or policy levers are involved in the selected program, policy, or process (such as grants, contracts, waivers, guidance to partners, technical assistance, or other actions)?
+<!-- -->
 
--   Which of these actions will be included in the assessment?
+3.  **Characterize the affected populations:** It is important to understand what factors may contribute to EJ concerns. How are individuals being exposed? Are there unique pathways or other factors that drive higher exposures for some population groups? Recognizing underlying contributors within a specific regulatory context is important for properly assessing equity concerns and can aid in the design of program or regulatory options. This may include evidence of already overburdened communities, including the cumulative effects of exposure to multiple environmental or non-environmental stressors on human health and well-being  
 
--   What general descriptive or performance data can the organization use to describe the program, policy, or process (such as number served, total funds distributed, uptake estimates, or other key outcomes)?
+<!-- -->
 
--   Are there existing quantifiable performance targets relevant to the focus of the assessment? Provide a brief summary.
+4.  **Compare affected and comparison populations:** Analysts need to characterize the exposure and risk of health effects for population groups of concern relative to a comparison population group (see Group Comparison Analysis section) This allows analysts to gauge the extent to which effects for the affected population are similar or different than they are for the comparison group and how they vary across population groups.  
 
-Identify and describe populations of interest
+<!-- -->
 
--   What populations are participating in the program, policy, or process, including program participants/beneficiaries? Consider which characteristics are relevant and of interest, such as race, ethnicity, gender identity, sexual orientation, disability status, income, religion, and rural geography.
-
--   What populations are currently left out, or not participating or benefiting at desired rates or at the same rates as others? What are other disparities related to the selected program, policy, or process that are known at the outset of the assessment?
-
--   What are the information sources for those inequities or disparities?  What is the comparison population or reference point for observed disparities? Reference point options include the total population in an area, the national population, the largest group, or a benchmark chosen through a planning process. Whenever possible, try to think critically about this population rather than simply defaulting to comparison populations used in the past.
-
--   How might population groups’ identifying characteristics overlap in ways that expose them to relatively greater inequities (known as intersectionality)? What implications does this overlap have for the impacts of the program, policy or process? For example, immigrants who are also LGBTQIA+ might face multiple barriers in accessing a particular program.
+5.  **Conduct sensitivity analysis:** Due to the inherent limitations and uncertainties associated with analyses of EJ concerns, conducting sensitivity analysis around key assumptions is particularly important for clearly communicating results to the public.  
 
 ::: callout-tip
 Many local city and county governments have compiled their own resources for working with equity data, like Oakland's [Geographic Equity Toolbox](https://www.oaklandca.gov/resources/oakdot-geographic-equity-toolbox), Portland's [Racial Equity Toolkit](https://www.portlandoregon.gov/oehr/71685), and New York City's interactive equity data tool [EquityNYC](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fequity.nyc.gov%2F&data=05%7C01%7Cnicholas.martorano%40waterboards.ca.gov%7C87a614b2e3db4c85368c08dbc55a8595%7Cfe186a257d4941e6994105d2281d36c1%7C0%7C0%7C638320764855634179%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=r%2Br4%2BybTh130ovhG12PjYHQYqVHlz4jSB8gXj3KTnAI%3D&reserved=0), including a [Mapping Equity tool](https://equity.nyc.gov/mapping-equity). Before starting your project, it is a good idea to do some research online to identify pre-existing resources available in your region.
@@ -64,13 +58,13 @@ Many local city and county governments have compiled their own resources for wor
 
 ## Step 2. Consider historical, societal, and policy context and drivers of disparities
 
-Describe the context for observed disparities and the program or policy itself.
-
 -   What is the social and cultural history of the populations listed in Step 1 and how does this history shape their current conditions? How does this context play a role in how these populations might perceive, access, or otherwise interact with the program or policy?
 
 -   What structural or social drivers of disparities might explain observed disparities? Structural drivers of disparities are governing processes and economic and social policies that distribute power and resources in unfair ways, such as an inequitable distribution of emergency funds to certain communities. Social drivers of disparities are differences in the conditions in which people are born, grow, live, work, and age, such as poverty, employment, housing, environment quality, transportation, food security, and community safety. Differences in these social conditions drive disparities. Although these conditions are also known as social determinants of health, this tool uses a broader term to encompass multiple outcomes, including both health outcomes and other outcomes (e.g., economic outcomes). Thinking through these drivers of disparities is important for placing focus on systems and institutions that need to be changed, and it helps to avoid blaming groups of people for poor outcomes.
 
 -   What is known about whether structural, systemic, or institutional racism or structural barriers affect the implementation and outcomes of previous programs or policies? Systemic or institutional racism refers to policies and practices that create or sustain disparate outcomes for persons of different races. An example is redlining, where financial services and other housing-related opportunities were restricted for individuals largely based on their race/ethnicity and originating neighborhoods (see this 2021 Memorandum for the Secretary of Housing and Urban Development regarding [Redressing Our Nation's and the Federal Government's History of Discriminatory Housing Practices and Policies](https://www.federalregister.gov/documents/2021/01/29/2021-02074/redressing-our-nations-and-the-federal-governments-history-of-discriminatory-housing-practices-and))
+
+-   How might population groups’ identifying characteristics overlap in ways that expose them to relatively greater inequities (known as intersectionality)? What implications does this overlap have for the impacts of the program, policy or process? For example, immigrants who are also LGBTQIA+ might face multiple barriers in accessing a particular program. 
 
 ## Step 3. Collect expert input, including from affected community members
 
@@ -98,7 +92,7 @@ For more detailed guidance and resources regarding outreach and engagement, see 
 
 Consider a variety of qualitative and quantitative information sources to support the assessment, including gray and peer-reviewed literature, organization documents and administrative records, surveys, customer inquiry or complaint information, administrative data, program performance data, key informant interviews, and listening sessions or focus groups. Ideally, equity assessments often include both qualitative and quantitative data. Data sources can include, but should not be limited to, expert views.
 
--   What are the quantitative data sources for the assessment process? Quantitative data such as program, administrative, or survey data shed light on the magnitude and prevalence of an inequity or an opportunity for improvement.
+-   What are the quantitative data sources for the assessment process? Quantitative data such as program, administrative, or survey data shed light on the magnitude and prevalence of inequity or an opportunity for improvement.
 
 -   Are available quantitative data disaggregated by relevant variables, such as race, ethnicity, income, and relevant geographic areas? If not, how can the assessment incorporate data that can help organizations understand or estimate the equity impacts of the program, policy, or process?
 
@@ -130,13 +124,13 @@ Develop a detailed plan to address inequities identified in Step 5 within the sc
 
 -   What solutions are needed to resolve observed inequities or disparities, or to address identified drivers of those inequities or disparities? Which solutions are in the program’s sphere of authority?
 
--   What are the program’s short-term and long-term goals for improvement? Quantify those goals if possible.
+-   What are the program’s short-term and long-term goals for improvement of disparities and inequities? Quantify those goals if possible.
 
 -   What steps will the program take to accomplish each goal? What coordination, training, information systems changes, business process changes, or other implementation actions are needed?
 
 -   Have subject matter experts—including those with lived experience—weighed in on needed solutions, proposed goals, or planned action steps? Are all components of the improvement plan responsive to the needs and cultures of different populations or communities?
 
--   What resources will the program need to carry out the improvement plan?
+-   What resources will the program need to carry out the plan?
 
 -   Has the program consulted or collaborated with key partners on potential improvement options and actions?
 
