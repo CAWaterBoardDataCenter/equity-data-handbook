@@ -70,6 +70,8 @@ website:
         contents:
           - use-cases/swamp.qmd
           - use-cases/demographics.qmd
+      - href: appx.qmd
+        text: Appendix
       - href: resources.qmd
         text: Resources
 
