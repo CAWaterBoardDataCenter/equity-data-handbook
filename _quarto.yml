@@ -16,6 +16,7 @@ website:
   sidebar:
     logo: "images/WaterBoards_logo.png"
     favicon: images/WaterBoards_logo.png
+    title: "Equity Data Handbook"
     pinned: true
     align: center
     tools: 
