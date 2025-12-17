@@ -1,4 +1,4 @@
-# Welcome! {.unnumbered}
+# Welcome to the Water Boards Equity Data Handbook! {.unnumbered}
 
 ::: callout-warning
 # **This Handbook is a draft / work in progress and is currently undergoing a phased review process**
