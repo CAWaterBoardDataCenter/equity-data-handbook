@@ -1,5 +1,84 @@
 # Background
 
+## Handbook Overview
+
+**The Purpose of this Handbook** is to support Water Boards staff with incorporating racial equity concepts, principles, and practices into their data-related work.
+
+More specifically, the current structure and content in this Handbook was developed in response to Goals 1a and 1b of the [2023-2025 Racial Equity Action Plan](https://www.waterboards.ca.gov/racial_equity/docs/racial-equity-action-plan-final-en.pdf), which directed the development and curation of best practices, guidance, and resources to help infuse the racial equity resolution and operationalize racial equity throughout the Water Boards’ policies, programs and practices. See the below **Handbook Context section** for more information about the Racial Equity Action Plan.
+
+**The Primary Audience of this Handbook** is Water Boards Staff doing equity-centered data work on a daily basis.
+
+These staff are practitioners that work with data in any form, and are responsible for implementing any phase of the data life cycle with an equity lens. Note that this doesn’t necessarily mean these folks are, or would even consider themselves to be “data experts” or "equity experts". In fact we designed this Handbook so anyone at the Water Boards, regardless of where they are on their data or equity journeys, can use the Handbook to support their work. ​
+
+While not a target audience, others may also find this resource helpful in some way, including: ​
+
+-   Water Boards managers & executives​
+-   External partners at other agencies or organizations - some of which have already reached out to me to request presentations about the resource​
+-   Tribal Government partners​
+-   The public ​
+
+## Recommended Use
+
+**It is recommended folks take a “choose your own adventure” approach to using this Handbook.** The Handbook is meant to serve as a resource that people reference as needed - NOT a set of requirements or mandates all staff must implement for all projects. This Handbook intentionally does not provide a single method or process recommendation for doing data-intensive work with an equity lens because a “one size fits all” approach is not effective or equitable.
+
+A “choose your own adventure” approach to using this Handbook will look different for every individual, team, and project and could mean:
+
+-   only reviewing chapters relevant to where you are in the data life cycle of your project, as needed.
+
+-   using the search bar on the left side of the Handbook to find references to a specific phrase or topic, and then only reviewing to the sections that pop up in the results.
+
+-   reading or skimming the entire Handbook “cover to cover”, if the individual and team have the interest, time, bandwidth and capacity to do so before the start of their project.
+
+-   something else entirely!
+
+The main point is for people to use this Handbook at a frequency and manner that works for the them and their teams doing the work given the resources and capacity they have at that time - whatever that looks like for them.​
+
+## Handbook Governance
+
+### Development Process
+
+The earliest versions of the Handbook began being developed in 2020 in response to the racial reckoning we were facing, observing, and experiencing a in the United States that - for many - was different from anything we had seen prior, particularly in the media. Staff throughout the Water Boards were eager to use data and tools to help them understand and assess equity and justice in their data work and submitted their requests for guidance, information, and support to the Water Boards' [Office of Information Management and Analysis](https://www.waterboards.ca.gov/resources/oima/) (OIMA). In response to this, OIMA staff began developing and documenting responses to requests as they came.
+
+In early 2024 OIMA assembled an Equity Team that was directed to dedicate time and resources to developing guidance as requested by Goals 1a and 1b of the [2023-2025 Racial Equity Action Plan](https://www.waterboards.ca.gov/racial_equity/docs/racial-equity-action-plan-final-en.pdf), and based on what they observed and learned by responding to staff requests the 3 years prior. An early guidance document, focusing mostly on data collection and analysis was developed and shared with the Environmental Justice Roundtable’s Racial Equity Data Subcommittee for review and feedback.​
+
+​In mid-2024, the OIMA Equity Team expanded the guidance document to include all phases of the data life cycle - not just the data collection and analysis phases. While this added a significant and potentially overwhelming amount of content to the resource, the Equity Team felt strongly that the breadth and depth of the Handbook as it is now is essential and will help support our individual practitioners, teams, and organization well into the future.
+
+In 2025, OIMA conducted an iterative internalreview process to continue to build on what was already developed, leverage the wisdom and expertise of known data and equity practitioners at the Water Boards, and to think about how the Handbook can continue to improve and evolve moving forward. ​
+
+In 2026, OIMA staff delivered a series of [demonstration presentations](https://cawaterboarddatacenter.github.io/equity-data-handbook/resources.html#road-show-presentations) to Water Boards Region, Division, Office, Branch, Section, Roundtable or other group meetings to engage and familiarize Water Boards staff with the Handbook so they could begin to utilize it in their work.
+
+### Maintenance & Updates
+
+OIMA staff will continue to lead the maintenance and updating of the Handbook, in partnership with staff from the Water Boards Office of Public Engagement, Equity,and Tribal Affairs (OPEETA) and members of the [Racial Equity Data Subcommittee](https://cawaterboards.sharepoint.com/sites/WB-OPP-EJRoundtable/SitePages/Racial-Equity-Data-Subcommittee.aspx?promotedState=0) of the Water Board’s Environmental Justice Roundtable.
+
+Priority updates over the coming years (2026-2030) include:
+
+-   Working with Water Boards equity and data practitioners to add more [Use Cases](https://cawaterboarddatacenter.github.io/equity-data-handbook/use-cases/) to the Handbook
+
+-   Continuing to add useful content and resources to existing pages
+
+-   Continuing to add guidance, templates, code and other resources related to conducting equity impact analyses for different contexts
+
+Revisions, additions, and other updates will be completed as staff time, bandwidth, and capacity allow.
+
+### Contributing & Feedback
+
+This Equity Data Handbook is designed to be an open, living, and continuously iterating resource. Constructive recommendations and feedback are always welcome may be submitted by Water Boards staff through the [Equity Data Handbook Feedback Form](https://forms.office.com/g/eqzBEM6eXA) at any time.
+
+Recommended revisions will be considered for integration into the Handbook as staff time, bandwidth, and capacity allow.
+
+Some things to note BEFORE you begin your review and/or submit feedback: 
+
+-   The Handbook is quite a long resource - you don't have to review or provide feedback on the the entire thing all at once!Feel free to review one or more sections at a time and to submit multiple form responses at your lesiure.
+
+<!-- -->
+
+-   The last question of the form enables the upload of a MS Word document. If you would like to do so, we ask you copy and paste content from the Handbook into a blank word document, make revisions using track changes, save the document and submit. Please keep recommended edits focused on **substantive content additions/revisions** – wordsmithing recommendations according to stylistic preferences will be considered an extremely low priority and may or may not end up being integrated into the Handbook.
+
+-   The above form can only be completed by Water Boards staff. If you have issues completing the form or are not affiliated with the Water Boards but would like to submit feedback, please email: [equitydatahelp\@waterboards.ca.gov](mailto:equitydatahelp@waterboards.ca.gov)
+
+## Handbook Context
+
 In recent years, U.S. Environmental Protection Agency has made strides towards promoting equitable data and provided guidance for [Assessing Environmental Justice in Regulatory Analysis](https://www.epa.gov/system/files/documents/2023-11/ejtg_revision_110823_508compliant_0.pdf) and maintains a working list of resources for related to equity and water data at the [Health & Environmental Research Online (HERO) Database](https://hero.epa.gov/hero/index.cfm/project/page/project_id/3611).
 
 In alignment these priorities at the time, the State Water Resources Control Board (State Water Board) publicly acknowledged during its August 18, 2020 meeting that the historical effects of institutional racism must be confronted throughout government, and it directed staff to develop a priority plan of action (Aug 18, 2020 Meeting [Agenda](https://www.waterboards.ca.gov/board_info/agendas/2020/aug/081820_5.pdf), [Recording](https://www.youtube.com/live/s40gVJnTwL8?si=RhNgp8dprtBQWhtF&t=15886)). The State Water Board’s Racial Equity Team held public and employee listening sessions to help develop a draft resolution. After a public comment period on the draft resolution in spring 2021, the Racial Equity Team made significant updates to the resolution. On November 16, 2021, the State Water Board adopted Resolution No. 2021-0050, “Condemning Racism, Xenophobia, Bigotry, and Racial Injustice and Strengthening Commitment to Racial Equity, Diversity, Inclusion, Access, and Anti-Racism" (Racial Equity Resolution; [English](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2021/rs2021_0050.pdf), [Español](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2021/rs2021_0050_sp.pdf)) which affirms the State Water Board’s commitment to racial equity and directs staff to undertake a variety of actions to achieve racial equity throughout all State Water Board programs and activities (Nov 16, 2021 Meeting [Agenda](https://www.waterboards.ca.gov/board_info/agendas/2021/nov/111621_5.pdf), [Recording](https://www.youtube.com/live/CK1zde9xCvs?si=BUr-qAGlbzMY2zti&t=8721)).
@@ -16,15 +95,24 @@ Instead we should think of data as a tool to help us achieve the overall outcome
 
 Development of the Racial Equity Action Plan began in Spring 2022 and involved public and employee engagement and tribal consultations. The Water Boards’ Racial Equity Team presented the Racial Equity Action Plan (2023-2025) to the State Water Board as an informational item at the Board Meeting on January 18, 2023 ([Agenda](https://www.waterboards.ca.gov/board_info/agendas/2023/jan/01_18-19_2023_agenda_links.pdf), [Slides](https://www.waterboards.ca.gov/racial_equity/docs/20230118-reap-presentation-english.pptx), [Recording](https://www.youtube.com/live/OsZWvHgCXpY?si=WOiiivZr-mhD6ZmR&t=9875)).
 
-Goal 1a of the Racial Equity Action Plan is to ensure Water Boards data are accessible, equitable, and culturally relevant. One action captured under that goal is the development of a Racial Equity Data Action Plan which must: 
+Goal 1a of the Racial Equity Action Plan is to ensure Water Boards data are accessible, equitable, and culturally relevant. Actions captured under this goal include:  
 
-1.  Develop training and best practices guidance for Water Boards staff on incorporating racial equity concepts into the planning and design of data collection methods and visualizations (e.g., maps, factsheets, etc.) projects.
+-   Develop training and best practices guidance for Water Boards staff on incorporating racial equity concepts into the planning and design of data collection methods and visualizations (e.g., maps, factsheets, etc.) projects.
 
-2.  Identify and expand existing opportunities for public participation in science and community data gathering programs to develop new data collection methods, support existing programs, and incorporate community datasets into the database. 
+-   Identify and expand existing opportunities for public participation in science and community data gathering programs to develop new data collection methods, support existing programs, and incorporate community datasets into the database. 
 
-3.  Create a publicly accessible data catalog tool / interface that includes existing demographic data, Water Boards program data, and other available data (such as heat maps or flood hazard maps) to inform the implementation of the Racial Equity Action Plan.
+-   Create a publicly accessible data catalog tool / interface that includes existing demographic data, Water Boards program data, and other available data (such as heat maps or flood hazard maps) to inform the implementation of the Racial Equity Action Plan.
 
-The Racial Equity Data Action Plan is being developed by the Water Board’s Racial Equity Data Subcommittee of the [Environmental Justice Roundtable](https://cawaterboards.sharepoint.com/sites/WB-OPP-EJRoundtable "EJ Roundtable SharePoint site") which is a group of volunteer staff from across the Water Board led by the [Office of Information Management and Analysis](https://www.waterboards.ca.gov/resources/oima/) and the [Office of Public Participation](https://www.waterboards.ca.gov/about_us/public_participation/). This Handbook is intended to address Item 1 above by providing staff a best practices guide for incorporating racial equity concepts into the Water Board programs using data and information. Item 2 above will be iterative and grow as staff and programs begin to utilize the guidance and tools found within this handbook. To fulfill Item 3 above staff have created a [California Water Boards Racial Equity Data Resource Hub](https://gispublic.waterboards.ca.gov/portal/apps/experiencebuilder/template/?data_id=dataSource_14-0%3A10&id=b02e68db0fa7452aad0b08d3c65d4a93) which will grow as more programs create and publish racial equity based tools and visualizations.
+Goal 1b of the Racial Equity Action Plan is to ensure Water Boards Programs and policies are evaluated and realigned to address racial injustices. Actions captured under this goal include:
+
+-   Develop a racial equity toolkit for all Water Boards staff to consider racial equity in their day-to-day work.
+
+-   Develop training and guidance for how to implement the racial equity toolkit to examine potential
+    disproportionate impacts of policies and programs on BIPOC communities.
+
+This Handbook is intended to address components of each goal above by providing staff a curated best practices guide for incorporating racial equity concepts into the Water Board programs using data and information. Additionally, the [California Water Boards Racial Equity Data Resource Hub](https://gispublic.waterboards.ca.gov/portal/apps/experiencebuilder/template/?data_id=dataSource_14-0%3A10&id=b02e68db0fa7452aad0b08d3c65d4a93) was developed to be the publicly accessible data catalog tool as requested in Goal 1a, and will grow as more programs create and publish racial equity based tools and visualizations.
+
+The identification and expansion existing opportunities for public participation in science and community data gathering programs will be iterative and grow as staff and programs begin to utilize the guidance and tools found within this Handbook.
 
 ## Additional Resources
 
