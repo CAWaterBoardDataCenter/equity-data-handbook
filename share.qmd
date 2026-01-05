@@ -4,13 +4,15 @@ By now, you’ve completed some or all of your product development steps ([Data 
 
 This phase of the data life cycle involves making the project's data and products open and accessible as appropriate.
 
-Also see a [short list of best practices for this phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/best-practice.html#publish-share).
-
 ::: callout-tip
 Just like the [Preservation & Storage phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html), this content should be reviewed during the [Plan & Prepare Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/) of your project! Depending on your project needs, you may even integrate your responses to questions below into your [project’s data management plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html). Doing so will make it easier for all team members to prepare their project components accordingly and will save you time when implementing this phase of the project.
 :::
 
 ## Why Publish & Share Data Products?
+
+In accordance with the first principle of the [Water Board’s Open Data Resolution](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2018/rs2018_0032.pdf) (Resolution No. 2018-0032; see below), it is the responsibility of Water Boards data stewards to make our data open and accessible to the public.
+
+> Make Data Accessible (“Open First”): our organization values transparency and strives to make all critical public data available in machine-readable datasets with metadata and data dictionaries.
 
 The Water Boards typically make virtually all of the data we collect available to the public, with the exception of confidential information that should remain private and secure. As such, the openness and accessibility of your project's data and resultant products should be in alignment with the Water Board’s Open Data Resolution: “[Adopting Principles of Open Data as a Core Value and Directing Programs and Activities to Implement Strategic Actions to Improve Data Accessibility and Associated Innovation](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2018/rs2018_0032.pdf).” This means:
 
@@ -52,7 +54,7 @@ In addition to all of the reasons outlined in the above [Why Publish & Share Dat
 
 As you publish your project's data and products, be sure to:
 
--   **Publish data and complete metadata in publicly accessible locations**, such as [Water Boards databases](https://www.waterboards.ca.gov/resources/data_databases/) and/or the [California Open Data Portal](https://data.ca.gov/) (or [California State Geoportal](https://gis.data.ca.gov/)), as appropriate. Also see the [Publish Your Water Boards Data page](https://cawaterboarddatacenter.github.io/equity-data-handbook/publish-data.html) for more guidance.
+-   **Publish data and complete metadata in publicly accessible locations**, such as [Water Boards databases](https://www.waterboards.ca.gov/resources/data_databases/) and/or the [California Open Data Portal](https://data.ca.gov/) (or [California State Geoportal](https://gis.data.ca.gov/)), as appropriate. Guidance on publishing Water Boards data is available in the [Open Data Handbook](https://www.waterboards.ca.gov/resources/oima/cowi/open_data_handbook.html).
 
 -   **Publish or embed accessible products onto Water Boards webpages**, as appropriate, including: planning or summary documents/reports, fact sheets, applications, presentation slides or recordings, etc.
 

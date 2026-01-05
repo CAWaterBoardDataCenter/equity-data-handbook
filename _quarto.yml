@@ -34,14 +34,10 @@ website:
     contents:
       - href: index.qmd
         text: Welcome!
+      - href: start.qmd
+        text: Getting Started
       - href: background.qmd
         text: Background
-      - section: get-started/index.qmd
-        text: Getting Started
-        contents:
-          - get-started/common-language.qmd
-      - href: publish-data.qmd
-        text: Publish Your Data
       - section: plan-prep/index.qmd
         text: Plan & Prepare
         contents:
