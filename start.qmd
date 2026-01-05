@@ -1,6 +1,8 @@
 # Getting Started
 
 ::: callout-tip
+Are you unsure of how to apply an equity lens to your data-intensive work, or where to begin? We recommend beginning with one of the steps below:
+
 **If you are just starting on your data project using a racial equity lens you should:**
 
 1.  [Make your Water Boards data open and accessible](https://cawaterboarddatacenter.github.io/equity-data-handbook/start.html#make-your-water-boards-data-open-and-accessible). This publishing step should be complete PRIOR to you exposing your data and information product(s) to the public.
@@ -23,8 +25,6 @@
 
 -   [Review the GARE Framework](https://cawaterboarddatacenter.github.io/equity-data-handbook/start.html#review-the-gare-framework): Normalize, Organize, and Operationalize
 :::
-
-Are you unsure of how to apply an equity lens to your data-intensive work, or where to begin? We recommend beginning with one of the steps below.
 
 ## Make your Water Boards data open and accessible
 
