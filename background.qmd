@@ -4,7 +4,7 @@
 
 **The Purpose of this Handbook** is to support Water Boards staff with incorporating racial equity concepts, principles, and practices into their data-related work.
 
-More specifically, the current structure and content in this Handbook was developed in response to Goals 1a and 1b of the [2023-2025 Racial Equity Action Plan](https://www.waterboards.ca.gov/racial_equity/docs/racial-equity-action-plan-final-en.pdf), which directed the development and curation of best practices, guidance, and resources to help infuse the racial equity resolution and operationalize racial equity throughout the Water Boards’ policies, programs and practices. See the below **Handbook Context section** for more information about the Racial Equity Action Plan.
+More specifically, the current structure and content in this Handbook was developed in response to Goals 1a and 1b of the [2023-2025 Racial Equity Action Plan](https://www.waterboards.ca.gov/racial_equity/docs/racial-equity-action-plan-final-en.pdf), which directed the development and curation of best practices, guidance, and resources to help infuse the racial equity resolution and operationalize racial equity throughout the Water Boards’ policies, programs and practices. See the below [Handbook Context section](https://cawaterboarddatacenter.github.io/equity-data-handbook/background.html#handbook-context) for more information about the Racial Equity Action Plan.
 
 **The Primary Audience of this Handbook** is Water Boards Staff doing equity-centered data work on a daily basis.
 
@@ -13,7 +13,7 @@ These staff are practitioners that work with data in any form, and are responsib
 While not a target audience, others may also find this resource helpful in some way, including: ​
 
 -   Water Boards managers & executives​
--   External partners at other agencies or organizations - some of which have already reached out to me to request presentations about the resource​
+-   External partners at other agencies or organizations
 -   Tribal Government partners​
 -   The public ​
 
