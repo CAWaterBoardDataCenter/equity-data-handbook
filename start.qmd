@@ -4,18 +4,23 @@
 **If you are just starting on your data project using a racial equity lens you should:**
 
 1.  [Make your Water Boards data open and accessible](https://cawaterboarddatacenter.github.io/equity-data-handbook/start.html#make-your-water-boards-data-open-and-accessible). This publishing step should be complete PRIOR to you exposing your data and information product(s) to the public.
+
 2.  [Conduct an Equity Assessment for your project](https://cawaterboarddatacenter.github.io/equity-data-handbook/start.html#conduct-an-equity-assessment-for-your-project).
 
 **If you have begun your data project and are getting feedback to do more equity-centered work or you and your team are feeling stuck you should:**
 
 1.  [Review relevant sections of this Handbook](https://cawaterboarddatacenter.github.io/equity-data-handbook/start.html#review-relevant-sections-of-this-handbook) and determine which aspects of the best practices, guidance, and resources can and should be applied to your project.
+
 2.  [Join the Racial Equity Data Subcommittee](https://cawaterboarddatacenter.github.io/equity-data-handbook/start.html#join-the-racial-equity-data-subcommittee).
 
 *Other Optional Recommendations*
 
 -   [Establish common language](https://cawaterboarddatacenter.github.io/equity-data-handbook/start.html#establish-common-language) to cultivate a collective understanding of underlying concepts and historical context related to advancing and operationalizing racial equity.
+
 -   [Take the Advancing Racial Equity training](https://cawaterboarddatacenter.github.io/equity-data-handbook/start.html#take-the-advancing-racial-equity-training) offered by the Water Boards Training Academy
+
 -   [Join an Openscapes Champions Cohort at the Water Boards](https://cawaterboarddatacenter.github.io/equity-data-handbook/start.html#join-an-openscapes-champions-cohort-at-the-water-boards)
+
 -   [Review the GARE Framework](https://cawaterboarddatacenter.github.io/equity-data-handbook/start.html#review-the-gare-framework): Normalize, Organize, and Operationalize
 :::
 
