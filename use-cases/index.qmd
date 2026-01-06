@@ -8,11 +8,15 @@ In this Use Cases section, you will find some examples of how some Water Boards 
 -   [Demographics Data Integration Examples](https://cawaterboarddatacenter.github.io/equity-data-handbook/use-cases/demographics.html)
 
 ::: callout-note
-## **Help us highlight your data equity work!**
+## **Help us highlight your data & equity work!**
 
 If you are the lead of a data-intensive project that has worked to operationalize equity into some or all phases of your project's data life cycle, and would like to add a page to this Handbook to highlight the work - let us know!
 
-**Please complete the "Additional Feedback" section of the [Equity Data Handbook Feedback Form](https://forms.office.com/g/aiEpqjVzQ8) to send us a short description of your project and what you'd like to highlight!**
+**Please add the following to the [Equity Data Handbook Feedback Form](https://forms.office.com/g/eqzBEM6eXA):**
+
+-   Question 2: Yes
+-   Question 3: <https://cawaterboarddatacenter.github.io/equity-data-handbook/use-cases/>
+-   Question 5: a short description of your project and what you'd like to highlight!
 :::
 
 ## 
