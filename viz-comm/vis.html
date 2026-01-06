@@ -388,7 +388,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../viz-comm/communicate.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">communicate</span></a>
+ <span class="menu-text">Data Communication</span></a>
   </div>
 </li>
       </ul>
@@ -464,13 +464,6 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#data-visualization" id="toc-data-visualization" class="nav-link active" data-scroll-target="#data-visualization">Data Visualization</a>
   <ul class="collapse">
-  <li><a href="#general-data-visualization-considerations" id="toc-general-data-visualization-considerations" class="nav-link" data-scroll-target="#general-data-visualization-considerations">General Data Visualization Considerations</a>
-  <ul class="collapse">
-  <li><a href="#take-a-user-centered-design-approach" id="toc-take-a-user-centered-design-approach" class="nav-link" data-scroll-target="#take-a-user-centered-design-approach">Take a user-centered design approach</a></li>
-  <li><a href="#use-plain-accessible-and-inclusive-language" id="toc-use-plain-accessible-and-inclusive-language" class="nav-link" data-scroll-target="#use-plain-accessible-and-inclusive-language">Use plain, accessible, and inclusive language</a></li>
-  <li><a href="#consider-how-you-group-the-data" id="toc-consider-how-you-group-the-data" class="nav-link" data-scroll-target="#consider-how-you-group-the-data">Consider how you group the data</a></li>
-  <li><a href="#tell-a-story-with-the-data" id="toc-tell-a-story-with-the-data" class="nav-link" data-scroll-target="#tell-a-story-with-the-data">Tell a story with the data</a></li>
-  </ul></li>
   <li><a href="#data-visualization-design-considerations" id="toc-data-visualization-design-considerations" class="nav-link" data-scroll-target="#data-visualization-design-considerations">Data Visualization Design Considerations</a>
   <ul class="collapse">
   <li><a href="#alternative-text-alt-text" id="toc-alternative-text-alt-text" class="nav-link" data-scroll-target="#alternative-text-alt-text">Alternative Text (Alt Text)</a></li>
@@ -478,7 +471,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#figure-chart-types" id="toc-figure-chart-types" class="nav-link" data-scroll-target="#figure-chart-types">Figure &amp; Chart Types</a></li>
   <li><a href="#fonts-typography" id="toc-fonts-typography" class="nav-link" data-scroll-target="#fonts-typography">Fonts &amp; Typography</a></li>
   <li><a href="#labels" id="toc-labels" class="nav-link" data-scroll-target="#labels">Labels</a></li>
-  <li><a href="#layout-ordering" id="toc-layout-ordering" class="nav-link" data-scroll-target="#layout-ordering">Layout &amp; Ordering</a></li>
+  <li><a href="#layout" id="toc-layout" class="nav-link" data-scroll-target="#layout">Layout</a></li>
+  <li><a href="#ordering-grouping" id="toc-ordering-grouping" class="nav-link" data-scroll-target="#ordering-grouping">Ordering &amp; Grouping</a></li>
   <li><a href="#maps" id="toc-maps" class="nav-link" data-scroll-target="#maps">Maps</a></li>
   <li><a href="#shapes-icons" id="toc-shapes-icons" class="nav-link" data-scroll-target="#shapes-icons">Shapes &amp; Icons</a></li>
   <li><a href="#tables" id="toc-tables" class="nav-link" data-scroll-target="#tables">Tables</a></li>
@@ -500,101 +494,11 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="data-visualization" class="level1">
 <h1>Data Visualization</h1>
-<p>Effective and equitable communication of the information we have gleaned from our analyses involves strategic consideration of the audience and the mode of dissemination that most effectively conveys that information. There are many ways to communicate information, including briefs, interactive documents, websites, dashboards, social media content, data walks, posters, briefs, and infographics. Regardless of the form, content should integrate the recommendations below.</p>
-<p>Effective data visualizations - the ones that stick with us, can help us understand complex issues, and those that encourage us to change our behaviors and actions to be more equitable, inclusive, and kind - are more than points on a map. Great data visualizations are communication tools that are user-centered and tell a compelling story that connects with the audience.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://blog.providence.org/center-for-outcomes-research-education/6-steps-toward-more-equitable-data-visualization"><img src="images/audience-content-medium-access.png" class="img-fluid figure-img" alt="Venn diagram with three overlapping circles: Content, Medium, and Access. Content is what you include in your communication and how you choose to say it. Medium is what form your communication takes, like the difference between a paper, and animated video, and a searchable database. Access is how easily and how completely your audience can engage with and understand your information. The content and medium work together to increase clarity and offer better depth. The medium of distribution supports the ideal accessibility for the information for each audience, including feedback and engagement. The content is created considering accessibility, including comprehension and cultural appropriateness. When all of the components intersect (i.e. the middle of the Venn diagram), the product works for the intended audience."></a></p>
-<figcaption>Venn diagram of the components of data communication that make a product work for a particular audience: Content, Medium and Access. Graphic from We All Count</figcaption>
-</figure>
-</div>
+<p>Effective data visualizations - the ones that stick with us, can help us understand complex issues, and those that encourage us to change our behaviors and actions to be more equitable, inclusive, and kind - are more than points on a map.</p>
 <p>When thinking of the Data-Information-Knowledge-Wisdom graphic at the top of the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html">Data Analysis</a> page: data visualizations are tools we can use to add context and meaning to data to create information and knowledge. Ideally, the insights gleaned from our visualizations can then be used to make data- and equity-informed decisions and to take effective and impactful action.</p>
-<section id="general-data-visualization-considerations" class="level2">
-<h2 class="anchored" data-anchor-id="general-data-visualization-considerations">General Data Visualization Considerations</h2>
-<p>When it comes to creating data visualizations with an equity lens, it boils down to making decisions that consider equity and inclusion in the way results are shown and communicated, and that promote accessibility of the data, information, and tool as a whole. As you develop your data visualization or equivalent application - be sure to keep the below considerations in mind and make data, communication, and design choices that support the advancement of equity, inclusion, and justice.</p>
-<section id="take-a-user-centered-design-approach" class="level3">
-<h3 class="anchored" data-anchor-id="take-a-user-centered-design-approach">Take a user-centered design approach</h3>
-<p>Consider who the audience will be for the product you’re developing and make decisions that will prioritize their needs so they are able to easily and efficiently use, engage and interact with the product.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://www.justinmind.com/blog/user-centered-design/"><img src="images/user-centered-design.png" class="img-fluid figure-img"></a></p>
-<figcaption>Graphic illustrating three key components of the user-centered design process: Research, Empathy, and Iteration. Image from Justinmind (2020)</figcaption>
-</figure>
-</div>
-<p><strong><em>Research</em></strong> - Let’s use an equity lens here. Instead of “researching” your users and audience, try getting to know them by prioritizing relationship and trust building through meaningful engagement. Ideally, by the time you’re at this data visualization phase, you have already identified the audience and key partners, and have been working or engaging with them during other phases of the project. See the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html">Planning</a> section on <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html#step-3.-collect-expert-input-including-from-affected-community-members">collecting expert input</a> for more guidance on outreach and engagement.</p>
-<p><strong><em>Empathy</em></strong> - According to Dr.&nbsp;Brené Brown: <a href="https://bouldercrest.org/resources/brene-brown-what-is-empathy/">empathy is about feeling <em>WITH people, and requires four qualities</em></a>:</p>
-<ul>
-<li>Perspective taking and believing the other person when they share their experience with you</li>
-<li>Staying out of judgement and listening</li>
-<li>Recognizing emotion in another person that you have maybe felt before</li>
-<li>Communicating that you can recognize that emotion</li>
-</ul>
-<p>Integrating empathy into our data-intensive work requires us to consider how our audience and/or the communities whose data are being used will perceive or be impacted by our work. It means ensuring we’re developing the product and thinking about the data as more than mere points on a map or visualization, but as representing real humans, environments, and conditions that should be contextualized and considered with care. Some <a href="https://datajournalism.com/read/longreads/data-visualisations-with-empathy">questions to consider include</a>:</p>
-<ul>
-<li><strong>Who is vulnerable in this context and how would they want to be counted?</strong></li>
-<li><strong>What information would they need to improve their lives?</strong></li>
-<li><strong>Who is undercounted or possibly missing entirely?</strong></li>
-<li><strong>Who was counted? Who did the counting? Why were they asking these people?</strong></li>
-<li><strong>Who benefits or is harmed if you forget the dots are people?</strong></li>
-</ul>
-<p><strong><em>Iteration</em></strong> - The key here is knowing and planning for an iterative process from the beginning. Add the feedback, implementation, and testing loop(s) into your project plan and allocate appropriate time and resources to adequately support each step. When working with partners or communities using an iterative approach, be sure to consider:</p>
-<ul>
-<li><strong>When it is appropriate to ask for feedback, and when it might be burdensome?</strong></li>
-<li><strong>What are the different ways feedback might be gathered?</strong> We might think sending an email with a poll or survey linked is the easiest, but our partner might find it easier to talk through questions over the phone with you. Knowing which method(s) to use comes with time and relationship. When in doubt - ask for what people prefer and do your best to accommodate those needs.</li>
-<li><strong>How much time is adequate for folks to be able to review what you send them and provide their feedback?</strong> When in doubt - plan for a longer feedback period than you think might be needed and confirm timelines with your partners (and adjust them if you can when your partners indicate more or less time is needed)</li>
-</ul>
-</section>
-<section id="use-plain-accessible-and-inclusive-language" class="level3">
-<h3 class="anchored" data-anchor-id="use-plain-accessible-and-inclusive-language">Use plain, accessible, and inclusive language</h3>
-<p>Centering racial equity means paying attention to how to most effectively convey information to the audience, and ensuring that the content is using plain, accessible, and inclusive language.</p>
-<p><strong><em>Plain Language</em></strong> - Plain language is writing designed to ensure the audience can understand what you’re trying to communicate as easily, quickly, and comprehensively as possible. This means:</p>
-<ul>
-<li>Avoiding convoluted or verbose language</li>
-<li>Avoiding the use of jargon and acronyms</li>
-<li>Making critical information easy to see and understand</li>
-<li>Using a conversational rather than legal or bureaucratic tone</li>
-</ul>
-<p>For more guidance on plain language, see:</p>
-<ul>
-<li><a href="https://centerforplainlanguage.org/learning-training/five-steps-plain-language/">Center for Plain Language</a></li>
-<li><a href="https://www.plainlanguage.gov/">PlainLanguage.gov</a></li>
-<li>Water Boards Staff may also <a href="https://cawaterboards.sharepoint.com/OPP/Resources/SitePages/Home.aspx">request plain language review from the Office of Public Participation</a>, although that service is more geared towards the review of fact sheets, brochures, and FAQs rather than data visualizations or other data products at this time.</li>
-<li>Healthy Watershed Partnership <a href="https://mywaterquality.ca.gov/monitoring_council/healthy_watersheds/assessment_guidance/communicate_results.html">Guidance on Communicating Results</a></li>
-</ul>
-<p><strong><em>Accessible Language</em></strong> - Making language accessible to your audience may also require the translation of products (or product components) into the primary languages used by your audience. The <a href="https://app.powerbigov.us/links/y8bYgEeIMg?ctid=fe186a25-7d49-41e6-9941-05d2281d36c1&amp;pbi_source=linkShare">Water Board’s Linguistic Isolation Tool</a> can be used to help understand the different languages that are used by communities across the state.</p>
-<p>Water Boards Staff may also <a href="https://cawaterboards.sharepoint.com/OPP/Resources/SitePages/Language%20Services.aspx?csf=1&amp;web=1&amp;e=arv47O">request translation services from the Office of Public Participation</a>, although that service is more geared towards the translation of documents, rather than data visualizations or other data products at this time.</p>
-<p><strong><em>Inclusive Language</em></strong> - Words matter. The language we use in our products can be a way for us to show respect, empathy, and care for the communities connected to or impacted by the data. It’s important to be mindful of the language and terms we use (see <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/common-language.html#non-inclusive-terms-to-avoid">Non-Inclusive Terms to Avoid</a> for examples). The <a href="https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf">UNC Health’s Equity and Inclusion Analytics Workgroup</a> recommends we ask ourselves the following questions when we need to decide on language to use in our data products:</p>
-<ul>
-<li><p><strong>Do the words seek to fix, blame, shame, or change communities that are most marginalized, OR do they seek to address the oppressive systems that impact these communities?</strong></p></li>
-<li><p><strong>Are the words racialized?</strong> Do the terms have a racist or colonialist implication? An example is the phrase “at risk.” Close your eyes and say the phrase “at risk.” Does a picture of a certain group or community come to mind? If so, stop and pick another word.</p></li>
-<li><p><strong>How am I framing the words?</strong> What is the context and culture we are creating and perpetuating by using the words? Are the words positioning the communities we serve to live in their personal and collective power while addressing systemic oppression?</p></li>
-<li><p><strong>Do the words dehumanize the communities we serve?</strong> Words that take away agency, self-determination, or personal power and do not recognize communities’ inherent strengths and assets should be avoided.</p></li>
-</ul>
-</section>
-<section id="consider-how-you-group-the-data" class="level3">
-<h3 class="anchored" data-anchor-id="consider-how-you-group-the-data">Consider how you group the data</h3>
-<p>Review considerations provided on the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html#consider-how-you-will-group-the-data">Data Collection</a> page and think through how those should be applied as you visualize and communicate the data and results of your project.</p>
-</section>
-<section id="tell-a-story-with-the-data" class="level3">
-<h3 class="anchored" data-anchor-id="tell-a-story-with-the-data">Tell a story with the data</h3>
-<blockquote class="blockquote">
-<p>“While data may seem cut and dry, people are not”</p>
-<p>- <a href="https://datajournalism.com/contributors/pkimbui">P. Kim Bui</a>, Director of audience innovation at the Arizona Republic and author of <a href="https://datajournalism.com/read/longreads/data-visualisations-with-empathy">Designing data visualisations with empathy</a></p>
-</blockquote>
-<p><a href="https://medium.com/the-protagonist/the-science-behind-storytelling-51169758b22c">Humans are hardwired for story</a>. Plopping points on a map or throwing together an interactive chart without adding context is not only insufficient, its ineffective!</p>
-<p>Take the time to tell a story with the visualization or product you’re developing. Walk the audience through the messages you want to convey - connect with their emotions, and back it up with the data. If you’re unsure what the story of your data is, or how to communicate it effectively, try collecting and distilling your thoughts using a <a href="https://www.compassscicomm.org/the-message-box-workbook">COMPASS Message Box</a>:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://www.compassscicomm.org/wp-content/uploads/2020/05/The-Message-Box-Workbook.pdf"><img src="images/compass-box.png" class="img-fluid figure-img" alt="The COMPASS Message Box with six sections and associated brainstorm questions: Audience (Who is impacted by this? Who can change this? Who cares about this?), Issue (Broadly, what are you working on? What keywords would you search to find your topic online?), Problems? (What specific dimension of the issue are you addressing?), So What? (What does your audience value? How does this impact them or something they care about?), Solutions? (What can be done to address the problem? Or what are you doing to address it?) and Benefits? (Who does this help and how? What improves in the short-term? Long-term?)"></a></p>
-<figcaption>The COMPASS Message Box is a tool to help scientists sort and distill their (often technical or complex) knowledge in a way that will resonate with their chosen audience. Users complete the sections in any order and can then use the distilled information to communicate their science more effectively.</figcaption>
-</figure>
-</div>
-<p><a href="https://islandpress.org/books/escape-ivory-tower#desc"><em>Escape from the Ivory Tower: A Guide to Making Your Science Matter</em></a> (Baron, 2010) is another great science communication resource.</p>
-</section>
-</section>
 <section id="data-visualization-design-considerations" class="level2">
 <h2 class="anchored" data-anchor-id="data-visualization-design-considerations">Data Visualization Design Considerations</h2>
-<p>This section walks through the different design decisions data practitioners must think through when developing a data visualization or similar data product, and provides recommendations on how to approach the work through a lens of accessibility, equity, and inclusion.</p>
+<p>This section walks through the different design decisions data practitioners should think through when developing a data visualization or similar data product, and provides recommendations on how to approach the work through a lens of accessibility, equity, and inclusion.</p>
 <p>Data visualization design is composed of a series of compromises: Complexity vs Clarity. Depth vs.&nbsp;Speed. Pretty vs.&nbsp;Practical. The best visualizations maximize all of these, but usually, you have to prioritize some things over others. When designing a data visualization or similar data communication product, data practitioners should make decisions with their audience and equity in mind and do their best to follow the recommendations below to make the final data product as accessible and inclusive as possible.</p>
 <section id="alternative-text-alt-text" class="level3">
 <h3 class="anchored" data-anchor-id="alternative-text-alt-text">Alternative Text (Alt Text)</h3>
@@ -705,8 +609,8 @@ ul.task-list li input[type="checkbox"] {
 <li><p><strong>Be mindful of how labels are ordered.</strong> Ordering items as they appear in the data may reflect and reinforce historical biases. The <a href="https://www.urban.org/">Urban Institute</a> <a href="https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf">Do No Harm Guide</a> recommends considering alternative sorting parameters such as study focus, specific story or argument, quantitative relationship (i.e., magnitude of the results), alphabetical, or sample size (weighted or unweighted).</p></li>
 </ul>
 </section>
-<section id="layout-ordering" class="level3">
-<h3 class="anchored" data-anchor-id="layout-ordering">Layout &amp; Ordering</h3>
+<section id="layout" class="level3">
+<h3 class="anchored" data-anchor-id="layout">Layout</h3>
 <p>How we layout the different components of our visualizations and data products - like color and typography - guides the reader through the their experience with said product. The order in which we present things establishes a hierarchy among elements that can indicate what we deem as important, significant or most valuable within product.</p>
 <p>When selecting the layout of the different components of your visualization or data product, consider:</p>
 <ul>
@@ -720,11 +624,15 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Footnotes should go at the bottom of the page and only include crucial contextual information that is not explained elsewhere.</p></li>
 </ul></li>
 </ul>
-<p>When ordering different components of your visualization or data product, consider:</p>
+</section>
+<section id="ordering-grouping" class="level3">
+<h3 class="anchored" data-anchor-id="ordering-grouping">Ordering &amp; Grouping</h3>
+<p>When ordering and grouping different components of your visualization or data product, consider:</p>
 <ul>
-<li><p><strong>Are data and categories ordered with intention and in a way that does not perpetuate historical biases?</strong> Which group(s) we choose to list first in figures, tables, and legends can influence how relationships and hierarchies are perceived.</p>
+<li><p><strong>Are data and categories ordered and/or grouped with intention and in a way that does not perpetuate historical biases?</strong> Which group(s) we choose to use and list first in figures, tables, and legends can influence how relationships and hierarchies are perceived.</p>
 <ul>
-<li>The <a href="https://urban-institute.medium.com/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff">Urban Institute notes</a> that, always starting with “White” or “Men” can make these groups appear as the default against which other groups should be compared, suggesting they’re the most important populations. How we choose to order may also reflect who we view as the intended audience for our visualizations. Starting with “White” or “Men” can make it seem as though those are the most important groups we are trying to communicate with.</li>
+<li><p>You may want to (re)review considerations about how to group data provided on the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html#consider-how-you-will-group-the-data">Data Collection</a> page and think through how those should be applied to your data visualization.</p></li>
+<li><p>The <a href="https://urban-institute.medium.com/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff">Urban Institute notes</a> that, always starting with “White” or “Men” can make these groups appear as the default against which other groups should be compared, suggesting they’re the most important populations. How we choose to order may also reflect who we view as the intended audience for our visualizations. Starting with “White” or “Men” can make it seem as though those are the most important groups we are trying to communicate with.</p></li>
 </ul></li>
 <li><p>The <a href="https://www.urban.org/">Urban Institute</a> <a href="https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf">Do No Harm Guide</a> recommends considering alternative sorting parameters for data, tables, and graphs such as:</p>
 <ul>
@@ -1252,8 +1160,8 @@ ul.task-list li input[type="checkbox"] {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../viz-comm/communicate.html" class="pagination-link" aria-label="communicate">
-        <span class="nav-page-text">communicate</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../viz-comm/communicate.html" class="pagination-link" aria-label="Data Communication">
+        <span class="nav-page-text">Data Communication</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
