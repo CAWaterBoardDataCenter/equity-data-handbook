@@ -53,15 +53,19 @@ website:
         contents:
           - assure-analyze/qaqc.qmd
           - assure-analyze/analysis.qmd
-          - assure-analyze/vis.qmd
+      - section: viz-comm/index.qmd
+        text: Visualize & Communicate
+        contents:
+          - viz-comm/vis.qmd
+          - viz-comm/communicate.qmd
       - href: store.qmd
         text: Preserve & Store
       - href: share.qmd
         text: Publish & Share
       - href: eval.qmd
-        text: Discover & Integrate
+        text: Evaluate
       - href: documentation.qmd
-        text: Describe
+        text: Documentation
       - section: use-cases/index.qmd
         text: Use Cases
         contents:
