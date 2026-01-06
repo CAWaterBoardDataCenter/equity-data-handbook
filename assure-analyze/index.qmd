@@ -1,7 +1,3 @@
 # Assure & Analyze
 
-By now, you've established your project equity and data management plans ([Plan & Prepare](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/)) and you've finished assembling and tidying the data you plan on using for your project ([Collect & Process](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/)).
-
-This phase of the data life cycle involves conducing your final data quality checks ([Quality Assurance](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/qaqc.html)) and beginning your analyses or product development steps ([Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html), [Data Visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html)).
-
-
+This phase of the data life cycle involves conducing your final data quality checks ([Quality Assurance](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/qaqc.html)) and beginning your analyses steps ([Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html)).

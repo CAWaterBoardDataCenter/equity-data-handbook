@@ -1,13 +1,11 @@
 # Plan & Prepare
 
 ::: callout-important
-# Don't forget to publish your data!
+# Don't forget to publish your data before you begin a data project!
 
-If you are a steward of Water Boards data - and it is not yet made appropriately open and accessible (including thorough documentation and complete metadata!) - you should complete the guidance on the [Publish Your Data page](https://cawaterboarddatacenter.github.io/equity-data-handbook/publish-data.html) before you begin thinking about planning for your project.
+If you are a steward of Water Boards data - and it is not yet made appropriately open and accessible (including thorough documentation and complete metadata!) - you should complete the guidance on the [Getting Started](exposing your data and information product(s) to the public.) page before you begin thinking about developing and exposing your data and information product(s) to the public.
 :::
 
 Before data collection begins, it is paramount that you think through *why* you want to collect the data you think you need and *how* you intend to use it once it is collected.
 
 This phase of the data life cycle involves conducting an equity assessment ([Planning](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html)) and developing your data management plan using an equity lens ([Data Preparation](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html)).
-
-
