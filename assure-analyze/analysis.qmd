@@ -53,7 +53,7 @@ There are five main data analysis method types, and each has a different process
 | Prescriptive Analytics | Recommend actions or decisions. | The potential analytical methods are complex and require a large amount of quality and relevant data and computing power to be implemented appropriately. One should also consider the implications of the potential actions and decisions being considered using an equity lens. Striking the balance between data-driven insights and equity considerations is essential for advancing equity outcomes. |
 | Causal Analytics | Understand the cause and effect relationships between variables of interest. | All causal analytical tools require strong assumptions and can never fully capture all of the context of the relationships in questions (i.e. extraneous variables that cannot be measured or assessed). If these methods are used, be sure to ground-truth the results with the communities the data you're using are meant to represent. |
 
-As with any analysis, we need to understand the limits of our data and the methods we use so we interpret the results we find appropriately. Appendix C proivides an overview of common data fallacies to be aware of and avoid as you're interpreting your results and making conclusions.
+As with any analysis, we need to understand the limits of our data and the methods we use so we interpret the results we find appropriately. [Appendix C](https://cawaterboarddatacenter.github.io/equity-data-handbook/appx.html#appendix-c-common-data-fallacies) proivides an overview of common data fallacies to be aware of and avoid as you're interpreting your results and making conclusions.
 
 ## Additional Resources
 
