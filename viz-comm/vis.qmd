@@ -4,13 +4,11 @@ Effective data visualizations - the ones that stick with us, can help us underst
 
 When thinking of the Data-Information-Knowledge-Wisdom graphic at the top of the [Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html) page: data visualizations are tools we can use to add context and meaning to data to create information and knowledge. Ideally, the insights gleaned from our visualizations can then be used to make data- and equity-informed decisions and to take effective and impactful action.
 
-## Data Visualization Design Considerations
-
 This section walks through the different design decisions data practitioners should think through when developing a data visualization or similar data product, and provides recommendations on how to approach the work through a lens of accessibility, equity, and inclusion.
 
-Data visualization design is composed of a series of compromises: Complexity vs Clarity. Depth vs. Speed. Pretty vs. Practical. The best visualizations maximize all of these, but usually, you have to prioritize some things over others. When designing a data visualization or similar data communication product, data practitioners should make decisions with their audience and equity in mind and do their best to follow the recommendations below to make the final data product as accessible and inclusive as possible.
+Data visualization design is composed of a series of compromises: Complexity vs Clarity. Depth vs. Speed. Pretty vs. Practical. The best visualizations maximize all of these, but usually, you have to prioritize some things over others. When designing a data visualization or similar data product, data practitioners should make decisions with their audience and equity in mind and do their best to follow the recommendations below to make the final data product as accessible and inclusive as possible.
 
-### Alternative Text (Alt Text)
+## Alternative Text (Alt Text)
 
 Alt Text is descriptive text, usually associated with images or figures, that conveys the meaning and context of the item. When creating alt text, remember:
 
@@ -22,7 +20,7 @@ Test to see if your alt text is effective by asking a colleague or project partn
 
 Screen readers are computer software that read the text aloud and include programs like NVDA, JAWS, Acrobat, Word. A screen reader may already be integrated into your data visualization tool - if not, [NVDA](https://www.nvaccess.org/download/) is free to download and is the Water Boards standard.
 
-### Color
+## Color
 
 Color can be a powerful communicator that should be selected purposefully. If we aren't intentional with the colors we choose we may be unintentionally perpetuating stereotypes, creating hierarchies, or using color palettes that are not accessible to those with color vision differences.
 
@@ -62,7 +60,7 @@ Tools to help with color selection may already be integrated into your data visu
 -   [Paletton](https://paletton.com) – tool to help explore colors and palettes
 -   [WebAIM](https://webaim.org/resources/contrastchecker/) – color contrast checker
 
-### Figure & Chart Types
+## Figure & Chart Types
 
 As data practitioners, you decide how your audience will be able to view the data through your visualization or data product. While we might *think* that data are objective (spoiler - they're not), how they're presented impacts how they're interpreted, perceived, and ultimately valued and acted upon. How we present the data impacts which stories we tell (or don't tell).
 
@@ -86,7 +84,7 @@ Tools to help with chart selection include:
 
 -   [Cool Infographics Data Visualization Guides](https://coolinfographics.com/dataviz-guides) – collection of data visualization chart choosers, reference guides, cheat sheets, websites and infographics about data visualization design best practices.
 
-### Fonts & Typography
+## Fonts & Typography
 
 The fonts and typography we use determine how easy (or not) it is for the audience to efficiently read and comprehend whatever it is you're trying to communicate. Typography (the art and technique of arranging type to make written language legible, readable and appealing when displayed) within a chart and visualization is a way to establish a hierarchy among elements within the visualization or data product and guides the reader through the visual product.
 
@@ -115,7 +113,7 @@ Tools to help with fonts & typography include:
 
 -   [Urban Institute](https://www.urban.org/) [Data Visualization Style Guide](https://urbaninstitute.github.io/graphics-styleguide/) - [Chart Typography Section](https://urbaninstitute.github.io/graphics-styleguide/)
 
-### Labels
+## Labels
 
 The labels we use in our data products highlight or center the extent to which we reduce people and their experiences to components of our visualization or position and frame those same communities to live in their personal and collective power while addressing systemic oppression. Being mindful of the labels we use in our data products can help us connect and build trust with the communities that the data represents.
 
@@ -133,13 +131,13 @@ When selecting the labels for your visualization or data product:
 
 -   **Be mindful of how labels are ordered.** Ordering items as they appear in the data may reflect and reinforce historical biases. The [Urban Institute](https://www.urban.org/) [Do No Harm Guide](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) recommends considering alternative sorting parameters such as study focus, specific story or argument, quantitative relationship (i.e., magnitude of the results), alphabetical, or sample size (weighted or unweighted).
 
-### Layout
+## Layout
 
 How we layout the different components of our visualizations and data products - like color and typography - guides the reader through the their experience with said product. The order in which we present things establishes a hierarchy among elements that can indicate what we deem as important, significant or most valuable within product.
 
 When selecting the layout of the different components of your visualization or data product, consider:
 
--   **Does the structure of your visualization resonate with how your audience sees the aspects of the data?** 
+-   **Does the structure of your visualization resonate with how your audience sees the aspects of the data?**
 
 -   **Are you including (or excluding) elements arbitrarily or by default?** Think about what would be meaningful to include (or not) for your audience. Are you adding items that don't add value or context to the data story? If so, consider removing them. Are you removing items out of habit that should actually be included? If so, consider adding them.
 
@@ -153,25 +151,7 @@ When selecting the layout of the different components of your visualization or d
 
     -   Footnotes should go at the bottom of the page and only include crucial contextual information that is not explained elsewhere.
 
-### Ordering & Grouping
-
-When ordering and grouping different components of your visualization or data product, consider:
-
--   **Are data and categories ordered and/or grouped with intention and in a way that does not perpetuate historical biases?** Which group(s) we choose to use and list first in figures, tables, and legends can influence how relationships and hierarchies are perceived.
-
-    -   You may want to (re)review considerations about how to group data provided on the [Data Collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html#consider-how-you-will-group-the-data) page and think through how those should be applied to your data visualization.
-
-    -   The [Urban Institute notes](https://urban-institute.medium.com/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff) that, always starting with “White” or “Men” can make these groups appear as the default against which other groups should be compared, suggesting they’re the most important populations. How we choose to order may also reflect who we view as the intended audience for our visualizations. Starting with “White” or “Men” can make it seem as though those are the most important groups we are trying to communicate with.
-
--   The [Urban Institute](https://www.urban.org/) [Do No Harm Guide](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) recommends considering alternative sorting parameters for data, tables, and graphs such as:
-
-    -   **Does your study focus on a particular community?** If it does, that group should be presented first.
-
-    -   **Is there a particular argument or story you are trying to tell?** If so, the order or presentation of results should reflect that argument.
-
-    -   **Is there a quantitative relationship that can guide how the groups are ordered?** Can they be sorted alphabetically or by population size, sample size (weighted or unweighted), or magnitude or effect of the results?
-
-### Maps
+## Maps
 
 Maps can be powerful and intuitive ways to give place to the data you're using in your visualization. However, just like all other visualizations, a map with points, lines, or polygons and zero context is not helpful and can actually be counter productive.
 
@@ -219,7 +199,25 @@ Tools to help with map development include:
 
     -   [ArcGIS, ISO and INSPIRE Content Category recommendations](https://doc.arcgis.com/en/arcgis-online/reference/content-categories.htm)
 
-### Shapes & Icons
+## Ordering & Grouping
+
+When ordering and grouping different components of your visualization or data product, consider:
+
+-   **Are data and categories ordered and/or grouped with intention and in a way that does not perpetuate historical biases?** Which group(s) we choose to use and list first in figures, tables, and legends can influence how relationships and hierarchies are perceived.
+
+    -   You may want to (re)review considerations about how to group data provided on the [Data Collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html#consider-how-you-will-group-the-data) page and think through how those should be applied to your data visualization.
+
+    -   The [Urban Institute notes](https://urban-institute.medium.com/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff) that, always starting with “White” or “Men” can make these groups appear as the default against which other groups should be compared, suggesting they’re the most important populations. How we choose to order may also reflect who we view as the intended audience for our visualizations. Starting with “White” or “Men” can make it seem as though those are the most important groups we are trying to communicate with.
+
+-   The [Urban Institute](https://www.urban.org/) [Do No Harm Guide](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) recommends considering alternative sorting parameters for data, tables, and graphs such as:
+
+    -   **Does your study focus on a particular community?** If it does, that group should be presented first.
+
+    -   **Is there a particular argument or story you are trying to tell?** If so, the order or presentation of results should reflect that argument.
+
+    -   **Is there a quantitative relationship that can guide how the groups are ordered?** Can they be sorted alphabetically or by population size, sample size (weighted or unweighted), or magnitude or effect of the results?
+
+## Shapes & Icons
 
 Similar to color, the shapes and icons we use in our data visualizations or other data products can help the audience connect with the data, but we need to be thoughtful about what shapes and icons we use, how we use them, and how they may be perceived to avoid unintentionally perpetuating stereotypes or creating hierarchies.
 
@@ -241,7 +239,7 @@ Tools to help with icon selection include:
 
 -   [Tips for designing icons that depict gender](https://blog.thenounproject.com/visible-women-gender-in-iconography/) from Noun Project’s lead content curator Erika Kim
 
-### Tables
+## Tables
 
 Many data visualization applications enable data practitioners to display a visualization (chart, map) alongside a table. Including or embedding tables in a visualization can increases transparency and enable users to dig into the data behind the visualization without leaving said product. However, like every other design consideration we've discussed, the inclusion of tables should be considered with care.
 
