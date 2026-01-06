@@ -1,11 +1,9 @@
 # Welcome to the Water Boards Equity Data Handbook! {.unnumbered}
 
-::: {.callout-note collapse="true"}
+::: callout-note
 # **This Handbook is a living resource and may be revised at any time**
 
-This Equity Data Handbook is considered a living resource. New content may be added and existing content may be revised at any time without prior notice to iterate and evolve this critical resource according to the needs of the Water Boards.
-
-Feedback and general inquiries may be submitted through the [Equity Data Handbook Feedback Form](https://forms.office.com/g/eqzBEM6eXA). Recommended revisions will be considered for integration into the Handbook as bandwidth and capacity allow.
+This Equity Data Handbook is designed to be an open, living, and continuously iterating resource. New content may be added and existing content may be revised at any time without prior notice to evolve this critical resource according to the needs of the Water Boards. See [Maintenance & Updates](https://cawaterboarddatacenter.github.io/equity-data-handbook/background.html#maintenance-updates) and [Contributing & Feedback](https://cawaterboarddatacenter.github.io/equity-data-handbook/background.html#contributing-feedback) for more details.
 :::
 
 This Equity Data Handbook is an online resource written by the State Water Resources Control Board (State Water Board) and the nine Regional Water Quality Control Boards (Regional Water Boards), collectively known as the California Water Boards (Water Boards).
@@ -21,7 +19,7 @@ We must have meaningful engagement and partnership with our diverse communities 
 ## Detailed Table of Contents
 
 | Handbook Chapter | Content Description |
-|-------------------|-----------------------------------------------------|
+|---------------------|---------------------------------------------------|
 | [Welcome](https://cawaterboarddatacenter.github.io/equity-data-handbook/) | Introduction to the Handbook and orientation to it’s contents |
 | [Background](https://cawaterboarddatacenter.github.io/equity-data-handbook/background.html) | Overview of handbook purpose, audience, recommended use, and development process and context |
 | [Getting Started](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/) | Guidance for practitioners who are unsure of where to begin with operationalizing equity into their work + Glossary |
