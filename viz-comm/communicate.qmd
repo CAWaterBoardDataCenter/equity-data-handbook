@@ -6,11 +6,9 @@ Great communication tools are user-centered and tell a compelling story that con
 
 ![Venn diagram of the components of data communication that make a product work for a particular audience: Content, Medium and Access. Graphic from We All Count](images/audience-content-medium-access.png){alt="Venn diagram of the components of data communication that make a product work for a particular audience: Content, Medium and Access. Graphic from We All Count" fig-alt="Venn diagram with three overlapping circles: Content, Medium, and Access. Content is what you include in your communication and how you choose to say it. Medium is what form your communication takes, like the difference between a paper, and animated video, and a searchable database. Access is how easily and how completely your audience can engage with and understand your information. The content and medium work together to increase clarity and offer better depth. The medium of distribution supports the ideal accessibility for the information for each audience, including feedback and engagement. The content is created considering accessibility, including comprehension and cultural appropriateness. When all of the components intersect (i.e. the middle of the Venn diagram), the product works for the intended audience."}
 
-## Data Communication Considerations
+When it comes to communicating about your data or data products with an equity lens, it boils down to making decisions that consider equity and inclusion in the way results are shown and communicated, and that promote accessibility of the data, information, and tool as a whole. As you develop your data communication products - be sure to keep the below considerations in mind and make data, communication, and design choices that support the advancement of equity, inclusion, and justice.
 
-When it comes to communicating about your data or data products with an equity lens, it boils down to making decisions that consider equity and inclusion in the way results are shown and communicated, and that promote accessibility of the data, information, and tool as a whole. As you develop your data communication tools - be sure to keep the below considerations in mind and make data, communication, and design choices that support the advancement of equity, inclusion, and justice.
-
-### Take a user-centered design approach
+## Take a user-centered design approach
 
 Consider who the audience will be for the product you're developing and make decisions that will prioritize their needs so they are able to easily and efficiently use, engage and interact with the product.
 
@@ -39,7 +37,7 @@ Integrating empathy into our data-intensive work requires us to consider how our
 -   **What are the different ways feedback might be gathered?** We might think sending an email with a poll or survey linked is the easiest, but our partner might find it easier to talk through questions over the phone with you. Knowing which method(s) to use comes with time and relationship. When in doubt - ask for what people prefer and do your best to accommodate those needs.
 -   **How much time is adequate for folks to be able to review what you send them and provide their feedback?** When in doubt - plan for a longer feedback period than you think might be needed and confirm timelines with your partners (and adjust them if you can when your partners indicate more or less time is needed)
 
-### Use plain, accessible, and inclusive language
+## Use plain, accessible, and inclusive language
 
 Centering racial equity means paying attention to how to most effectively convey information to the audience, and ensuring that the content is using plain, accessible, and inclusive language.
 
@@ -71,7 +69,7 @@ Water Boards Staff may also [request translation services from the Office of Pub
 
 -   **Do the words dehumanize the communities we serve?** Words that take away agency, self-determination, or personal power and do not recognize communities’ inherent strengths and assets should be avoided.
 
-### Tell a story 
+## Tell a story 
 
 > "While data may seem cut and dry, people are not"
 >
