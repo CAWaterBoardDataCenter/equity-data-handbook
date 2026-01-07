@@ -19,10 +19,10 @@ We must have meaningful engagement and partnership with our diverse communities 
 ## Detailed Table of Contents
 
 | Handbook Chapter | Content Description |
-|----------------------|--------------------------------------------------|
-| [Welcome](https://cawaterboarddatacenter.github.io/equity-data-handbook/) | Introduction to the Handbook and orientation to it’s contents |
+|-----------------------|-------------------------------------------------|
+| [Welcome](https://cawaterboarddatacenter.github.io/equity-data-handbook/) | Introduction to the Handbook and orientation to its contents |
 | [Getting Started](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/) | Guidance for practitioners who are unsure of where to begin with operationalizing equity into their work |
-| [Background](https://cawaterboarddatacenter.github.io/equity-data-handbook/background.html) | Overview of handbook purpose, audience, recommended use, and development process and context |
+| [Background](https://cawaterboarddatacenter.github.io/equity-data-handbook/background.html) | Overview of Handbook purpose, audience, recommended use, and development process and context |
 | [Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) & [Prepare](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) | Guidance on conducting an equity assessment (Plan) + developing a data management plan (Prepare) |
 | [Collect](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html) & [Process](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html) | Guidance related to collecting appropriate data for equity-centered analyses (Collect) and preparing to to be used for analyses or product development steps using an equity lens (Process) |
 | [Assure](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/qaqc.html) & [Analyze](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html) | Guidance related to conducting data quality checks (Assure) and the data analysis processes (Analyze) |
