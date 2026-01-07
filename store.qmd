@@ -20,7 +20,7 @@ As you wrap up your data project, you will want to think through whether and how
 
 All of this can make it easier for current partners and communities to *want* to invest their time and energy into participation and engagement in current and future work, which will slowly but surely increase your network of collaborators, contributors, and partners.
 
-## Project Preservation & Storage with an Equity Lens
+## Project Preservation & Storage Framework
 
 As you embark on this phase of the data life cycle you will want to apply the [5 Ws and H Framework](https://chisellabs.com/glossary/what-is-5-ws-and-h-framework/) to your data preservation and storage project. [![Graphic displaying the 5 W and 1 H Framework. Image from Chisel (2023)](images/5W-1H-framework.png)](https://chisellabs.com/glossary/what-is-5-ws-and-h-framework/)
 
