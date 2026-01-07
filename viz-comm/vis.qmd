@@ -205,7 +205,7 @@ When ordering and grouping different components of your visualization or data pr
 
 -   **Are data and categories ordered and/or grouped with intention and in a way that does not perpetuate historical biases?** Which group(s) we choose to use and list first in figures, tables, and legends can influence how relationships and hierarchies are perceived.
 
-    -   You may want to (re)review considerations about how to group data provided on the [Data Collection](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html#consider-how-you-will-group-the-data) page and think through how those should be applied to your data visualization.
+    -   You may want to (re)review considerations about how to group data provided on the [Data Processing](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html#consider-how-you-will-group-the-data) page and think through how those should be applied to your data visualization.
 
     -   The [Urban Institute notes](https://urban-institute.medium.com/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff) that, always starting with “White” or “Men” can make these groups appear as the default against which other groups should be compared, suggesting they’re the most important populations. How we choose to order may also reflect who we view as the intended audience for our visualizations. Starting with “White” or “Men” can make it seem as though those are the most important groups we are trying to communicate with.
 
