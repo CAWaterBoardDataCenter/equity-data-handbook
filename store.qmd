@@ -1,13 +1,9 @@
 # Preservation & Storage
 
-By now, you’ve completed some or all of your product development steps ([Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html), [Data Visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html)) and are ready to save copies of product components for short-, medium-, and/or long-term preservation and storage.
-
-This phase of the data life cycle involves determining or confirming the retention policy for product components and archiving copies of product components accordingly.
-
-Also see a [short list of best practices for this phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/best-practice.html#preserve-store).
+This phase of the data life cycle involves determining or confirming the retention policy for product components and saving copies of product components for short-, medium-, and/or long-term preservation and storage.
 
 ::: callout-tip
-Review this content and make your preservation and storage plan during the [Plan & Prepare Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/) of your project! Depending on your project needs, you may even integrate your responses to questions below into your [project's data management plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html). Doing so will make it easier for all team members to prepare their project components accordingly and will save you time when implementing this phase of the project.
+You could review this content and make your preservation and storage plan during the [Plan & Prepare Phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/) of your project! Depending on your project needs, you may even integrate your responses to questions below into your [project's data management plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html). Doing so will make it easier for all team members to prepare their project components accordingly and will save you time when implementing this phase of the project.
 :::
 
 ## Why Preserve & Store Data Products?
