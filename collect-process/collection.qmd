@@ -3,7 +3,7 @@
 ::: callout-important
 You should have addressed this during the [Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) & [Prepare](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) phase of your process...but just in case you haven't (yet) or you need a refresher - we're restating here:
 
-**Achieving racial equity outcomes means that race can no longer be used to predict life outcomes and outcomes for all groups are improved** ([Glossary](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/common-language.html#glossary))
+**Achieving racial equity outcomes means that race can no longer be used to predict life outcomes and outcomes for all groups are improved** ([Glossary](https://cawaterboarddatacenter.github.io/equity-data-handbook/appx.html#glossary))
 
 So, as you begin to collect the data for your project, be sure it includes:
 
@@ -44,39 +44,6 @@ It's not uncommon for project teams to have gaps in data, even after all of your
 
 When this happens, it's important to acknowledge, document, and accessibly communicate those gaps and who is not adequately represented in your data product. In some cases, it may be appropriate to still present or analyze these data, while also presenting caveats for the data limitations. In other cases, it may be more appropriate to rely only on qualitative discussion based on information derived from background research and feedback from affected communities.
 
-## Consider how you will group the data
-
-As you collect your data, start thinking through how the raw data you are collecting is already grouped and how you intend on grouping the data. You may not be able to decide on how you will ultimately aggregate or disaggregate the data until you are further along in the [analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html) or [visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html) stages - but it's important to begin thinking about this issue during the data collection phase for the reasons outlined below.
-
-How we aggregate or disaggregate the data can impact which groups are "seen" and represented (or not) in our data products. This can also influence who is centered, valued, or prioritized in the narrative of the visualization, and who is excluded.
-
-Carefully consider how groups are lumped or split - by aggregating many groups in the visualization beyond what might be statistically necessary (and not acknowledging who is being grouped together and why), we can unintentionally misrepresent said groups, minimize inequities and perpetuate invisible and erased experiences of those communities. On the other hand, when analysts create a subgroup, they may be shifting the focus of analysis to a specific population that is likely already over-surveilled ([Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/wp-content/uploads/2022/07/AISP-Toolkit_5.27.20.pdf)).
-
-The [UNC Health’s Equity and Inclusion Analytics Workgroup](https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf) recommends we ask ourselves the following questions when we're thinking about how we will aggregate the data (or not):
-
--   **Is important data/nuance lost by combining categories?** Ensure there is not a meaningful difference in our ability to understand equity outcomes between groups that would be lost if combined.
-
--   **Does the inclusion of uncombined data negatively impact the interpretation of the data visualization?** Having too many groups can make visualizations cluttered and hard to interpret. Additionally, disaggregation leads to smaller group sizes, which can make comparisons to larger groups more difficult and quantifying statistical significance more challenging. For those reasons, it can sometimes be best to combine groups.
-
--   **Does sharing uncombined data compromise confidential information (e.g., Personal Identifiable Information) or information considered private by the community from which it comes (e.g., locations of sacred practices)?** This will depend on the audience you are sharing the visualization with (e.g. internal vs public) and what information it contains.
-
-If you ultimately decide to aggregate / combine groups, be sure to:
-
-1.  **Avoid creating a dichotomy of races.** Don’t use “White” vs. “non-White” or “people of color.” Rather, disaggregate the “non-White” group to show the diversity among communities.
-
-2.  **Be transparent** about why you're making those decisions (including the trade offs you considered) and documenting those decisions accordingly.
-
-3.  **Acknowledge who is now not included** in the data or visualization and explain what groups have been combined and why. Use comments, tooltips, or footnotes that can be easily accessed within the visualization to make it easier for users to find this information.
-
-4.  **Think carefully about how groups are lumped in the "other" category** of our analysis or visualization. Sometimes it's necessary to combine groups into a single "other" category (e.g. to generalize small groups to protect confidentiality or to achieve adequate sample size for your analysis). The Urban Institute's [Do No Harm Data Visualization Recommendations](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf) include considering alternatives to using the term "other" as a catch-all category, including:
-
-    -   Another \_\_\_\_\_\_ (e.g., Another race or Another group)
-    -   Additional \_\_\_\_\_\_ (e.g., Additional races or Additional languages)
-    -   All other self-descriptions
-    -   People identifying as other or multiple races
-    -   Identity not listed
-    -   Identity not listed in the survey or dataset
-
 ## Common Data Sources
 
 In most cases, the Water Boards programs were not developed or designed to collect the types of data needed to conduct analyses with an equity lens as a matter of process which means that most will rely on external data sources. Below we have provided a list of common data sources that can tell us something about the extent to which we are achieving equity outcomes.
@@ -85,7 +52,7 @@ In most cases, the Water Boards programs were not developed or designed to colle
 
 Adding demographic data to your data project can help increase understanding of potential correlations or relationships between your data and demographic and socioeconomic characteristics of locations of interest. More specifically, the integration of demographic data into your data project can highlight the extent to which race can still be used to predict outcomes associated with your project and therefore underscore where and to what extent racial equity outcomes have not yet been achieved.
 
-#### **Demographic Data Needs Context**
+#### Demographic Data Needs Context
 
 It’s important to remember to provide context about your project before trying to communicate demographic related results or answers to specific racial equity questions posed by our Board, the public, or our partners in this work. Contextual topics could include:
 
@@ -103,7 +70,7 @@ Communicating this contextual information may require different complementary mo
 Be sure to reference, pull from, and build on information you have already synthesized in your [Equity Assessment](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) and [Data Management Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) documents!
 :::
 
-#### **Demographic Data Consideration Example**
+#### Demographic Data Consideration Example
 
 The [Safe and Affordable Funding for Equity and Resilience](https://www.waterboards.ca.gov/water_issues/programs/grants_loans/sustainable_water_solutions/safer.html) (SAFER) Program developed the [Final FY 2024-25 Fund Expenditure Plan for the Safe and Affordable Drinking Water Fund](https://www.waterboards.ca.gov/water_issues/programs/grants_loans/docs/2024/draft-final-fy2024-25-fep-clean-version.pdf) in response to the Senate Bill (SB) 200 (Ch. 120, Stats. 2019) which requires the annual adoption of a Fund Expenditure Plan for the Safe and Affordable Drinking Water Fund.
 
@@ -137,15 +104,15 @@ Some recommendations to improve the storytelling and meaningful impact of the da
 
 -   list some additional explanatory factors that could be explored in future analyses
 
-#### **Census Data**
+#### Census Data
 
 The data sources many use to make inferences related to demographic and socioeconomic characteristics are from the [United States Census Bureau](https://www.census.gov/data.html) and the associated [American Community Survey (ACS) Data](https://www.census.gov/programs-surveys/acs/data.html).
 
-##### **American Community Survey** 
+##### **American Community Survey**
 
 The ACS collects data every year and asks about a wide array of topics not included in the Decennial Census, such as education, employment, internet access, and transportation. ACS data are available as 1-year, 3-year, and 5-year estimates, indicating that data was collected over 1, 3, and 5 years, respectively. For example, 2019-2023 ACS 5-year estimates are values for the year 2023 but have collected data from 2019-2023 in order to calculate the values for the year 2023. Estimates with more years of data are more reliable, hence 5-year estimates are the most reliable.
 
-##### **Decennial Census** 
+##### **Decennial Census**
 
 The Decennial Census is conducted every 10 years. It asks far fewer questions than the ACS. Topics included in the Decennial Census are age, sex, race, Hispanic origin, and owner/renter status. While we are fortunate to have just updated this dataset in 2020 there are limitations and potential inaccuracies associated with relying solely on Decennial Census data to enumerate demographic characteristics within a given census tract. This [tool from the Department of Finance exists to measure this limitation](https://cacensus.maps.arcgis.com/apps/webappviewer/index.html?id=48be59de0ba94a3dacff1c9116df8b37).
 
@@ -153,9 +120,9 @@ The Decennial Census is conducted every 10 years. It asks far fewer questions th
 
 Census GIS data of geographic boundaries can be downloaded as TIGER/Line files and Shapefiles. This GIS data does not include demographic data but can be joined to demographic data in ArcGIS.
 
-#### **Key Terms**
+#### Key Terms
 
-In addition to the terms defined in the [Handbook Glossary](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/common-language.html#glossary), users should know the following terms when using demographic data:
+In addition to the terms defined in the [Handbook Glossary](https://cawaterboarddatacenter.github.io/equity-data-handbook/appx.html#glossary), users should know the following terms when using demographic data:
 
 -   **Demographics**: statistical data relating to characteristics of human populations, such as: age, race, ethnicity, sex, gender, income, education, etc.
 
@@ -183,7 +150,7 @@ In addition to the terms defined in the [Handbook Glossary](https://cawaterboard
 
 Also see this [U.S. Census Glossary](https://www.census.gov/programs-surveys/geography/about/glossary.html) for additional terms specific to U.S. Census programs, data, and products.
 
-#### **Data Integration Methods**
+#### Data Integration Methods
 
 Depending on what demographic data sources and software you decide to use, the methods needed to combine, overlay, or compare with the data you are interested in may vary. See the [Demographics Use Case page](https://cawaterboarddatacenter.github.io/equity-data-handbook/use-cases/demographics.html) for step by step guidance on how to download and compare demographic data to point, line, and polygon data types.
 
@@ -201,7 +168,7 @@ Depending on what demographic data sources and software you decide to use, the m
 
 [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen) is a mapping tool based on lots of data integrations and synthesis work done using peer review and scientific method principles. The overall goal of the tool is to help identify California communities that are most affected by many sources of pollution, and where people are often especially vulnerable to pollution’s effects. CalEnviroScreen can be a helpful tool in creating visualizations and performing analysis as it provides a number of indices, as well as a "rolled-up" score that combines environmental and demographic data together. As with any dataset or visualization tool there can be things to consider, a couple of which are discussed below.
 
-#### **Missing Values for CalEnviroScreen Scores**
+#### Missing Values for CalEnviroScreen Scores
 
 Users conducting an analysis with the [CalEnviroScreen (CES) 4.0 dataset](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40) should be aware that it contains missing values, both for individual indicators and overall CES scores. These missing values are distinct from zeros, which are also in the CES dataset.
 
@@ -211,13 +178,13 @@ Users should account for these missing values – and their different encodings 
 
 For more information about the missing (and zero) values in the CES 4.0 dataset, see the data dictionary (PDF file) that accompanies the CalEnviroScreen 4.0 results Excel workbook, both of which are available for [download as a zip file](https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40resultsdatadictionaryf2021.zip).
 
-#### **Inconsistent Census Tract Boundaries in CalEnviroScreen 4.0 Shapefile**
+#### Inconsistent Census Tract Boundaries in CalEnviroScreen 4.0 Shapefile
 
 In the CES 4.0 data (for the version available as of April 2023), the [shapefile containing CES 4.0 scores](https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40shpf2021shp.zip) uses a simplified version of the polygons that represent 2010 census tracts. The boundaries of the census tracts defined by these simplified polygons do not always align with the boundaries of neighboring census tracts, resulting in slight gaps or overlaps between some neighboring census tracts. These inconsistencies are not likely to have a significant impact on most uses of the CES data, but they could impact some types of analysis based on CES data. For example, when assessing sites or facilities based on the CES score of the census tract they are located in, sites located near a census tract boundary could be associated with more than one census tract (and more than one CES score) in areas where there are overlapping census tract polygons, or not associated with any census tract (and no CES score) in areas where there are gaps between census tract polygons.
 
 This issue may be addressed in a future release of the CES dataset; in the meantime, a possible workaround is to use the official 2010 census tract boundaries from the US Census Bureau for any calculations, then use census tract IDs to tie this information to the associated CES score for each tract.
 
-#### **CalEnviroScreen Resources**
+#### CalEnviroScreen Resources
 
 -   Analysis of Race/Ethnicity and CalEnviroScreen 4.0 Scores [Storymap](https://storymaps.arcgis.com/stories/f555670d30a942e4b46b18293e2795a7) \| [Report](https://oehha.ca.gov/media/downloads/calenviroscreen/document/calenviroscreen40raceanalysisf2021.pdf)
 -   [SB 535 Disadvantaged Communities](https://oehha.ca.gov/calenviroscreen/sb535)
@@ -229,7 +196,7 @@ This issue may be addressed in a future release of the CES dataset; in the meant
 
 First-time users may find the 5-minute [EJScreen in 5: A Quick Overview of EJScreen](#0 "This link opens a new webpage.") video helpful as an introduction to the tool.
 
-#### **EJScreen Resources**
+#### EJScreen Resources
 
 -   [EJScreen User Guide](https://ejscreen.epa.gov/mapper/help/ejscreen_help.pdf "This link opens a new webpage.") for navigating the various features of the tool,
 -   [EJScreen Glossary](https://www.epa.gov/ejscreen/ejscreen-map-descriptions "This link opens a new webpage.") for better understanding the map layers and indicators being displayed in the tool, and
