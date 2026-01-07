@@ -14,6 +14,7 @@ Try using the development of your Data Management Plan as a way to build relatio
 Some ideas for how to do this include:
 
 -   You can create a Technical Advisory group composed of Tribal and community experts that helps co-create the Data Management Plan with the Project Team.
+
 -   The Project Team develops the Data Management Plan, but solicits feedback on early versions from Tribal and community experts and makes revisions according to their feedback.
 :::
 
@@ -35,8 +36,11 @@ Since the development the Data Management Plan ideally takes place before data a
 Here you want to briefly describe the project and the mechanism(s) driving the data collection and product development. Much of this will likely be worked out during the [Planning phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html), including:
 
 -   What is the purpose of the selected program, policy, or process, related to this project?
+
 -   What are the objectives of the project? \[Are there specific management questions being tested with data? Place them here! Include data quality objectives of you have them!\]
+
 -   Who is the intended audience of the project?
+
 -   How do you envision the project's resulting data and products contribute to the advancement and operationalization of equity for your program, policy, or process, related to this project?
 
 ## Data Collection & Processing
@@ -72,11 +76,17 @@ A good plan will include information that is sufficient to understand the nature
 Some questions to help guide the development of this section include:
 
 -   What data will we be collecting and/or generating?
+
 -   How and in what format will the data be collected? Is it numerical data, image data, text sequences, or modeling data?
+
 -   What file formats will be used? Do these formats conform to an open standard and/or are they proprietary?
+
 -   How much data will be generated for this project?
+
 -   Are you using data that someone else produced? If so, where is it from?
+
 -   How long will the data be collected/generated and how often will it change?
+
 -   To what extent do the data and methods of collection and use for this project abide by [FAIR Principles](https://www.go-fair.org/fair-principles/) of scientific data management and stewardship and [CARE Principles](https://www.gida-global.org/care) for Indigenous Data Governance? If FAIR and CARE Principles are not being met - how can we modify our methods and processes data collection and use them to better meet these principles?
 
 [![FAIR Principles (Findable, Accessible, Interoperable, Reusable) within the open data movement primarily focus on characteristics of data that will facilitate increased data sharing among entities while ignoring power differentials and historical contexts. CARE Principles (Collective Benefit, Authority to Control, Responsibility, Ethics) for Indigenous Data Governance are people and purpose-oriented, reflecting the crucial role of data in advancing Indigenous innovation and self-determination. Image credit: Global Indigenous Data Alliance.](images/Be+FAIR+and+CARE.png){fig-alt="Graphic that spells out FAIR & CARE Principles acronyms - specifically \"Be FAIR and CARE\" with acronym definitions below each letter: FAIR = Findable, Accessible, Interoperable, Reusable and CARE = Collective Benefit, Authority to Control, Responsibility, Ethics."}](https://www.gida-global.org/care)
@@ -92,11 +102,17 @@ This section should contain just enough detail to identify basic data organizati
 Some questions to help guide the development of this section include:
 
 -   How and where will your data be organized?
+
 -   What tools or software are required to read or view the data?
+
 -   What directory and file naming convention will be used?
+
 -   What are your local storage and backup procedures?
+
 -   Will this data require secure storage?
+
 -   Who is responsible for managing the data? Who will ensure that the data management plan is carried out?
+
 -   What steps will be taken to protect privacy, security, confidentiality, intellectual property or other rights?
 
 ### Data Quality & Processing
@@ -108,8 +124,11 @@ Similar to the analysis step - you might not know all of the details of how the 
 Some questions to help guide the development of this section include:
 
 -   Which datasets (if any) will need to be merged/combined to be made useful for your project? If this needs to be done, how will you plan on doing it?
+
 -   What are your data quality objectives/standards?
+
 -   How will you assess and establish the quality of the data you use?
+
 -   What rubric will you use to decide which data are kept and which are excluded from future steps?
 
 ::: callout-important
@@ -127,12 +146,18 @@ In this section, you will describe how you intend to use the data and the genera
 Some questions to help guide the development of this section include:
 
 -   What management questions are you planning on answering or informing with this data and project?
+
     -   If operational decision making is the use please identify which performance measures or existing resource allocation planning processes will be using the data (e.g., assigning inspections to staff, determining priority for compliance assurance work, etc.).
     -   Please also identify any business interests that will need to be alerted to the data / products and may have concerns over its quality, etc. For example, invoicing for fees will need to have updated information, etc.
+
 -   What workflow will you use to analyze the data and/or develop the resultant data product?
+
 -   What data analysis or visualization methods or software will you use?
+
 -   What product(s) will be developed (e.g. analyses, visualizations, applications, reports, etc.) for each audience.
+
 -   What statutory requirements, if any, need to be addressed in the resulting data products? 
+
 -   What opportunities will Tribal and community partners have to review and provide feedback on the data analysis or product development before it is finalized?
 
 ## Data & Product Preservation & Storage
@@ -142,9 +167,13 @@ In this section, you will describe how and where you plan on preserving and stor
 Some questions to help guide the development of this section include:
 
 -   How and where will you store and secure your data and resultant products (code, results, products, visualizations, applications, etc.)?
+
 -   What privacy and confidentiality issues must you address?
+
 -   What are your plans for preserving the data/products after the project is completed?
+
 -   What procedures will you use to ensure long-term archiving and preservation of your data?
+
 -   At what point will data, code/scripts, and resultant products/applications be archived or deleted?
 
 ## Data & Product Publication & Sharing
@@ -161,23 +190,31 @@ Publishing and sharing Water Boards data and resultant products is critical for 
 This means:
 
 -   Documenting your process throughout the project so as to make it open, transparent, and reproducible
+
 -   Utilizing open data and open source software (e.g. Python, R) as much as possible
+
 -   Making the data you use and code you develop transparent and accessible to the public after the project is complete, as appropriate
 :::
 
 Some questions to help guide the development of this section include:
 
 -   What data and products will be shared, and when?
+
 -   Where and how will data and products be made open and/or accessible?
+
     -   Datasets that are of high value should, at minimum, be published to the [California Open Data Portal](https://data.ca.gov/) in the form of machine readable, well documented, maintained data.
     -   Geospatial products of high value should, at minimum, be published to the [California State Geoportal](https://gis.data.ca.gov/).
     -   Code and similar products (scripts, analysis packages) should, at minimum, be published on the [Water Boards GitHub](https://github.com/CAWaterBoardDataCenter) in its own, well documented, project repository.
     -   For all other data or products, please indicate how the data/product will be made accessible (e.g., via search forms at SMARTS public reports page, etc.).
+
 -   Does sharing the data raise privacy, ethical, or confidentiality concerns?  Do you have a plan to protect or anonymize data, if needed?
+
 -   If you collected data directly from Tribes or communities -
+
     -   How will permission be obtained to use and disseminate the data?
     -   How is informed consent being handled and how are privacy and sovereignty being protected?
     -   How and when will you communicate what will or will not be shared?
+
 -   To what extent do the methods of publication and sharing of data, products developed through this project abide by [FAIR Principles](https://www.go-fair.org/fair-principles/) of scientific data management and stewardship and [CARE Principles](https://www.gida-global.org/care) for Indigenous Data Governance? If FAIR and CARE Principles are not being met - how can we modify our methods and processes of publication and sharing to better meet them?
 
 ## Data & Product Documentation
@@ -195,10 +232,15 @@ The amount of effort devoted to creating comprehensive metadata and documentatio
 Some questions to help guide the development of this section include:
 
 -   What types of metadata will be produced alongside the data?
+
 -   What metadata standards will be used? Are you using metadata that is standard to your field?
+
 -   How will the metadata be managed and stored?
+
 -   What other documentation will be developed for the project and associated products (e.g. workflows, standard operating procedures, data or product use or interpretation guidance, etc.)? Where will that be stored? How will it be made accessible and shared?
+
 -   If you collected data or partnered directly from Tribes or communities -
+
     -   Does it make sense to have these same partners review and provide feedback on your metadata and documentation materials? Doing so would help ensure that documentation is clear, simple, and accessible to a wide array of audiences.
     -   When and how will you share the aforementioned documentation with your partners?
 
@@ -209,9 +251,13 @@ In this section, you will describe how you will evaluate the data, products, and
 Some questions to help guide the development of this section include:
 
 -   At what point(s) during the project's life cycle will you conduct your evaluation? (You don't need to wait until the project is complete to benefit from this phase!)
+
 -   What evaluation method(s) will you use?
+
 -   How can the project design an equitable and inclusive evaluation?
+
 -   Will the project team share evaluation findings with the experts or other partners involved in the project? If so, with whom will you share it, and how?
+
 -   Would sharing the project's evaluation findings with the experts or other partners who were NOT directly involved in the project further promote equity through transparency and accountability? If so, with whom will you share it, and how?
 
 ## Other Potential Sections

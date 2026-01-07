@@ -4,10 +4,6 @@
 >
 > — [Ronald A. Thisted](https://stat.uchicago.edu/people/profile/ronald-a-thisted/), Professor Emeritus - Departments of Statistics and Public Health Sciences, The University of Chicago
 
-> "Happy families are all alike; every unhappy family is unhappy in its own way.”
->
-> — Leo Tolstoy, Russian author known as one of the world’s greatest novelists.
->
 > “Tidy datasets are all alike, but every messy dataset is messy in its own way.”
 >
 > — [Hadley Wickham](https://hadley.nz/), Chief Scientist at Posit (formerly RStudio)
@@ -33,6 +29,7 @@ It's important to keep (and back up) a version of your data that is untouched by
 When you're processing your data and making it tidy, think through which data from your sources are applicable to your question(s). Sometimes we don't have the technical or logistical capacity to keep ALL of the data we are able to collect - so if you are going to remove data at this step, be sure to document WHY you're removing it in a way that makes it easy for others to easily understand the reasoning behind the data decisions you're making. Some reasons might include:
 
 -   Data are outside of the geographic scope of the analysis (e.g. we're focused on a particular region for the project, and we are removing data outside of that region so we can increase loading/analysis speeds)
+
 -   Fields/columns from source data are not relevant to our analysis for XYZ reasons.
 
 ## Tidy your data
