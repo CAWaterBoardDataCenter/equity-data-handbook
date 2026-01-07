@@ -464,8 +464,11 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#data-processing" id="toc-data-processing" class="nav-link active" data-scroll-target="#data-processing">Data Processing</a>
   <ul class="collapse">
-  <li><a href="#why-tidy-data" id="toc-why-tidy-data" class="nav-link" data-scroll-target="#why-tidy-data">Why Tidy Data?</a></li>
-  <li><a href="#processing-data-with-an-equity-lens" id="toc-processing-data-with-an-equity-lens" class="nav-link" data-scroll-target="#processing-data-with-an-equity-lens">Processing Data with an Equity Lens</a></li>
+  <li><a href="#keep-your-raw-data-raw" id="toc-keep-your-raw-data-raw" class="nav-link" data-scroll-target="#keep-your-raw-data-raw">Keep your “raw data raw”</a></li>
+  <li><a href="#remove-duplicate-or-irrelevant-data" id="toc-remove-duplicate-or-irrelevant-data" class="nav-link" data-scroll-target="#remove-duplicate-or-irrelevant-data">Remove duplicate or irrelevant data</a></li>
+  <li><a href="#tidy-your-data" id="toc-tidy-your-data" class="nav-link" data-scroll-target="#tidy-your-data">Tidy your data</a></li>
+  <li><a href="#explore-your-data" id="toc-explore-your-data" class="nav-link" data-scroll-target="#explore-your-data">Explore your data</a></li>
+  <li><a href="#consider-how-you-will-group-the-data" id="toc-consider-how-you-will-group-the-data" class="nav-link" data-scroll-target="#consider-how-you-will-group-the-data">Consider how you will group the data</a></li>
   <li><a href="#additional-resources" id="toc-additional-resources" class="nav-link" data-scroll-target="#additional-resources">Additional Resources</a></li>
   </ul></li>
   </ul>
@@ -505,37 +508,70 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <p>The <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/resources.html">Resources section below</a> links to resources that provide detailed technical guidance on how to process data using data science methods. Here, we discuss the why and how we go about this step with an equity lens.</p>
-<p>When we talk about data processing here, we’re referring to the steps required to organize, format, and clean the data so it’s more efficient to use in future steps, and so others can consistently reproduce your steps - - this is commonly referred to as <a href="https://r4ds.hadley.nz/data-tidy">tidying data</a>.</p>
-<section id="why-tidy-data" class="level2">
-<h2 class="anchored" data-anchor-id="why-tidy-data">Why Tidy Data?</h2>
-<p><strong><em>From a data science lens</em></strong> - Investing the time to properly tidy your data upfront makes the analyses or product development steps much more efficient and reproducible. This will cut down the time it takes in the long term to complete your analysis and product development steps (even if they need to evolve/change over time!), enabling you to spend more time on the actual data, science, management, and equity questions you have for your project (aka the good stuff!).</p>
-<p><strong><em>From an equity lens</em></strong> - having consistent and reproducible data makes it easy for others to replicate your work, which can increase transparency of your process and ultimately help build trust with your partners, the communities impacted by the management decisions associated with your project, and the public at large.</p>
-<p>Additionally, working from a foundation of tidy data (and using consistent tools) can make it easier for others to collaborate with and contribute to your data project, which generally results in a better product in the end.</p>
+<p>When we talk about data processing here, we’re referring to the steps required to organize, format, and clean the data so it’s more efficient to use in future steps, and so others can consistently reproduce your steps. Common data processing steps and considerations using an equity lens are provided below.</p>
+<section id="keep-your-raw-data-raw" class="level2">
+<h2 class="anchored" data-anchor-id="keep-your-raw-data-raw">Keep your “raw data raw”</h2>
+<p>It’s important to keep (and back up) a version of your data that is untouched by your process (i.e.&nbsp;raw). We also recommend backing up a version of your data that is tidied and cleaned (i.e.&nbsp;what you will use for analysis). Not only does doing so protect you if your working version of the data are lost for some reason (e.g., computer crash, freak system failure) - but it also helps with reproducibility and transparency of your process.</p>
 </section>
-<section id="processing-data-with-an-equity-lens" class="level2">
-<h2 class="anchored" data-anchor-id="processing-data-with-an-equity-lens">Processing Data with an Equity Lens</h2>
-<p><strong>Keep your “raw data raw”:</strong> It’s important to keep (and back up) a version of your data that is untouched by your process (i.e.&nbsp;raw). We also recommend backing up a version of your data that is tidied and cleaned (i.e.&nbsp;what you will use for analysis). Not only does doing so protect you if your working version of the data are lost for some reason (e.g., computer crash, freak system failure) - but it also helps with reproducibility and transparency of your process.</p>
-<p><strong>Remove duplicate or irrelevant data</strong>: When you’re processing your data and making it tidy, think through which data from your sources are applicable to your question(s). Sometimes we don’t have the technical or logistical capacity to keep ALL of the data we are able to collect - so if you are going to remove data at this step, be sure to document WHY you’re removing it in a way that makes it easy for others to easily understand the reasoning behind the data decisions you’re making. Some reasons might include:</p>
+<section id="remove-duplicate-or-irrelevant-data" class="level2">
+<h2 class="anchored" data-anchor-id="remove-duplicate-or-irrelevant-data">Remove duplicate or irrelevant data</h2>
+<p>When you’re processing your data and making it tidy, think through which data from your sources are applicable to your question(s). Sometimes we don’t have the technical or logistical capacity to keep ALL of the data we are able to collect - so if you are going to remove data at this step, be sure to document WHY you’re removing it in a way that makes it easy for others to easily understand the reasoning behind the data decisions you’re making. Some reasons might include:</p>
 <ul>
 <li>Data are outside of the geographic scope of the analysis (e.g.&nbsp;we’re focused on a particular region for the project, and we are removing data outside of that region so we can increase loading/analysis speeds)</li>
 <li>Fields/columns from source data are not relevant to our analysis for XYZ reasons.</li>
 </ul>
-<p><strong>Transform your data into a tidy structure</strong>: Here you will reformat or restructure your dataset so it can be used in your future analyses or product development steps in a way that is efficient, effective, and meaningful for your project’s objectives. A common data transformation at this phase is converting a dataset from <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/">wide to long formats</a>.</p>
+</section>
+<section id="tidy-your-data" class="level2">
+<h2 class="anchored" data-anchor-id="tidy-your-data">Tidy your data</h2>
+<p>Here you will reformat or restructure your dataset so it can be used in your future analyses or product development steps in a way that is efficient, effective, and meaningful for your project’s objectives (i.e., commonly referred to as <a href="https://r4ds.hadley.nz/data-tidy">tidying data</a>). A common data transformation at this phase is converting a dataset from <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/">wide to long formats</a>.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><a href="https://openscapes.org/blog/2020-10-12-tidy-data/"><img src="images/tidydata_LowndesHorst.jpg" class="img-fluid figure-img" alt="Graphic with a quote from Hadley Wickham at the top &quot; Tidy data is a standard way of mapping the meaning of a dataset to its structure&quot;. Below the quote, on the left there is text that defines tidy data as a structure where: each variable forms a column, each observation forms a row, and each cell is a single measurement. To the right of the text is an example table describing pets and their colors, with three columns (ID, name, color), six observations (IDs 1-6) and each cell representing a different pet (e.g. id = 1, name = floof, color = gray; id = 2, name = max, color = black)"></a></p>
 <figcaption>Graphic illustrating tidy data as a way to describe data that’s organized with a particular structure – a rectangular structure, where each variable has its own column, each observation has its own row, and each cell is a single measurement. Artwork by Allison Horst from the Openscapes Blog: Tidy data for efficiency, reproducibility, and collaboration by Julie Lowndes and Allison Horst.</figcaption>
 </figure>
 </div>
-<p><strong>Explore your data (vs analyze it):</strong> Once duplicate and irrelevant data are removed from the dataset, you may want to explore your data using simple visualizations or statistics (see the <a href="https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html">Data Exploration Checklist</a> for ideas). This will help you find extreme outliers in your data, or otherwise incorrect or missing data that should be removed, separated, corrected, substituted or imputed before you begin your data analysis phase. Similar to when you removed duplicate or irrelevant data, you will want to document WHY you’re removing/correcting/imputing these data in a way that makes it easy for others to easily understand the reasoning behind the data decisions you’re making.</p>
-<p>Any aggregation or preliminary analysis of your data should be completed during the analysis phase of the project. Keeping the values and aggregation of the data as they are at this phase increases reproducibility and transparency now and during future steps. Note that this is different from transforming data as described above (e.g.&nbsp;restructuring from wide to long format), which is a common and very useful part of the data processing phase.</p>
+<p><strong><em>From a data science lens</em></strong> - Investing the time to properly tidy your data upfront makes the analyses or product development steps much more efficient and reproducible. This will cut down the time it takes in the long term to complete your analysis and product development steps (even if they need to evolve/change over time!), enabling you to spend more time on the actual data, science, management, and equity questions you have for your project (aka the good stuff!).</p>
+<p><strong><em>From an equity lens</em></strong> - having consistent and reproducible data makes it easy for others to replicate your work, which can increase transparency of your process and ultimately help build trust with your partners, the communities impacted by the management decisions associated with your project, and the public at large.</p>
+<p>Additionally, working from a foundation of tidy data (and using consistent tools) can make it easier for others to collaborate with and contribute to your data project, which generally results in a better product in the end.</p>
+</section>
+<section id="explore-your-data" class="level2">
+<h2 class="anchored" data-anchor-id="explore-your-data">Explore your data</h2>
+<p>Once duplicate and irrelevant data are removed from the dataset, you may want to explore your data using simple visualizations or statistics (see the <a href="https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html">Data Exploration Checklist</a> for ideas). This will help you find extreme outliers in your data, or otherwise incorrect or missing data that should be removed, separated, corrected, substituted or imputed before you begin your data analysis phase. Similar to when you removed duplicate or irrelevant data, you will want to document WHY you’re removing/correcting/imputing these data in a way that makes it easy for others to easily understand the reasoning behind the data decisions you’re making.</p>
+<p>Any aggregation or analysis of your data should be completed during the analysis phase of the project. Keeping the values and aggregation of the data as they are at this phase increases reproducibility and transparency now and during future steps. Note that this is different from transforming data as described above (e.g.&nbsp;restructuring from wide to long format), which is a common and very useful part of the data processing phase.</p>
 <p>You <em>might</em> be tempted to begin your data quality assessments as you’re looking at the data during this phase, but you’ll actually want to hold off on that for now. <strong>You’ll complete your <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/qaqc.html">data quality and assurance steps</a></strong> <strong><em>after</em></strong> <strong>all of your data have been tidied and you can look at all of your data holistically.</strong></p>
+</section>
+<section id="consider-how-you-will-group-the-data" class="level2">
+<h2 class="anchored" data-anchor-id="consider-how-you-will-group-the-data">Consider how you will group the data</h2>
+<p>Now that you are more familiar with your data, it’s a good time to start thinking through how the data you are collecting is already grouped and how you intend on grouping the data in future phases of your project. You may not be able to decide on how you will ultimately aggregate or disaggregate the data until you are further along in the <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html">analysis</a> or <a href="https://cawaterboarddatacenter.github.io/equity-data-handbook/viz-comm/vis.html">visualization</a> stages - but it’s important to begin thinking about this issue during the data collection phase for the reasons outlined below.</p>
+<p>How we aggregate or disaggregate the data can impact which groups are “seen” and represented (or not) in our data products. This can also influence who is centered, valued, or prioritized in the narrative of the visualization, and who is excluded.</p>
+<p>Carefully consider how groups are lumped or split - by aggregating many groups in the visualization beyond what might be statistically necessary (and not acknowledging who is being grouped together and why), we can unintentionally misrepresent said groups, minimize inequities and perpetuate invisible and erased experiences of those communities. On the other hand, when analysts create a subgroup, they may be shifting the focus of analysis to a specific population that is likely already over-surveilled (<a href="https://aisp.upenn.edu/wp-content/uploads/2022/07/AISP-Toolkit_5.27.20.pdf">Centering Racial Equity Throughout Data Integration</a>).</p>
+<p>The <a href="https://ncstoragemlunchealthcare.blob.core.windows.net/public/pdf-system-data-visualization-standards.pdf">UNC Health’s Equity and Inclusion Analytics Workgroup</a> recommends we ask ourselves the following questions when we’re thinking about how we will aggregate the data (or not):</p>
+<ul>
+<li><p><strong>Is important data/nuance lost by combining categories?</strong> Ensure there is not a meaningful difference in our ability to understand equity outcomes between groups that would be lost if combined.</p></li>
+<li><p><strong>Does the inclusion of uncombined data negatively impact the interpretation of the data visualization?</strong> Having too many groups can make visualizations cluttered and hard to interpret. Additionally, disaggregation leads to smaller group sizes, which can make comparisons to larger groups more difficult and quantifying statistical significance more challenging. For those reasons, it can sometimes be best to combine groups.</p></li>
+<li><p><strong>Does sharing uncombined data compromise confidential information (e.g., Personal Identifiable Information) or information considered private by the community from which it comes (e.g., locations of sacred practices)?</strong> This will depend on the audience you are sharing the visualization with (e.g.&nbsp;internal vs public) and what information it contains.</p></li>
+</ul>
+<p>If you ultimately decide to aggregate / combine groups, be sure to:</p>
+<ol type="1">
+<li><p><strong>Avoid creating a dichotomy of races.</strong> Don’t use “White” vs.&nbsp;“non-White” or “people of color.” Rather, disaggregate the “non-White” group to show the diversity among communities.</p></li>
+<li><p><strong>Be transparent</strong> about why you’re making those decisions (including the trade offs you considered) and documenting those decisions accordingly.</p></li>
+<li><p><strong>Acknowledge who is now not included</strong> in the data or visualization and explain what groups have been combined and why. Use comments, tooltips, or footnotes that can be easily accessed within the visualization to make it easier for users to find this information.</p></li>
+<li><p><strong>Think carefully about how groups are lumped in the “other” category</strong> of our analysis or visualization. Sometimes it’s necessary to combine groups into a single “other” category (e.g.&nbsp;to generalize small groups to protect confidentiality or to achieve adequate sample size for your analysis). The Urban Institute’s <a href="https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-recommendations.pdf">Do No Harm Data Visualization Recommendations</a> include considering alternatives to using the term “other” as a catch-all category, including:</p>
+<ul>
+<li>Another ______ (e.g., Another race or Another group)</li>
+<li>Additional ______ (e.g., Additional races or Additional languages)</li>
+<li>All other self-descriptions</li>
+<li>People identifying as other or multiple races</li>
+<li>Identity not listed</li>
+<li>Identity not listed in the survey or dataset</li>
+</ul></li>
+</ol>
 </section>
 <section id="additional-resources" class="level2">
 <h2 class="anchored" data-anchor-id="additional-resources">Additional Resources</h2>
 <ul>
-<li>Julia Lowndes and Allison Horst (2020) <a href="https://www.openscapes.org/blog/2020/10/12/tidy-data/">Tidy Data for reproducibility, efficiency, and collaboration</a>. <a href="https://www.openscapes.org/">Openscapes</a> blog.</li>
 <li>College of Water Informatics <a href="https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html">Data Management Handbook</a> - <a href="https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html#collect_process">Collect and Process Section</a></li>
+<li>Julia Lowndes and Allison Horst (2020) <a href="https://www.openscapes.org/blog/2020/10/12/tidy-data/">Tidy Data for reproducibility, efficiency, and collaboration</a>. <a href="https://www.openscapes.org/">Openscapes</a> blog.</li>
 <li>Hadley Wickham. <a href="https://vita.had.co.nz/papers/tidy-data.pdf">Tidy Data</a>. Journal of Statistical Software</li>
 <li>Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund. <a href="https://r4ds.hadley.nz/">R for Data Science (2e)</a> - <a href="https://r4ds.hadley.nz/data-tidy">Data Tidying Chapter</a></li>
 <li>The Py4DS Community. <a href="https://aeturrell.github.io/python4DS/welcome.html#">Python for Data Science</a> - <a href="https://aeturrell.github.io/python4DS/data-tidy.html">Tidy Data Chapter</a></li>
