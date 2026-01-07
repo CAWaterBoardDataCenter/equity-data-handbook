@@ -19,18 +19,18 @@ We must have meaningful engagement and partnership with our diverse communities 
 ## Detailed Table of Contents
 
 | Handbook Chapter | Content Description |
-|---------------------|---------------------------------------------------|
+|----------------------|--------------------------------------------------|
 | [Welcome](https://cawaterboarddatacenter.github.io/equity-data-handbook/) | Introduction to the Handbook and orientation to it’s contents |
+| [Getting Started](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/) | Guidance for practitioners who are unsure of where to begin with operationalizing equity into their work |
 | [Background](https://cawaterboarddatacenter.github.io/equity-data-handbook/background.html) | Overview of handbook purpose, audience, recommended use, and development process and context |
-| [Getting Started](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/) | Guidance for practitioners who are unsure of where to begin with operationalizing equity into their work + Glossary |
 | [Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) & [Prepare](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) | Guidance on conducting an equity assessment (Plan) + developing a data management plan (Prepare) |
 | [Collect](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html) & [Process](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html) | Guidance related to collecting appropriate data for equity-centered analyses (Collect) and preparing to to be used for analyses or product development steps using an equity lens (Process) |
 | [Assure](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/qaqc.html) & [Analyze](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html) | Guidance related to conducting data quality checks (Assure) and the data analysis processes (Analyze) |
 | [Visualize](https://cawaterboarddatacenter.github.io/equity-data-handbook/viz-comm/vis.html) & [Communicate](https://cawaterboarddatacenter.github.io/equity-data-handbook/viz-comm/communicate.html) | Guidance related to developing data visualizations (Visualize) and communicating or reporting about the project results or products (Communicate) |
 | [Preserve & Store](https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html) | Guidance on data and product retention, archiving, and storage |
 | [Publish & Share](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html) | Guidance on sharing project data and products with partners and the public |
-| [Evaluate](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html) | Guidance on project evaluation techniques (e.g., Root Cause Analysis & Results-Based Accountability) |
-| [Documentation](https://cawaterboarddatacenter.github.io/equity-data-handbook/documentation.html) | Guidance on how and what to document throughout the life of the project |
+| [Evaluate](https://cawaterboarddatacenter.github.io/equity-data-handbook/eval.html) | Guidance on project evaluation techniques (e.g., Root Cause Analysis, Results-Based Accountability) |
+| [Documentation](https://cawaterboarddatacenter.github.io/equity-data-handbook/documentation.html) | Guidance on how and what to document throughout the life of a project |
 | [Use Cases](https://cawaterboarddatacenter.github.io/equity-data-handbook/use-cases/) | Examples of how others at the Water Boards have operationalized equity into their data-intensive work |
 | [Appendix](https://cawaterboarddatacenter.github.io/equity-data-handbook/appx.html) | Supplementary material referenced in other sections of the Handbook |
-| [Resources](https://cawaterboarddatacenter.github.io/equity-data-handbook/resources.html) | Additional resources not referenced in the body of the Handbook (e.g., past Webinars & Trainings, Data/Equity Toolkits & Hubs) |
+| [Resources](https://cawaterboarddatacenter.github.io/equity-data-handbook/resources.html) | Additional resources not referenced in the body of the Handbook (e.g., Webinars & Trainings, Data/Equity Toolkits & Hubs) |
