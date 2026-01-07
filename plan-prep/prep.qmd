@@ -1,8 +1,10 @@
 # Data Preparation
 
-The [Planning phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) of conducting an Equity Assessment is about (or an opportunity to do)\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Thus, we recommend documenting what you are doing for the remaining phases of the data life cycle and making that documentation as open and transparent as possible. This is best accomplished through the use of a Data Management Plan.
+The [Planning phase](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) of conducting an Equity Assessment is about clarifying your project scope, needs, and goals with an equity lens. Documenting how you will use data to achieve those goals during the remaining phases of the data life cycle, and making that documentation as open and transparent as possible, is best accomplished through the use of a Data Management Plan.
 
-A Data Management Plan describes what data will be used, how the data will be [collected](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html), [processed](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html), and managed to conduct your [analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html), [visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html) or other products, and how those data products will be [stored](https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html), [shared](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html), and maintained over the long-term. In other words, the Data Management Plan describes how the project team intends to address and manage each phase of the data life cycle.
+**Data Management Plan**
+
+A Data Management Plan describes what data will be used, how the data will be [collected](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/collection.html), [processed](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/process.html), and managed to conduct your [analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html), [visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/viz-comm/vis.html) or other [communication](https://cawaterboarddatacenter.github.io/equity-data-handbook/viz-comm/communicate.html) products, and how those data products will be [stored](https://cawaterboarddatacenter.github.io/equity-data-handbook/store.html), [shared](https://cawaterboarddatacenter.github.io/equity-data-handbook/share.html), and maintained over the long-term.
 
 Depending on the complexity of the project, your data management plan can be relatively short, and it can be used as a way to begin to engage with experts and partners that are interested in your project!
 
@@ -44,7 +46,7 @@ In this section, you will identify the data you plan on collecting, how you will
 ::: callout-important
 # Be sure to pause and think about what you *actually* need to answer the questions/objectives you have using an equity lens.
 
-As a reminder - **achieving racial equity outcomes means that race can no longer be used to predict life outcomes and outcomes for all groups are improved** ([Glossary](https://cawaterboarddatacenter.github.io/equity-data-handbook/get-started/common-language.html#glossary))
+As a reminder - **achieving racial equity outcomes means that race can no longer be used to predict life outcomes and outcomes for all groups are improved** ([Glossary](https://cawaterboarddatacenter.github.io/equity-data-handbook/appx.html#glossary))
 
 So, as you create the list of data you want to collect for your project, it should contain:
 
@@ -77,7 +79,7 @@ Some questions to help guide the development of this section include:
 -   How long will the data be collected/generated and how often will it change?
 -   To what extent do the data and methods of collection and use for this project abide by [FAIR Principles](https://www.go-fair.org/fair-principles/) of scientific data management and stewardship and [CARE Principles](https://www.gida-global.org/care) for Indigenous Data Governance? If FAIR and CARE Principles are not being met - how can we modify our methods and processes data collection and use them to better meet these principles?
 
-[![FAIR Principles (Findable, Accessible, Interoperable, Reusable) within the open data movement primarily focus on characteristics of data that will facilitate increased data sharing among entities while ignoring power differentials and historical contexts. CARE Principles (Collective Benefit, Authority to Control, Responsibility, Ethics) for Indigenous Data Governance are people and purpose-oriented, reflecting the crucial role of data in advancing Indigenous innovation and self-determination. Image credit: Global Indigenous Data Alliance. ](images/Be+FAIR+and+CARE.png){fig-alt="Graphic that spells out FAIR & CARE Principles acronyms - specifically \"Be FAIR and CARE\" with acronym definitions below each letter: FAIR = Findable, Accessible, Interoperable, Reusable and CARE = Collective Benefit, Authority to Control, Responsibility, Ethics."}](https://www.gida-global.org/care)
+[![FAIR Principles (Findable, Accessible, Interoperable, Reusable) within the open data movement primarily focus on characteristics of data that will facilitate increased data sharing among entities while ignoring power differentials and historical contexts. CARE Principles (Collective Benefit, Authority to Control, Responsibility, Ethics) for Indigenous Data Governance are people and purpose-oriented, reflecting the crucial role of data in advancing Indigenous innovation and self-determination. Image credit: Global Indigenous Data Alliance.](images/Be+FAIR+and+CARE.png){fig-alt="Graphic that spells out FAIR & CARE Principles acronyms - specifically \"Be FAIR and CARE\" with acronym definitions below each letter: FAIR = Findable, Accessible, Interoperable, Reusable and CARE = Collective Benefit, Authority to Control, Responsibility, Ethics."}](https://www.gida-global.org/care)
 
 ### Data Organization & Management
 
@@ -120,7 +122,7 @@ In some cases the Quality Assurance and Data Management plans can be integrated 
 
 ## Data Analysis & Product Development
 
-In this section, you will describe how you intend to use the data and the general plan or intended workflow you envision for your data analysis and/or product development phase. If you know you will use certain formulas, methods, or software for this step, you will identify them here. More detailed guidance on data analysis and product development steps are outlined on the [Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html) and [Data Visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/vis.html) pages.
+In this section, you will describe how you intend to use the data and the general plan or intended workflow you envision for your data analysis and/or product development phase. If you know you will use certain formulas, methods, or software for this step, you will identify them here. More detailed guidance on data analysis and product development steps are outlined on the [Data Analysis](https://cawaterboarddatacenter.github.io/equity-data-handbook/assure-analyze/analysis.html) and [Data Visualization](https://cawaterboarddatacenter.github.io/equity-data-handbook/viz-comm/vis.html) pages.
 
 Some questions to help guide the development of this section include:
 
