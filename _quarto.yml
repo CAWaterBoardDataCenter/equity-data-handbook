@@ -8,6 +8,7 @@ website:
   repo-url: https://github.com/CAWaterBoardDataCenter/equity-data-handbook
   repo-actions: [edit, source, issue]
   favicon: images/WaterBoards_logo.png
+  google-analytics: "G-7FEPJSXX9H"
 
   page-footer:
     right: "This Handbook is built with ❤️ and [Quarto](https://quarto.org/)."
