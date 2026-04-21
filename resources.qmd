@@ -15,7 +15,8 @@ In Jan - Jun 2026, presentations will be given to various Water Boards groups an
 
 **Please see the presentation [slides](https://drive.google.com/file/d/1dHfXNfpmMEAvXBIyuDbe92Xxm7G7nCDt/view?usp=sharing) and [recording](https://youtu.be/GDD21uQqcF0) for more details.**
 
-2026 Road Show Presentations include:
+::: {.callout-note icon="false" collapse="true"}
+## Expand to see the full list of presentations delivered in 2026
 
 -   Jan 13: Water Quality Certs (401) Roundtable
 -   Jan 14:
@@ -50,6 +51,7 @@ In Jan - Jun 2026, presentations will be given to various Water Boards groups an
 <!-- -->
 
 -   TBD: Advancing Racial Equity at the Water Boards Training for Trainers
+:::
 
 ## Water Boards Webinars & Trainings
 
