@@ -32,6 +32,7 @@ We all have unconscious biases and operate in inequitable and unjust systems. Th
 
 Take time to ask the following questions about the data you're interested in using for your project so you can have a better understanding of the data's context and be better able to detect and account for potential biases of said data:
 
+-   Who funded the study / collection of the data?
 -   Who collected the data?
 -   Why were these specific data collected? What were the data collection goals?
 -   How was data collected?
@@ -114,7 +115,7 @@ The ACS collects data every year and asks about a wide array of topics not inclu
 
 ##### **Decennial Census**
 
-The Decennial Census is conducted every 10 years. It asks far fewer questions than the ACS. Topics included in the Decennial Census are age, sex, race, Hispanic origin, and owner/renter status. While we are fortunate to have just updated this dataset in 2020 there are limitations and potential inaccuracies associated with relying solely on Decennial Census data to enumerate demographic characteristics within a given census tract. This [tool from the Department of Finance exists to measure this limitation](https://cacensus.maps.arcgis.com/apps/webappviewer/index.html?id=48be59de0ba94a3dacff1c9116df8b37).
+The Decennial Census is conducted every 10 years. It asks far fewer questions than the ACS. Topics included in the Decennial Census are age, sex, race, Hispanic origin, and owner/renter status. The dataset was last updated in 2020, although there are limitations and potential inaccuracies associated with relying solely on Decennial Census data to enumerate demographic characteristics within a given census tract (e.g, data gaps, inadequate representation). This [tool from the Department of Finance exists to measure these limitations](https://cacensus.maps.arcgis.com/apps/webappviewer/index.html?id=48be59de0ba94a3dacff1c9116df8b37).
 
 ##### **Census Geographic Data**
 
