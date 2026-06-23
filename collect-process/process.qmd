@@ -13,7 +13,7 @@ Good data organization and formatting is the foundation of any data project. Onc
 ::: callout-important
 # Data processing takes time - plan accordingly!
 
-It’s commonly understood in the data science field that [***80%***]{.underline} of data analysis is spent on the process of cleaning and preparing the data ([Dasu and Johnson 2003](#0)) - ***expect the same will be true for your project and prepare to invest time and resources accordingly.***
+It’s commonly understood in the data science field that [***80%***]{.underline} of data analysis is spent on the process of cleaning and preparing the data ([Dasu and Johnson 2003](https://onlinelibrary.wiley.com/doi/book/10.1002/0471448354)) - ***expect the same will be true for your project and prepare to invest time and resources accordingly.***
 :::
 
 The [Resources section below](https://cawaterboarddatacenter.github.io/equity-data-handbook/resources.html) links to resources that provide detailed technical guidance on how to process data using data science methods. Here, we discuss the why and how we go about this step with an equity lens.
@@ -34,7 +34,7 @@ When you're processing your data and making it tidy, think through which data fr
 
 ## Tidy your data
 
-Here you will reformat or restructure your dataset so it can be used in your future analyses or product development steps in a way that is efficient, effective, and meaningful for your project's objectives (i.e., commonly referred to as [tidying data](https://r4ds.hadley.nz/data-tidy)). A common data transformation at this phase is converting a dataset from [wide to long formats](https://cawaterboarddatacenter.github.io/equity-data-handbook/collect-process/).
+Here you will reformat or restructure your dataset so it can be used in your future analyses or product development steps in a way that is efficient, effective, and meaningful for your project's objectives (i.e., commonly referred to as [tidying data](https://r4ds.hadley.nz/data-tidy)). A common data transformation at this phase is converting a dataset from [wide to long formats](https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html#collect_process).
 
 [![Graphic illustrating tidy data as a way to describe data that’s organized with a particular structure – a rectangular structure, where each variable has its own column, each observation has its own row, and each cell is a single measurement. Artwork by Allison Horst from the Openscapes Blog: Tidy data for efficiency, reproducibility, and collaboration by Julie Lowndes and Allison Horst.](images/tidydata_LowndesHorst.jpg){fig-alt="Graphic with a quote from Hadley Wickham at the top \" Tidy data is a standard way of mapping the meaning of a dataset to its structure\". Below the quote, on the left there is text that defines tidy data as a structure where: each variable forms a column, each observation forms a row, and each cell is a single measurement. To the right of the text is an example table describing pets and their colors, with three columns (ID, name, color), six observations (IDs 1-6) and each cell representing a different pet (e.g. id = 1, name = floof, color = gray; id = 2, name = max, color = black)"}](https://openscapes.org/blog/2020-10-12-tidy-data/)
 
