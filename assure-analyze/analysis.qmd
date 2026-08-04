@@ -20,6 +20,18 @@ As the graphic above illustrates, the transition and transformation from data to
 
 -   **Wisdom**: the ability to integrate what we understand from the data with other context, reflection, and underlying knowledge of the broader question or topic at hand with the express purpose of making data and equity-informed decisions and to take effective and impactful action.
 
+It's important to note, for the Water Boards context, that the information and knowledge we gain from our work may be used in complex situations. The better we understand how decisions are made (e.g., what goals, constraints, and incentives are relevant), and how they may impact different groups/communities, the more “wise” our data work can make decision-makers. As you conduct your analysis, it could be helpful to:
+
+-   Refer back to your [Equity Assessment](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/plan.html) and [Data Management Plan](https://cawaterboarddatacenter.github.io/equity-data-handbook/plan-prep/prep.html) for a refresher on the original goals and objectives of your project/analysis.
+
+-   Ask people with training in statistics to advise you - these could be internal colleagues or external partners.
+
+-   Copy or build on the statistical approaches used in published, peer-reviewed work on similar or analogous situations.
+
+-   Discuss your work with interested parties, and external partners.
+
+-   Consider analyzing data in multiple ways to view it from different angles.
+
 ## Data Analysis using an Equity Lens
 
 Incorporating a racial equity lens during data analysis includes incorporating individual, community, political, and historical contexts of race to inform analysis, conclusions, and recommendations. Solely relying on statistical outputs will not necessarily lead to meaningful insights without careful consideration during the analytical process, such as ensuring data quality is sufficient and determining appropriate statistical power.
